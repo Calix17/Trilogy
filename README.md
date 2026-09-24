@@ -1,5 +1,7 @@
-# Trilogy
+# Trilogy — reconstructed snapshot
 
-Writing project for The Final Decision (working series title).
+Original combined working document.
 
-Historical manuscript and planning snapshots are being imported as sequential Git commits. Stable paths will hold each version; the final working tree will contain only live material. Import commits are reconstructions from surviving documents, not original historical commits.
+This is a reconstruction from surviving source records, not an original historical commit or an exact recovered full project snapshot. Core files carry the most recently available versions. Intermediate records may retain their original ZIP-era references.
+
+Later commits replace prior notes at stable paths. The final commit contains only live writing files.
