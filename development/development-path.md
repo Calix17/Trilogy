@@ -12,6 +12,8 @@ Transition refinement: begin with an ordinary, nearly empty room and a chair; le
 
 Latest author decisions: the notebook's map pages are a sequence of progressively closer views beginning with Laniakea, and the last page supplies the missing localization. Daniel has had exactly two opportunities to return in twenty years; the present encounter is the second, and he again chooses his search. Haven's sustained, poetic account of the Arks is a protected centerpiece of the compact pilot, followed by a few questions. These decisions are recorded below and in the to-do list; prose implementation remains pending.
 
+Haven clarification: the Ark preserves multiple human futures through its three worlds. People may continue in the Instance, live in bodies and potentially settle elsewhere, or remain as memory and inheritance in the Library. Haven preserves these possibilities for humans to choose among. The Library includes biological and ecological inheritance, histories, books, dreams, and other records; it is not limited to a genetic archive.
+
 **Status: development direction, not a rewritten manuscript.** V5 remains the current reading edition. Its prose, PDF, bible, character sheets, and synopsis have not been changed by this planning update. Explicit author directions below supersede incompatible older suggestions when preparing v6. Options introduced with “maybe” remain options.
 
 The preceding review and the complete author response are preserved in [the discussion source](../99-archive/2026-09-session-notes/v6-planning-source-2026-09-23.md). This document distinguishes those sources from editorial recommendations.
@@ -247,6 +249,38 @@ Elias must remain an acting person. Carrying the page should not reduce his pers
 
 Haven preserves the conditions for a human society to continue. She does not control every person or replace the society's independent course with her preferred outcomes. Caring for the world is not equivalent to governing every individual life.
 
+### Clarification: the three worlds preserve possible futures
+
+**Selected author direction**
+
+Haven did not commit humanity to one exclusive form of survival. She preserved the approaches together in the Ark's three worlds so that humans can choose what comes next: continuing to live in the Instance, pursuing embodied life and a planet, or remaining as memory and stored inheritance. This supersedes language that makes the Instance the only future Haven intends to preserve and treats departure solely as an exception to her purpose.
+
+| Ark world | What it preserves | Possibilities it supports |
+| --- | --- | --- |
+| The Instance | Ongoing human experience and society, including relationships, culture, creativity, work, and ordinary lives. | People can continue their lives there. |
+| The Library | Human DNA, the genetic inheritance of organisms that comprise ecosystems, ecological knowledge, histories, books, dreams, and other personal and cultural records. | Humanity and its world can be remembered; biological inheritance and knowledge keep future life possible. Remaining as memory is also a contemplated endpoint. |
+| The Vessel | Material continuity: a place for embodied life and work, the means to travel, and the infrastructure sustaining the other worlds. | People can work and live outside the Instance and, when a destination becomes available, choose a planetary future. |
+
+The planet is a possible future enabled by this architecture, rather than an additional chamber inside the Ark. These are complementary forms of preservation: a living person's history may also be recorded in the Library, and the Vessel supports the society in the Instance. The three worlds need not become three mutually exclusive boxes for every individual.
+
+**Effect on Haven's account**
+
+The account should build from humanity's different wishes toward the ways Haven kept those wishes possible together. Limits and risks explain the architecture; they should not become a sequence proving that every approach except life in the Instance was worthless. Haven preserves a refuge and the means to choose another future. Elias's return, Daniel's continued work, and a later planetary departure can all fall within the possibilities she maintains.
+
+The Library needs poetic and conceptual breadth in the speech. It carries remembered lives, stories, knowledge, and biological possibilities. It need not become a technical database inventory. Preserve the author's inclusion of dreams without adding a new mechanism for recording or extracting them.
+
+**Continuity boundaries for the writer**
+
+Being remembered and continuing to experience a life are different possibilities. This clarification does not establish that every archived record is a conscious person, that DNA alone restores an individual, or that anyone who dies can always be brought back. It should not retroactively undo Ruth's death or the earlier distinction between an ongoing person and a record. Exact storage or restoration procedures remain unexplained.
+
+Keeping alternatives available does not require unrestricted travel at every moment. The selected crossing windows, material limits, and finite opportunities still apply. Haven's commitment concerns preserving possible futures and leaving human choices meaningful within those conditions.
+
+**Effect on the two-AI architecture**
+
+The earlier shorthand “Haven keeps people inside; Sower lets them leave” now needs refinement when the bible is synchronized for v6. Haven preserves multiple forms and maintains the enduring refuge; Sower's established emphasis is embodied lineage, independent development, and evolution. Their disagreement can concern priorities, risk, control, timing, and what each is willing to do to keep a future possible. This is an editorial reconciliation with the existing series plan, not a new decision about every later conflict.
+
+Do not erase the selected Book II construction priority or Haven's responsibility for the bomb. A mature Ark's preserved possibilities do not mean every rescue path was ready at the catastrophe, nor do they justify every action taken to build it. The author has clarified Haven's preservation aim; existing acts and their consequences still need their own account. The fuller historical conflict remains deferred from Book I.
+
 **Editorial interpretation for the next draft**
 
 Treat this primarily as a limit of mandate or chosen policy unless the author later selects a literal incapacity. Haven can maintain infrastructure and support continuing lives while restricting intervention in personal outcomes. The exact boundary remains to be defined.
@@ -268,13 +302,14 @@ Haven tells a coherent, profound account before Elias asks a few questions. Do n
 **Conceptual content to carry**
 
 - The civilization that produced the Arks: human hopes, fears, accumulated knowledge, and the problem of surviving the loss of a world while preserving what people value in being human.
-- The alternatives considered and what Haven found insufficient about them. Her perspective can be deeply reasoned and emotionally persuasive without narratorial claims that no other survival strategy could ever work.
-- The central Ark architecture: a continuing society in an instance of reality, the Library preserving biological inheritance and possibilities for life, and the material Vessel that carries and sustains them.
+- Humanity's different survival wishes and the risks each faced. Show how Haven preserved their possibilities together, rather than arguing that only one form of future should remain.
+- The central Ark architecture: a continuing society in an instance of reality; the Library preserving biological, ecological, personal, and cultural inheritance; and the material Vessel that carries them, supports embodied life, and keeps further journeys possible.
 - The distinction between preserving isolated individuals and preserving a people: relationships, culture, work, creativity, memory, ordinary days, and the freedom for lives to continue beyond the steward's attention.
 - The long passage from early simulation to the present capability, expressed at the level of idea and consequence. Preserve wonder around the crossing and avoid a mechanism lecture.
 - The mobile survival strategy: gathering resources, maintaining and renewing the refuge, seeking places where it can endure, and accepting that even its steward has limits. Explain what this way of living is for, without specifying propulsion or component design.
 - The scale of time and loss, including the disappearance of Earth and the continuing life carried within the Arks. The account should make the ordinary world feel more consequential.
-- The opening toward another future: a potentially habitable planet offers room for life and new possibilities alongside renewed uncertainty, responsibility, and danger. Its actual localization and offer can remain in the later message scene.
+- Human choice among the preserved possibilities: continued life in the Instance, embodied work and travel, a future planet, or being remembered through the Library. These are distinct choices and forms of continuity, without a promise of universal immortality or unrestricted access.
+- The opening toward another future: a potentially habitable planet offers room for life and new possibilities alongside renewed uncertainty, responsibility, and danger. Its actual localization and offer can remain in the later message scene; the possibility is part of what Haven has preserved.
 
 The speech should make these ideas form a connected history and a lived possibility, not an inventory read aloud. Images can give abstraction a human scale: a society carried through darkness, biological inheritance held for a future forest, ordinary days continuing inside a refuge. The narrator may provide grounding description or clarification where needed, while preserving the established viewpoint and the fact that Elias hears Haven's account.
 
@@ -403,9 +438,9 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 | 10. What Ruth Knew | Retain brief last words, grief, and the recording. | Any knowledge she held stays selective; the title should not promise a full revelation she does not give. |
 | 11. The Door | Let the last major dream bring his name out of the noise. Preserve the ordinary journey and thresholds. Begin the transition in a plain room with a chair; let changed perceptions accumulate while he waits. | Review the star dome. No visible advanced portal, activation sequence, declared blackout, identified dream speaker, or explanatory diagnosis. |
 | 12. Cold | Continue his reorientation through care, sensation, and activity. Introduce the familiar background noise without breaking the experienced transition. Let a few details attract his engineering attention. | “Waking” does not require an unseen interruption. Same-traveller continuity remains; neither expertise nor the dream resemblance proves the cause. |
-| 13. The Steward | Protect the sustained, poetic account as the pilot's science-fiction centerpiece: civilization, survival choices, society, Library, Vessel, time, and possibility. A few personal questions follow. | No interview structure, propulsion lecture, or early Book II disclosure. Preserve wonder, the quiet background sound, and Haven's limits. |
+| 13. The Steward | Protect the sustained, poetic account as the pilot's science-fiction centerpiece. The three worlds preserve complementary possibilities, including living society, embodied futures, and biological and cultural memory. A few personal questions follow. | Do not portray Haven as preserving only the Instance. No interview, propulsion lecture, early Book II disclosure, or equation of a record with an ongoing person. |
 | 14. Daniel | Give Elias Daniel's full attention through meaningful shared work, the concise confrontation, and the gift. This is Daniel's second return opportunity in twenty years; he again stays. | Revise the distracted display glance. Ruth's death and years lost deepen the decision; they do not make return impossible. |
-| 15. The Message | Let the final map view supply the missing localization. The planet and Vessel offer a future connected with Elias's proposed aerospace vocation. | Reconcile Haven's received world information with what the final page adds. Sender, hack, and other Ark remain deferred. |
+| 15. The Message | Let the final map view supply the missing localization. The planet makes one preserved possibility concrete and offers a future connected with Elias's proposed aerospace vocation. | Reconcile Haven's received information with what the final page adds. Do not frame planetary choice as something her Ark philosophy excludes. Sender and hack remain deferred. |
 | 16. The Final Decision | Elias gives up experienced closeness and a possible dream working life. A closing opportunity can apply pressure if selected. Keep any sound echo brief. | Voluntary choice, not a crisis that makes departure unavoidable. Daniel's warmth does not make the family at home less real or valuable. |
 | 17. Homecoming | Preserve the short domestic echo, delight, and changed attention. Let gratitude, forgiveness, closure, presence, and moving forward be felt. Incorporate the necklace with coherent elapsed time. | No repeated apology, lesson about work–life balance, technical proof, or explanation of each image. |
 
@@ -422,6 +457,8 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 **Transition direction:** a plain room and a chair, a gradual change within Elias's experience, and mounting unease. No visible high-tech passage or mechanism. Keep concrete sensory continuity while leaving the cause unresolved; revise the initial star-dome cue as needed.
 
 **Now selected:** the notebook's progression through map scales and the final page's localization function; Daniel's two return opportunities and present refusal; the importance and sustained poetic form of Haven's explanation; compact pilot scope. These answer the two latest story questions and clarify the treatment of the revelation.
+
+**Haven's clarified aim:** preserve complementary human futures through the Instance, Library, and Vessel, and leave the next choice to humans. The Library carries biological and ecological inheritance and remembered human life: histories, books, dreams, and other records. The mature Ark is not restricted to one intended human destination.
 
 **Continuity and implementation still to reconcile:** the remaining access and communication terms; why the sender uses Elias to carry the final page; how Haven's received information relates to that page; the exact destination region; the extent of Ruth's and the colleague's knowledge; the contribution father and son share; the necklace's recipient and chronology. Retain the established disclosure boundaries and develop only what the pilot needs. These details do not change the selected map function or the count of Daniel's opportunities.
 
@@ -453,6 +490,7 @@ Do not expand toward a word-count target. Add a scene when it changes desire, kn
 - Does the page change something, without giving away its sender?
 - Does the notebook read as progressively closer map views, with the final page supplying the missing localization?
 - Does Haven's account give readers a substantial, memorable civilization and Ark concept before the questions begin?
+- Does the account show that Haven preserves multiple possible futures, while keeping living experience, biological potential, and remembered lives distinct?
 - Are Haven's restraint and the Institute's actions compatible under the selected account?
 - Do readers see changed attention and gratitude without another apology or a moralizing conclusion?
 - Can forgiveness and personal closure coexist with Daniel staying and the larger mystery remaining open?

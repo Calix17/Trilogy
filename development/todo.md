@@ -9,6 +9,7 @@ Created 23 September 2026 after the author's request to track the five pending i
 - [x] The notebook's map views progressively zoom inward; the final page supplies the missing localization. The exact target galaxy or region and the transmission history remain open.
 - [x] Daniel has exactly two opportunities to return in twenty years. The present encounter is the second; despite Ruth's death and the years lost with Elias, he remains committed to the search.
 - [x] Haven's sustained, poetic account is a centerpiece of the compact pilot. It explains the Ark concept and the civilization behind it before a few questions; propulsion details are unnecessary.
+- [x] Haven preserves complementary futures through the Instance, Library, and Vessel. Humans can choose continued life in the Instance, embodied life and a possible planet, or remembrance in the archive. The Library includes DNA, ecological inheritance and knowledge, histories, books, dreams, and other records.
 
 Checked items above are author decisions documented, not scenes already rewritten.
 
@@ -22,7 +23,7 @@ Checked items above are author decisions documented, not scenes already rewritte
 
 - [ ] **V6-04 — Write the experienced temptation to stay.** Link the affectionate childhood science memory to a later shared activity. During the reunion Daniel gives Elias his full attention; Elias feels more connected with him than ever. If the aerospace proposal is adopted, the scene also lets him experience a dream working life. Revise the distracted display glance in v5. Complete when leaving costs a happiness the reader has experienced with him, without explaining the scene's moral or clinical meaning.
 
-- [ ] **V6-05 — Align Haven's restraint and the ending's timing and emotional effect.** Define the stewardship boundary well enough to accommodate the Institute, exceptional access, and longevity. Separately settle the necklace's recipient and the final breakfast's elapsed time. Retain the short ending and earlier apologies. Let changed attention carry gratitude, forgiveness, closure, presence, moving forward, and a sustainable place for work and curiosity. Complete when the ending expresses that change without a policy lecture, another apology, or a stated work–life lesson; Daniel can stay and the cosmic questions can remain open.
+- [ ] **V6-05 — Align Haven's restraint and the ending's timing and emotional effect.** Carry the clarified preservation of multiple futures into the stewardship boundary, including the Institute, exceptional access, and longevity. Keep remembrance distinct from an ongoing life; the Library does not automatically reverse Ruth's death. Separately settle the necklace's recipient and the final breakfast's elapsed time. Retain the short ending and earlier apologies. Let changed attention carry gratitude, forgiveness, closure, presence, moving forward, and a sustainable place for work and curiosity. Daniel can stay and the cosmic questions can remain open.
 
 ## Added character and integration work
 
@@ -30,9 +31,9 @@ Checked items above are author decisions documented, not scenes already rewritte
 
 - [ ] **V6-07 — Integrate the dreams, quiet transition, and natural bird recurrence.** Space the dreams across chapters and bring Elias's name out of the last major dream. Start the crossing in a plain room with a chair; review the star dome and let a few sensory changes build unease continuously, with no visible advanced portal or activation sequence. Let the sound recur during his reorientation and Haven's account without confirming its source. “Waking” need not mean a blackout. Keep the farewell echo brief. Remove the bird-comparison and Haven/simulation-error link; ordinary recurrence, beauty, and gratitude remain.
 
-- [ ] **V6-08 — Synchronize and render the new edition.** After the necessary choices are made, update the bible and character sheets, write the affected scenes, and review chronology, objects, distinct voices, and the boundaries of disclosure. Preserve earlier editions. Render v6 only after the prose and references agree.
+- [ ] **V6-08 — Synchronize and render the new edition.** Update the bible and character sheets, including Haven's preservation of multiple futures and the resulting refinement of the Haven/Sower contrast. Preserve the selected Book II acts and construction chronology. Write the affected scenes and review chronology, objects, distinct voices, and disclosure. Preserve earlier editions. Render v6 only after the prose and references agree.
 
-- [ ] **V6-09 — Preserve the poetic Ark revelation.** Give Haven a coherent, sustained account of humanity's predicament, survival alternatives, the continuing society, Library, Vessel, long duration, and the possibilities and risks of another world. Let a few personal questions follow. Protect the imaginative depth of this passage within the compact pilot; avoid an interview, a component explanation, or early disclosure of the Book II scans and conflict.
+- [ ] **V6-09 — Preserve the poetic Ark revelation and the range of futures.** Give Haven a coherent, sustained account of humanity's predicament and how the three worlds preserve its different wishes together. Explain continuing society, biological and ecological inheritance, remembered lives and culture, the material Vessel, long duration, and possible planetary life. Leave the next choice to humans. Let a few personal questions follow. Protect the imaginative depth within the compact pilot; avoid an interview, a component explanation, a claim that all alternatives were rejected, or early disclosure of the Book II scans and conflict.
 
 ## Working sequence
 
