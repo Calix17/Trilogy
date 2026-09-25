@@ -237,6 +237,8 @@ The other traditions converge on the same few failure modes: Ragnarök's endless
 
 ## BOOK III — THE FRUIT
 
+**Latest encounter possibility — 24 September 2026.** Haven may meet a nonhuman Ark whose makers could descend from organisms used in its ancient mining operations. This could give the later preservation-and-seeding purpose an experiential cause. Ancestry, elapsed time, evidence, and whether this revises Other Garden are open. A mining-derived lineage is nonhuman but ultimately Earth-derived; the proposed wider concern can include independent origins too. See [the encounter proposal](../06-development-notes/nonhuman-ark-and-accidental-lineage-2026-09-24.md).
+
 **OPEN OUTLINE — author clarification, 24 September 2026.** The chapters below are preserved candidate material. The author has not committed to this third book's existing central theme or route. Its human colony, beacon, Tower, Other Garden, and ending may be retained, revised, or replaced as the consciousness-preservation direction develops. No replacement chapter sequence is selected.
 
 *Central question: can a people who know their own statistics escape them?*

@@ -144,3 +144,20 @@
 - **Daniel:** a concentrated but substantial encounter, full attention to Elias, shared interpretation, meaningful work, grief, and two return opportunities declined. The space rock is the gift he intended to bring home; it recalls the childhood “Unlikely.” No independent authentication proves its origin.
 - **Haven:** reassurance, scale, and a coherent account before questions. Her certainty about her purpose is not omniscient narrative proof.
 - **Hesk:** plausible care and ambiguity, without answering every question or speaking only in riddles.
+
+
+## Pending philosophical decisions — later-book development
+
+See [the scene map](../06-development-notes/philosophy-scene-map-and-progress-2026-09-24.md). These assignments are proposals for scene development; they do not add completed events or fixed outcomes to the profiles.
+
+| Character | Decision to develop | Status |
+| --- | --- | --- |
+| Elias / Daniel | Own the different commitments of return and continued inquiry without universalizing either. | Already seeded in Book I; preserve its restraint. |
+| Haven | Disclose material limits of rescue; face the difference between a successful strategy and justified means. | P-01A, P-03A, P-07 pending; its responsibility for the attack remains fixed. |
+| Sower | Face a consequence of manipulating the people whose independent future it wants to preserve. | P-04A, P-07 pending; choose the specific harmful disclosure. |
+| Iris | Assess evidence, choose amid continuity uncertainty, and confront unequal rescue access. | P-01A, P-02A, P-03A, P-04A pending; ascension route remains selected. |
+| Jonah | Check an interested source, continue useful work without a guaranteed outcome, and leave descendants an option. | P-04A, P-05A pending; remaining to help the survivors remains selected. |
+| Mercy | Reconcile real preparation and community protection with needed help and later people's choices. | P-05A, P-06 pending; degree of technological opposition remains open. |
+| Sami | Expose forecast uncertainty, respect dissent, negotiate shared costs, and surrender an expectation of a descendant. | P-01B, P-02B, P-03B, P-04B, P-05B pending. |
+| Hesper | Bear a concrete cost of respecting another person's preferred future rather than treating hard experience as automatic authority. | Later-book scene assignment and chronology pending. |
+| Sami's daughter / another descendant | Have a desire that can conflict with the founder's preferred future or historical account. | P-05B pending; choose through character development, not thematic convenience. |

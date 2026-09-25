@@ -1,5 +1,10 @@
 # Development Notes
 
+## Latest: consciousness, preservation, and renewal — 24 September 2026
+
+The [author framework](consciousness-preservation-and-renewal-2026-09-24.md) records recurring phases of exploration and preservation, possibly operating in parallel branches. The proposed later goal protects existing conscious communities and seeds suitable worlds for independent development, broadening care beyond humanity. Books I and II are almost fixed; Book III's theme and route are explicitly open. Previous chapter material remains available, and all manuscripts, PDFs, and artwork are preserved. The checklist now tracks B3-01 through B3-07.
+
+
 ## Latest: seeding and successor Arks — 24 September 2026
 
 The [new development record](book-three-seeding-and-successor-arks-2026-09-24.md) preserves the proposal for costly adaptation, possible beacon intervention, biological seeding, unfamiliar descendants, and successive Ark strategies. It clarifies that Haven already pursues preservation in Book II and records six unresolved choices. The current Other Garden scene, chapter outcomes, manuscripts, PDFs, and art are preserved. Earlier reference versions are in `99-archive/pre-seeding-proposal-reference/` at the project root.
