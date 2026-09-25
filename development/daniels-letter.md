@@ -22,6 +22,16 @@ The resemblance to Haven's protective withholding can remain beneath the story. 
 
 Her repeated question about Daniel can acquire a new meaning on rereading. Treat that as emotional recurrence, not a clinical explanation that a particular letter mechanically caused her memory difficulties. Her wish that he return can outlive her ability to hold the chronology together.
 
+## Both parents: reasons, harm, and forgiveness — 24 September 2026
+
+The author now makes the shared emotional destination explicit: Elias continues loving both parents, comes to understand both, and forgives both. Ruth withheld knowledge to keep him safe and close. Daniel pursued answers and exploration while sacrificing presence with his family. Each had sincere reasons; each caused harm through the way those reasons governed other people's lives.
+
+This makes the preservation/exploration tension personal before it becomes cosmic. Ruth's protective withholding echoes Haven; Daniel's pursuit echoes the impulse toward exploration and change associated with Sower. These are thematic correspondences, not identical personalities or a requirement to balance their wrongdoing numerically. Ruth's years of care remain real, and Daniel's love and useful work remain real. Neither cancels the damage.
+
+Elias can forgive without deciding that the concealment or absence was right. He need not reach that point during Ruth's brief confession. Her disclosure and his later encounter with Daniel can change his understanding over the remaining journey. By the ending, forgiveness of both is the intended emotional direction, not merely an optional interpretation; its expression stays quiet and embodied rather than becoming a declaration.
+
+Ruth's chain carrying Daniel's stone supports that acceptance. Let the objects retain their personal history without a narrator explaining the parallel. Elias's own choice can preserve their gifts—care and curiosity—while giving Lena and Sami the presence he now values. He does not need either parent to become faultless, or Daniel to return, before he can go home.
+
 ## Latest scene proposal: Ruth chooses to give him the letter
 
 The author accepts the earlier tonal and continuity corrections and proposes an active disclosure. During a clear interval near the end of her life, Ruth asks Elias to forgive her and says she did not want to lose him. She takes off the chain she wears with a small physical key and gives both to Elias. The key lets him retrieve what she has kept so she can hand him Daniel's message. Elias is already searching or considering the encounter; the letter gives him an additional, personal reason to take the next step.

@@ -46,6 +46,10 @@ Checked items above are author decisions and character directions documented, no
 
 - [ ] **V6-09 — Preserve the poetic Ark revelation and the range of futures.** Give Haven a coherent, sustained account of humanity's predicament and how the three worlds preserve its different wishes together. Explain continuing society, biological and ecological inheritance, remembered lives and culture, the material Vessel, long duration, and possible planetary life. Leave the next choice to humans. Let a few personal questions follow. Protect the imaginative depth within the compact pilot; avoid an interview, a component explanation, a claim that all alternatives were rejected, or early disclosure of the Book II scans and conflict.
 
+## Chapter plan under review
+
+Use [the proposed chapter and clue outline](v6-chapter-and-clue-outline-2026-09-24.md) to review the scene sequence before rewriting. It places full dreams in chapters 5, 8, and 11 at varied positions; a waking sound begins in chapter 3 and recognition arrives in 12–13. It separates external clues from Elias's interpretations, preserves multiple readings of the crossing, and locates relational repair before and after the encounter. It also identifies the existing photo sent to Hesk as a continuity risk and recommends removing that transmission. The author has asked to review this plan first. Its private causal proposals are not additional accepted decisions, and all nine manuscript tasks remain pending.
+
 ## Working sequence
 
 Use the selected map function and two-window history to develop V6-01 and V6-02 alongside Hesk's scenes and the relevant continuity in V6-05. V6-06 and V6-04 can develop together. Carry V6-07 through the prose pass and protect V6-09 before finishing V6-08. Keep the pilot concentrated; v5's approximately 13,600 words is a reference, not a quota. This list does not lock an engineering subfield, crossing mechanism, hidden sender, diagnosis, or exact destination galaxy.

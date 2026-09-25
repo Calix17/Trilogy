@@ -24,6 +24,8 @@ Daniel's letter clarification: Daniel sends Ruth a small written message ten yea
 
 Chain-and-stone addition, 24 September 2026: Ruth gives Elias the chain she wears with the key to her private letter storage. The same chain later holds Daniel's reunion stone. This supplies the necklace's family history while preserving the quiet ending; exact prose and container remain open.
 
+Chapter staging for review, 24 September 2026: [the proposed chapter and clue outline](v6-chapter-and-clue-outline-2026-09-24.md) now distributes character work, three full dreams, sound recognition, disclosure, and emotional recovery across all seventeen chapters. It proposes corrections to early advertising, Hesk's access, and premature transmission of the final map page. The user requested review before proceeding; these staging recommendations remain proposals and no v6 prose or PDF has been created.
+
 **Status: development direction, not a rewritten manuscript.** V5 remains the current reading edition. Its prose, PDF, bible, character sheets, and synopsis have not been changed by this planning update. Explicit author directions below supersede incompatible older suggestions when preparing v6. Options introduced with “maybe” remain options.
 
 The preceding review and the complete author response are preserved in [the discussion source](../99-archive/2026-09-session-notes/v6-planning-source-2026-09-23.md). This document distinguishes those sources from editorial recommendations.

@@ -12,7 +12,7 @@
 
 **What makes him difficult.** An unfinished question can absorb him until he treats the people around him as interruptions. He can mistake providing for others, solving their problems, or pursuing a future answer for being present with them. His secrecy grows as he fears how his experience will sound.
 
-**Direction of change.** The Ark offers meaningful preservation work and Daniel's full attention. Elias must give up something worthwhile when he chooses home. The return preserves curiosity and professional purpose while changing what he lets them cost his family. His final attention is an action, not a claim that every relationship is instantly repaired.
+**Direction of change.** The Ark offers meaningful preservation work and Daniel's full attention. Elias must give up something worthwhile when he chooses home. The return preserves curiosity and professional purpose while changing what he lets them cost his family. His final attention is an action, not a claim that every relationship is instantly repaired. The author now specifies that he comes to understand and forgive both parents: Ruth for protective concealment and Daniel for absence in pursuit of answers. Forgiveness does not require agreement with either choice.
 
 **Scene guidance.** Let his skill appear through a problem with human consequences. Let him be interested in Sami's actual explanation, not only in improving the child's design. At the last breakfast he holds Ruth's chain, now carrying Daniel's stone, without discussing its history and joins the ordinary conversation. The brief gesture recalls both parents while he participates in the life in front of him.
 
@@ -89,6 +89,7 @@
 - Sami's interest in Elias's work recalls young Elias seeking Daniel's company, while remaining Sami's own pleasure.
 - Lena's care for Ruth and her own creative life make the household a living community rather than an abstract destination.
 - Ruth can forgive Daniel and love what resembles him in Elias, while Elias makes a different choice.
+- Elias comes to love, understand, and forgive both parents. Ruth's protective withholding and Daniel's consuming pursuit echo the wider preservation/exploration tension; neither is reduced to a stand-in for an AI. Their reasons and harms need not be equivalent.
 - Daniel and Elias can enjoy their shared curiosity without becoming the same person.
 - Ruth's chain and Daniel's stone give Elias a keepsake of both parents. Let the established object history carry this connection without explanatory dialogue.
 - Elias's affinity with Haven concerns care and preservation. It does not endorse every act she has taken.
