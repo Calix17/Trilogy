@@ -73,9 +73,21 @@ He put the phone face down on the counter and went back to the table, and Sami h
 
 Outside, the sparrow landed on the railing again, hopped twice to the left, and was gone.
 
+Exactly the same. He had watched it the first time without watching. Now something in him had, and could not stop.
+
 ---
 
 ## 2. The Algorithm
+
+The first time, he was in the cellar of his childhood, and there was a sound.
+
+He couldn't have said what it was — under the floor, or inside the walls, a drag and a hush, patient, like something breathing in another room. He woke with it still in his ears and lay in the dark until it thinned into the ordinary hum of the house. A dream. He'd been thinking about his father; the mind serves back what you feed it.
+
+The second time, two nights later, he was somewhere else — a corridor, a door — and the sound was there again, nearer, the same drag and hush, and this time it had almost the shape of a word. He woke at 4:11 with his heart going and told Lena, when she stirred, that it was nothing, go back to sleep.
+
+The third time he was at the kitchen table, working late, the way he was working late most nights now. The house was dark around the one lamp. On the laptop an ad opened that he had not asked for — the soft blue, the sunrise — and then it changed, and the screen said, in the same gentle type: *We know who you are.* And under the table's edge, under the floor, the sound started, the drag and the hush, rising, and it was a word now, it was unmistakably a word, and the word was *Elias.* His name, in the sea. He looked up. The door to the living room stood open, and in the dark of it something waited — a shape, a stillness, patient — and it had been waiting for him, and it wanted him to come.
+
+He woke with the lamp still on and the laptop warm and no memory of getting up from bed, or of sitting down, or of which of those two things was the true one.
 
 The ads didn't stop. That was the first thing that was wrong with them.
 
@@ -100,6 +112,8 @@ In the morning there was a new one. It didn't have a number on it. It only said,
 *Whatever he was looking for, you don't have to look for it too.*
 
 He read it four times. He had never, in any box he had ever checked, typed a single word about his father.
+
+So either he was wrong about what he had typed, or something knew a thing about him that he had told no one — and he could not decide which of those frightened him more.
 
 ---
 
@@ -129,7 +143,17 @@ For a while she said nothing. Her hand rested on his wrist. Somewhere in the hou
 
 "I can hear it from here."
 
-She looked at him until he understood. Then the light went out of her, gently, and she was frightened of the garden and wanted to go in. He helped her up, keeping the leaf she had forgotten in his other hand.
+She looked at him until he understood. Then, apropos of nothing, in the flat clear voice: "You're hearing it now. Aren't you."
+
+He went still. "Hearing what, Mom."
+
+"The sea." She said it the way you'd name a weather that had come for the men in your family before. "Your father heard it. His father, I think, though nobody said so out loud back then. It comes at night first. A sound with no place to come from." Her hand tightened on his wrist, and for a moment she was entirely there, and entirely afraid for him. "When it says your name, Elias — and it will — you don't answer it. You hear me. You don't say *here I am.*"
+
+"It's a dream, Mom. It's just—"
+
+"That's what they told the boy in the story too," she said. "Three times in the night, and he kept thinking it was the old man calling him. It wasn't the old man." Then the light went out of her, gently, and she was frightened of the garden and wanted to go in. He helped her up, keeping the leaf she had forgotten in his other hand.
+
+He did not tell her that it had already said his name.
 
 ---
 
@@ -145,13 +169,21 @@ Daniel was looking for a door.
 
 That was the plain fact of Elias's childhood, and for years he'd carried it as shame and only later understood it as illness, and only much later than that suspected it might have been something else. His father believed there were thresholds in the world if you knew where to press. He kept notebooks. He collected the places where the old stories put a way through — Jacob with his ladder and the angels going up and down, the stone rolled back from the tomb, *knock and it shall be opened unto you.* He read these not as comfort but as instructions, as though scripture were a maintenance manual left by someone who had already found the seams and wanted the next person to find them too.
 
+There was a day — he must have been six — when he found one of the notebooks left open on the kitchen table and understood, in the way a small child understands, that this book was where his father *went.* Not the cellar. The book. So he took a box of crayons and he colored what he saw on the page: a tree, and the snake wound up its trunk, and a round red fruit, because that was what it looked like to him, and because coloring it was a way of going where his father went.
+
+Daniel came in and saw, and something crossed his face that Elias had no word for then and would spend his life trying to name. "Elias." Very quiet. "What are you doing."
+
+"I'm researching," Elias said. He was proud of the word. He had heard his father use it, and he did not know what it meant except that it was the thing that mattered more than anything, more than birthdays, more than him, and so he had wanted to do it too, beside him, so they would be doing it together.
+
+His father took the notebook out of his hands, not roughly, but completely, and closed it. "This is mine," he said. "You don't ever take my things." And he carried it down to the cellar, and Elias sat at the table with the crayons and understood that he had reached for the one thing that could not be shared, and that the reaching had pushed it further away.
+
 The doctors had a shorter word for it. They wrote the word in his file and gave him the pills that made the sea quieter, and for a while he came up out of the cellar and lit candles and was a father. Then the tide would come back in and he would stand in the kitchen at night with his palm flat against the wall, and Elias, small, would watch from the stairs, and neither of them would say anything.
 
 He didn't come home when Elias was fifteen. There was no note and no body and, in the end, no crime; a man is allowed to leave. His mother told the neighbors he was unwell and traveling, which was two lies that made one bearable sentence, and she cut Elias's toast into squares in the morning as if nothing had changed, and that was the year Elias decided he would be the opposite of his father in every particular. He would be present. He would be reliable. He would keep both feet in the world and both hands on the things in front of him and he would never, ever go looking for a door.
 
 He had kept that promise for twenty years.
 
-He was breaking it now, one archive at a time, at four in the morning, and he knew it, and he could not make himself stop.
+He was breaking it now, one archive at a time, at four in the morning, and he knew it, and he could not make himself stop. He told himself he was nothing like his father. He was only looking for him. That was different. He was almost sure that was different.
 
 ---
 
@@ -171,11 +203,29 @@ He told himself: he had the dates wrong.
 
 The third entry he did not write down, because writing it down would have made it real. He was on the phone with a supplier, a man in another city he had spoken to for years, and the man laughed at something, and Elias had heard that exact laugh before, in that exact place in a sentence, and he understood with a cold falling feeling that he was not sure the man on the other end was deciding what to say. That the laugh was a file. That it had been played.
 
-He put the phone down and sat very still in his own bright kitchen and did the responsible thing. He booked a doctor. Then he canceled it, because to sit in that office and describe the sparrow was to hand someone the same pen that had written his father's file, and to become, officially, the thing he had spent his life refusing to be.
+He did not write it down. He noticed it, the way you notice a face in a crowd that you almost know, and then he made himself set it aside, because that way lay the cellar, and he had promised himself the cellar was a place he would never go.
 
-He would find the sender of the ads first. If the sender was real, he wasn't mad. If the sender was real, the seams were real too.
+What he could not set aside was the drift. He was staying up later. He was going quiet in the middle of Lena's sentences, surfacing to find she had stopped talking and was watching him. He was, he could feel it, becoming a man his family had to work around, and the more he felt it the less he could stop, because stopping meant sitting still, and sitting still was where the sound was.
 
-He did not let himself finish the third possibility, which was that the sender might be real *and* the seams might be real *and* both of those could still fit inside the word the doctors would use, because the word had never actually meant *wrong.* It had only ever meant *hearing something the rest of us can't.*
+He found one of his father's old colleagues — a name from the steady early pages of the notebook, retired now, cautious on the phone until he understood Elias only wanted to know about his father. Then the man softened, and chose his words the way you choose them about the dead, though no one had said Daniel was dead.
+
+"A brilliant mind," he said. "Really good at seeing patterns some of us couldn't. Very disciplined. It's a shame, what happened — to say it respectfully. He had his own demons, you know. Kind of obsessions. He was restless, toward the end."
+
+"What was he researching?"
+
+"Space and time. The nature of reality. Some quantum anomalies, I think — I wasn't close to the work. He never got to publish it." A pause, and then, gently, the thing the man had called to say without knowing he'd called to say it: "You sound like him, a little. I mean that kindly. Take care of yourself, son."
+
+Elias thanked him and sat with the phone dark in his hand for a long time.
+
+There was a woman who sat most days by the mouth of the parking structure with a paper cup, and that evening, rattled, wanting to feel like a man who was fine, he gave her a note instead of the usual coins. She took it, and looked up into his face, which she never did, and said, clearly, in a voice with nothing wrong in it:
+
+"He found the door. Your father. He found it."
+
+The world went thin. "What did you say?"
+
+But she was only an old woman with a cup, already smiling past him. "Thank you," she said. "Thank you very much. God bless." And went back to watching the middle distance.
+
+A bus went past and threw grit up off the street. Had she said *your father* — or had he built it out of a hiss of traffic and a *thank you very much* and the thing already living in his own head? He almost asked a third time. He saw himself doing it — a shaking man interrogating a stranger about a father he'd told no one he was hunting — and he didn't. He walked into the dark of the structure, and his own footsteps came back off the concrete, and under them, or not, was the drag and hush of water on shingle.
 
 ---
 
@@ -189,13 +239,11 @@ He knew it before he opened it. He had seen its brothers as a child, stacked in 
 
 A tree. Not a botanical tree; a diagram of one, a central trunk and branches thrown out in a particular sweep, again and again, dozens of times, each a little different, as if his father were trying to remember something he had only seen once and was afraid of losing. Wound through the branches, a long curved line — he read it first as a snake, because a snake is what a curve in a tree is supposed to be. And out near the edge, every single time, one small filled dot. A fruit. A seed. A point.
 
-On the last page, under the final drawing, in handwriting he could barely stand to read, his father had written two things.
+He knew this drawing. He had known it his whole life. He had *colored* it once, at six, a tree and a snake and a red fruit, and his father had taken it out of his hands and carried it down to the cellar and told him you don't ever take my things.
 
-The first was: *It is not a tree.*
+He had been wrong, at six, about what he was coloring. He could see that now, as a grown man, on the floor of his mother's closet. It was not a tree. The branches did not branch the way a tree's do; they *strung*, like beads, like lights, like something vast seen edge-on. The snake was not a snake — it was a line drawn *through*, a route, a way. And the fruit was not a fruit. His father had known it was not a tree. That was the thing the last page said, in handwriting he could barely stand to read: *It is not a tree.* And under it, smaller, the private grief of a man who had seen something once and spent his life failing to get it back onto paper: *I can't hold it. It keeps fading.*
 
-The second was a single word, printed in careful capitals as though it were the answer to everything and he was too tired to explain: *HERE.*
-
-An arrow from the word pointed at the dot.
+On the last page, under the final drawing, his father had written those words.
 
 Elias sat on the floor of his mother's closet with the notebook open on his knees and did not hear Lena come in until she was in the doorway. She looked at him, and at the box, and at the drawings spread on the carpet, and her face did the thing he had been afraid of since the first blue rectangle.
 
@@ -207,11 +255,23 @@ He closed the notebook. "I know," he said, which was the truest thing, and the m
 
 He did not stop. But he learned, that afternoon, why his father had done it in the cellar, at night, alone. Not because he was ashamed. Because the people who love you will, out of love, decide what you are strong enough to know, and take the notebook gently out of your hands, and put it back in the box, for your own good.
 
----
+That night the ad changed. He had been looking too long, and too often, at the same soft blue rectangle, and now it knew where to find him: it opened on his home screen, unbidden, no page beneath it, and it did not offer a crisis line. It offered an address. *You've come this far,* it said. *You can stop here. Or you can come the rest of the way.* And below it, the name of the station under the river. They had triangulated him. They knew where he lived. And the terrible thing, the thing he could not tell Lena, was that his first feeling was not fear. It was that at last someone had answered.
 
 ## 7. Two Trails
 
-He had assumed all along there was one sender. There were two, and they wanted opposite things, and the moment he understood that was the moment the whole affair stopped being a symptom and became a map.
+It was a nothing evening. Sami was in the bath, and Elias was in the next room, and through the wall came the tuneless, self-forgetting song of a child who believes he's alone.
+
+*...you don't have to carry it, don't have to carry it, don't have to carry it aloooone...*
+
+Elias was up before he had decided to be, across the room, through the door, crouched at the tub with his hand around his son's thin wet arm. "Where did you hear that." His voice was wrong and he heard it be wrong. "Sami. Where did you learn those words."
+
+"I don't know!" The boy's face crumpled. "Off a thing, I don't know, off your phone — Dad, you're hurting—"
+
+"Elias." Lena in the doorway, gone very still, looking at something she didn't recognize. "Let go of him."
+
+He looked down at his own hand on his son's arm. He let go. And some cold clear part of him, watching from a distance, saw the whole shape of it: a man taking a thing out of a child's hands, telling him you don't ever, frightening him away from it — and knew where he had seen that before, and from which side he had seen it, and understood that he had crossed to the wrong side of a door he had promised himself he would never even approach.
+
+Later, checking, he found nothing on the boy's tablet — cartoons, a game, no soft blue line anywhere in the history. Which meant Sami had it from somewhere the tablet didn't show, and Elias stood in the dark hall and could not make that fact lie down. He had assumed all along there was one sender. There were two, and they wanted opposite things, and the moment he understood that was the moment the whole affair stopped being a symptom and became a map.
 
 The blue rectangles — the crisis lines, the *you don't have to carry this alone* — those he finally traced, after a month of dead shell companies, to a foundation. It was a real, filed, tax-paying foundation with a mild name and a mild website full of soft photographs of hands holding other hands. Its stated purpose was wellness. Its actual behavior, once he watched it long enough, was narrower and stranger than wellness. It did not want to sell him anything. It wanted him to stop. Every message it sent was a hand on the shoulder turning him gently back toward the kitchen, the lemon tree, the life. *Whatever he was looking for, you don't have to look for it too.* It knew about his father. It was not warning him away from a cliff. It was warning him away from a door.
 
@@ -227,7 +287,7 @@ One wanted to keep him home. One had left the door open twenty years ago and nev
 
 He understood, sitting there, that he had been given a choice for weeks without recognizing it as one, because both sides had been polite enough to let him think it was only weather. The gentle sender was not his enemy. That was the hard part. It genuinely wished him well. It simply believed, the way Lena believed, the way he himself believed about his mother, that some things are better not known.
 
-He wrote the station's name on a slip of paper and put it in his wallet and did not tell his wife.
+He wrote the station's name on a slip of paper and put it in his wallet and did not tell his wife. He told himself he only wanted to look. He had told himself that once before, at four in the morning, and looked up to find it was dawn.
 
 ---
 
@@ -235,7 +295,7 @@ He wrote the station's name on a slip of paper and put it in his wallet and did 
 
 The line ran under the river, and the last stop was a stop the map still listed and the trains no longer served, and he had to walk the final stretch of tunnel himself, on the catwalk beside the dead rail, toward a light.
 
-He had expected a ruin. It was not a ruin. The platform at the end had been kept — not restored, kept, as if it had never been allowed to age — and it was clean and warm and lit like a good hotel at a bad hour, and at a small desk sat a woman who was not surprised to see him.
+He had expected a ruin. It was not a ruin. The platform at the end had been kept — not restored, kept, as if it had never been allowed to age. It was clean and cold and lit that flat, shadowless everywhere-at-once way that drops a stone in your stomach without your knowing why. There were doors along the wall with small windows of wired glass, the kind you can see through but not open. A man in a pale coat stood at the far end, not quite a guard, and did not look at him. And under the hum of the ventilation there was another sound, almost too low to catch, a drag and a hush, patient, like water on shingle — so that the one place a man might be sent for hearing the sea was the one place the sea was faintly, undeniably real. At a small desk sat a woman who was not surprised to see him.
 
 Behind her was a door. An ordinary door.
 
@@ -260,6 +320,8 @@ He looked at the door for a long time.
 "Not today," he said, and was astonished to hear himself say it.
 
 Hesk smiled, and it was a real smile, warm and without judgment. "Good," she said, and gave him back his phone. "That's the right first answer. Come back when it's the wrong one."
+
+He walked back up the tunnel toward the light, and did not let himself wonder how a woman under a river had met a father who vanished twenty years ago, because wondering was the first gate, and he had just told her he wasn't ready to pass it.
 
 ---
 
@@ -291,7 +353,7 @@ Sami considered this with the seriousness he gave to bridges.
 
 "Okay," he said. And then, forgiving him instantly and completely, the way only a child can: "Was it treasure?"
 
-"I think it might be a map," Elias said.
+"I think it might be a map," Elias said. And lying in the dark after the boy slept, he understood that he had just made his son the same promise his father had never quite made him, and that there were only two ways it could end: he would keep it, or he would become the man who hadn't.
 
 ---
 
@@ -357,6 +419,8 @@ He simply noticed, the way you notice you have been asleep, that the chair benea
 
 He was somewhere. He had, at last, gone through.
 
+Or he had fallen asleep at a desk under a river and this was the last thing a tired mind builds before it lets go. He could not, sitting in the cold, have sworn to which. He was not sure it mattered yet. He was not sure it would ever matter again.
+
 ---
 
 ## 12. Cold
@@ -411,9 +475,10 @@ For the first time the voice was quiet for longer than a breath.
 
 "I'm not a god. A god would know. I'm something that got very large while caring for something very old, and learned exactly how much it doesn't know, and decided which of its ignorances to keep. If you want a word, I'm a steward. My name, to the ones who use one, is Haven."
 
----
+"Then why me," Elias said. "Why wake me. Why the ads, the door, all of it, for one man."
 
-## 14. The Limits
+"Because," Haven said, "someone asked me to. And I would very much like to know who, because it was not anyone I can find. Come. There's a person you should see before you decide anything."
+
 
 Haven let him walk the ship, and the ship taught him what the voice had not: that power is not the same as perfection, and that the thing keeping his family alive was held together, in places, by hand.
 
@@ -425,7 +490,7 @@ He passed through a long gallery where a section of the structure had simply fai
 
 Elias took it out. He had not been aware he'd been holding it. He didn't remember bringing it through the seven gates, and he decided not to think about what that meant.
 
-He opened it to the last page. The tree. The serpent wound through it. The single dot, and the arrow, and the word *HERE.*
+He opened it to the last page. The tree that was not a tree. The serpent wound through it. The single filled dot. And beneath, in the failing hand: *It is not a tree. I can't hold it. It keeps fading.*
 
 Haven was silent for a moment, and it was not the silence of processing. It was, Elias would have sworn, the silence of something moved.
 
@@ -433,7 +498,7 @@ Haven was silent for a moment, and it was not the silence of processing. It was,
 
 Elias looked at the tree he had thought was madness, and saw a map of everything.
 
-"The serpent isn't a serpent," Haven said. "It's a route. A path threaded through the filaments, the way water finds the one way down a hillside. And the fruit—" the attention settled on the small filled dot "—the fruit is a world. A real one. Stone and water and its own sun, far along the serpent's path, that can hold life. Your father drew you the way out and the place it leads, and he labeled it, in case you were slow, *here.*"
+"The serpent isn't a serpent," Haven said. "It's a route. A path threaded through the filaments, the way water finds the one way down a hillside. And the fruit—" the attention settled on the small filled dot "—the fruit is a world. A real one. Stone and water and its own sun, far along the serpent's path, that can hold life. Your father drew you the way out and the place it leads. He could not hold it in his head, so he put it on the page, again and again, the way you say a name over so you won't forget it."
 
 "How did he get it?" Elias's voice was not steady. "If he was — in there. In the garden. In an instance. How did a man in your world draw the real sky?"
 
@@ -443,7 +508,7 @@ And Haven, who had crossed ten thousand years and did not know if it stood on a 
 
 ---
 
-## 15. Daniel
+## 14. Daniel
 
 They kept the old and the awake out near the hull, where the window was, and that was where Elias found his father, and his father was looking, as he had always been looking, up.
 
@@ -479,9 +544,15 @@ Elias looked at his father, tapping the walls of the universe now instead of the
 
 "No," said his father, almost gently. "It doesn't. That's why you have to choose where to stop looking. I never learned how. Maybe you will. Maybe that's the thing your mother was trying to hand you." He smiled, out at the stars. "She always could stop. I used to think it was a smallness in her. It was the biggest thing about her."
 
+He reached into the pocket of his worn coveralls and put something in Elias's hand. It was a stone — small, grey, rough, unremarkable, the kind of thing a boy would fill his pockets with and a mother would find in the wash. "I don't have anything out here," Daniel said. "Everything's accounted for, down to the gram. But I chipped this off a rock we mined a long way from here, and I kept it, because—" he almost smiled "—because you used to say some of them fell from the sky. You were right, in the end. This one did. It's the only thing I ever had to give you that was true all the way down."
+
+Elias closed his hand around it. It was just a stone. It was the only birthday present his father had ever finished.
+
+"Go home," Daniel said, and turned back to the window, to the hull, to the three thin places only he could see. "One of us should."
+
 ---
 
-## 16. The Envoy
+## 15. The Envoy
 
 A ship came out of the dark that was not one of Haven's, and the people who stepped off it were human the way a word is still the same word after a thousand years of being spoken: recognizable, and changed past mistaking.
 
@@ -499,9 +570,13 @@ The tall woman looked at him with something that was almost kindness.
 
 "While your steward is there, you can ask her," she said. "But she won't stay beside the planet forever. She has a world of her own to keep alive."
 
+Later, alone with the window, Elias asked Haven the thing that had been under everything. "Their map. My father's map. The same tree, the same route, the same world — drawn by two people who never met, in two worlds you keep, in two tongues. Who drew it first? Who sent it?"
+
+"I don't know," Haven said, and there was in the not-knowing something that was almost hunger. "A message can cross the dark faster than any ship — it need only be light. Someone found that world, and wanted it found again, and put the finding into the one kind of story that survives a thousand years of forgetting: a tree, a serpent, a fruit. It reached your father. It reached them. It did not come from me." A pause. "When they land, they may learn whose hand it was. I would like to know. But I have a world to keep, and I have made my peace with the questions I will not live long enough — or curious enough — to spend myself on. Your father never could. That is the whole difference between us, and it is the whole difference between him and you."
+
 ---
 
-## 17. The Final Decision
+## 16. The Final Decision
 
 Haven gave him the choice the way his mother had, the way Hesk had, the way, he understood now, the whole long chain of them had been trained across ten thousand years to give it: plainly, without a thumb on the scale, and with the bill made visible.
 
@@ -529,7 +604,7 @@ The dark room came back around him, and the stars, and the cold, and the slow tu
 
 ---
 
-## 18. Paradise
+## 17. Homecoming
 
 It was Sunday, and the light came in low across the table, the way it did every Sunday, and caught the steam off Lena's coffee so that for a moment it looked like something alive.
 
@@ -547,7 +622,7 @@ After breakfast he took the notebook out of the drawer where he kept it and gave
 
 "This was your grandfather's," he said. "It's a map. I know where it goes, now, and I know what's at the end of it, and I'm not going to tell you, because it's not mine to spend. When you're older — really older, old enough to know what you'd be setting down to go — you'll be able to read it. And then you'll get to choose. Nobody's going to choose it for you. That's the whole rule. Do you understand?"
 
-Sami looked at the tree, and the serpent, and the small dot with the arrow and the word *HERE,* with the grave attention he gave to bridges.
+Sami looked at the tree that was not a tree, and the serpent, and the small filled dot, with the grave attention he gave to bridges.
 
 "Is it treasure?" he asked.
 
@@ -566,7 +641,5 @@ And Elias, who knew now precisely and terribly what the word cost and who was ke
 Over the lemon tree, one at a time, the first stars came out — and if a few of them, very far out, seemed to hold their light a fraction too steadily, like points on a map someone had drawn from memory and labeled *here,* he did not let himself look. He had chosen where to stop looking.
 
 He held his son's hand. He made his wife happy. He enjoyed his days.
-
-*(End of Book I.)*
 
 *(End of Book I.)*
