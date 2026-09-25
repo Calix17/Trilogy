@@ -8,7 +8,7 @@
 
 **Personality and passions.** Capable, curious, practical, and drawn to making something work. The proposed aerospace focus is human habitats and preservation. He wants knowledge to become shelter, functioning systems, and a better chance for people to live. His love of science is real, even though it also grew in the moments when Daniel gave him attention.
 
-**What he wants.** A family life he participates in, useful work, and a relationship with the father he lost. Daniel sent Ruth a small written message ten years after disappearing; she concealed it from Elias. When he discovers it, it gives him evidence that Daniel lived beyond the disappearance and changes his understanding of both parents. The discovery scene remains open. His hope that Daniel wants to be found is still an interpretation, not an established invitation.
+**What he wants.** A family life he participates in, useful work, and a relationship with the father he lost. Daniel sent Ruth a small written message ten years after disappearing; she concealed it from Elias. When he discovers it, it gives him evidence that Daniel lived beyond the disappearance and changes his understanding of both parents. The latest proposal is that Ruth initiates the handover near the end of her life; its exact staging remains open. His hope that Daniel wants to be found is still an interpretation, not an established invitation.
 
 **What makes him difficult.** An unfinished question can absorb him until he treats the people around him as interruptions. He can mistake providing for others, solving their problems, or pursuing a future answer for being present with them. His secrecy grows as he fears how his experience will sound.
 
@@ -52,9 +52,9 @@
 
 **What she wants.** Familiar company and a say in her day. Earlier, she chose a life with Elias; she does not ask him to carry that choice as a debt. Her affection for Sami is a present relationship, not merely a way to remind Elias of his childhood.
 
-**Hurt, privacy, and forgiveness.** She can forgive Daniel without the story claiming his absence caused no harm. The latest direction specifies her secret: she kept Daniel's written message, sent ten years after he disappeared, and hid it from Elias because she feared losing her son through the door as well. These were Daniel's last words to her. She can cherish them while depriving Elias of knowledge he would have wanted. How much more she knew about the Institute or external world remains open. Her present waiting can echo her hope without proving a diagnosis or a specific promise of return.
+**Hurt, privacy, and forgiveness.** She can forgive Daniel without the story claiming his absence caused no harm. The latest direction specifies her secret: she kept Daniel's written message, sent ten years after he disappeared, and hid it from Elias because she feared losing her son through the door as well. These were Daniel's last words to her. She can cherish them while depriving Elias of knowledge he would have wanted. In the latest scene proposal, a clear interval lets her ask forgiveness, admit she did not want to lose him, and direct him to retrieve the message so she can give it to him. This is an act of relinquishing control as well as an admission of fear. How much more she knew about the Institute or external world remains open. Her present waiting can echo her hope without proving a diagnosis or a specific promise of return.
 
-**Proposed line and tone.** If Ruth says “You're becoming like him,” the author's intended tone is a tender smile, not disappointment. A moment of recognizable scientific excitement or shared play could support the line. Its placement is unselected; it need not become a warning, prophecy, or another explanation during her final conversation.
+**Proposed line and tone.** If Ruth says “You're becoming like him,” the author's intended tone is a tender smile, not disappointment. A moment of recognizable scientific excitement or shared play could support the line. Its placement is unselected; it need not become a warning or prophecy. Keep it separate from the proposed brief apology about the hidden letter; neither line needs to explain the larger mystery.
 
 **Scene guidance.** Keep her exchanges brief and particular. A little humor or delight can show more of her than a speech about sacrifice. “He works too much” can remain an affectionate observation if used; avoid turning it into a denunciation. Preserve her relationship with Lena and her own preferences, rather than presenting only a saintly mother or a source of clues.
 
@@ -94,4 +94,4 @@
 
 These are directions for behavior and relationships, not explanations for the narrator to deliver. Use only what each scene needs.
 
-The [letter review](../06-development-notes/v6-daniels-letter-2026-09-23.md) recommends discovery after Ruth's death but before crossing, records the current age calculation, and supplies optional wording. The note does not identify the anonymous map sender or confirm Daniel as the dream voice.
+The [letter review](../06-development-notes/v6-daniels-letter-2026-09-23.md) now develops Ruth's proposed brief admission and active handover before death and crossing, records the current age calculation, and supplies optional wording. The note does not identify the anonymous map sender or confirm Daniel as the dream voice.
