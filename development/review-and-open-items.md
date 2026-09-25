@@ -1,5 +1,7 @@
 # Review & Open Items — 2026-09-22 (Claude)
 
+**V4 status — 23 September 2026.** Historical decision record retained below. A2–A9 remain locked; v4 does not reopen Haven's bomb, the generation-ship summit, nonpublic ascension, the culpable CEO/impostor thread, the compact Ark, Iris's route, Jonah's sacrifice, or neural-link storm losses. A1 is now expressed through both real intellectual pleasure and grief over freely chosen absence, without a whole-life verdict. Ruth dies with Elias and Lena present; “died alone” is superseded. B3/B4 have been acted on through the expanded manuscript and aligned bible/character sheets, while later Book II/III scene work remains pending. The full original file is in `99-archive/pre-v4-reference/`.
+
 Two parts: (A) author decisions locked in this pass, to be reconciled into bible /
 characters / manuscript; (B) Claude's editorial feedback on current project state,
 left open for the author to close later. Dated so items can be checked off.

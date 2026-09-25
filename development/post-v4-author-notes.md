@@ -2,7 +2,9 @@
 
 23 September 2026. Notes for the next revision, collected after the v4 reading edition.
 
-**Status:** Documentation only. The v4 manuscript and PDF have not been rewritten or rendered again. The bible and character sheets still describe that edition. The author is collecting chapter notes; this record distinguishes requested directions from alternatives still under consideration.
+**V5 follow-through:** The subsequent v5 revision applies the selected directions from this discussion. See `v5-revision-notes-2026-09-23.md` for exact implementation and remaining openings. The paragraphs below preserve the discussion as recorded before that revision.
+
+**Original status:** Documentation only. The v4 manuscript and PDF have not been rewritten or rendered again. The bible and character sheets still describe that edition. The author is collecting chapter notes; this record distinguishes requested directions from alternatives still under consideration.
 
 **Latest additions:** sections 10–15 record secrecy and clinical ambiguity, the preferred space-rock gift, reconsideration of Elias’s later visit, seven thresholds beginning at home, and the central Jacob’s-ladder image with optional source passages. Earlier alternatives are retained as discussion history.
 

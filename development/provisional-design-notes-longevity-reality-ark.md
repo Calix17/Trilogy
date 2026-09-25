@@ -1,4 +1,6 @@
 # The Final Decision — Book One
+
+**V4 status — 23 September 2026.** Retained as an early exploration, not the active rule set. V4 keeps finite long-lived Ark bodies, unexplained living crossings, ordinary mortality in the instance, and Daniel's genuine research pleasure alongside grief and voluntary non-return. It does not select his later voyage or an ultimate answer to reality. Use the current bible and character sheets for implementation; keep the alternatives below as history.
 ## Provisional Design Notes: Longevity, Reality, Haven, the Ark, and Daniel
 
 **Status:** Notes for later review. None of the alternatives in this document are canonical yet, and the Book One manuscript has not been changed.
