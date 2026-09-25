@@ -1,5 +1,45 @@
 # Project Merge Manifest
 
+## Post-v4 notes — 23 September 2026
+
+Added the author’s next-revision notes under `06-development-notes/` and linked them
+from the READMEs. The supplied Haven speech is preserved in that record. No v4 prose,
+PDF, bible, or character changes were made in this notes-only update. The once-only
+return rule remains a proposal; the later notes prefer Daniel’s intended space-rock gift.
+The notes now also document clinical ambiguity, secrecy, and seven thresholds beginning
+at home, with researched mythic passages. The first post-v4 note snapshot is preserved
+under `99-archive/post-v4-notes/`. The production validation record
+continues to describe the rendered v4 edition, before these additional notes.
+
+## V4 narrative revision — 23 September 2026
+
+The latest supplied `the-final-decision.zip` is the source of this revision. It adds
+v2/v3 Markdown, scene-workshop files, and newer author decisions absent from the earlier
+consolidated project. Its Book II decisions, including Haven's responsibility for the
+bomb, take precedence over older notes that still describe those matters as open.
+
+Added the active Book I v4 Markdown and rendered PDF under `02-book-one/`. All supplied
+Book I manuscript and PDF versions remain byte-for-byte unchanged. The existing artwork,
+screen materials, and historical discussion sources are preserved. The v3 review from
+this session is included separately as an editorial source.
+
+Aligned the Book I bible, character sheets, and current synopsis with v4. Exact prior
+copies of revised supporting documents are retained in `99-archive/pre-v4-reference/`.
+Historical workshop proposals are retained with status notices rather than overwritten
+as though they had never existed. The revision notes distinguish the implemented prose
+from remaining questions and later-book choices.
+
+V4 keeps the coloring scene at age six, develops accountability and attraction in
+Daniel's research life, repairs evidence and object chronology, gives Sami and Lena
+consequences and agency, delays and spaces the dreams, and ends the sound motif with
+an uncertain echo in the Vessel's frame and ventilation. It preserves Haven's ancient
+farewell while removing repeated narrator explanations of its meaning.
+
+The sound's origin, transfer mechanism, unknown map sender, Daniel's eventual route,
+and the full extent of Lena's later cosmological knowledge are not newly settled.
+The final validation record lists changed and added files and confirms preservation
+of the supplied manuscript versions. The sections below remain the project history.
+
 ## Consolidation scope
 
 This project folder combines the supplied `the-final-decision.zip` with the Book One review and provisional design work produced in the same development session.
