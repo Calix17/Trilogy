@@ -2,92 +2,31 @@
 
 A science-fiction series built around a family, a search, and competing answers to survival.
 
-## Current reading edition
+## Current reading edition: Book I v6
 
-Start with `02-book-one/book-one-paradise-v5.pdf` or its Markdown source. V5 has 17
-chapters. It applies the notes leading to that edition about purposeful prose, a sustained Haven
-revelation, the Institute’s ambiguity, the space-rock gift, and a short kitchen homecoming.
-All previous manuscripts and PDFs are preserved unchanged.
+Start with [book-one-paradise-v6.pdf](02-book-one/book-one-paradise-v6.pdf). The [Markdown source](02-book-one/book-one-paradise-v6.md) is editable. This narrative pilot has seventeen chapters, 15,905 chapter-body words, and 58 PDF pages including the frontispiece.
 
-## Next revision: v6 planning
+V6 implements the accumulated author directions: a grounded investigation and guarded Institute; three spaced dreams and an unexplained crossing; Ruth’s hidden letter and chain; Daniel’s two return opportunities and a warmer shared reunion; Haven’s poetic three-world account; and a brief homecoming in ordinary family life.
 
-The latest small dialogue proposal gives the coauthor a brief comment on the speculative later notes, his incomplete review, feared career consequences, and sadness about how things ended. The outline retains this as tentative wording with the outcome unresolved.
+The [revision record](06-development-notes/v6-revision-notes-2026-09-24.md) includes a chapter-by-chapter account, private chronology, object handoffs, and questions intentionally left for later books. The [completion checklist](06-development-notes/v6-todo.md) records all nine implementation tasks as complete and separates later development work.
 
-Latest author correction: Elias does not search mental institutions or psychiatric records, and the narrator leaves the omission unexplained. Daniel’s last published paper identifies the colleague as coauthor. The later unfinished anomaly work is distinct from that published collaboration. The outline now carries these chapter 1, 2, and 5 corrections; thirteen directions are recorded and nine implementation tasks remain pending.
+## Reference authority
 
-The latest author clarification establishes human choice as the map’s governing motive: Haven explains the code honestly, and people can choose whether to pursue its destination. This replaces the earlier proposed need for a technical barrier to contacting her. The [current outline](06-development-notes/v6-chapter-and-clue-outline-2026-09-24.md) now connects Daniel’s public research to the colleague, distributes concern across existing relationships, and weaves the meanings of reality through scenes. The current checklist records thirteen author directions, including the subsequent search correction; nine implementation tasks remain pending.
+The v6 prose, [series bible](01-bible/bible.md), [main character sheets](04-characters/character-sheets.md), and [current synopsis](06-development-notes/current-plot-summary-books-one-and-two.md) describe this edition. Dated planning documents retain historical proposals under explicit implementation notices. Alternatives in that history are not simultaneous claims about the current story.
 
-The latest [contact strategy](06-development-notes/v6-contact-strategy-2026-09-24.md) recommends Institute support ads, a serpent-associated page and one private call, and an optional uncertain woman encounter. It also proposes a private ten-year return rhythm aligned with Daniel’s letter and a copied-page possession history. These recommendations await review; they replace rival ads as the preferred staging, not as a newly selected author decision.
+The selected Book II outline and synopsis sections are unchanged by this revision. Book III remains a working design requiring its own prose alignment. The larger series is in development; v6 is a complete pilot revision, not a finished trilogy.
 
-The [chapter and clue outline](06-development-notes/v6-chapter-and-clue-outline-2026-09-24.md) is the current proposal for review before rewriting: seventeen chapters, three spaced dreams, varied character hints, growing uncertainty, the ambiguous crossing, and emotional closure. The latest review removes the early chain glimpse, proposes an earlier car delivery and Sami's improvised ant song, gives Rana, Haven, and Daniel distinct degrees of warmth, and makes father–son decoding the reunion's shared activity. The subsequent message-route proposal links the parked car to a mailbox delivery and treats Daniel, then Elias, as successive attempts to bring the planet information to Haven. The incomplete earlier delivery retains proposed private explanations. The primary reason for involving humans is now supplied by the author’s choice-based clarification; the preferred contact strategy uses Institute ads and one competing private call. No v6 manuscript or PDF has been rendered.
+## Folders
 
-[Brief v6 character profiles](04-characters/v6-character-profiles-2026-09-23.md) develop the latest family descriptions. New notes cover possible fragmentary contact from Daniel, limits on external information, Hesk's proposed search-triggered contact sequence, and the map's final localization. The later [letter clarification](06-development-notes/v6-daniels-letter-2026-09-23.md) establishes Daniel's message ten years after disappearing and Ruth's concealment; the latest scene proposal has her ask forgiveness and initiate the handover near the end of her life. The 24 September addition specifies Ruth's chain and its physical key; the same chain later holds Daniel's reunion stone in Elias's hands at the final table. Exact wording and container remain open. The separate map sender is still concealed. The latest emotional clarification makes Elias's understanding and forgiveness of both parents part of his return: their protective concealment and consuming exploration echo the series' central tension without requiring equal blame.
+- `01-bible/` — world rules and current Book I sequence; working later-book architecture.
+- `02-book-one/` — current v6 source and PDF, plus all previous editions.
+- `03-screen/` — earlier adaptation material, retained for later revision.
+- `04-characters/` — current main profiles and dated planning profiles.
+- `05-art/` — the original drawing used as the frontispiece.
+- `06-development-notes/` — review history, current revision record, and later tasks.
+- `08-production/` — reproducible renderers and validation records.
+- `99-archive/` — original inputs, prior references, and chronological discussion source.
 
-The latest [pre-v6 assessment](06-development-notes/v6-readiness-assessment-2026-09-23.md) reviews the actual v5 against the accumulated directions, identifies the remaining causal choices, and records the quiet-ending refinement: ordinary family talk, Elias holding the necklace without questions, and proposed different toast constructions. Family knowledge remains unconfirmed.
+## Preservation
 
-`06-development-notes/v6-development-path-2026-09-23.md` records the subsequent
-adversarial review and author response as a path toward v6. It includes guarded access
-to Daniel, shared scientific curiosity, the temptation to stay, proposed crossing
-restrictions, the missing page, Haven's restraint, and an ending grounded in gratitude.
-The sparrow is to recur as ordinary life, not as evidence of a simulation error.
-The complete discussion source is preserved in the session-notes archive.
-
-`06-development-notes/v6-todo.md` tracks the pending decisions and drafting work.
-The latest character proposal makes Elias an aerospace engineer; the reunion is to
-give him Daniel's full attention and the appeal of a shared working life aboard the Vessel.
-The latest proposal focuses that career on human space habitats and preservation.
-The exact role and project remain open. His protective vocation and wish to reconnect
-with Daniel make the Vessel a personal ideal, while allowing a visionary reading in
-Book I. Elias experiences it as intensely real. Daniel's search for meaning is retained
-as a possible layer of his scientific purpose.
-
-The planning notes also record Hesk's scientific role and clinical-seeming manner,
-a proposed request to trust her team, and the ending's intended feelings of gratitude,
-forgiveness, closure, presence, and moving forward. These are directions for scenes,
-not a concluding explanation to add to the novel.
-
-Latest decisions: the notebook is a sequence of progressively closer map views, with
-the last page supplying the missing location; Daniel has exactly two return opportunities
-in twenty years, with the current one the second; Haven's sustained poetic Ark account
-is a centerpiece of the compact pilot, followed by a few personal questions. These are
-recorded in planning and remain to be implemented in v6.
-
-Haven's clarified aim is to preserve multiple human futures through the Instance,
-Library, and Vessel. The Library carries biological and ecological inheritance and
-human memory, including histories, books, and dreams. The next revision must present
-that range of possibilities and human choice, rather than a single intended destination.
-
-These directions are documented but not yet applied to the prose, bible, character
-sheets, or synopsis. V5 remains the reading edition; no v6 manuscript or PDF is claimed.
-
-## Project folders
-
-- `01-bible/` — world rules and the current Book I sequence; later books retain their
-  working outlines, with direct v5 conflicts identified.
-- `02-book-one/` — v5 and all earlier prose/PDF editions.
-- `03-screen/` — earlier adaptation materials; not rewritten for v5.
-- `04-characters/` — original profiles aligned with v5, plus a separate v6 working profile document.
-- `05-art/` — original drawing, retained as frontispiece.
-- `06-development-notes/` — revision records, author sources, and historical alternatives.
-- `07-scene-workshop/` — earlier proposals, retained for reference.
-- `08-production/` — renderers, edition settings, and validation records.
-- `99-archive/` — earlier reference files and source discussion snapshots.
-
-## How to read the working records
-
-`06-development-notes/v5-revision-notes-2026-09-23.md` identifies what this edition
-implements. `current-plot-summary-books-one-and-two.md` is the readable current synopsis.
-The post-v4 notes preserve the author’s Haven speech, the ambiguity directions, and the
-mythic source suggestions; their original “not integrated” statements describe that
-earlier discussion stage. The v5 record identifies the present state.
-
-The narrator reports Elias’s experience without explaining symbols or settling its
-ultimate cause. The family encounter is specific; the clinical, visionary, and voyage
-readings remain available. The later series’ science-fiction architecture is not erased.
-
-The return limitation is used in v5 without an invented technical explanation. The
-previous Book III Window scene is retired from the active route; any Sami visit and the
-rule’s later scope remain to be developed. The map’s sender, Hesk’s deeper identity,
-Daniel’s later route, and longevity away from Ark care also remain open.
-
-V5 is a concentrated working narrative, not a claim of a finished full-length novel.
+Earlier manuscripts, PDFs, and artwork remain unchanged. `99-archive/pre-v6-reference/` holds exact copies of the supporting files changed in this pass. The session record preserves the author’s latest authorization and the implementation summary. The new v6 bundle retains this folder structure.

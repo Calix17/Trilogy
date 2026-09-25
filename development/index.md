@@ -1,5 +1,13 @@
 # Development Notes
 
+## Current: v6 delivered — 24 September 2026
+
+The revised pilot is written and rendered: seventeen chapters, 15,905 chapter-body words, 58 PDF pages. Start with [the revision record](v6-revision-notes-2026-09-24.md) and [completion checklist](v6-todo.md). The [current Books I/II summary](current-plot-summary-books-one-and-two.md) and core references are synchronized. The Book II sections retain their existing selected decisions.
+
+The dated planning documents carry implementation notices. The chronological index below retains earlier stages and their then-current statuses; it does not mean v6 is still awaiting authorization or drafting. Exact pre-v6 references are archived.
+
+---
+
 This directory contains historical editorial proposals and dated author clarifications.
 Explicit author decisions in the latest clarification supersede incompatible older
 proposals. Separately labelled recommendations and alternative routes remain open.
