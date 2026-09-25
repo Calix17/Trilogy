@@ -212,20 +212,3 @@ the instance, and precise chronology remain open. Book I keeps that provenance h
 Added `06-development-notes/current-plot-summary-books-one-and-two.md` and updated the
 project indexes and affected character notes. No manuscript prose, pilot, reading PDF,
 screen material, artwork, or historical master was changed in this update.
-
-## V3 manuscript review — 23 September 2026
-
-Added the submitted `book-one-paradise-v3.pdf` unchanged under `02-book-one/`.
-The earlier Markdown and PDF remain available for comparison; no extracted v3 text
-replaces the earlier Markdown. The submitted PDF is the latest manuscript reviewed.
-
-Added `06-development-notes/book-one-paradise-v3-review-2026-09-23.md`, covering all
-57 pages and 17 chapters. It distinguishes stronger emotional scenes from reversals
-of prior author direction, unresolved family consequences, concrete continuity slips,
-and intentional mysteries that do not require technical explanation. It includes a
-chapter-by-chapter revision map and observations from rendered PDF pages.
-
-Updated the root and development-note indexes. No manuscript text, bible, character
-sheet, current plot synopsis, screenplay, artwork, or archived source was rewritten.
-The review's recommendations are not adopted canon. In particular, v3's denial of
-Daniel's happiness and its faction/disclosure implications await author reconciliation.
