@@ -1,6 +1,6 @@
 # Current status and open work
 
-Book I is v7 working text: 17 chapters, 15,558 chapter-body words. V7 has no rendered reading PDF; the prior v6 edition is in Git history. Statuses below are carried forward from the supplied package. The migration makes no new editorial assessment. Books II and III remain development work. PDF and editorial verification begin only after the clean v7 migration baseline is pushed.
+Book I is v7 working text: 17 chapters, 15,558 chapter-body words. The first post-migration [full assessment](verification.md) and internal review PDF check are complete; manuscript and art remain unchanged. The approved illustrated reading edition and independent reader response remain pending. The prior v6 edition is in Git history. Books II and III remain development work. No editorial or PDF checks were performed during migration; this review follows the pushed `v7-clean` boundary.
 
 ## Book I implementation and remaining production work
 
@@ -15,8 +15,23 @@ Book I is v7 working text: 17 chapters, 15,558 chapter-body words. V7 has no ren
 | V7-07 | Chapters 6, 9, and 14 | Use “Finite life. Boundless knowledge.”; “Does knowing have a shore?”; and “How far must I wake before the dreaming ends?” in separate notebook encounters. Other selected lines remain available. | Three fragments applied; cover and other placements open. |
 | V7-08 | Cover/frontispiece | Existing “HERE” and “IT IS NOT A TREE” reveal the drawing’s answer. Revise the image before a new illustrated edition. The seeking/caring line remains a cover candidate. Preserve original art. | Pending design/render task. |
 | V7-09 | Optional chapter-opening art | One image per chapter remains proposed. Style, motifs, and size are not locked; images should not independently establish a ship, portal, diagnosis, or unseen event. | Optional; no new images generated. |
-| V7-10 | Whole pilot | The changed Vessel sequence has been read for room, character, object, and dialogue continuity. A fresh full-pilot pacing read and outside-reader response remain useful before a reading edition. Do not expand solely for novel length. | Targeted continuity review complete; full pacing/outside read pending. |
-| V7-11 | Manuscript, references, art, and PDF | Maintain one current source; synchronize bible, profiles, synopsis, philosophy notes, and checklist; preserve previous states and editions through Git commits. Render and inspect a new PDF after the art/cover pass. | Text and reference update complete; PDF/art pending. |
+| V7-10 | Whole pilot | The complete v7 manuscript has now been assessed for implementation, pacing, suspense, character arcs, symbols and reader risks. See the current assessment. Do not expand solely for novel length. | Internal full read complete; independent reader response pending. |
+| V7-11 | Manuscript, references, art, and PDF | Maintain one current source and history through commits. A 56-page internal proof passes text fidelity and layout review. Render the reading edition again after the art/cover pass. | Internal proof verified; approved illustrated edition/art pending. |
+
+## Post-v7 assessment follow-ups
+
+These are unimplemented recommendations, not new canon. Evidence, confidence, effects and options are in [the current review](verification.md#questions-causality-and-priority-risks). Existing S/V7 entries continue to own their underlying tasks.
+
+| Review ID | Next action | Status |
+| --- | --- | --- |
+| R-01 | Resolve practical family access, communication, opening duration and the alternatives to Elias's choice under S-02/S-03; consider one direct on-page question. | High-priority author decision; no rule changed. |
+| R-02 | Complete S-01's private map-delivery cause and chronology, including why completion becomes available now. | High-priority existing development task. |
+| R-03 | Clarify what Haven could have done for Ruth versus what she can restore after death, and how that relates to longevity. | High-priority author decision; no limit invented. |
+| R-04 | Test chapters 2/5, 11 and 13 for repetition or drift, and chapter 15 for enough decision space. | Reader test / targeted revision option. |
+| R-05 | Test whether existing family repair earns the ending; consider a small accountable act before departure. | Reader test / optional scene adjustment. |
+| R-06 | Test whether repeated bird details imply an unintended reset. Preserve ordinary recurrence and selected final exchange. | Reader test; no change assumed. |
+| R-07 | Correct spoiler-bearing art before releasing an illustrated reading edition. | Existing V7-08 remains pending. |
+| R-08 | Reconcile chapter 15's sheet-in-pocket wording with established notebook custody at copyedit. | Low-priority wording review. |
 
 ## Preserve during that pass
 
@@ -120,7 +135,7 @@ The exact crossing machinery; the confirmed source of the sound; a clinical or v
 
 ## Recommended next sequence
 
-1. Read the complete v7 working pilot for pacing and emotional effect, using the targeted continuity review as a baseline.
+1. Use the completed full assessment to settle the highest-priority practical decision and map-delivery questions before targeted prose revision.
 2. Revise the spoiler-bearing frontispiece; decide cover/tagline placement. Treat chapter art as a separate optional design choice.
 3. Render and inspect the v7 reading edition after those visual choices.
 4. Ask outside readers where attention drifted, what Elias gave up, whether the alternatives stayed believable, and whether homecoming felt earned.

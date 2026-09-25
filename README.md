@@ -2,7 +2,7 @@
 
 A science-fiction trilogy about a family, a search, and competing answers to survival.
 
-**Current baseline: Book I, Paradise — v7 working text.** The manuscript has 17 chapters and 15,558 chapter-body words. Books II and III have outlines and pilot passages, not complete manuscripts. V7 has no rendered reading PDF. The existing frontispiece still needs its recorded correction before a new illustrated edition.
+**Current baseline: Book I, Paradise — v7 working text.** The manuscript has 17 chapters and 15,558 chapter-body words. Books II and III have outlines and pilot passages, not complete manuscripts. A post-migration internal review PDF has been rendered and checked; an approved illustrated reading edition still awaits the recorded frontispiece correction.
 
 ## Writing files
 
@@ -11,6 +11,7 @@ A science-fiction trilogy about a family, a search, and competing answers to sur
 - [Characters](reference/characters.md) and [Books I/II synopsis](reference/synopsis.md).
 - [Current decisions and labelled proposals](development/decisions.md).
 - [Open work and implementation status](development/open-items.md).
+- [Current full-manuscript assessment and verification evidence](development/verification.md).
 - [Philosophy, selected wording, and proposed scenes](development/philosophy.md).
 - [Original artwork](art/laniakea-tree.png) and [production instructions](production/README.md).
 
