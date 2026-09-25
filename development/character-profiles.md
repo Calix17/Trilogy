@@ -8,7 +8,7 @@
 
 **Personality and passions.** Capable, curious, practical, and drawn to making something work. The proposed aerospace focus is human habitats and preservation. He wants knowledge to become shelter, functioning systems, and a better chance for people to live. His love of science is real, even though it also grew in the moments when Daniel gave him attention.
 
-**What he wants.** A family life he participates in, useful work, and a relationship with the father he lost. Possible fragmentary contact gives him a new reason to believe Daniel is alive. His hope that Daniel wants to be found is an interpretation, not yet an established fact about the sender.
+**What he wants.** A family life he participates in, useful work, and a relationship with the father he lost. Daniel sent Ruth a small written message ten years after disappearing; she concealed it from Elias. When he discovers it, it gives him evidence that Daniel lived beyond the disappearance and changes his understanding of both parents. The discovery scene remains open. His hope that Daniel wants to be found is still an interpretation, not an established invitation.
 
 **What makes him difficult.** An unfinished question can absorb him until he treats the people around him as interruptions. He can mistake providing for others, solving their problems, or pursuing a future answer for being present with them. His secrecy grows as he fears how his experience will sound.
 
@@ -52,7 +52,7 @@
 
 **What she wants.** Familiar company and a say in her day. Earlier, she chose a life with Elias; she does not ask him to carry that choice as a debt. Her affection for Sami is a present relationship, not merely a way to remind Elias of his childhood.
 
-**Hurt, privacy, and forgiveness.** She can forgive Daniel without the story claiming his absence caused no harm. Her past secrecy is author direction, but precisely what she knew, what she withheld, and from whom remain open. Do not automatically make her the keeper of the Institute's address or of a confirmed cosmic truth. Waiting for Daniel now does not prove either past ignorance or complete knowledge.
+**Hurt, privacy, and forgiveness.** She can forgive Daniel without the story claiming his absence caused no harm. The latest direction specifies her secret: she kept Daniel's written message, sent ten years after he disappeared, and hid it from Elias because she feared losing her son through the door as well. These were Daniel's last words to her. She can cherish them while depriving Elias of knowledge he would have wanted. How much more she knew about the Institute or external world remains open. Her present waiting can echo her hope without proving a diagnosis or a specific promise of return.
 
 **Proposed line and tone.** If Ruth says “You're becoming like him,” the author's intended tone is a tender smile, not disappointment. A moment of recognizable scientific excitement or shared play could support the line. Its placement is unselected; it need not become a warning, prophecy, or another explanation during her final conversation.
 
@@ -66,11 +66,11 @@
 
 **What he wants.** Time, capable colleagues, instruments that let him ask the question properly, and the chance to bring back something valuable. He also loves Elias. During the reunion he gives his son his full attention and enjoys the work and conversation they share.
 
-**Contradiction.** He can sincerely intend to help people while postponing the immediate life he shares with particular people. A fragment of contact, if truly sent by him, can reveal continuing affection without replacing a relationship or erasing his earlier refusal to return. It must not silently establish that he commissioned a recruitment campaign against his son.
+**Contradiction.** He can sincerely intend to help people while postponing the immediate life he shares with particular people. He sends Ruth a short message ten years after disappearing, expressing love for her and Elias alongside his continued commitment. She conceals it from their son. His contact reveals continuing affection without replacing a relationship or erasing his choice not to return. It must not silently establish that he commissioned a recruitment campaign against his son.
 
 **Direction of change.** The reunion confronts him with the cost of his choices. His tenderness and the space-rock gift make the encounter meaningful; he still chooses his search. His later itinerary remains open.
 
-**Scene guidance.** Preserve the gift as a compact meeting of the boy's old interest and the father's belated attention. The editorial recommendation is to keep the early communication clue a note or photograph, reserving this rock for the reunion. If a rock is selected for the early clue instead, reconcile the object history deliberately.
+**Scene guidance.** Preserve the gift as a compact meeting of the boy's old interest and the father's belated attention. The latest personal contact is a small written message; its exact form and discovery scene remain open. Preserve this rock for the reunion. The letter should read as contact from a living person, not a final farewell; saying he is well, asking after Elias, and possible later correspondence are proposed approaches. Financial arrangements and a promise of return remain unselected.
 
 ## Hesk
 
@@ -93,3 +93,5 @@
 - Elias's affinity with Haven concerns care and preservation. It does not endorse every act she has taken.
 
 These are directions for behavior and relationships, not explanations for the narrator to deliver. Use only what each scene needs.
+
+The [letter review](../06-development-notes/v6-daniels-letter-2026-09-23.md) recommends discovery after Ruth's death but before crossing, records the current age calculation, and supplies optional wording. The note does not identify the anonymous map sender or confirm Daniel as the dream voice.

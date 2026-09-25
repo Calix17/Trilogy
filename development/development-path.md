@@ -20,6 +20,8 @@ Quiet-ending clarification: ordinary family conversation only, with no discussio
 
 Family and contact refinement: fragmentary evidence may suggest Daniel is alive, while detailed information about the external reality is restricted. A search-triggered support campaign can precede confirmation of Elias's identity and Hesk's personal involvement. The final map page supplies the necessary last localization through successive scales. The author's warmer, more specific descriptions of Sami, Lena, and Ruth are developed in [brief v6 character profiles](../04-characters/v6-character-profiles-2026-09-23.md).
 
+Daniel's letter clarification: Daniel sends Ruth a small written message ten years after disappearing. She keeps it and conceals it from Elias because she fears losing him to the same journey. The personal sender and sent date are now specified; the physical form, wording, discovery scene, and possible return promise remain open. See [the letter review](v6-daniels-letter-2026-09-23.md) for the age calculation, optional wording, and recommended discovery after Ruth's death but before crossing.
+
 **Status: development direction, not a rewritten manuscript.** V5 remains the current reading edition. Its prose, PDF, bible, character sheets, and synopsis have not been changed by this planning update. Explicit author directions below supersede incompatible older suggestions when preparing v6. Options introduced with “maybe” remain options.
 
 The preceding review and the complete author response are preserved in [the discussion source](../99-archive/2026-09-session-notes/v6-planning-source-2026-09-23.md). This document distinguishes those sources from editorial recommendations.
@@ -47,7 +49,7 @@ The remaining work is causal: access to Daniel, the practical choice at the door
 **Options retained, not selected as facts**
 
 - Hesk may acknowledge that she knows where Daniel is while hesitating to reveal more or arrange a meeting.
-- Ruth may have known more than she told Elias.
+- Beyond her now-established receipt and concealment of Daniel's later message, Ruth may have known more about the Institute or his situation than she told Elias. That further knowledge remains open.
 - The former colleague may speak with sadness about how things ended and may withhold knowledge.
 - Elias may be avoiding an implication he cannot bear to confront. Whether he has actually suppressed known facts, or merely fears a possible explanation, remains open.
 - A reunion could be understood as an attempt to recover years lost to hospitalization; it can also be the reunion aboard the Ark.
@@ -183,7 +185,7 @@ The author supplies a fuller family portrait. Sami is energetic and interested i
 
 Lena is warm, charismatic, and passionate about life, noticing beauty readily. Her withdrawal of brightness comes from loneliness and concern as Elias loses himself in the search. She loves Ruth and worries about the family and Sami. Keep her printmaking, humor, preferences, and limits so that warmth is part of a whole person rather than an obligation to provide everyone's happiness.
 
-Ruth kept the family going after Daniel's disappearance, did not speak badly of him, and eventually forgave him despite being hurt. She is private about the past; what she knew and withheld remains unselected. Now she waits for Daniel to come back from work and shows delight when she sees Elias or Sami. If “You're becoming like him” is used, her tender smile carries recognition rather than disappointment. Its placement remains open; it is not a demand for another warning or a deathbed explanation.
+Ruth kept the family going after Daniel's disappearance, did not speak badly of him, and eventually forgave him despite being hurt. She is private about the past. The later letter clarification establishes that she received and concealed Daniel's message out of fear that Elias would follow him; knowledge beyond that remains open. Now she waits for Daniel to come back from work and shows delight when she sees Elias or Sami. If “You're becoming like him” is used, her tender smile carries recognition rather than disappointment. Its placement remains open; it is not a demand for another warning or a deathbed explanation.
 
 The [brief character profiles](../04-characters/v6-character-profiles-2026-09-23.md) develop features, history, passions, wants, tensions, and possible behavior for Elias, Sami, Lena, Ruth, Daniel, and Hesk. They combine existing characterization with the latest directions and label scene recommendations. The main v5 character sheets are preserved until the v6 integration pass.
 
@@ -209,7 +211,7 @@ The emotional contrast can be carried by a short acknowledgment of the earlier c
 - The interval between opportunities, their duration, and whose clock measures that duration.
 - Whether v5's permanent prohibition on another outward journey survives or is replaced by limited opportunities.
 - The scope of comparable return opportunities for other people. Daniel's two opportunities and present refusal are now selected.
-- Whether communication, family accompaniment, or separately prepared later crossings are possible.
+- The remaining limits on communication, family accompaniment, and separately prepared later crossings. Daniel's later small written message is now established; its route does not require explanation.
 
 **Editorial assessment**
 
@@ -221,19 +223,21 @@ Introduce any deadline before it forces the climax. Let enough quiet time remain
 
 Preserve Daniel's agency in the Ark account. His two opportunities are real choices, including the present one. His grief and sense of time already lost may help explain his commitment, but the text should not certify that returning would be meaningless or that further work can repay the missing years.
 
-**Communication clarification: fragments rather than complete silence**
+**Communication clarification: Daniel's message and Ruth's concealment**
 
-The author now proposes broken or partial communication: a letter, picture, rock, or other sign that gives Elias reason to suspect Daniel is alive. This can motivate the renewed search. Detailed information about the external reality should be restricted from entering the internal society. The particular fragment, its delivery date, provenance, and the exact scope or enforcement of the restriction are not selected.
+The latest author direction specifies a small written message sent by Daniel ten years after his disappearance. A postcard, short letter, or notebook page are possible forms. Ruth keeps it as the last contact she receives from him and conceals it from Elias because she fears he will follow Daniel through the door and be lost to her too. At the story-design level the personal message is Daniel's; its sender is no longer an open question. The anonymous map page and the serpent's later pressure remain distinct.
 
-Elias may believe Daniel wants him to find him. That belief is not yet proof that Daniel sent the clue or invited the pursuit. The serpent's temptation can exploit the desire to know more. A father-like shadow at a porch or doorway, or the name heard in the dream, can reinforce that feeling without establishing a telepathic call or a confirmed speaker.
+Daniel expresses love for Ruth and Elias, his continued commitment, and a hope that Ruth will understand. Saying that he is well and misses them is proposed. Financial provision before leaving and any promise that he will return remain optional. The message should feel like contact from a living, absent person; omit a cluster of financial instructions, final arrangements, and farewell language. No cosmic explanation is required.
 
-Editorial recommendation: use one short, incomplete personal note as the early clue; a photograph is another available choice. Reserve the rock for Daniel's reunion gift so it retains its specific childhood payoff. If an early rock is chosen, reconcile the two appearances rather than accidentally making a later first gift into a previously received object. Avoid adding a collection of disconnected clues.
+The [letter review](v6-daniels-letter-2026-09-23.md) contains the full decision boundary, a non-final wording study, and integration options. The current timeline makes Elias about twenty-five when the letter is sent. Its date is ten years after the disappearance and approximately ten years before the present story. It does not establish a return-window date or a regular ten-year cycle.
 
-The restriction concerns revealing the external world, not automatically every personal word. A fragment can suggest life or affection without disclosing the Ark, coordinates, or the nature of the Instance. Privately distinguish institutional restrictions from what Daniel voluntarily failed to do. Partial contact should neither make him entirely trapped nor erase the two return opportunities he declined.
+The editorial recommendation is discovery after Ruth's death and before the crossing, among her private correspondence or an envelope kept with the notebook. This would motivate the next stage of an existing search, not the opening searches that precede its discovery. Discovery aboard the Vessel remains an author option. If the letter is concealed inside the notebook, account for Elias's earlier close inspection without contriving a loose page he repeatedly overlooks. Reserve the rock for the reunion under the current recommendation.
 
-A possible rationale is protecting the continuing society's independence, consistent with Haven's established stewardship; the author has not specified the rule's full rationale or administrator. This remains a choice with costs, not an excuse to portray the steward as incapable of intervention. No memory erasure, universal ban on all communication, or enforcement mechanism is added. Elias's earlier secrecy toward his family can still arise from his own fear of how the search will sound.
+Ruth's fear and concealment are author-level knowledge. The viewpoint still needs fair evidence for what Elias can know or infer about her motive. He may feel both gratitude and hurt. Her waiting for Daniel to return can acquire an emotional association with the letter without a narrator giving a clinical explanation of her memory or claiming that a firm return promise has been selected.
 
-Whether family members can accompany him remains a separate unselected detail. The final quiet breakfast does not establish what he has or has not disclosed.
+Detailed disclosure about the external world remains restricted. That is compatible with a personal message expressing wellbeing or affection. The exact scope and administrator remain open. A possible rationale is preserving the internal society's independence; it is an editorial reconciliation, not a selected rulebook. Do not invent memory erasure, a universal prohibition of every personal word, or a transfer mechanism.
+
+The letter does not erase Daniel's decisions not to return, establish an invitation to Elias, or make Daniel the source of the dreams. Elias can feel called while the identity of the dream speaker remains unresolved. Family accompaniment is still a separate question. The last breakfast remains ordinary conversation and does not establish what he has told Lena or Sami.
 
 **Temporal structure to preserve**
 
@@ -511,7 +515,7 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 | V5 chapter | V6 work | Restraint or dependency |
 | --- | --- | --- |
 | 1. The Good Days | Preserve breakfast, family activity, and unattended beauty. Let Sami's energy and Lena's delight in ordinary life have their own presence. Consider the proposed toast house or base; revise connected bridge-specific lines together. Treat the bird as living recurrence. | House is the editorial recommendation, not a locked author choice. No replay signal or early dream. |
-| 2. The Algorithm | Keep intrusive targeting and Elias's competence. Consider search-triggered general support before personal identification; a partial note can motivate the renewed search without proving its sender. The latest specialty proposal is human space habitats and preservation; seed it through the practical work problem and its stakes for occupants. | Exact role and project remain open. Avoid a résumé, a miniature Ark blueprint, or implying mature space mining. |
+| 2. The Algorithm | Keep intrusive targeting and Elias's competence. Consider search-triggered general support before personal identification; if the personal letter is discovered early, it can motivate the renewed search; the recommended later discovery instead motivates the crossing. The latest specialty proposal is human space habitats and preservation; seed it through the practical work problem and its stakes for occupants. | Exact role and project remain open. Avoid a résumé, a miniature Ark blueprint, or implying mature space mining. |
 | 3. Ruth | Preserve care, her preferences, delight in Elias and Sami, and the quiet sound. Possible guarded history stays subtle; any “becoming like him” line is tender, not accusatory. | No explanation of a diagnosis or obligatory secret clue in every conversation. |
 | 4. Daniel | Add one affectionate science memory that joins wonder to contact with his father and can seed Elias's aerospace interest. Retain coloring at six and the later dismissed mineral. | Do not make every scientific interest merely a symptom of unmet affection. |
 | 5. Seams | Rework the colleague's guardedness and Elias's uncertain interpretation. Remove the bird-comparison logic. Keep the first indistinct dream sound. | Review title; no confirmed hospitalization, intelligible name, or technical proof. |
@@ -519,7 +523,7 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 | 7. Two Trails | Make protective contact and the competing pull distinguishable in their consequences. | Avoid a faction briefing; preserve personal consequences already established. |
 | 8. The Institute | Hesk's scientific role is compatible with a clinical manner. Keep access guarded; use the proposed request for trust only when an encounter can be acknowledged. A later dream draws the sound closer. | The request should feel personal to the situation, not automatically promise immediate access. Keep the dream separate in time; a father-like presence is felt, not authenticated. |
 | 9. The Recital | Preserve the deliberately missed opportunity. Give the anonymous page a specific later consequence. Adjust the promise to explain and examine the map with Sami, given the new quiet ending. | Elias remains responsible for ignoring calls. Preserve relational repair without requiring a final cosmological discussion. |
-| 10. What Ruth Knew | Retain brief last words, grief, and the recording. | Any knowledge she held stays selective; the title should not promise a full revelation she does not give. |
+| 10. What Ruth Knew | Retain brief last words, grief, and the recording. Consider discovering Daniel's concealed message among Ruth's things after her death, before crossing. | Placement is recommended, not selected. Date it ten years after disappearance; Elias was about twenty-five. Do not turn her last words into a confession. |
 | 11. The Door | Let the last major dream bring his name out of the noise. Preserve the ordinary journey and thresholds. Begin the transition in a plain room with a chair; let changed perceptions accumulate while he waits. | Review the star dome. No visible advanced portal, activation sequence, declared blackout, identified dream speaker, or explanatory diagnosis. |
 | 12. Cold | Continue his reorientation through care, sensation, and activity. Introduce the familiar background noise without breaking the experienced transition. Let a few details attract his habitat-engineering attention and make the place intensely present to him. | “Waking” does not require an unseen interruption. Same-traveller continuity remains; neither expertise nor the dream resemblance proves the cause. |
 | 13. The Steward | Protect the sustained, poetic account as the pilot's science-fiction centerpiece. The three worlds preserve complementary possibilities, including living society, embodied futures, and biological and cultural memory. A few personal questions follow. | Do not portray Haven as preserving only the Instance. No interview, propulsion lecture, early Book II disclosure, or equation of a record with an ongoing person. |
@@ -544,7 +548,7 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 
 **Haven's clarified aim:** preserve complementary human futures through the Instance, Library, and Vessel, and leave the next choice to humans. The Library carries biological and ecological inheritance and remembered human life: histories, books, dreams, and other records. The mature Ark is not restricted to one intended human destination.
 
-**Continuity and implementation still to reconcile:** the remaining access terms and the scope and provenance of fragmentary communication; why the sender uses Elias to carry the final page; how Haven's received information relates to that page; the exact destination region; the extent of Ruth's and the colleague's knowledge; the contribution father and son share; the private chronology of the stone becoming the necklace held by Elias. Family knowledge need not be selected or disclosed in the closing scene. Retain the established disclosure boundaries and develop only what the pilot needs. These details do not change the selected map function or the count of Daniel's opportunities.
+**Continuity and implementation still to reconcile:** the remaining access terms and the form, discovery placement, and scope of the now-specified message from Daniel; why the sender uses Elias to carry the final page; how Haven's received information relates to that page; the exact destination region; the extent of Ruth's and the colleague's knowledge; the contribution father and son share; the private chronology of the stone becoming the necklace held by Elias. Family knowledge need not be selected or disclosed in the closing scene. Retain the established disclosure boundaries and develop only what the pilot needs. These details do not change the selected map function or the count of Daniel's opportunities.
 
 The previous unresolved routes remain open where not addressed: Daniel's eventual departure or stay, Sami's later route, Hesk's deeper identity, and the durability of extended life away from Ark care. Do not restore Book III's retired repeat visit by Elias merely because crossing restrictions are being reconsidered.
 
@@ -564,7 +568,9 @@ Do not expand toward a word-count target. Add a scene when it changes desire, kn
 
 - Can the reader understand why Elias does not meet Daniel at the first visit?
 - Does the proposed contact sequence distinguish a search trigger from confirmed identity, and keep protective wording compatible with its purpose?
-- Does the partial clue give Elias a reason to search without equating his hope with Daniel's confirmed invitation?
+- Does discovery of Daniel's old message motivate only the actions that follow it, without equating affection with an invitation to cross?
+- Does Ruth's concealment remain an act with emotional costs, and is Elias's inference about her motive fairly supported?
+- Does the note sound like contact from a living person, with the ten-year sent date and adult Elias kept consistent?
 - Does Hesk's request for trust belong to the scene and preserve the difference between her scientific role and her clinical-seeming presentation?
 - Has Elias enjoyed enough of the alternative for leaving to hurt?
 - Does Daniel actually give Elias his full attention, and can the reader feel why Elias would want more time with him?
@@ -594,4 +600,6 @@ The intended progress is a more costly choice and a richer appreciation of home.
 
 The [pre-v6 assessment](v6-readiness-assessment-2026-09-23.md) distinguishes the stronger planned architecture from changes not yet present in v5. The main causal work is Daniel's access and silence, the purpose of competing messages, and the final page's effect and delivery. The main scene work is experienced happiness with Daniel, Haven's complementary futures, and the quieter ending. These findings refine the existing nine tasks; they do not add crossing mechanics, select a diagnosis, or require public disclosure of the hidden sender.
 
-The latest contact proposal and family profiles are reflected in the assessment's follow-up. They replace the assumption of necessarily absolute silence with possible fragments, provide a proposed sequence for Hesk's knowledge, and reinforce the last page's localization. The concrete early clue, sender, and restriction details remain options; no v6 prose has been implemented.
+The latest contact proposal and family profiles are reflected in the assessment's follow-up. They replace the assumption of necessarily absolute silence with possible fragments, provide a proposed sequence for Hesk's knowledge, and reinforce the last page's localization. That earlier follow-up left the concrete clue and sender open; the letter clarification below now establishes Daniel's written message and Ruth's concealment. Restriction details and discovery placement remain options; no v6 prose has been implemented.
+
+The letter clarification supersedes the earlier open sender for the personal fragment and the claim that Ruth's withheld information is wholly unspecified. Daniel's later message and her fear are author direction; the final page's sender and purpose remain separate. Prior versions are preserved in the planning archive.

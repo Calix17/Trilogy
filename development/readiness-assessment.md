@@ -10,18 +10,26 @@ The original findings below are retained as the review that prompted this respon
 
 | Finding | New direction | Remaining drafting choice |
 | --- | --- | --- |
-| A1: Daniel's silence | Possible fragmentary communication gives Elias reason to believe Daniel lives; detailed disclosure about the external reality is restricted. | Choose one clue and its private provenance. Elias's belief that Daniel wants him to come need not be confirmed. The exact information rule and family access remain unspecified. |
+| A1: Daniel's silence | Daniel sends Ruth a small written message ten years after disappearing; she keeps it and conceals it from Elias out of fear he will follow. Detailed external disclosure remains restricted. | Choose the form, wording, and discovery scene. The message's affection does not establish an invitation. Access beyond this contact remains unspecified. |
 | A2: Hesk's knowledge and contact | Proposed searches for Daniel trigger general support; confirmation identifies Elias and his purpose before personal involvement. | Keep wording and timing consistent; decide who owns any provocative personal message. |
 | A3: map payoff | The sequence narrows across many scales. The final page identifies the destination within the otherwise enormous remaining search region. | Implement the completed location and its consequence. Why the sender involves Elias is a separate provenance question. |
 | Family depth | Sami shares space interests with his father; Lena's warmth coexists with loneliness and concern; Ruth's tenderness and forgiveness survive hurt. | Express these traits through behavior, retaining independent interests, limits, and brief dialogue. |
 
-**Editorial recommendation:** use a short incomplete personal note for the early clue and preserve the rock for the reunion. A picture remains an author option; no object or sender is locked here. Fragmentary contact can show affection without explaining the Ark or repairing a twenty-year absence. The author proposes restricted detailed disclosure, not confirmed mental messages or a blanket inability to communicate anything.
+**Latest personal-contact direction:** Daniel sends a small written message ten years after disappearing. Ruth hides and preserves it. A postcard, short letter, or notebook page remain possible forms; its personal sender is now established at the author level. Preserve the rock for the reunion. Fragmentary contact can show affection without explaining the Ark or repairing a twenty-year absence. The author proposes restricted detailed disclosure, not confirmed mental messages or a blanket inability to communicate anything.
 
 A father-like presence in the dream can make Elias feel called; the narrator does not authenticate the caller. Hesk's proposed sequence supplies a usable progression of knowledge without implying omniscient surveillance. The map's causal function is now adequately specified for a scene: broad orientation is incomplete until the final localization arrives.
 
-The [brief character profiles](../04-characters/v6-character-profiles-2026-09-23.md) develop the latest descriptions alongside v5's established history and interests. Ruth's proposed “You're becoming like him” carries a tender smile, not disappointment. Precisely what she knew or concealed remains open. Sami's rocket can now clearly grow from an existing interest, preserving the quiet ending's uncertainty about family knowledge.
+The [brief character profiles](../04-characters/v6-character-profiles-2026-09-23.md) develop the latest descriptions alongside v5's established history and interests. Ruth's proposed “You're becoming like him” carries a tender smile, not disappointment. The later letter clarification establishes that she concealed Daniel's message to prevent Elias following him; knowledge beyond that remains open. Sami's rocket can now clearly grow from an existing interest, preserving the quiet ending's uncertainty about family knowledge.
 
 These additions move the work toward implementation. The principal caution is to distinguish an apparent invitation from a confirmed one, so Daniel's choice, the serpent's pressure, and Elias's hope are not accidentally collapsed into a single act.
+
+### Later follow-up: Daniel's letter and Ruth's choice
+
+The [letter review](v6-daniels-letter-2026-09-23.md) records the new sent date, personal authorship, and concealment. These supersede the earlier open personal sender. The anonymous map page remains a different object with a different provenance question.
+
+The editorial recommendation is discovery after Ruth's death but before crossing. It can change Elias's understanding of both parents and motivate the next stage of his search, without expanding Ruth's final dialogue. If used there, it cannot be the opening search's initial trigger. A notebook hiding place must also account for his earlier close inspection. Elias is about twenty-five when it is sent, not a child still being raised.
+
+The note should suggest wellbeing, affection, ordinary ongoing life, and possibly later contact. Savings, final arrangements, a return promise, and the exact sample wording remain options. The author's desired emotional recurrence in Ruth's waiting need not be presented as a clinical mechanism. Her protective motive can be understood while its cost to her adult son remains real.
 
 ## Overall judgment
 
