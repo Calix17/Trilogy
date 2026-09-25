@@ -4,6 +4,25 @@
 
 **Status:** assessment and revision guidance. No v6 manuscript or PDF has been produced. The working prose remains v5. Explicit author decisions are distinguished below from recommendations and unresolved choices.
 
+## Follow-up: author answers after this assessment
+
+The original findings below are retained as the review that prompted this response. The subsequent author directions refine their status; they do not represent prose already implemented.
+
+| Finding | New direction | Remaining drafting choice |
+| --- | --- | --- |
+| A1: Daniel's silence | Possible fragmentary communication gives Elias reason to believe Daniel lives; detailed disclosure about the external reality is restricted. | Choose one clue and its private provenance. Elias's belief that Daniel wants him to come need not be confirmed. The exact information rule and family access remain unspecified. |
+| A2: Hesk's knowledge and contact | Proposed searches for Daniel trigger general support; confirmation identifies Elias and his purpose before personal involvement. | Keep wording and timing consistent; decide who owns any provocative personal message. |
+| A3: map payoff | The sequence narrows across many scales. The final page identifies the destination within the otherwise enormous remaining search region. | Implement the completed location and its consequence. Why the sender involves Elias is a separate provenance question. |
+| Family depth | Sami shares space interests with his father; Lena's warmth coexists with loneliness and concern; Ruth's tenderness and forgiveness survive hurt. | Express these traits through behavior, retaining independent interests, limits, and brief dialogue. |
+
+**Editorial recommendation:** use a short incomplete personal note for the early clue and preserve the rock for the reunion. A picture remains an author option; no object or sender is locked here. Fragmentary contact can show affection without explaining the Ark or repairing a twenty-year absence. The author proposes restricted detailed disclosure, not confirmed mental messages or a blanket inability to communicate anything.
+
+A father-like presence in the dream can make Elias feel called; the narrator does not authenticate the caller. Hesk's proposed sequence supplies a usable progression of knowledge without implying omniscient surveillance. The map's causal function is now adequately specified for a scene: broad orientation is incomplete until the final localization arrives.
+
+The [brief character profiles](../04-characters/v6-character-profiles-2026-09-23.md) develop the latest descriptions alongside v5's established history and interests. Ruth's proposed “You're becoming like him” carries a tender smile, not disappointment. Precisely what she knew or concealed remains open. Sami's rocket can now clearly grow from an existing interest, preserving the quiet ending's uncertainty about family knowledge.
+
+These additions move the work toward implementation. The principal caution is to distinguish an apparent invitation from a confirmed one, so Daniel's choice, the serpent's pressure, and Elias's hope are not accidentally collapsed into a single act.
+
 ## Overall judgment
 
 The story has a strong emotional and speculative foundation. The revisions make its central decision harder and more personal: Elias can recover his father's attention, pursue work he loves, and help preserve humanity by staying. Going home therefore costs him a valuable possible life. That is a stronger conflict than discovering that the ship is disappointing or that his father has nothing to offer him.
