@@ -27,9 +27,15 @@ These additions move the work toward implementation. The principal caution is to
 
 The [letter review](v6-daniels-letter-2026-09-23.md) records the new sent date, personal authorship, and concealment. These supersede the earlier open personal sender. The anonymous map page remains a different object with a different provenance question.
 
-The editorial recommendation is discovery after Ruth's death but before crossing. It can change Elias's understanding of both parents and motivate the next stage of his search, without expanding Ruth's final dialogue. If used there, it cannot be the opening search's initial trigger. A notebook hiding place must also account for his earlier close inspection. Elias is about twenty-five when it is sent, not a child still being raised.
+The latest scene proposal supersedes the earlier post-funeral recommendation: Ruth has a clear interval near the end of her life, briefly asks forgiveness, provides a key or access to retrieve the message, and hands it to Elias. “I didn't want to lose you” reveals the motive he previously had to infer. Keep her dialogue short and personal; choose or replace existing beats rather than accumulating last words. A private container can explain why Elias had not seen the letter despite inspecting the notebook. The letter was sent when he was about twenty-five and supports a further search; it does not prove Daniel is alive now or located in the Institute.
 
 The note should suggest wellbeing, affection, ordinary ongoing life, and possibly later contact. Savings, final arrangements, a return promise, and the exact sample wording remain options. The author's desired emotional recurrence in Ruth's waiting need not be presented as a clinical mechanism. Her protective motive can be understood while its cost to her adult son remains real.
+
+### Effect of Ruth's active disclosure
+
+This proposed scene gives Ruth agency and a specific action to regret, while allowing the letter to supply additional impetus before the crossing. It addresses the earlier concern about fairly conveying her motive. Its risk is overloading a dying parent's scene with repeated pleas, object retrieval, and exposition. Prefer one request for forgiveness, one admission of fear, a simple handover, and time for their existing relationship. The character can have a clear interval without the story scheduling every disclosure at her precise final breath. No clinical cause needs to be asserted.
+
+The key is ordinary access to her private material unless later selected otherwise. The Institute connection is Elias's inference from combined clues; Ruth need not provide an address or explain the door. The anonymous map page and Daniel's personal letter remain separate. This is development direction, not a rewritten scene.
 
 ## Overall judgment
 

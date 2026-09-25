@@ -1,5 +1,7 @@
 # The Final Decision — Development path toward Book I v6
 
+Latest review — 24 September: [contact and missing-page strategy](v6-contact-strategy-2026-09-24.md). Recommended attribution: Institute support ads; serpent-associated page and one private call; optional woman encounter left uncertain. A private ten-year return rhythm, letter aligned with the first opening, and Daniel carrying copies are new proposals. Earlier warnings against inferring a periodic schedule describe the previous state, before the author proposed one explicitly. No narrative render is authorized by this note.
+
 23 September 2026. Review of the author's six responses to the v5 adversarial review.
 
 Follow-up added the same day: Daniel can decline a return during the crossing windows; dreams recur across chapters and grow toward his name emerging from the noise; the sound recurs as he wakes and during the Haven encounter without a confirmed source. The previous planning document is preserved in `99-archive/v6-planning-iterations/`.
@@ -205,7 +207,7 @@ Daniel has had exactly two opportunities to return during the twenty years of hi
 
 By this second opportunity, he has missed much of Elias's life and Ruth has died. The loss changes what homecoming would mean to him. It does not remove his ability to return or turn his decision into physical entrapment. His full attention and warmth toward Elias during the reunion remain genuine; he can love this time with his son and still choose the work when they must part.
 
-This supersedes the earlier unspecified number of missed windows. Do not imply that openings were frequent or that he had a third return opportunity. The date of the first opening and the mechanism remain unspecified; do not infer a regular ten-year cycle. The count belongs to the twenty years of absence in Elias's account, without requiring a new clock-rate explanation.
+This supersedes the earlier unspecified number of missed windows. Do not imply that openings were frequent or that he had a third return opportunity. The mechanism remains unspecified. The author has now explicitly proposed a ten-year cycle or otherwise limited openings; the latest recommendation places the first return opportunity and personal letter at year 10 and the present second at year 20. This proposed alignment is not yet canon; two known opportunities alone would not establish a permanent periodic rule. The count belongs to the twenty years of absence in Elias's account, without requiring a new clock-rate explanation.
 
 The emotional contrast can be carried by a short acknowledgment of the earlier chance and the present offer and refusal. The narration need not list a history of procedures or explain the machinery. The scene can still resemble someone choosing to remain in a place of care without confirming hospitalization. Whether Daniel returns on a later occasion remains open for later development.
 
@@ -233,7 +235,7 @@ The latest author direction specifies a small written message sent by Daniel ten
 
 Daniel expresses love for Ruth and Elias, his continued commitment, and a hope that Ruth will understand. Saying that he is well and misses them is proposed. Financial provision before leaving and any promise that he will return remain optional. The message should feel like contact from a living, absent person; omit a cluster of financial instructions, final arrangements, and farewell language. No cosmic explanation is required.
 
-The [letter review](v6-daniels-letter-2026-09-23.md) contains the full decision boundary, a non-final wording study, and integration options. The current timeline makes Elias about twenty-five when the letter is sent. Its date is ten years after the disappearance and approximately ten years before the present story. It does not establish a return-window date or a regular ten-year cycle.
+The [letter review](v6-daniels-letter-2026-09-23.md) contains the full decision boundary, a non-final wording study, and integration options. The current timeline makes Elias about twenty-five when the letter is sent. Its date is ten years after the disappearance and approximately ten years before the present story. The letter date alone does not establish a regular cycle. The latest contact-strategy recommendation separately proposes aligning that date with the first return opportunity; author review is pending.
 
 The newest author proposal has Ruth initiate the disclosure in a clear interval near the end of her life. She asks forgiveness, says she did not want to lose Elias, gives him her chain with its physical key to her private papers, and gives him the retrieved letter. This replaces the earlier editorial preference for post-funeral discovery. Keep the retrieval simple and retain her agency; the key is ordinary and is not connected to Institute access. The handover motivates the next stage of an existing search, not its opening. Exact staging is still to be drafted. Reserve the rock for the reunion.
 
@@ -641,3 +643,12 @@ The latest contact proposal and family profiles are reflected in the assessment'
 The letter clarification supersedes the earlier open sender for the personal fragment and the claim that Ruth's withheld information is wholly unspecified. Daniel's later message and her fear are author direction; the final page's sender and purpose remain separate. Prior versions are preserved in the planning archive.
 
 Latest handover proposal: Ruth herself releases the letter during a final clear interval, asking forgiveness and naming her fear of losing Elias. This takes precedence over the previous editorial recommendation of a post-funeral discovery. Use only the dialogue and actions needed; the key is access to private material, not automatically a portal credential. The ten-year-old message supports hope and further action without proving Daniel's current location.
+
+
+## Contact attribution and recovered woman scene — 24 September 2026
+
+The new focused contact-strategy note records the author’s latest alternatives and recommends assigning the support ads to the Institute, the early car/page and one chapter 7 nighttime call to the serpent-associated effort, and no confirmed faction to the woman. The archived workshop line was “He found the door. You know. Your father.” It is not in v5. If retained, rewrite it as uncertain at first hearing and use it only as a brief beat; do not add another reliable father clue. Sami’s song remains innocent play. Omit the optional identifying note if adding the call.
+
+The Institute can invite a consultation while discouraging a crossing; the caller points to the same place for a different purpose. Hesk provides bounded truthful answers and ultimately respects informed choice. The intermediaries know of a possible opening and candidate, not a guaranteed future crossing.
+
+Recommended private chronology is departure at year 0, first return opportunity and Ruth’s letter at year 10, current second opportunity at year 20. This is a new proposal, not a prior established rule. Recommend Daniel carried copies of the incomplete sequence while the original stayed with Ruth; the final segment only recently reached the local intermediaries. Father and son decipher together before Haven verifies. The mechanism of delivery and crossing remains unstated. These proposals await review; v5 and the selected two-return count remain intact.
