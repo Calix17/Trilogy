@@ -2,6 +2,12 @@
 
 A science-fiction series built around a family, a search, and competing answers to survival.
 
+## Current development: v7 planning — 24 September 2026
+
+The [philosophy and mythology record](06-development-notes/v7-philosophy-and-mythology-2026-09-24.md) preserves the selected questions about care, freedom, enough, ambition, time, and attention; the two trees; Gilgamesh and the Odyssey/Ulysses pairing; and the new sea and cover lines. Their final placement remains open.
+
+The [next-revision checklist](06-development-notes/v7-revision-checklist-2026-09-24.md) separates confirmed v6 clarity fixes, editorial choices, optional illustration work, and later-series causal decisions. The [cover-line note](06-development-notes/the-final-decision-cover-line-2026-09-24.md) and [external-review assessment](06-development-notes/v6-external-review-assessment-2026-09-24.md) are preserved beside them. The reading edition below remains v6; no v7 prose or artwork has been generated in this documentation update.
+
 ## Current reading edition: Book I v6
 
 Start with [book-one-paradise-v6.pdf](02-book-one/book-one-paradise-v6.pdf). The [Markdown source](02-book-one/book-one-paradise-v6.md) is editable. This narrative pilot has seventeen chapters, 15,905 chapter-body words, and 58 PDF pages including the frontispiece.
