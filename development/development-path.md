@@ -298,9 +298,11 @@ The last page can complete the localization when brought to Haven. Reconcile thi
 
 Revise the earlier notebook descriptions that present the pages as repetitions or corrections of the same drawing. Preserve the child's coloring, the emotional history, and the missing-page discovery while making those observations compatible with a sequence of scales. The word “book” in the author's note is treated as Daniel's notebook, not a requirement that every page of the novel contain a map.
 
-**Transmission proposal still open**
+**Latest transmission proposal**
 
-A concealed agent may have received information inside the instance and passed clues to Daniel and Elias. Daniel may have come close without obtaining the missing piece. Elias may be pressured into carrying that page to Haven.
+The serpent-associated effort sends information into the Instance and uses local intermediaries to draw a person toward Haven. Daniel was the earlier intended carrier, receiving material possibly through university mail, but the useful completion did not reach Haven. Elias is the present opportunity. The proposed occupant of the car outside his house delivers the missing page, possibly through the mailbox. The delivery both unsettles him and suggests someone knows about his father's notebook. This supplies an information-delivery motive and supersedes the earlier editorial preference for recruitment alone as the primary purpose.
+
+The working reading of the author's alternating names is historical Daniel, present Elias. Haven's protective people seek to keep Elias in his ordinary life; they do not forbid every eventual voluntary encounter. The driver's identity stays unknown to the reader. Whether two groups also place contrasting advertisements remains an author option.
 
 **Existing series direction retained**
 
@@ -310,9 +312,9 @@ Book III identifies the Sower-associated ship as the map's source. The individua
 
 1. What did Daniel receive, and when? The drawing was already in his notebook when Elias colored it at six.
 2. Which final localization does Elias's page supply? Its function is selected; the exact target galaxy or region remains open.
-3. Is it a copy of a genuinely missing old page, or a later transmission presented in an older form?
-4. Why does the sender need Elias's involvement if it can already reach the instance?
-5. Why has Haven not already received or used the information? Limited access, limited attention, or needing a person's participation are possible categories, not selected answers.
+3. Why did the earlier attempt lack the last part? Recommended private answer: Daniel never received the final segment, rather than a new theft or unexplained loss. The delivered page completes a sequence; it need not be literally torn from the notebook.
+4. Why use Elias when the sender can reach the Instance? Recommended constraint: local access does not supply a reliable route to Haven's external attention. A prepared person's encounter is a workable channel. This is proposed, not yet a selected technical rule.
+5. What did Haven already know? Recommended reconciliation: Daniel's earlier partial report is the source of her incomplete information. Do not show an independent complete message that makes Elias's delivery redundant.
 6. What changes after Elias brings it? Does it resolve a destination, establish a relationship, or allow a consequential comparison?
 
 **Book I payoff**
@@ -523,7 +525,7 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 | 3. Ruth | Preserve care, her preferences, delight in Elias and Sami, and the quiet sound. Possible guarded history stays subtle; any “becoming like him” line is tender, not accusatory. | No explanation of a diagnosis or obligatory secret clue in every conversation. |
 | 4. Daniel | Add one affectionate science memory that joins wonder to contact with his father and can seed Elias's aerospace interest. Retain coloring at six and the later dismissed mineral. | Do not make every scientific interest merely a symptom of unmet affection. |
 | 5. Seams | Rework the colleague's guardedness and Elias's uncertain interpretation. Remove the bird-comparison logic. Keep the first indistinct dream sound. | Review title; no confirmed hospitalization, intelligible name, or technical proof. |
-| 6. The Notebook | Keep the childhood connection, changing map scales, and secrecy. Latest staging recommendation: move the anonymous car-envelope delivery here, with a brief identifying phrase and uncertain observer. | Preserve the colored page. Do not confirm surveillance or send Hesk the final page; exact delivery staging remains for review. |
+| 6. The Notebook | Keep the childhood connection and changing map scales. Proposed mailbox delivery follows a car seen outside his house; Elias recognizes resemblance before identifying the missing continuation. | The car's occupant is a proposed intermediary at writer level, unidentified in Book I. The page should not be sent to Hesk beforehand. |
 | 7. Two Trails | Sami invents a song about an ant carrying breadcrumbs; Elias, unsettled by the earlier encounter, hears the advertising echo and overreacts. Foundation contact then supplies his identity. | Replace the device-origin explanation. Keep the child's ordinary play, accountability, and distinct protective/anonymous contacts. |
 | 8. The Institute | Hesk's scientific role is compatible with a clinical manner. Keep access guarded; use the proposed request for trust only when an encounter can be acknowledged. A later dream draws the sound closer. | The request should feel personal to the situation, not automatically promise immediate access. Keep the dream separate in time; a father-like presence is felt, not authenticated. |
 | 9. The Recital | Preserve the deliberately missed opportunity. Under the latest staging proposal he continues studying the page received in chapter 6; no second delivery is needed. Adjust the promise to explain and examine the map with Sami, given the new quiet ending. | Elias remains responsible for ignoring calls. Preserve relational repair without requiring a final cosmological discussion. |
@@ -627,6 +629,8 @@ Rana is reserved, terse, and nurse-like in a cold room. Haven's calm, resonant, 
 The latest reunion proposal has Daniel and Elias work through the pages together. A letter received at Daniel's university can explain the immediate origin of the earlier material in a sentence; it must predate Elias's coloring at six and remain distinct from Daniel's later letter to Ruth. Daniel has partial understanding, Elias brings the missing view, and their shared work produces a new interpretation. The recommended division is discovery in chapter 14, verification and planetary consequences with Haven in 15. This replaces the proposed separate habitat exercise while preserving the occupation's wider appeal.
 
 The [revised chapter outline](v6-chapter-and-clue-outline-2026-09-24.md) carries these changes. Its latest chapter sections take precedence over older staging proposals above. The manuscript remains v5 and the author has requested review before rendering.
+
+Subsequent message-route proposal: the car's occupant may be the local intermediary delivering the page to Elias's mailbox. Earlier Daniel and present Elias are successive attempts to bring incomplete, then completing, information to Haven. The revised outline separates that writer-level cause from the reader's uncertainty and records proposed answers for the incomplete first attempt and the lack of a reliable direct route to Haven. A competing advertising effort is an option; its motive and attribution must remain distinct from Hesk's protective campaign.
 
 ## Assessment before the v6 rewrite
 
