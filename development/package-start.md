@@ -14,10 +14,11 @@ Complete project package, consolidated 24 September 2026.
 
 ## Latest conceptual records — all included
 
-**Latest addition:** [Adaptation, emergency preservation, and feedback](06-development-notes/book-three-adaptation-emergency-and-feedback-2026-09-24.md). Sower rescues the colony’s changed descendants through simulation and later instantiation when a sudden crisis outruns adaptation. Haven’s mining history predates Daniel’s birth. Proposed factions, hazard options, researched distinctions, a compact candidate outline, and all supplied feedback are included. Daniel’s final door remains the ending.
+**Latest addition:** [Fermi, LUCA, and ancestral seeding](06-development-notes/fermi-luca-and-ancestral-seeding-review-2026-09-24.md) assesses the supplied feedback and checks its scientific references. An older Ark seeding Earth remains an optional, unconfirmed possibility. The review corrects the proposed biochemical clue and distinguishes quiet-Ark models from universal laws. Current colony, rescue, and Daniel-ending decisions are unchanged.
 
 | Record | What it contains |
 | --- | --- |
+| [Fermi/LUCA review](06-development-notes/fermi-luca-and-ancestral-seeding-review-2026-09-24.md) | Scientific references, the expected-resemblance issue, seeding and bounded growth, and optional restrained placement. |
 | [Latest adaptation clarification](06-development-notes/book-three-adaptation-emergency-and-feedback-2026-09-24.md) | Confirmed changes, faction and hazard proposals, Sower’s response, and assessment of supplied feedback. |
 | [Compact candidate outline](06-development-notes/book-three-adaptation-candidate-outline-2026-09-24.md) | Eight provisional beats; no new chapter prose or changed ending. |
 | [Science and ethics checks](06-development-notes/book-three-adaptation-science-notes-2026-09-24.md) | Genome editing, mineralized fibers, and evolutionary time; sources and fictional limits. |
@@ -61,7 +62,7 @@ The archive retains earlier documents and alternatives so their ideas are not lo
 
 - [CONTENTS.md](CONTENTS.md) lists every packaged file by folder.
 - [Consolidation report](08-production/zip-consolidation-report-2026-09-24.md) identifies the scope checked and the distinct older files added.
-- [Latest update verification](08-production/book-three-adaptation-validation-2026-09-24.json) records package integrity, preservation, and reference checks.
+- [Latest update verification](08-production/fermi-luca-validation-2026-09-24.json) records package integrity, preservation, and reference checks.
 - [Coverage table](08-production/package-source-coverage-2026-09-24.csv) maps each checked source document or prior-ZIP member to its matching content in this package.
 
 Future substantive notes and decisions should continue to be included in the project ZIP. Standalone copies are optional conveniences.
