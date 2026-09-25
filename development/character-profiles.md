@@ -14,7 +14,7 @@
 
 **Direction of change.** The Ark offers meaningful preservation work and Daniel's full attention. Elias must give up something worthwhile when he chooses home. The return preserves curiosity and professional purpose while changing what he lets them cost his family. His final attention is an action, not a claim that every relationship is instantly repaired.
 
-**Scene guidance.** Let his skill appear through a problem with human consequences. Let him be interested in Sami's actual explanation, not only in improving the child's design. At the last breakfast he holds the necklace without discussing its history and joins the ordinary conversation.
+**Scene guidance.** Let his skill appear through a problem with human consequences. Let him be interested in Sami's actual explanation, not only in improving the child's design. At the last breakfast he holds Ruth's chain, now carrying Daniel's stone, without discussing its history and joins the ordinary conversation. The brief gesture recalls both parents while he participates in the life in front of him.
 
 ## Sami
 
@@ -52,7 +52,7 @@
 
 **What she wants.** Familiar company and a say in her day. Earlier, she chose a life with Elias; she does not ask him to carry that choice as a debt. Her affection for Sami is a present relationship, not merely a way to remind Elias of his childhood.
 
-**Hurt, privacy, and forgiveness.** She can forgive Daniel without the story claiming his absence caused no harm. The latest direction specifies her secret: she kept Daniel's written message, sent ten years after he disappeared, and hid it from Elias because she feared losing her son through the door as well. These were Daniel's last words to her. She can cherish them while depriving Elias of knowledge he would have wanted. In the latest scene proposal, a clear interval lets her ask forgiveness, admit she did not want to lose him, and direct him to retrieve the message so she can give it to him. This is an act of relinquishing control as well as an admission of fear. How much more she knew about the Institute or external world remains open. Her present waiting can echo her hope without proving a diagnosis or a specific promise of return.
+**Hurt, privacy, and forgiveness.** She can forgive Daniel without the story claiming his absence caused no harm. The latest direction specifies her secret: she kept Daniel's written message, sent ten years after he disappeared, and hid it from Elias because she feared losing her son through the door as well. These were Daniel's last words to her. She can cherish them while depriving Elias of knowledge he would have wanted. In the latest scene proposal, a clear interval lets her ask forgiveness, admit she did not want to lose him, and give him her chain with its key so he can retrieve the message and she can hand it over. The chain remains with Elias and later carries Daniel's stone. This is an act of relinquishing control as well as an admission of fear. How much more she knew about the Institute or external world remains open. Her present waiting can echo her hope without proving a diagnosis or a specific promise of return.
 
 **Proposed line and tone.** If Ruth says “You're becoming like him,” the author's intended tone is a tender smile, not disappointment. A moment of recognizable scientific excitement or shared play could support the line. Its placement is unselected; it need not become a warning or prophecy. Keep it separate from the proposed brief apology about the hidden letter; neither line needs to explain the larger mystery.
 
@@ -70,7 +70,7 @@
 
 **Direction of change.** The reunion confronts him with the cost of his choices. His tenderness and the space-rock gift make the encounter meaningful; he still chooses his search. His later itinerary remains open.
 
-**Scene guidance.** Preserve the gift as a compact meeting of the boy's old interest and the father's belated attention. The latest personal contact is a small written message; its exact form and discovery scene remain open. Preserve this rock for the reunion. The letter should read as contact from a living person, not a final farewell; saying he is well, asking after Elias, and possible later correspondence are proposed approaches. Financial arrangements and a promise of return remain unselected.
+**Scene guidance.** Preserve the gift as a compact meeting of the boy's old interest and the father's belated attention. The latest personal contact is a small written message; its exact form and discovery scene remain open. Preserve this rock for the reunion. Under the latest author direction it later hangs from Ruth's chain; Daniel remains alive, despite the gift becoming a keepsake. A gray stone with a silver-colored grain or seam is the proposed appearance, not a composition claim. The letter should read as contact from a living person, not a final farewell; saying he is well, asking after Elias, and possible later correspondence are proposed approaches. Financial arrangements and a promise of return remain unselected.
 
 ## Hesk
 
@@ -90,6 +90,7 @@
 - Lena's care for Ruth and her own creative life make the household a living community rather than an abstract destination.
 - Ruth can forgive Daniel and love what resembles him in Elias, while Elias makes a different choice.
 - Daniel and Elias can enjoy their shared curiosity without becoming the same person.
+- Ruth's chain and Daniel's stone give Elias a keepsake of both parents. Let the established object history carry this connection without explanatory dialogue.
 - Elias's affinity with Haven concerns care and preservation. It does not endorse every act she has taken.
 
 These are directions for behavior and relationships, not explanations for the narrator to deliver. Use only what each scene needs.

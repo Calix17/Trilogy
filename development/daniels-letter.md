@@ -24,7 +24,7 @@ Her repeated question about Daniel can acquire a new meaning on rereading. Treat
 
 ## Latest scene proposal: Ruth chooses to give him the letter
 
-The author accepts the earlier tonal and continuity corrections and proposes an active disclosure. During a clear interval near the end of her life, Ruth asks Elias to forgive her and says she did not want to lose him. She gives him a key or other access to retrieve something she has kept, then hands him Daniel's message. Elias is already searching or considering the encounter; the letter gives him an additional, personal reason to take the next step.
+The author accepts the earlier tonal and continuity corrections and proposes an active disclosure. During a clear interval near the end of her life, Ruth asks Elias to forgive her and says she did not want to lose him. She takes off the chain she wears with a small physical key and gives both to Elias. The key lets him retrieve what she has kept so she can hand him Daniel's message. Elias is already searching or considering the encounter; the letter gives him an additional, personal reason to take the next step.
 
 This is the preferred scene proposal for development, not finished prose or a requirement to use every suggested line. It supersedes the earlier editorial preference for discovering the letter only after her death. Its advantage is that Ruth chooses to relinquish information she once withheld. Elias hears her fear rather than having to infer her full motive from an object alone.
 
@@ -32,7 +32,7 @@ This is the preferred scene proposal for development, not finished prose or a re
 
 1. Begin within the existing caregiving scene, with an ordinary action or wish that keeps Ruth a person before the disclosure.
 2. She addresses Elias and asks forgiveness briefly. “Please forgive me” is the recommended tone; repeated “you need to forgive me” could make the scene sound like a demand.
-3. She gives him access to a small private container or papers and asks him to bring them. The author's “passkey” need not be a technical credential. A small physical key is the simplest editorial option, not a selected prop or an Institute access key.
+3. She takes off her chain with its key and gives both to Elias, asking him to bring the private container or papers the key makes accessible. The latest author direction selects an ordinary physical key on her chain. The container remains to be chosen; this is not an Institute access key.
 4. He brings the object back to her; she chooses the letter and passes it to him. Retain her agency. The retrieval should be simple and nearby, without becoming a search puzzle or a task that abruptly displaces their time together.
 5. “I didn't want to lose you” explains the concealment. One request for forgiveness and this sentence may be enough; if the fear is repeated, give that repetition a changed emotional context rather than adding several pleas.
 6. Elias recognizes the handwriting or reads enough to understand that Daniel wrote after disappearing. He need not read the whole letter aloud, question Ruth about every implication, or decide at once how he feels. He can remain with her while the meaning continues to unfold.
@@ -49,9 +49,21 @@ The scene repairs a specific evidence problem: Ruth can now express the fear beh
 
 ### Object history and earlier alternatives
 
-Use the key or access to explain why Elias had not already seen the letter. He has examined the notebook closely; a private container is more straightforward than an unexplained ordinary page he repeatedly missed. If the author ultimately chooses a notebook hiding place, make its access consistent with those earlier examinations.
+Use the ordinary key and private storage to explain why Elias had not already seen the letter. He has examined the notebook closely; a private container is more straightforward than an unexplained ordinary page he repeatedly missed. If the author ultimately chooses a notebook hiding place, make its access consistent with those earlier examinations.
 
 The post-funeral discovery and the Vessel discovery are preserved as earlier alternatives in the archive. A later discovery cannot explain searches already made. Under the current proposal, Ruth's handover motivates the next stage of Elias's existing search, not the opening search itself.
+
+## Chain, key, and stone — author addition, 24 September 2026
+
+The necklace now has two sources: Ruth's chain and Daniel's stone. This is the same physical chain throughout, not a second chain chosen later. Ruth wears it with the key, takes it off, and gives both to Elias during the proposed late-life disclosure. The key has a practical task: access to the letter she withheld. The chain stays with him after that task is complete.
+
+Daniel's later reunion gift becomes the pendant on Ruth's chain. At the closing breakfast, Elias holds the chain and stone briefly before returning his attention to Lena and Sami. This carries a connection to both parents without requiring anyone to explain it. Ruth has died; Daniel is still alive and has chosen to remain away. Do not imply that both are dead or that the pendant erases the difficult choices they made.
+
+The author's proposed appearance is a gray stone with a silver-colored inclusion. A grain or narrow seam can supply the visual detail without identifying the metal as literal silver or proving the stone's cosmic origin. Align the reunion and closing descriptions in v6. Exact shade, wording, and whether Elias smiles at that moment remain optional.
+
+A brief recognition that this chain once held a key can orient readers. The narration should not then explain that it joins mother and father. An early, unobtrusive glimpse of Ruth's chain is an editorial option; the handover itself can establish it sufficiently. The mounting can happen off-page, without a craft scene or a required statement of elapsed time. Nobody asks about the necklace at the final table.
+
+This addition settles the key as an ordinary physical object on Ruth's chain. It leaves the container, the final wording of the handover, and the letter's precise physical form open. The chain is a keepsake and the key accesses private family material; neither authenticates the crossing or supplies access to the Institute.
 
 ## Keep it recognizable as contact from a living person
 
@@ -90,7 +102,9 @@ This is a tonal example only. The final version may be shorter. Its ordinary que
 | Daniel sends the message | Ten years later; Elias is about twenty-five. |
 | Ruth hides and keeps it | The author's new direction; concealment begins when she receives or finds it. |
 | Present Book I | Elias is thirty-five, twenty years after Daniel disappeared. The message dates from roughly ten years earlier. |
-| Discovery | Latest proposal: Ruth initiates a handover near the end of her life, before crossing. Exact timing, container, and reading sequence remain open. |
+| Discovery | Ruth gives Elias her chain with its key near the end of her life, before crossing; the key grants access to Daniel's message. Exact timing, container, and reading sequence remain open. |
+| Reunion gift | Daniel gives Elias the stone. Keep it separate from the earlier written message. |
+| Closing necklace | The same chain from Ruth now carries Daniel's stone; Elias holds it at the family table. Mounting can happen off-page. |
 | Daniel's return opportunities | Exactly two in the twenty years, the present one the second. The letter's date does not establish the first opening's date or a regular ten-year schedule. |
 
 Elias is an adult when the message is sent. Asking after him is natural; wording about care should not inadvertently treat him as a child still being raised. The coincidence with the approximate year of Sami's birth is not a selected plot connection; the letter should not assume Daniel knows about his grandson.
@@ -104,6 +118,7 @@ Keep three papers distinct unless the author deliberately combines them: the old
 - Revise references to Daniel's total silence and the earlier uncertainty about this personal message's sender. Its limited content still fits restricted disclosure of the external world.
 - Preserve Daniel's choices not to return. Contact does not require unrestricted correspondence, a new travel mechanism, or an additional crossing opportunity.
 - Let the reunion absorb the knowledge without becoming a long interrogation of Ruth's secrecy. Keep Daniel's genuine attention, concise accountability, and the eventual choice.
-- Preserve the quiet homecoming: no final discussion of this letter, the map, or the journey with Lena and Sami.
+- Carry the same chain from Ruth's key handover to Daniel's stone in the ending. Keep the stone's description consistent and the mounting off-page if it serves no scene.
+- Preserve the quiet homecoming: no final discussion of this letter, the necklace, the map, or the journey with Lena and Sami.
 
 The underlying contact and concealment are now author direction. The sample wording, exact handover staging, financial detail, and any promise of return remain proposals.
