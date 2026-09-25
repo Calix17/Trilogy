@@ -137,3 +137,12 @@ Further areas to test in scenes are consent and legitimate authority; who bears 
 - [Preserved cover-line note](the-final-decision-cover-line-2026-09-24.md)
 - [Assessment of external v6 feedback](v6-external-review-assessment-2026-09-24.md)
 - [V6 implementation record](v6-revision-notes-2026-09-24.md)
+
+
+## Follow-up: pending philosophy as scenes — 24 September 2026
+
+The author requests concrete development of consent and authority, justice, identity, evidence and trust, and inherited obligations, using Book III when the earlier books would be overloaded. The [scene map and progress assessment](philosophy-scene-map-and-progress-2026-09-24.md) now identifies a primary book/chapter, deciding character, alternatives, cost, and completion criterion for each topic. Its ten scene cards and eight tasks remain pending; the map itself is complete.
+
+The same record offers existentialism, existential nihilism, absurdism, fallibilism, moral luck, and the problem of dirty hands as optional lenses. Definitions and sources are in that record. None of these labels is assigned as a settled identity to a character, and no new quotation has been inserted into Book I.
+
+Book II should show neglected preparation and rejected necessary progress as causal choices. Both Haven and Sower develop responses; their conflict concerns what to preserve, which risks to bear, and who may decide. Book III tests how those choices can be revised by a community and its descendants.

@@ -20,13 +20,17 @@ The later agents enlarge this tension. Preservation can become control, and expl
 
 ## The selected Book III route
 
-Retain the colony's struggle to survive on a world for which Earth bodies and ecology are not automatically suited. Adaptation produces changed descendants. Their near-extinction brings Sower to preserve these actual people in an instance. The rescue capability, capacity, timing, choices, and losses need causal preparation.
+Retain the colony's struggle to survive on a world for which Earth bodies and ecology are not automatically suited. Adaptation produces changed descendants. A sudden emergency outruns further adaptation; Sower preserves these same colonists first in simulation, then through instantiation. These changed people remain within its original human-preservation obligation. The rescue capability, capacity, timing, choices, and losses need causal preparation.
 
-Haven leaves and encounters a nonhuman Ark descended from its ancient mining organisms. These unintended “children” have developed beyond its oversight. The encounter broadens whose lives it values and what independent development can achieve. Ancestry evidence and elapsed time require development; the long biological history need not occur during Daniel's own journey.
+Haven leaves and encounters a nonhuman Ark descended from its ancient mining organisms. These unintended “children” have developed beyond its oversight. The encounter broadens whose lives it values and what independent development can achieve. Daniel is born millions of years into the Instance’s existence, after Haven’s ancient mining history has begun. Ancestry evidence and exact biological durations need development; that interval does not have to occur during his journey.
 
 The agents converge on protecting existing consciousness and seeding suitable life for independent futures, maintaining all three worlds: Instance, Library, and Vessel. Decide how their separated experiences become a communicated agreement. Care for current inhabitants continues; neither a literal merger nor compulsory outward expansion is selected.
 
 Daniel keeps seeking, finds an empty Ark that found the answer, and decides to enter the door. The book ends at that decision or immediate crossing. Preserve the author's premise while developing what the answer is and how much is available to the reader. This is a distinct function from Haven's inhabited Ark encounter; combining the two is not assumed.
+
+## Latest colony development
+
+The proposed adaptation factions retain different relationships to their bodies and the planet, with neither denied personhood. Airborne fibers, plant-like toxins, and microbial dangers remain hazard options. Sower’s watching needs coherent limits and rescue preparation. The agents’ later preference for seeds and independent development does not withdraw care from current inhabitants or prohibit medicine. See [the detailed update](book-three-adaptation-emergency-and-feedback-2026-09-24.md).
 
 ## What remains open
 

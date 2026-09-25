@@ -115,11 +115,11 @@ See [the detailed clarification](book-three-adaptation-emergency-and-feedback-20
 
 ## Optional cosmology thread — F-01 to F-04
 
-The [Fermi/LUCA feedback review](fermi-luca-and-ancestral-seeding-review-2026-09-24.md) records checked references and a possible ancestral-seeding question. These items are optional development, not additions to the selected plot.
+The [Fermi/LUCA feedback review](fermi-luca-and-ancestral-seeding-review-2026-09-24.md) records checked references. The [later author clarification](consciousness-diversity-and-havens-purpose-2026-09-24.md) confirms that Earth's origin remains unproven and Daniel's door stays last. The possible reflection's function in Haven's wider concern is endorsed; its exact on-page use remains open.
 
 - **F-01:** Decide whether the quiet-Ark interpretation needs any further on-page statement. Selection alone does not resolve every expansion or probe counterexample; one encounter need not explain the entire sky.
-- **F-02:** Decide whether Haven briefly considers a lineage ancestral to LUCA having arrived from elsewhere. Keep Earth seeding unconfirmed; familiar Earth-derived biochemistry is not independent evidence of it.
-- **F-03:** Define which system is bounded as independent seeded lineages may create new fleets. Relate seeding-site choices to existing life and future freedom.
+- **F-02:** Develop the possible brief Earth-seeding reflection in Haven's encounter. Its purpose is now endorsed: deepen the value Haven places on preserving diverse conscious lives and enabling independent future forms. Exact inclusion, wording, and placement remain open. Earth seeding stays unconfirmed; familiar Earth-derived biochemistry is not independent evidence of it.
+- **F-03:** Define which system is bounded as independent seeded lineages may create new fleets. Relate seeding-site choices to existing life and future freedom. Express the wider goal through care for particular lives as well as future possibilities; seeding does not guarantee consciousness or make existing beings replaceable.
 - **F-04:** Keep this as a small possible reflection within Haven's encounter. Do not add a time loop, solve the myth warning, alter Daniel's empty Ark, or append a new ending.
 
 ## Mysteries that do not require explanation in Book I

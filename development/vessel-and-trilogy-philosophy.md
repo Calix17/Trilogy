@@ -128,3 +128,10 @@ The source-level science-fiction architecture remains intact. The reader’s nar
 ## Verification performed
 
 The complete changed Vessel sequence and the manuscript diff were read for continuity. Chapter count and numbering are unchanged. Chapters 1–5, 10, and 17 remain byte-for-byte unchanged; chapter 17 retains the quiet breakfast. Original editions and artwork are preserved, and every modified existing reference has an exact archived copy. The production validation record identifies all changed chapters and files. This is a targeted text review, not a claim of a new full-pilot editorial read or a rendered PDF check.
+
+
+## Follow-up: scene development and the meaning of progress
+
+The [philosophy scene map](philosophy-scene-map-and-progress-2026-09-24.md) develops the five previously identified areas into ten proposed scenes and character choices, placing collective authority and inherited obligations chiefly in Book III. It adds optional philosophical lenses and clarifies the author's Book II emphasis on neglected preparation and rejected necessary progress.
+
+Both AIs must remain active innovators in Book II. Haven's later bounded strategy involves continuing care and practical inquiry; Sower's alternative preserves independent development without making risk inherently beneficial. The new scene proposals and outcomes are pending, tracked as P-01 through P-08. No v7 prose changes accompany this follow-up.
