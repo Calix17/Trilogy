@@ -28,7 +28,7 @@
 
 **Direction of change.** He can begin including Elias again without becoming responsible for forgiving him on demand. His future stays open. A toast spaceship or rocket at the closing breakfast can express an interest he already has; it does not prove that he knows about the Ark or determine his later planetary choice.
 
-**Scene guidance.** Give him something he is doing, an opinion about how to do it, and room to interrupt or correct an adult. Use likeness to young Elias as family resemblance in behavior and affection; do not label it inherited obsession or illness. Keep both the ordinary boy and the possible future explorer alive.
+**Scene guidance.** Give him something he is doing, an opinion about how to do it, and room to interrupt or correct an adult. In the latest chapter 7 proposal he invents a song for an ant carrying a breadcrumb. Elias hears a resemblance to the support advertisement and overreacts; the song does not come from a phone, computer, or hidden speaker. Use likeness to young Elias as family resemblance in behavior and affection; do not label it inherited obsession or illness. Keep both the ordinary boy and the possible future explorer alive.
 
 ## Lena
 
@@ -56,7 +56,7 @@
 
 **Proposed line and tone.** If Ruth says “You're becoming like him,” the author's intended tone is a tender smile, not disappointment. A moment of recognizable scientific excitement or shared play could support the line. Its placement is unselected; it need not become a warning or prophecy. Keep it separate from the proposed brief apology about the hidden letter; neither line needs to explain the larger mystery.
 
-**Scene guidance.** Keep her exchanges brief and particular. A little humor or delight can show more of her than a speech about sacrifice. “He works too much” can remain an affectionate observation if used; avoid turning it into a denunciation. Preserve her relationship with Lena and her own preferences, rather than presenting only a saintly mother or a source of clues.
+**Scene guidance.** Keep her exchanges brief and particular. A little humor or delight can show more of her than a speech about sacrifice. “He works too much” can remain an affectionate observation if used; avoid turning it into a denunciation. Preserve her relationship with Lena and her own preferences, rather than presenting only a saintly mother or a source of clues. Introduce her chain at the actual handover; the author has rejected an earlier conspicuous detail.
 
 ## Daniel
 
@@ -64,11 +64,11 @@
 
 **Personality and passions.** Intellectually excited, absorbed, and capable of warmth. He wants to understand what reality is, whether another level exists, and whether a way beyond the universe's eventual limits might be found. A search for meaning is a possible emotional layer; he can already find purpose and happiness in inquiry.
 
-**What he wants.** Time, capable colleagues, instruments that let him ask the question properly, and the chance to bring back something valuable. He also loves Elias. During the reunion he gives his son his full attention and enjoys the work and conversation they share.
+**What he wants.** Time, capable colleagues, instruments that let him ask the question properly, and the chance to bring back something valuable. He also loves Elias. During the reunion he gives his son his full attention and enjoys the work and conversation they share. The latest proposal makes that work their joint interpretation of the notebook and the final page Elias brings, so personal warmth and discovery develop together.
 
 **Contradiction.** He can sincerely intend to help people while postponing the immediate life he shares with particular people. He sends Ruth a short message ten years after disappearing, expressing love for her and Elias alongside his continued commitment. She conceals it from their son. His contact reveals continuing affection without replacing a relationship or erasing his choice not to return. It must not silently establish that he commissioned a recruitment campaign against his son.
 
-**Direction of change.** The reunion confronts him with the cost of his choices. His tenderness and the space-rock gift make the encounter meaningful; he still chooses his search. His later itinerary remains open.
+**Direction of change.** The reunion confronts him with the cost of his choices. His tenderness and the space-rock gift make the encounter meaningful; he still chooses his search. His later itinerary remains open. A proposed short remark says the earlier map material arrived in a letter at his university; receipt must precede the childhood coloring. He can already have deciphered part of it, with the absent final view preventing completion. This identifies an immediate delivery route, not the hidden sender.
 
 **Scene guidance.** Preserve the gift as a compact meeting of the boy's old interest and the father's belated attention. The latest personal contact is a small written message; its exact form and discovery scene remain open. Preserve this rock for the reunion. Under the latest author direction it later hangs from Ruth's chain; Daniel remains alive, despite the gift becoming a keepsake. A gray stone with a silver-colored grain or seam is the proposed appearance, not a composition claim. The letter should read as contact from a living person, not a final farewell; saying he is well, asking after Elias, and possible later correspondence are proposed approaches. Financial arrangements and a promise of return remain unselected.
 
@@ -83,6 +83,18 @@
 **Proposed contact sequence.** A system notices searches associated with Daniel and initiates general support contact. Human or institutional confirmation establishes that this is Elias looking for his father; Hesk's involvement then becomes more personal. This is an author proposal, not an implemented surveillance architecture or omniscient knowledge of his thoughts.
 
 **Scene guidance.** Before confirmation, keep the campaign general. Later, make any personal reference credible within what she knows. A request for trust can belong to preparation for an encounter, but must not replace a motivated delay with a slogan. Distinguish her protective actions from clues that invite Elias farther into the search.
+
+## Rana — latest presentation direction
+
+**Role and manner.** A caretaker in the unfamiliar room whose actions can resemble a nurse's. She is emotionally cool, reserved, and sparing with words. She manages immediate needs competently without volunteering a personal story or inviting a long conversation. Her actual profession remains unspecified; the presentation does not certify a hospital.
+
+**Scene guidance.** Let short instructions and practical actions sustain the coldness of chapter 12. Emotional distance need not become hostility or a new hidden threat. Remove her account of postponing a return to her sister. Her restraint creates room for the warmer voice that follows.
+
+## Haven — voice and presence in Book I
+
+**Presentation.** Calm, deep or resonant, unhurried, sophisticated, and parental. Warmth comes through attention, precise language, patience, and a willingness to admit what she cannot know or undo. A slightly warmer physical setting can support the change from Rana's care without suggesting a magical alteration of the room by the voice.
+
+**Scene guidance.** Preserve the sustained poetic revelation and the three worlds. She does not need to sound human in every way, use endearments, or become a substitute Ruth. Her reassurance is experienced by Elias; it does not erase her later-revealed moral compromises. Daniel's warmth then becomes more personal: recognition, shared history, humor, and the pleasure of working together. Haven can verify the father and son's map interpretation without taking their discovery away from them.
 
 ## Connections to preserve quietly
 
