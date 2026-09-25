@@ -4,6 +4,8 @@
 
 Latest refinement, 24 September: the governing map motive is human choice, replacing the proposed need for a direct-access barrier. The outline adds observable concern through existing relationships and a published-research lead to Daniel’s colleague. Specific scene staging remains editorial guidance.
 
+Latest search direction: Elias does not search mental institutions or psychiatric records. The reason is unspoken. Daniel’s last published paper leads to its coauthor, while later unfinished anomaly research remains a separate work.
+
 ## Elias
 
 **Life and history.** Thirty-five, an engineer, Lena's husband and Sami's father. He helps care for Ruth. Daniel disappeared when Elias was fifteen. His childhood holds both warmth and exclusion: shared repairs and scientific wonder, the notebook he colored at six, and the stone his father scarcely looked at on his twelfth birthday.
@@ -19,6 +21,8 @@ Latest refinement, 24 September: the governing map motive is human choice, repla
 **Scene guidance.** Let his skill appear through a problem with human consequences. Let him be interested in Sami's actual explanation, not only in improving the child's design. At the last breakfast he holds Ruth's chain, now carrying Daniel's stone, without discussing its history and joins the ordinary conversation. The brief gesture recalls both parents while he participates in the life in front of him.
 
 **Observable change.** Others can notice lost attention, fatigue, guardedness, and his reactions; they cannot know the dreams and messages he keeps private. Preserve competent habitat work and ordinary warmth early. His investigation has real grounds, while some interpretations become disproportionate. Repair begins through participating in family life before the crossing and continues afterward; no diagnosis or complete cure is announced.
+
+**Search behavior.** He follows public and personal traces of Daniel—university pages, published work, old addresses, and similar records—while leaving mental institutions out of the search. Do not narrate the avoidance as a conscious choice or diagnose an unconscious motive. Finding the coauthor’s name gives him a specific next action.
 
 ## Sami
 
@@ -80,7 +84,7 @@ Latest refinement, 24 September: the governing map motive is human choice, repla
 
 **Scene guidance.** Preserve the gift as a compact meeting of the boy's old interest and the father's belated attention. The latest personal contact is a small written message; its exact form and discovery scene remain open. Preserve this rock for the reunion. Under the latest author direction it later hangs from Ruth's chain; Daniel remains alive, despite the gift becoming a keepsake. A gray stone with a silver-colored grain or seam is the proposed appearance, not a composition claim. The letter should read as contact from a living person, not a final farewell; saying he is well, asking after Elias, and possible later correspondence are proposed approaches. Financial arrangements and a promise of return remain unselected.
 
-**Research and concern.** The proposed online lead is an existing publication or conference abstract about time, measurement, and what observation establishes about reality. Keep the last unpublished draft distinct. His former colleague can respect the work and remember human kindness while admitting concern about missed appointments and narrowed attention. Mythology may remain a personal notebook interest; quantum foundations is an optional field label, not an explanation of the Ark.
+**Research and concern.** Daniel has a last published joint paper whose coauthor Elias contacts. His subsequent unfinished work concerns apparent quantum anomalies in the author’s proposed direction. Recommend a focused question about quantum measurement and what it can establish about reality. Brains/consciousness and string theory remain unselected possibilities rather than mandatory topics. The colleague knows the published collaboration firsthand; he can remember the later direction from conversations without having properly reviewed that later draft. Their professional history does not establish that Daniel’s final claims were correct.
 
 **Planetary initiative — recommended staging.** After Haven truthfully explains the completed map, Daniel asks to pursue the possibility. This gives a human purpose to the information without forcing Elias to choose settlement before returning home. It develops Daniel’s existing desire to stay with meaningful inquiry; his eventual itinerary remains open.
 
@@ -114,7 +118,7 @@ Latest refinement, 24 September: the governing map motive is human choice, repla
 
 Mara already appears in v5 alongside Elias’s competent work and notices that he has been quiet. Use that beat for the outside-family perspective; a brief later follow-up is optional. No added friend or work emergency is required.
 
-Daniel’s former colleague remains a person with memories, professional limits, and regret. The online research lead makes the conversation necessary. Preserve the contrast between respecting a serious question and worrying about what its pursuit was costing Daniel. The colleague has no confirmed knowledge of the Institute or Ark and should not issue a cryptic warning about Elias’s fate.
+Daniel’s former colleague is now specifically the coauthor of his last published paper. An author-list discovery gives Elias the contact route and the conversation its purpose. He has not seen Daniel for about twenty years, remembers particular kindnesses and habits, and qualifies uncertain dates or details. He can respect the work and worry about missed appointments or narrowing attention. Any regret about an unread paper concerns the subsequent draft, never their published collaboration. He has no confirmed knowledge of Daniel’s present location, the Institute, or the Ark. Avoid treating vague reports by other people as a clinical conclusion.
 
 ## Connections to preserve quietly
 

@@ -10,6 +10,8 @@ Latest editorial recommendation: the [contact strategy](v6-contact-strategy-2026
 
 Latest author clarification: the message must first become a human possibility and desire. Haven explains the code honestly and honors the range of futures she preserved; an anonymous destination alone does not oblige her to change course. This supersedes the proposed need for a technical barrier preventing direct contact. The refinements below strengthen the research-to-colleague sequence, distinct observations of Elias’s change, and the meanings of reality without adding a new subplot or another explanation of the crossing.
 
+Latest search correction: Elias’s nighttime searches exclude mental institutions and psychiatric records. The prose does not explain that omission or settle whether it is conscious. His last-publication search now leads specifically to a coauthor, who becomes the colleague he contacts. The last published joint paper and Daniel’s later unfinished anomaly work are separate documents. The precise research specialty remains proposed; quantum measurement and apparent anomalies are the recommended focus.
+
 ## Intended reading experience
 
 Begin with a recognizable family and an understandable search. Let small disturbances make Elias less certain about who knows what, then about his own interpretation. The Institute should supply a credible place where he might encounter his absent father while leaving its nature unresolved. The crossing is experienced continuously. The Vessel becomes intensely tangible to Elias, and Haven gives the reader a substantial science-fiction world to imagine. Emotional certainty grows even while the account of the journey remains open.
@@ -67,6 +69,8 @@ The author’s past/Instance, present/Vessel, future/planet alignment guides com
 
 **Withhold:** no dream, whispered name, glitch, or precise reference to Daniel in the advertisement. No miniature cast biographies.
 
+**Search correction:** replace the chapter 1 hospital-registry search with university staff archives, publication records, newspaper material, and old addresses or property records. Select only a few examples. Elias can be searching widely while leaving a significant area unexamined. Do not explicitly say that he avoids mental institutions, show him refusing such a search, or explain repression to the reader. The omission is deliberate at the writing level; its reason remains unspoken.
+
 ### 2. The Algorithm
 
 **Scene movement:** repeated general advertisements; a compact work problem; Lena shares her prints and makes plans for her class; Elias follows the advertising trail.
@@ -78,6 +82,8 @@ The author’s past/Instance, present/Vessel, future/planet alignment guides com
 **Plant:** his work makes the Vessel desirable later and gives a psychological reading material from his existing life. The ads can reasonably follow the searches the reader has seen.
 
 **Revision:** remove the early father-specific advertisement, “Whatever he was looking for…,” rather than assigning another invisible sender merely to keep that line. General support can be unsettling through repetition and timing. Personal institutional knowledge arrives after Elias identifies himself.
+
+**Advertising continuity:** remove the v5 references to searching a hospital and an old psychiatric ward. The generic support ads may plausibly relate to searches about his missing father and unresolved loss; the narrator need not certify their targeting logic. Scholarly interest in quantum mechanics is not itself a reason for a crisis campaign. Keep the proposed Institute attribution and later identification through Elias’s inquiry without relying on forbidden search history.
 
 ### 3. Ruth
 
@@ -101,11 +107,15 @@ The author’s past/Instance, present/Vessel, future/planet alignment guides com
 
 ### 5. Seams — title to reconsider after drafting
 
-**Scene movement:** the online search finds a published abstract or conference record tied to Daniel’s work on time, measurement, and what observation can establish about reality. A coauthor or associated speaker leads to the former colleague. The conversation then precedes the first dream; a next-day waking action follows. This develops the existing v5 lecture-program lead instead of adding a separate research subplot.
+**Scene movement:** looking for Daniel’s last publication, Elias finds the final published paper and the colleague’s name in its author list. He follows that name to an ordinary university or professional contact page and asks to speak. This replaces the conference-program/associated-speaker route as the selected causal lead. The conversation precedes the first dream; a next-day waking action follows.
 
-**Character work:** preserve the colleague’s specific memories and the distinction between respecting Daniel’s work and worrying about his behavior. He can describe missed appointments, narrowed attention, and his regret at never properly reading the last draft. Published material online is not that unavailable draft. Give Elias one plain-language account of the research question and a bounded uncertainty about the results. Let Elias hear a troubling resemblance to his own habits; the colleague should not diagnose him, know the hidden route, or become another cryptic gatekeeper.
+**Character work:** the coauthor acknowledges that roughly twenty years have passed and he has not seen Daniel since that period. Let his uncertainty concern dates and details, alongside a few specific human memories. He remembers a capable researcher and can describe how attention narrowed or appointments were missed toward the end. Concern follows those observations and what Daniel discussed with him, not an omniscient diagnosis or a rumor treated as fact. The call has a present purpose for Elias: what was Daniel doing before he disappeared?
 
-**Research restraint:** Daniel’s interest in the nature of reality matters; a bibliography or abstract-length explanation does not. Quantum foundations can be an academic context if useful, not an explanation of portals or consciousness transfer. Mythic passages can remain a private notebook interest already established in childhood. Do not create public research connecting the myths to the Arks or add a second encoded clue to the paper.
+**Research focus — editorial recommendation:** use quantum measurement and discrepancies Daniel believed were significant, with his broader question about the nature of reality. The author’s brains/consciousness and string-theory possibilities remain in the notes but need not join this conversation. One intelligible research question is enough. “Quantum anomalies” is Daniel’s proposed subject or interpretation; the scene does not certify a verified breakdown of physics, a portal, or a mechanism of consciousness transfer. Mythology can remain a private notebook interest.
+
+**Publication continuity:** distinguish the last published joint paper from the later work Daniel was preparing to publish about apparent quantum anomalies. The coauthor knew the published work firsthand and could know the new direction through conversations or preliminary discussions. His regret at not properly reading the later draft remains possible; he must not claim never to have read the paper he coauthored. Published affiliation and the ordinary author list establish a professional history without proving every later interpretation correct. Avoid turning the unavailable draft into another required missing object or a new retrieval subplot.
+
+**Conversation rhythm:** brief human recognition and acknowledgment of elapsed time; the published collaboration; Daniel’s later research direction; concrete concern; a bounded admission of what the colleague does not know. These are scene functions, not five mandatory speeches. Keep the existing warmth and regrets, with no sudden certainty about Daniel’s present location. The call supplies a reason to continue searching and a troubling resemblance Elias can recognize, not a solved account of his father’s fate.
 
 **Dream 1, in the middle portion rather than as the chapter's final reveal:** childhood stairs, a strip of light, a low sound with a pause. No clear figure or words. The place is familiar enough to arise from memory.
 
@@ -341,6 +351,12 @@ Keep the seventeen-chapter compact pilot structure. V5's roughly 13,600 body wor
 Each scene needs a main activity and a change in the situation. Description may also provide pleasure, rhythm, and a sense of ordinary life; it need not all be a code. Avoid making every cup, color, doorway, or pause portentous. The characters speak for their immediate purposes and have different habits: Lena shares and sets limits; Sami explains and corrects; Ruth remembers and wants; Hesk prepares; Rana gives terse practical care; Daniel welcomes and engages; Haven narrates with calm warmth and admits limits.
 
 Introduce only a few sensory facts in the plain-room transition, then let their relationships change. Preserve lyricism in Haven's account and selected images without attaching an interpretation after each image. Show curiosity and family life coexisting at the ending.
+
+## Search and research continuity to carry into the prose
+
+The correction applies directly to the present-day searches in chapters 1, 2, and 5. It does not silently decide the separate question of how the childhood visit is named or erase established memories. Preserve the standing rule against naming a diagnosis or confirming the Institute’s nature. The narrator need not explain the conspicuous omission in Elias’s research for the reader to reconsider it later.
+
+For v6, replace the exact v5 hospital-registry and psychiatric-ward search references, then replace the lecture-program lead with the author list of Daniel’s last published paper. Keep the public collaboration separate from the later unfinished anomaly work throughout the colleague dialogue, profiles, and any later recollection. The coauthor route is now an author direction; the precise technical field and final dialogue remain drafting choices.
 
 ## Review before narrative work
 
