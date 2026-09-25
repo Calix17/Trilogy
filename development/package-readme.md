@@ -1,14 +1,18 @@
 # The Final Decision
 
+## Latest: Book III convergence and the final door — 24 September 2026
+
+The [new working route](06-development-notes/book-three-convergence-and-final-door-2026-09-24.md) retains the colony struggle, selects Haven's mining-derived Ark encounter and Sower's instance rescue of changed descendants, and brings the agents to preservation plus seeding through all three worlds. Daniel's discovery of an empty Ark that found the answer and his decision to enter its door now end the book. Detailed scenes remain open. Current references are synchronized; previous outline and reference versions are preserved. Prose, PDFs, and art are unchanged.
+
 **Complete package — 24 September 2026.** Open [START-HERE.md](START-HERE.md) for the current trilogy direction, latest documents, session coverage, and version status. [CONTENTS.md](CONTENTS.md) lists all included files. The latest seeding and consciousness notes are included, and distinct earlier material recovered in the consolidation audit is preserved in the archive.
 
 
-## Latest: consciousness, preservation, and renewal — 24 September 2026
+## Earlier update: consciousness, preservation, and renewal — 24 September 2026
 
 The [author framework](06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md) records recurring phases of exploration and preservation, possibly operating in parallel branches. The proposed later goal protects existing conscious communities and seeds suitable worlds for independent development, broadening care beyond humanity. Books I and II are almost fixed; Book III's theme and route are explicitly open. Previous chapter material remains available, and all manuscripts, PDFs, and artwork are preserved. The checklist now tracks B3-01 through B3-07.
 
 
-## Latest: seeding and successor Arks — 24 September 2026
+## Earlier update: seeding and successor Arks — 24 September 2026
 
 The [new development record](06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md) preserves the proposal for costly adaptation, possible beacon intervention, biological seeding, unfamiliar descendants, and successive Ark strategies. It clarifies that Haven already pursues preservation in Book II and records six unresolved choices. The current Other Garden scene, chapter outcomes, manuscripts, PDFs, and art are preserved. Earlier reference versions are in `99-archive/pre-seeding-proposal-reference/` at the project root.
 

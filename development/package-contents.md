@@ -1,15 +1,21 @@
 # Complete package contents
 
-24 September 2026. 240 files. Start with [START-HERE.md](START-HERE.md).
+24 September 2026. 255 files. Start with [START-HERE.md](START-HERE.md).
 
-Latest addition: the nonhuman-Ark encounter proposal. Earlier material and editions remain preserved.
+Latest update: Book III colony, AI convergence, and Daniel’s final door. All prior files remain available, either current or archived.
 
 ## Root
 
 - [.gitignore](.gitignore)
+- [CONTENTS.md](CONTENTS.md)
+- [PROJECT-MERGE-MANIFEST.md](PROJECT-MERGE-MANIFEST.md)
+- [README.md](README.md)
+- [START-HERE.md](START-HERE.md)
+
 ## 01-bible
 
 - [01-bible/bible.md](01-bible/bible.md)
+
 ## 02-book-one
 
 - [02-book-one/book-one-paradise-v2.md](02-book-one/book-one-paradise-v2.md)
@@ -25,22 +31,28 @@ Latest addition: the nonhuman-Ark encounter proposal. Earlier material and editi
 - [02-book-one/book-one-paradise-v7-working.md](02-book-one/book-one-paradise-v7-working.md)
 - [02-book-one/book-one-paradise.md](02-book-one/book-one-paradise.md)
 - [02-book-one/book-one-paradise.pdf](02-book-one/book-one-paradise.pdf)
+
 ## 03-screen
 
 - [03-screen/crossing-sequence.md](03-screen/crossing-sequence.md)
 - [03-screen/pilot-and-pitch.md](03-screen/pilot-and-pitch.md)
+
 ## 04-characters
 
 - [04-characters/character-sheets.md](04-characters/character-sheets.md)
 - [04-characters/v6-character-profiles-2026-09-23.md](04-characters/v6-character-profiles-2026-09-23.md)
+
 ## 05-art
 
 - [05-art/laniakea-tree.png](05-art/laniakea-tree.png)
+
 ## 06-development-notes
 
 - [06-development-notes/README.md](06-development-notes/README.md)
 - [06-development-notes/author-clarifications-2026-09-22.md](06-development-notes/author-clarifications-2026-09-22.md)
 - [06-development-notes/book-one-paradise-v3-review-2026-09-23.md](06-development-notes/book-one-paradise-v3-review-2026-09-23.md)
+- [06-development-notes/book-three-convergence-and-final-door-2026-09-24.md](06-development-notes/book-three-convergence-and-final-door-2026-09-24.md)
+- [06-development-notes/book-three-previous-outline-2026-09-24.md](06-development-notes/book-three-previous-outline-2026-09-24.md)
 - [06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md](06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md)
 - [06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md](06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md)
 - [06-development-notes/current-plot-summary-books-one-and-two.md](06-development-notes/current-plot-summary-books-one-and-two.md)
@@ -66,15 +78,18 @@ Latest addition: the nonhuman-Ark encounter proposal. Earlier material and editi
 - [06-development-notes/v7-philosophy-and-mythology-2026-09-24.md](06-development-notes/v7-philosophy-and-mythology-2026-09-24.md)
 - [06-development-notes/v7-revision-checklist-2026-09-24.md](06-development-notes/v7-revision-checklist-2026-09-24.md)
 - [06-development-notes/v7-vessel-and-trilogy-philosophy-2026-09-24.md](06-development-notes/v7-vessel-and-trilogy-philosophy-2026-09-24.md)
+
 ## 07-scene-workshop
 
 - [07-scene-workshop/book1-additions-per-chapter-2026-09-22.md](07-scene-workshop/book1-additions-per-chapter-2026-09-22.md)
 - [07-scene-workshop/paranoia-scenes-v1.md](07-scene-workshop/paranoia-scenes-v1.md)
 - [07-scene-workshop/structure-and-motifs-2026-09-22.md](07-scene-workshop/structure-and-motifs-2026-09-22.md)
+
 ## 08-production
 
 - [08-production/README.md](08-production/README.md)
 - [08-production/__pycache__/render-book-v5.cpython-312.pyc](08-production/__pycache__/render-book-v5.cpython-312.pyc)
+- [08-production/book-three-convergence-validation-2026-09-24.json](08-production/book-three-convergence-validation-2026-09-24.json)
 - [08-production/consciousness-framework-validation-2026-09-24.json](08-production/consciousness-framework-validation-2026-09-24.json)
 - [08-production/nonhuman-ark-proposal-validation-2026-09-24.json](08-production/nonhuman-ark-proposal-validation-2026-09-24.json)
 - [08-production/package-source-coverage-2026-09-24.csv](08-production/package-source-coverage-2026-09-24.csv)
@@ -91,9 +106,11 @@ Latest addition: the nonhuman-Ark encounter proposal. Earlier material and editi
 - [08-production/v7-working-validation.json](08-production/v7-working-validation.json)
 - [08-production/zip-consolidation-report-2026-09-24.md](08-production/zip-consolidation-report-2026-09-24.md)
 - [08-production/zip-consolidation-validation-2026-09-24.json](08-production/zip-consolidation-validation-2026-09-24.json)
+
 ## 99-archive
 
 - [99-archive/2026-09-session-notes/author-clarifications-source-2026-09-22.md](99-archive/2026-09-session-notes/author-clarifications-source-2026-09-22.md)
+- [99-archive/2026-09-session-notes/book-three-convergence-author-direction-2026-09-24.md](99-archive/2026-09-session-notes/book-three-convergence-author-direction-2026-09-24.md)
 - [99-archive/2026-09-session-notes/consciousness-cycle-author-clarification-2026-09-24.md](99-archive/2026-09-session-notes/consciousness-cycle-author-clarification-2026-09-24.md)
 - [99-archive/2026-09-session-notes/longevity-daniel-lab-professions.md](99-archive/2026-09-session-notes/longevity-daniel-lab-professions.md)
 - [99-archive/2026-09-session-notes/nonhuman-ark-author-proposal-2026-09-24.md](99-archive/2026-09-session-notes/nonhuman-ark-author-proposal-2026-09-24.md)
@@ -107,6 +124,17 @@ Latest addition: the nonhuman-Ark encounter proposal. Earlier material and editi
 - [99-archive/RECOVERED-MATERIAL-README.md](99-archive/RECOVERED-MATERIAL-README.md)
 - [99-archive/master-working-doc.md](99-archive/master-working-doc.md)
 - [99-archive/post-v4-notes/notes-before-seven-thresholds-2026-09-23.md](99-archive/post-v4-notes/notes-before-seven-thresholds-2026-09-23.md)
+- [99-archive/pre-book-three-convergence-reference/01-bible/bible.md](99-archive/pre-book-three-convergence-reference/01-bible/bible.md)
+- [99-archive/pre-book-three-convergence-reference/04-characters/character-sheets.md](99-archive/pre-book-three-convergence-reference/04-characters/character-sheets.md)
+- [99-archive/pre-book-three-convergence-reference/06-development-notes/README.md](99-archive/pre-book-three-convergence-reference/06-development-notes/README.md)
+- [99-archive/pre-book-three-convergence-reference/06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md](99-archive/pre-book-three-convergence-reference/06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md)
+- [99-archive/pre-book-three-convergence-reference/06-development-notes/nonhuman-ark-and-accidental-lineage-2026-09-24.md](99-archive/pre-book-three-convergence-reference/06-development-notes/nonhuman-ark-and-accidental-lineage-2026-09-24.md)
+- [99-archive/pre-book-three-convergence-reference/06-development-notes/trilogy-progression-and-current-direction-2026-09-24.md](99-archive/pre-book-three-convergence-reference/06-development-notes/trilogy-progression-and-current-direction-2026-09-24.md)
+- [99-archive/pre-book-three-convergence-reference/06-development-notes/v7-revision-checklist-2026-09-24.md](99-archive/pre-book-three-convergence-reference/06-development-notes/v7-revision-checklist-2026-09-24.md)
+- [99-archive/pre-book-three-convergence-reference/08-production/package-source-coverage-2026-09-24.csv](99-archive/pre-book-three-convergence-reference/08-production/package-source-coverage-2026-09-24.csv)
+- [99-archive/pre-book-three-convergence-reference/CONTENTS.md](99-archive/pre-book-three-convergence-reference/CONTENTS.md)
+- [99-archive/pre-book-three-convergence-reference/README.md](99-archive/pre-book-three-convergence-reference/README.md)
+- [99-archive/pre-book-three-convergence-reference/START-HERE.md](99-archive/pre-book-three-convergence-reference/START-HERE.md)
 - [99-archive/pre-consciousness-framework-reference/01-bible/bible.md](99-archive/pre-consciousness-framework-reference/01-bible/bible.md)
 - [99-archive/pre-consciousness-framework-reference/06-development-notes/README.md](99-archive/pre-consciousness-framework-reference/06-development-notes/README.md)
 - [99-archive/pre-consciousness-framework-reference/06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md](99-archive/pre-consciousness-framework-reference/06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md)
@@ -260,9 +288,3 @@ Latest addition: the nonhuman-Ark encounter proposal. Earlier material and editi
 - [99-archive/v6-planning-iterations/v6-todo-before-quiet-ending-assessment-2026-09-23.md](99-archive/v6-planning-iterations/v6-todo-before-quiet-ending-assessment-2026-09-23.md)
 - [99-archive/v6-planning-iterations/v6-todo-before-quiet-transition-2026-09-23.md](99-archive/v6-planning-iterations/v6-todo-before-quiet-transition-2026-09-23.md)
 - [99-archive/v6-planning-iterations/v6-todo-before-ruth-handover-2026-09-23.md](99-archive/v6-planning-iterations/v6-todo-before-ruth-handover-2026-09-23.md)
-## Root
-
-- [CONTENTS.md](CONTENTS.md)
-- [PROJECT-MERGE-MANIFEST.md](PROJECT-MERGE-MANIFEST.md)
-- [README.md](README.md)
-- [START-HERE.md](START-HERE.md)

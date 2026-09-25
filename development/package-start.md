@@ -6,19 +6,21 @@ Complete project package, consolidated 24 September 2026.
 
 ## Read these first
 
-1. [Trilogy progression and current direction](06-development-notes/trilogy-progression-and-current-direction-2026-09-24.md): the family story widens into civilizational and existential questions; Books I and II are almost fixed, and Book III is open.
+1. [Trilogy progression and current direction](06-development-notes/trilogy-progression-and-current-direction-2026-09-24.md): the family story widens into civilizational and existential questions; Books I and II are almost fixed; Book III now has a selected broad route with scene-level work pending.
 2. [Book I v7 working manuscript](02-book-one/book-one-paradise-v7-working.md): latest narrative text. A v7 reading PDF has not been rendered.
 3. [Book I v6 reading PDF](02-book-one/book-one-paradise-v6.pdf): the previous rendered edition, preserved for reading and comparison.
-4. [Series bible](01-bible/bible.md): world rules and series material, including the explicit open status of Book III's old outline.
+4. [Series bible](01-bible/bible.md): world rules and series material, including the selected Book III route and its remaining implementation questions.
 5. [Revision checklist](06-development-notes/v7-revision-checklist-2026-09-24.md): current implementation status, pending production, and unresolved later-book choices.
 
 ## Latest conceptual records — all included
 
-**Latest addition:** [The unfamiliar Ark and an accidental lineage](06-development-notes/nonhuman-ark-and-accidental-lineage-2026-09-24.md) develops a possible Book III encounter that changes Haven's purpose. Its ancestry, timescale, evidence, and placement remain open. The note and author message are inside this ZIP.
+**Latest addition:** [Book III — convergence and Daniel's final door](06-development-notes/book-three-convergence-and-final-door-2026-09-24.md) records the author's chosen broad route. The colony struggle stays; Haven meets a mining-derived nonhuman Ark; Sower rescues changed people in an instance; both adopt preservation and seeding through three worlds. Daniel's discovery and decision to enter the empty Ark's door now end the book. The prior outline and exact author message are preserved inside this ZIP.
 
 | Record | What it contains |
 | --- | --- |
-| [Consciousness preservation and renewal](06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md) | The author's speculative Sower/Haven cycle; protecting existing conscious communities; engineered seeding; scope beyond humanity; Book III explicitly open. |
+| [Current Book III route](06-development-notes/book-three-convergence-and-final-door-2026-09-24.md) | The three story threads, chosen ending, continuity boundaries, and remaining implementation. |
+| [Previous Book III outline](06-development-notes/book-three-previous-outline-2026-09-24.md) | Earlier chapter sequence preserved for reuse, including the superseded beacon ending. |
+| [Consciousness preservation and renewal](06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md) | The author's speculative Sower/Haven cycle; protecting existing conscious communities; engineered seeding; scope beyond humanity; records the earlier reopening of Book III. |
 | [Seeding and successor Arks](06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md) | Earlier colony/rescue/seeding possibilities, mining contamination, unfamiliar descendants, and later-Ark alternatives. Read its later clarification first. |
 | [Philosophy through decisions](06-development-notes/philosophy-scene-map-and-progress-2026-09-24.md) | Scene proposals for consent, authority, justice, identity, evidence, trust, and inherited obligations; existentialism and related optional lenses; preparation versus neglect. |
 | [Philosophy and mythology](06-development-notes/v7-philosophy-and-mythology-2026-09-24.md) | Selected poetic questions and themes, mythic parallels, wording provenance, and placement options. |
@@ -44,11 +46,11 @@ Complete project package, consolidated 24 September 2026.
 | Iris's uncertain rescue, Jonah's choice, AI disclosures, and reading-order limits | Books I/II synopsis, current bible, philosophy scene map, and pending checklist. |
 | Myth warning, its unknown source, probability/measurement interpretation, and false-savior uncertainty | Current bible, plot clarifications, philosophy collection, and S-06. |
 | Mortality, continued care, finite longevity, human choice, and unexplained crossing mechanics | [Mystery-boundary record](06-development-notes/plot-clarifications-and-mystery-boundaries-2026-09-22.md), current bible, and S-02/S-07/S-08. |
-| Latest consciousness goal, seeded life, recurring exploration/preservation, and open Book III | Consciousness framework, seeding proposal, trilogy-progression record, and B3-01 through B3-07. |
+| Consciousness goal, recurring exploration/preservation, and selected Book III route | Current convergence/final-door record, earlier frameworks, trilogy-progression record, and B3-01 through B3-07. |
 
 ## How to interpret the versions
 
-Explicit later author decisions supersede incompatible earlier proposals. A note can preserve an idea without adopting it. The current narrative remains v7 working text; v6 is the previous reading PDF. The earlier Book III chapter sequence is preserved candidate material, not a locked route.
+Explicit later author decisions supersede incompatible earlier proposals. A note can preserve an idea without adopting it. The current narrative remains v7 working text; v6 is the previous reading PDF. The earlier Book III chapter sequence is preserved candidate material. The new broad route and Daniel ending take precedence; chapter arrangement and implementation remain open.
 
 The archive retains earlier documents and alternatives so their ideas are not lost. Do not implement obsolete proposals solely because they appear in an archived review. No narrative rewrite or new illustrations were performed during this consolidation.
 
@@ -56,6 +58,7 @@ The archive retains earlier documents and alternatives so their ideas are not lo
 
 - [CONTENTS.md](CONTENTS.md) lists every packaged file by folder.
 - [Consolidation report](08-production/zip-consolidation-report-2026-09-24.md) identifies the scope checked and the distinct older files added.
+- [Latest update verification](08-production/book-three-convergence-validation-2026-09-24.json) records package integrity, preservation, and reference checks.
 - [Coverage table](08-production/package-source-coverage-2026-09-24.csv) maps each checked source document or prior-ZIP member to its matching content in this package.
 
 Future substantive notes and decisions should continue to be included in the project ZIP. Standalone copies are optional conveniences.
