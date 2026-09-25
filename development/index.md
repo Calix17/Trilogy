@@ -1,5 +1,10 @@
 # Development Notes
 
+## Latest: scenes, philosophical decisions, and progress — 24 September 2026
+
+[philosophy-scene-map-and-progress-2026-09-24.md](philosophy-scene-map-and-progress-2026-09-24.md) is the current development map for consent, justice, identity, trust, and inherited obligations. Ten scene proposals are anchored to the existing outlines, with Book III carrying collective questions where needed. It distinguishes the AIs' active survival strategies from Book II's neglected preparedness and records eight pending tasks, P-01 through P-08. No narrative text or art is changed by this update.
+
+
 ## Latest: v7 working text and trilogy philosophy — 24 September 2026
 
 - [v7-vessel-and-trilogy-philosophy-2026-09-24.md](v7-vessel-and-trilogy-philosophy-2026-09-24.md) — applied two-room Vessel revision, ten-year access window, Book II development-facility gala, philosophy by book/chapter, and questions needing further scenes.

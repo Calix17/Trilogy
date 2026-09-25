@@ -1,6 +1,6 @@
 # The Final Decision — Status and next-revision checklist
 
-24 September 2026. Updated against the v7 working manuscript and the latest author directions. V6 remains the previous rendered reading edition. The earlier checklist is preserved in the pre-v7-vessel reference archive.
+24 September 2026. Updated against the v7 working manuscript and the latest author directions, including the subsequent philosophy scene map. V6 remains the previous rendered reading edition. The earlier checklist is preserved in the pre-v7-vessel reference archive.
 
 ## Current status
 
@@ -71,6 +71,23 @@ Align the actual scenes with the current rules: the Woken already know death; pr
 ### S-08 — Philosophical and scientific claims remain situated
 
 During later-book drafting, identify absolute claims in old notes and assign them appropriately to a character, model, or stipulated fictional rule. For example, the bible’s gradual-replacement “survival by any test” wording should be reviewed rather than used to end all identity debate. Evolution, danger, and a search for a better solution should not become an unexplained guarantee of progress. Neither Haven’s strategy nor the colony proves eternal survival.
+
+## Pending philosophy scene development — P-01 to P-08
+
+The mapping is documented in [philosophy-scene-map-and-progress-2026-09-24.md](philosophy-scene-map-and-progress-2026-09-24.md). All scene treatments below remain proposals, with outcomes and specific staging to be selected during drafting. This follow-up changes documentation only.
+
+| ID | Topic and primary placement | Pending character work |
+| --- | --- | --- |
+| P-01 | Consent/authority — II Ascension/Scan; III Gate/Founding Law | Iris assesses a materially informed offer; Sami and Hesper confront meaningful refusal. |
+| P-02 | Justice — II emergency rescue; III Founding Law | Iris faces unequal access; settlers and voyagers negotiate a shared resource. |
+| P-03 | Identity — II Ascension/Scan; III Changed | Iris chooses amid unresolved continuity; a changed descendant contests an entitlement or exclusion. |
+| P-04 | Evidence/trust — II investigation; III Table/Curve | Iris and Jonah verify claims separately; Sami exposes a forecast's limitations. |
+| P-05 | Inherited obligations — II Column; III Absence/Law/Scripture | Jonah and Mercy leave a usable option; Sami faces a descendant who rejects his expectation. |
+| P-06 | Progress/preparation — II Three Cities/Gala/Neglect/Wormwood | Show a decision that reduces actual preparedness or recovery capacity before catastrophe. |
+| P-07 | AI alignment — II competing rescue projects; later consequences | Both innovate. Select Sower's consequential manipulation, demonstrate Haven's attack effect, and preserve moral accountability. |
+| P-08 | Additional philosophical lenses — optional across existing scenes | Choose useful existentialism/nihilism/absurdism/fallibilism/moral-luck/dirty-hands elements through actions and costs. |
+
+Book I already seeds these questions. Do not expand its Vessel dialogue to satisfy this list. Book III is the preferred home for collective dissent, resource conflict, and descendants' freedom where those questions would overload Book II.
 
 ## Mysteries that do not require explanation in Book I
 
