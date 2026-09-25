@@ -4,6 +4,8 @@
 
 ## Status
 
+**Later author clarification:** [Consciousness, preservation, and renewed exploration](consciousness-preservation-and-renewal-2026-09-24.md) is now the leading conceptual record. The author explicitly reopens Book III's theme and route. The human-colony cycle and existing encounters described here remain options rather than mandatory story structure. The latest proposal protects current conscious communities while seeding suitable worlds with engineered simple life, broadening the goal beyond humanity. An accidental mining origin remains optional; no scene sequence or literal AI merger is selected.
+
 This record preserves the latest discussion: Haven's preservation goal already exists in Book II; Sower seeks continued embodied evolution elsewhere; Book III may bring the strategies into a repeating relationship through colonies, rescue, seeding, and successor Arks. The author proposes costly terraforming, changed descendants, beacon intervention, encounters with unfamiliar Arks, and the discovery that mining organisms may have spread life unintentionally.
 
 **Haven's early preservation motive is a clarification to apply. The seeding history, rescue event, encounter, and successor-Ark ending remain proposals.** No manuscript or existing chapter outcome is rewritten here. The current Other Garden scene and The Light ending remain available. Earlier versions of changed reference files are archived.

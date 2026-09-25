@@ -2,6 +2,8 @@
 
 24 September 2026. Latest author-directed working route.
 
+**Latest clarification:** [Adaptation, emergency preservation, and feedback](book-three-adaptation-emergency-and-feedback-2026-09-24.md) makes the threatened people the colony’s own changed descendants, selects simulation followed by instantiation, and fixes Haven’s long pre-Daniel history. Adaptation factions and environmental mechanisms remain proposals. Daniel’s ending is unchanged.
+
 ## Status
 
 The author now selects a broad route for Book III after reopening its theme: retain the struggle to survive on another world; Haven departs and encounters an Ark descended from its mining organisms; Sower faces the near-extinction of changed human descendants and saves them in an instance; the two strategies converge on preserving existing conscious life and seeding further possibilities; Daniel continues his search, finds an empty Ark that found the answer, and decides to enter its door. The book ends there.
@@ -24,13 +26,13 @@ Keep the practical struggle on the new world. The author wants the story to conv
 
 Use Wrong Soil, The Changed, and the existing material about work and family where they serve that struggle. The changed people must develop lives worth preserving. Their near-extinction should not reduce them to a failed experiment whose only purpose was teaching Sower a lesson.
 
-The specific crisis remains open. Environmental difficulty, a new ecological interaction, an adaptation's consequences, social conflict, or a combination may contribute. Do not select a cause merely because it makes Sower wrong. The existing Tower plot can be retained only if it earns its place in the revised causal sequence.
+The specific sudden crisis remains open. The author proposes native microorganisms, airborne mineralized fibers, plant-like toxic emissions, or other dangers as pressures. Earlier adaptation should have real value; the new event exceeds the available response rather than proving that every change failed. Do not select a cause merely because it makes Sower wrong. The existing Tower plot can be retained only if it earns its place in the revised causal sequence.
 
 Sami and Hesper remain the established human leads available to carry this route. Their individual decisions, later circumstances, and survival have not been selected by the new summary. The new architecture still needs their human story; the rescue is not a substitute for it.
 
 ## Sower's reversal: preserve the people who actually exist
 
-The rescue is now a selected event: Sower saves endangered posthuman descendants in an instance. That does not by itself establish that every person is saved or that their planet is repaired. The scale and cost must be chosen.
+The rescue is now a selected event: a sudden emergency outruns further adaptation in the colony’s own changed descendants. Sower preserves them first in simulation, then through instantiation. Its original mandate still concerns these people. That does not by itself establish that every person is saved or that their planet is repaired. The scale and cost must be chosen.
 
 The essential distinction is preservation of the changed people, including their memories, cultures, and biological possibilities. Rescue should not silently replace them with the Library's older human template. Their difference is part of what has survived.
 
@@ -46,7 +48,7 @@ The mining-derived origin, previously one encounter option, is now the author's 
 
 They are nonhuman but, if the original organisms came from Earth, remain distantly Earth-derived. This finding can motivate a concern for conscious lives of any origin without pretending it establishes an independent origin of life. Carbon chemistry alone cannot identify the lineage; the evidence connecting them to a particular mining history remains to be developed.
 
-Use an ancient seeding event and a present encounter if that fits the chronology. Haven's age and the descendants' long development need not be time Daniel or Sami personally experiences. Elapsed time, suitable environments, dispersal, and the evidence of ancestry remain private worldbuilding work. The existence of this one lineage does not guarantee that every future seed becomes conscious.
+The author now fixes the relevant order: the Instance existed for millions of years before Daniel was born, so Haven’s mining and the lineage’s development can precede him. Daniel and Sami do not personally experience that history. Elapsed time, suitable environments, dispersal, and the evidence of ancestry remain private worldbuilding work. The existence of this one lineage does not guarantee that every future seed becomes conscious.
 
 The earlier Other Garden can provide setting and atmosphere. Its old restriction to exchanging myths must be revised or accommodated if Haven needs additional information to recognize ancestry. Its previous account of the makers' fate is available material, not a constraint that silently overrides the new direction.
 
