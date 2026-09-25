@@ -351,9 +351,13 @@ The three books argue it at three scales:
 
 ## Optional origin question — ancestral seeding
 
-Newly supplied feedback proposes that an older Ark might have seeded a lineage ancestral to LUCA. This is an optional question, not confirmed Earth history or a new plot requirement. LUCA is not synonymous with the first life. Haven's Earth-derived mining descendants resembling its Library cannot independently establish an older seeder; that resemblance is already expected from their known ancestry.
+The author explicitly keeps Earth's possible seeding by an older Ark unconfirmed and Daniel's door as the ending. A brief mention of ancestral seeding remains a proposal; its endorsed purpose is to help Haven see the importance of preserving diverse conscious lives and enabling new forms to develop independently. The origin question does not explain Daniel's ultimate-reality question.
+
+An older Ark might have seeded a lineage ancestral to LUCA. LUCA is not synonymous with the first life. Haven's Earth-derived mining descendants resembling its Library cannot independently establish an older seeder; that resemblance is already expected from their known ancestry.
 
 If used, Haven's encounter can prompt an analogy: having helped begin another lineage, it wonders whether another traveler once did the same. No evidence of Earth's external origin is newly selected. Successive seeding is not automatically a causal time loop and does not explain the first origin of life. The myth-warning source and Daniel's ultimate-reality question stay separate. His final door remains last.
+
+Haven's reasoning is that safeguarding only existing forms may leave consciousness vulnerable to limits those forms cannot meet. The unexpected mining descendants give it a concrete reason to value independent possibilities; Earth's hypothetical ancestry can deepen that recognition without becoming proof. This commitment protects particular lives and cultures while making room for unfamiliar ones. Seeding simple life offers possibilities, not a guaranteed conscious outcome or a predetermined path. See [the latest author direction](../06-development-notes/consciousness-diversity-and-havens-purpose-2026-09-24.md).
 
 The future seeding policy also needs a scope for its bounds. A fleet replacing lost vessels is not the same as a galaxy whose total number of independent fleets never grows. New lineages can choose differently from their seeders. Site selection, existing biospheres, and independent futures remain philosophical and practical development questions. See [the optional-thread review](../06-development-notes/fermi-luca-and-ancestral-seeding-review-2026-09-24.md).
 
