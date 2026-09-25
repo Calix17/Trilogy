@@ -14,10 +14,13 @@ Complete project package, consolidated 24 September 2026.
 
 ## Latest conceptual records — all included
 
-**Latest addition:** [Book III — convergence and Daniel's final door](06-development-notes/book-three-convergence-and-final-door-2026-09-24.md) records the author's chosen broad route. The colony struggle stays; Haven meets a mining-derived nonhuman Ark; Sower rescues changed people in an instance; both adopt preservation and seeding through three worlds. Daniel's discovery and decision to enter the empty Ark's door now end the book. The prior outline and exact author message are preserved inside this ZIP.
+**Latest addition:** [Adaptation, emergency preservation, and feedback](06-development-notes/book-three-adaptation-emergency-and-feedback-2026-09-24.md). Sower rescues the colony’s changed descendants through simulation and later instantiation when a sudden crisis outruns adaptation. Haven’s mining history predates Daniel’s birth. Proposed factions, hazard options, researched distinctions, a compact candidate outline, and all supplied feedback are included. Daniel’s final door remains the ending.
 
 | Record | What it contains |
 | --- | --- |
+| [Latest adaptation clarification](06-development-notes/book-three-adaptation-emergency-and-feedback-2026-09-24.md) | Confirmed changes, faction and hazard proposals, Sower’s response, and assessment of supplied feedback. |
+| [Compact candidate outline](06-development-notes/book-three-adaptation-candidate-outline-2026-09-24.md) | Eight provisional beats; no new chapter prose or changed ending. |
+| [Science and ethics checks](06-development-notes/book-three-adaptation-science-notes-2026-09-24.md) | Genome editing, mineralized fibers, and evolutionary time; sources and fictional limits. |
 | [Current Book III route](06-development-notes/book-three-convergence-and-final-door-2026-09-24.md) | The three story threads, chosen ending, continuity boundaries, and remaining implementation. |
 | [Previous Book III outline](06-development-notes/book-three-previous-outline-2026-09-24.md) | Earlier chapter sequence preserved for reuse, including the superseded beacon ending. |
 | [Consciousness preservation and renewal](06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md) | The author's speculative Sower/Haven cycle; protecting existing conscious communities; engineered seeding; scope beyond humanity; records the earlier reopening of Book III. |
@@ -58,7 +61,7 @@ The archive retains earlier documents and alternatives so their ideas are not lo
 
 - [CONTENTS.md](CONTENTS.md) lists every packaged file by folder.
 - [Consolidation report](08-production/zip-consolidation-report-2026-09-24.md) identifies the scope checked and the distinct older files added.
-- [Latest update verification](08-production/book-three-convergence-validation-2026-09-24.json) records package integrity, preservation, and reference checks.
+- [Latest update verification](08-production/book-three-adaptation-validation-2026-09-24.json) records package integrity, preservation, and reference checks.
 - [Coverage table](08-production/package-source-coverage-2026-09-24.csv) maps each checked source document or prior-ZIP member to its matching content in this package.
 
 Future substantive notes and decisions should continue to be included in the project ZIP. Standalone copies are optional conveniences.

@@ -1,6 +1,10 @@
 # Development Notes
 
-## Latest: Book III convergence and the final door — 24 September 2026
+## Latest: Book III adaptation and emergency preservation — 24 September 2026
+
+The [latest clarification](book-three-adaptation-emergency-and-feedback-2026-09-24.md) records Sower’s continuing obligation to the colony’s changed people, simulation followed by instantiation under a sudden deadline, and Haven’s mining history before Daniel’s birth. Proposed factions and hazards, a compact candidate outline, scientific distinctions, and the supplied feedback are included. Daniel’s final-door ending stays selected. Previous references and all manuscripts are preserved.
+
+## Earlier update: Book III convergence and the final door — 24 September 2026
 
 The [new working route](book-three-convergence-and-final-door-2026-09-24.md) retains the colony struggle, selects Haven's mining-derived Ark encounter and Sower's instance rescue of changed descendants, and brings the agents to preservation plus seeding through all three worlds. Daniel's discovery of an empty Ark that found the answer and his decision to enter its door now end the book. Detailed scenes remain open. Current references are synchronized; previous outline and reference versions are preserved. Prose, PDFs, and art are unchanged.
 

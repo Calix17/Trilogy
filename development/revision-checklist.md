@@ -50,6 +50,8 @@ Established: Sower’s embodied Ark is the writer-level source, revealed in Book
 
 The latest author direction adopts an exact ten-year interval for openings into this particular Instance. Daniel declines the first return and sends the letter; he declines the second during Elias’s encounter. Hesk gives the interval without guaranteeing future passage. After returning, Elias cannot make the outward journey again. This does not establish a universal Ark calendar. Define Sami’s later departure and other later cases consistently; Elias’s retired second visit remains retired. The crossing mechanism may remain unexplained.
 
+Latest clarification: the Instance predates Daniel’s birth by millions of years. The ancient mining lineages’ history is separate from his later travels; biological durations and evidence still need a coherent private chronology.
+
 ### S-03 — Destination, voyage, longevity, and choice
 
 Set a workable private relationship among the destination, the age of its information, travel time, the Arks’ meeting, and the colony’s chronology. Decide how continued Ark care affects lifespan and what remains possible after departure. Daniel’s wish to travel and continued search through the final door are selected; any period of settlement and his physical route are open. Separate the ancient mining lineage’s development from the lifetimes of the present travelers. Sami’s independent route and access to family material need their own later scenes. Clarify how Haven accommodates a requested destination while preserving the population she carries; one person’s wish does not compel everyone to settle.
@@ -97,15 +99,19 @@ The [latest author direction](book-three-convergence-and-final-door-2026-09-24.m
 
 | ID | Selected direction | Remaining implementation |
 | --- | --- | --- |
-| B3-01 | Keep the colony struggle and Sower's rescue of endangered posthuman descendants in an instance. | Choose the extinction crisis, rescue capability, trigger, capacity, timing, consent, losses, and any colony beacon role. Keep Jonah's Earth beacon distinct. |
-| B3-02 | Adaptation is central; humans cannot simply treat the new world as Earth. | Develop shelters, environment and body choices, changed identities, and Sami/Hesper's consequential personal arcs. Do not make the colony merely a failed experiment. |
+| B3-01 | Keep the colony struggle; a sudden crisis outruns adaptation of its own changed descendants. Sower uses simulation, then instantiation. | Choose the sudden crisis and the practical reason for two-stage hosting; establish capability, trigger, capacity, consent, losses, and any colony beacon role. Keep Jonah's Earth beacon distinct. |
+| B3-02 | Adaptation is central; humans cannot simply treat the new world as Earth. | Choose the environmental hazard and changes. Develop proposed planet-adapted/Earth-adapted factions, shelters, consent across generations, and Sami/Hesper’s personal arcs. Do not make the colony merely a failed experiment. |
 | B3-03 | Shared strategy includes deliberate seeding alongside preservation. | Decide viable initial life, practical intervention limits, and future communities' freedom. Neither consciousness nor successful civilization is guaranteed. |
-| B3-04 | Haven meets an Ark descended from ancient mining organisms. | Establish the lineage's history, suitable conditions, elapsed time, ancestry evidence, and encounter. Ancient seeding can precede the present encounter without Daniel living through the entire interval. |
+| B3-04 | Haven meets an Ark descended from ancient mining organisms. | Establish the lineage's history, suitable conditions, elapsed time, ancestry evidence, and encounter. Haven’s mining history predates Daniel’s birth inside the ancient Instance; no accelerated evolution is selected. |
 | B3-05 | Haven and Sower converge through their different experiences; keep the Instance, Library, and Vessel. | Stage communication or reunion, responsibilities, present inhabitants' care, and remaining disagreements. No literal AI merger is selected. |
 | B3-06 | Daniel continues searching, finds an empty Ark that found the answer, and chooses its door as the ending. | Develop his trail, whereabouts, travel and care, the private answer, emptiness, evidence, and exact final cut. Distinguish this from Haven's inhabited encounter. Do not reinstate Elias's second visit. |
 | B3-07 | Preserve conscious lives beyond the original human mission. | Give unfamiliar beings and changed humans agency. Resolve the main human consequence before Daniel's threshold. Keep earlier wrongdoing and irreversible losses meaningful. |
 
 The broad route is selected; these seven implementation tasks remain open. No chapter prose, reading PDF, or artwork changes in this documentation pass. The author's fictional empty-Ark discovery is preserved without treating it as a demonstrated physical theory or proof that every strategy can last forever.
+
+## Latest adaptation review
+
+See [the detailed clarification](book-three-adaptation-emergency-and-feedback-2026-09-24.md), [compact candidate outline](book-three-adaptation-candidate-outline-2026-09-24.md), and [research checks](book-three-adaptation-science-notes-2026-09-24.md). The outside feedback does not move Daniel’s ending, give Sami the stone, require planetary survivors, or settle publication format. Simulation and instantiation are fictional capacities; their limits and continuity must be consistent.
 
 ## Mysteries that do not require explanation in Book I
 

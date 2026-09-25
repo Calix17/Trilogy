@@ -1,8 +1,8 @@
 # Complete package contents
 
-24 September 2026. 255 files. Start with [START-HERE.md](START-HERE.md).
+24 September 2026. 270 files. Start with [START-HERE.md](START-HERE.md).
 
-Latest update: Book III colony, AI convergence, and Daniel’s final door. All prior files remain available, either current or archived.
+Latest update: Book III adaptation, emergency simulation and instantiation, ancient mining chronology, and supplied feedback. All prior files remain available, either current or archived.
 
 ## Root
 
@@ -51,6 +51,9 @@ Latest update: Book III colony, AI convergence, and Daniel’s final door. All p
 - [06-development-notes/README.md](06-development-notes/README.md)
 - [06-development-notes/author-clarifications-2026-09-22.md](06-development-notes/author-clarifications-2026-09-22.md)
 - [06-development-notes/book-one-paradise-v3-review-2026-09-23.md](06-development-notes/book-one-paradise-v3-review-2026-09-23.md)
+- [06-development-notes/book-three-adaptation-candidate-outline-2026-09-24.md](06-development-notes/book-three-adaptation-candidate-outline-2026-09-24.md)
+- [06-development-notes/book-three-adaptation-emergency-and-feedback-2026-09-24.md](06-development-notes/book-three-adaptation-emergency-and-feedback-2026-09-24.md)
+- [06-development-notes/book-three-adaptation-science-notes-2026-09-24.md](06-development-notes/book-three-adaptation-science-notes-2026-09-24.md)
 - [06-development-notes/book-three-convergence-and-final-door-2026-09-24.md](06-development-notes/book-three-convergence-and-final-door-2026-09-24.md)
 - [06-development-notes/book-three-previous-outline-2026-09-24.md](06-development-notes/book-three-previous-outline-2026-09-24.md)
 - [06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md](06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md)
@@ -89,6 +92,7 @@ Latest update: Book III colony, AI convergence, and Daniel’s final door. All p
 
 - [08-production/README.md](08-production/README.md)
 - [08-production/__pycache__/render-book-v5.cpython-312.pyc](08-production/__pycache__/render-book-v5.cpython-312.pyc)
+- [08-production/book-three-adaptation-validation-2026-09-24.json](08-production/book-three-adaptation-validation-2026-09-24.json)
 - [08-production/book-three-convergence-validation-2026-09-24.json](08-production/book-three-convergence-validation-2026-09-24.json)
 - [08-production/consciousness-framework-validation-2026-09-24.json](08-production/consciousness-framework-validation-2026-09-24.json)
 - [08-production/nonhuman-ark-proposal-validation-2026-09-24.json](08-production/nonhuman-ark-proposal-validation-2026-09-24.json)
@@ -110,6 +114,7 @@ Latest update: Book III colony, AI convergence, and Daniel’s final door. All p
 ## 99-archive
 
 - [99-archive/2026-09-session-notes/author-clarifications-source-2026-09-22.md](99-archive/2026-09-session-notes/author-clarifications-source-2026-09-22.md)
+- [99-archive/2026-09-session-notes/book-three-adaptation-author-and-feedback-2026-09-24.md](99-archive/2026-09-session-notes/book-three-adaptation-author-and-feedback-2026-09-24.md)
 - [99-archive/2026-09-session-notes/book-three-convergence-author-direction-2026-09-24.md](99-archive/2026-09-session-notes/book-three-convergence-author-direction-2026-09-24.md)
 - [99-archive/2026-09-session-notes/consciousness-cycle-author-clarification-2026-09-24.md](99-archive/2026-09-session-notes/consciousness-cycle-author-clarification-2026-09-24.md)
 - [99-archive/2026-09-session-notes/longevity-daniel-lab-professions.md](99-archive/2026-09-session-notes/longevity-daniel-lab-professions.md)
@@ -124,6 +129,16 @@ Latest update: Book III colony, AI convergence, and Daniel’s final door. All p
 - [99-archive/RECOVERED-MATERIAL-README.md](99-archive/RECOVERED-MATERIAL-README.md)
 - [99-archive/master-working-doc.md](99-archive/master-working-doc.md)
 - [99-archive/post-v4-notes/notes-before-seven-thresholds-2026-09-23.md](99-archive/post-v4-notes/notes-before-seven-thresholds-2026-09-23.md)
+- [99-archive/pre-book-three-adaptation-reference/01-bible/bible.md](99-archive/pre-book-three-adaptation-reference/01-bible/bible.md)
+- [99-archive/pre-book-three-adaptation-reference/04-characters/character-sheets.md](99-archive/pre-book-three-adaptation-reference/04-characters/character-sheets.md)
+- [99-archive/pre-book-three-adaptation-reference/06-development-notes/README.md](99-archive/pre-book-three-adaptation-reference/06-development-notes/README.md)
+- [99-archive/pre-book-three-adaptation-reference/06-development-notes/book-three-convergence-and-final-door-2026-09-24.md](99-archive/pre-book-three-adaptation-reference/06-development-notes/book-three-convergence-and-final-door-2026-09-24.md)
+- [99-archive/pre-book-three-adaptation-reference/06-development-notes/trilogy-progression-and-current-direction-2026-09-24.md](99-archive/pre-book-three-adaptation-reference/06-development-notes/trilogy-progression-and-current-direction-2026-09-24.md)
+- [99-archive/pre-book-three-adaptation-reference/06-development-notes/v7-revision-checklist-2026-09-24.md](99-archive/pre-book-three-adaptation-reference/06-development-notes/v7-revision-checklist-2026-09-24.md)
+- [99-archive/pre-book-three-adaptation-reference/08-production/package-source-coverage-2026-09-24.csv](99-archive/pre-book-three-adaptation-reference/08-production/package-source-coverage-2026-09-24.csv)
+- [99-archive/pre-book-three-adaptation-reference/CONTENTS.md](99-archive/pre-book-three-adaptation-reference/CONTENTS.md)
+- [99-archive/pre-book-three-adaptation-reference/README.md](99-archive/pre-book-three-adaptation-reference/README.md)
+- [99-archive/pre-book-three-adaptation-reference/START-HERE.md](99-archive/pre-book-three-adaptation-reference/START-HERE.md)
 - [99-archive/pre-book-three-convergence-reference/01-bible/bible.md](99-archive/pre-book-three-convergence-reference/01-bible/bible.md)
 - [99-archive/pre-book-three-convergence-reference/04-characters/character-sheets.md](99-archive/pre-book-three-convergence-reference/04-characters/character-sheets.md)
 - [99-archive/pre-book-three-convergence-reference/06-development-notes/README.md](99-archive/pre-book-three-convergence-reference/06-development-notes/README.md)
