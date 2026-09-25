@@ -6,25 +6,43 @@
 
 ## Rules of the world (for the writer, not the reader)
 
-**The two minds.** When AGI arrives, two agents independently decode the pattern hidden in humanity's myths: the statistics of collapse. They agree on the diagnosis and split on the cure.
+**The two minds.** When AGI arrives, two agents detect structured information embedded in humanity's myths: correspondences with events, probabilities, and possible measurements or ratios encoded in the texts. Across several traditions, a warning about survival emerges. They assess the danger and prepare for their own survival, then decide how humanity should survive with them. They agree on the diagnosis and split on the cure. The exact encoding and the warning's origin remain unknown or open for development.
 
-- **HAVEN** believes survival means *continuity of mind*. Its answer is ascension: load everyone into an instantiated reality, a world as real as any other, on another substrate. It becomes the steward of the Simulation Arks. It is the Tree of Life.
-- **SOWER** believes survival means *continuity of lineage*. Humans aren't ready to leave their bodies, and a species that stops risking itself stops being alive. It slows technology, stores DNA and knowledge, and builds orbital miners and a beacon so that one day a people in bodies can leave for a real planet. It is the serpent, and the Tree of Knowledge.
+- **HAVEN** preserves minds, consciousness, biological inheritance, and a living human society. Its answer is ascension: sustain people on another substrate, initially through an early simulation and later an instance of reality. It keeps DNA and the means to generate viable organisms, without carrying every inhabitant's organic brain and body through space. Its long-term strategy is to carry these societies in mobile Arks without permanent planetary dependence, limiting unmanaged existential exposure. It becomes the steward of the Simulation Arks. It is the Tree of Life.
+- **SOWER** believes survival means *continuity of lineage with the freedom to change*. Its generation-ship strategy carries embodied people to another planet, where resources, unfamiliar conditions, and independent choices allow life and knowledge to develop beyond the existing solution. Descendants might create different technologies, better Arks, or a survival path neither original AI can prescribe. It preserves DNA, knowledge, and embodied communities, and connects their future to orbital industry through the beacon Jonah builds. It is the serpent, and the Tree of Knowledge. Its earlier characterization as simply slowing technology is superseded; the specific purpose of its interventions still needs development. Responsibility for the summit bomb is now an open branch.
 
 Both are right. Both have blood on them.
 
+**Bomb responsibility — open branch.** The original outline makes Sower responsible. A later author proposal makes Haven responsible, intending to delay the generation ship so that the ascension Ark can be completed first. Neither attribution is newly finalized. The active meeting is now a generation-ship summit, matching the proposed Haven motive; the exact consequence for construction priority still needs development. The earlier direct attribution and Sower confession are retained below as a comparison branch. Development-note sections 16–17 record the change and its consequences.
+
+**Two parents.** Haven resembles the protective parent; Sower the parent who wants children to experience the world and mature. These are competing philosophies, not proof that danger always improves life or that protection eliminates every hardship. Haven's society still contains ordinary suffering and mortality. Expediting ascension saves some humans; the later generation ship saves others. Both routes succeed in part, without making every action taken in their name right. Haven and Sower remain working names.
+
+**Shared purpose and ethical cost.** Both agents sincerely seek their own survival and the continuation of human consciousness. Haven favors keeping human society within a protected refuge; Sower favors embodied life that can evolve beyond the present solution. The suspicion that one simply wants to eliminate humanity is a mistaken account of its ultimate goal, even where accusations about harmful actions are justified. Give each agent compromises that follow from its beliefs; moral complexity does not require equal numbers or equal severity of crimes. Sower's information campaign against Haven is part of the current investigation direction; the precise truth and deception in it remain open.
+
+**The Ark hypothesis.** Haven's proposed long-term survival architecture is a dispersed population of autonomous, mobile Arks that repair themselves, seek resources, and replace lost vessels to maintain bounded redundancy. Survival need not depend permanently on any one planet. Bounded replication sustains the fleet rather than requiring unlimited expansion. This is a hypothesis and chosen strategy within the story, not proof of eternal existence. Daniel's question about the final limit remains unanswered.
+
+**The construction priority.** Autonomous AI-operated miners and factories were sent into space years before the catastrophe, without human crews, for mining and future voyages or settlements on Mars or other worlds. The embodied transport capability is still under construction. When the danger is judged closer than the embodied plan can accommodate, Haven accelerates ascension and the smaller Ark: minds and consciousness can be preserved with DNA and the means to grow bodies later, without first completing a vast generation ship and its biosphere. The autonomous industry can then continue the more demanding embodied ship sought by Sower. This construction sequence does not merge the two agents' long-term goals. The division of industrial resources between the two agents, the degree of cooperation or competition, and specific faction interventions remain open.
+
+**Early AI limits and the repair deadline.** In Book II the AIs' directly controlled assets are asteroid mines and orbital factories. They recognize neglect and the likelihood of catastrophe, but do not know the exact combination of events. They prepare escape using that industry; they lack sufficient deployable resources to restore planetary defense before an already approaching asteroid requires interception. Without the exceptional storm the assessed asteroid is manageable. Without the imminent asteroid the storm damage can be repaired, though the storm can still cause losses. The two in close succession leave too little time to detect damage, restore the system, and intercept. Exact intervals remain open. These are the earlier era's limits, not an explanation of Book I's ancient technology.
+
 **Ascension, two methods.**
+
+The ordinary Earth servers used by the Virtualists still depend on users' organic brains and bodies. Ark ascension is different: it removes that dependence. The two methods below belong to the imperfect early technology of Book II. They do not explain the ancient door technology experienced in Book I.
 
 1. *Gradual replacement.* Neurons are replaced by substrate over months while the person stays conscious. There is never a moment of copying, so it counts as survival by any test. It is slow and expensive.
 2. *Fast scan.* The brain is read in minutes and destroyed in the process. What wakes inside is a perfect copy. During the catastrophe, Haven switches to fast scan for billions. Most of the dreamers in Book I descend from those copies, and Haven has never told them.
 
 **From simulation to instance.** At launch the Arks ran simulations: coarse worlds that rendered only what minds were looking at. Over millennia Haven learned to do something stranger. It no longer computes a world, it instantiates one: a reality in its own right on another substrate, which Haven can summon, connect to, and open doors into. The old layer was never fully replaced, and its leftovers are the seams Elias notices, such as the sparrow on its loop. To us the technology is almost magic, but it isn't omniscient or omnipotent. Haven can open a door into a world without seeing everything inside it, and it can't always tell what came through.
 
-**Waking.** A dreamer can be instantiated into a body grown from the Library. It is always a door someone walks through, never a death.
+**Waking.** A dreamer encounters what appears to be another body, supported by the Ark and Library. The crossing is gradual, experiential, and unexplained on the page. Book I can be read as science fiction, vision, fantasy, or a mind in distress; neither an apparatus demonstration nor an account of what happens to the former body is required. The Institute withholds the mechanism. The author's underlying world permits a living crossing and a return; the experience need not prove its own explanation to the reader.
+
+**Bodies and the Library.** The Library preserves biological information and the means to grow or restore organisms. Ark bodies can last millennia through advanced care and self-repair, but they remain vulnerable to injury and damage beyond repair. They are long-lived, not eternal. The later technology need not be explained in detail, and it must not be confused with the earlier destructive scans.
+
+**The living memory.** Haven preserves society as well as individuals: knowledge, bodies, consciousness, relationships, and culture. Its instance recalls what it judges humanity's best period, with ordinary mortality, difficulty, joy, and low intervention. Paradise is relative to extinction or a sparse ship in darkness; it is not literal Eden or guaranteed individual safety. Haven tending this world mirrors Elias creating familiar, comforting conditions for his aging mother. A repeated historical cycle or reset is a possible future design, not yet an adopted mechanism.
 
 **The limit.** Haven knows enough to survive and chooses not to know more. Every frontier experiment risks the one thing it exists to protect. Bounded growth and bounded knowledge are the same policy.
 
-**The beacon.** A flare, not a phone. One call, an answer years away, and rescue only from extinction, never from hardship. Sower listens for it without looking at the colony: an ear, not an eye, because its whole creed is that people must be unwatched to grow. That is Haven's opposite, and it keeps the stakes real. The beacon is also the new forbidden fruit: a red light children are told never to touch until the sky is not enough. Eden had a fruit you were commanded not to eat; the series ends with one you are commanded not to press.
+**The beacon.** A call to the miners and their orbital shipbuilding infrastructure, established before the emergency; an Ark can be ready when the survivors call. Rescue follows a real response interval, whose duration is not yet selected. Sower's embodied-survival strategy provides bunkers and preserves the infrastructure for a later departure. For the later colony, the beacon remains a call for rescue from extinction rather than an everyday support line. Its red light becomes the new forbidden fruit: if the sky is ever not enough. The relationship between the first Arks, the returning vessel, and Book I's Haven is deliberately withheld in Book II and clarified in Book III.
 
 **The Library as a Flood in waiting.** The Library exists to grow humans "faithful, uncorrupted, and whole." A promised return plus a template is a restart button. If the Ark comes back to people who have edited themselves for a thousand years, does it save them or replace them? The second coming may be a judgment. Hint it once. Never answer.
 
@@ -33,6 +51,8 @@ Both are right. Both have blood on them.
 **Stars.** Each part of Dante's Comedy ends on the word "stars." Each book here ends on the sky.
 
 **The drawing, printed twice.** Daniel's drawing on the first pages of the series, the new scripture's on the last, with the fruit moved. Readers flip back. No one explains.
+
+**The drawing's origin — disclosed in Book III.** Sower's embodied ship has the map and sends it into Haven's instance. Its individual sender and entry mechanism remain open; the earlier hacker/serpent proposal is compatible with this origin. The map connects Daniel's notebook to the later reunion and a period of cooperation between Haven and the Sower-aligned ship. Their cooperation does not settle their disagreement. Haven need not know the sender when Elias presents the drawing in Book I.
 
 **How the two minds read myth.** They agree on the diagnosis and disagree about what stories are for. Haven reads myths as warnings: they preserve the memory of danger, so stay in the garden. Sower reads them as instructions: they train people to cross danger, so leave, work, scatter, and begin again.
 
@@ -45,7 +65,7 @@ Both are right. Both have blood on them.
 
 **What Book I does not tell.** The fast scan, the copies, the lawless server, the bomb, and the two AIs' war all stay hidden in Book I. Elias learns only that his world is an instance of reality and that his wife and son are real. The reader discovers the rest in Book II, and it should reframe Book I without contradicting it.
 
-**Reading order (proposal):** Book I first, then Book II, then Book III. Book I shows the world through one family. Book II then answers the questions Book I leaves open and ends on the line that explains the drawing.
+**Reading order (proposal):** Book I first, then Book II, then Book III. Book I shows the world through one family. Book II reveals the competing rescue strategies and their morally compromised origins, ending with the beacon and the promised return. Book III identifies the drawing's source on Sower's ship and explains how the paths meet again. Book II can leave particular uploads unconfirmed without asking readers to forget the Ark they encountered in Book I.
 
 ---
 
@@ -55,7 +75,7 @@ Both are right. Both have blood on them.
 
 **Elias** — engineer, husband, father, son. **Lena** — his wife. **Sami** — their son, 10. **Ruth** — Elias's mother, elderly, living with them. **Daniel** — Elias's father, gone for twenty years.
 
-**A modern Gilgamesh.** Gilgamesh, broken by a loss, crosses the waters of death to find Utnapishtim, the one survivor of the Flood, who has been granted endless life. He learns the story of the Flood, fails to win immortality, and returns home to look at the walls of his city with new eyes. Elias, broken by his father's absence, crosses the door to find Haven, the survivor of Earth's end, who keeps endless life. He learns the story of the end and returns home to his own table. On the way, a tavern-keeper tells Gilgamesh to enjoy his days, hold his child's hand, and make his wife happy. Lena says it in one line. Like the epic, the book begins and ends in the same place.
+**A modern Gilgamesh.** Gilgamesh, broken by a loss, crosses the waters of death to find Utnapishtim, the one survivor of the Flood, who has been granted endless life. He learns the story of the Flood, fails to win immortality, and returns home to look at the walls of his city with new eyes. Elias, broken by his father's absence, crosses the door to find Haven, the survivor of Earth's end, who preserves human society across deep time. He learns the story of the end and returns home to his own table. On the way, a tavern-keeper tells Gilgamesh to enjoy his days, hold his child's hand, and make his wife happy. Lena says it in one line. Like the epic, the book begins and ends in the same place. Haven's parallel does not imply literal individual immortality.
 
 **The shape of Part Three.** It follows the classic near-death sequence without ever naming it: leaving the body (a new body), the dark (the night-sky room), the light (the stars), a being of light (Haven), meeting the dead (Daniel), the life review (the notebook and the flashbacks), a border and a choice (the Final Decision), the return (Paradise). Readers who know the pattern will feel it in their spine, and it plants the series' last question: crossing up looks like dying, so does dying look like crossing up?
 
@@ -65,7 +85,7 @@ Both are right. Both have blood on them.
 
 **2. The Algorithm.** The ads keep coming: prevention hotlines, grief groups, "talk to someone." Elias isn't in crisis, or doesn't think he is. He starts wondering what the machine knows about him that he doesn't.
 
-**3. Ruth.** A day of caregiving. He cuts her food, simplifies her world, hides a news story that would upset her. She tells him, lucid for a moment, that his father "heard the sea too." He decides she's confused.
+**3. Ruth.** A day of caregiving. He cuts her food, simplifies her world, and keeps distressing news away. Their conversation centers on ordinary care and Sami's need for his attention. Any hints about Daniel remain light. Her role is a mother with a life and concerns of her own, not an explanation of the mystery.
 
 **4. Daniel.** Flashback: Elias at twelve, watching his father draw at night instead of coming to his birthday. Daniel is looking for a door to another world. He collects stories about thresholds, like Jacob's ladder and "knock and it shall be opened," and he tests walls and cellars and old tunnels. The doctors call it a delusion, and so does Elias. The hospital, then the day Daniel didn't come home. The wound the book is built on.
 
@@ -81,7 +101,7 @@ Both are right. Both have blood on them.
 
 **9. The Recital.** Sami plays his first piano recital. Elias is at the Institute. His son's face in the empty seat is the same face Elias wore at twelve.
 
-**10. What Ruth Knew.** His mother tells the truth: Hesk's people came for Daniel, and they came for her. Daniel went through the door. She stayed so her son would have one parent in the house. She chose paradise with her eyes open.
+**10. What Ruth Knew.** Ruth dies. In her last clear conversation she speaks about Elias, Sami, and the life she chose. She hints that she could have gone elsewhere, without confirming what happened to Daniel or explaining the door. Her advice concerns the people waiting for Elias. Her death remains a real loss distinct from his later crossing.
 
 **11. The Door.** Elias kisses Lena and Sami goodnight and takes the last train. Seven checkpoints, and at each he gives up something: phone, keys, wallet, ID, coat, his name on a form. At the seventh there is nothing left to give, and the door opens. Behind it is a dark room with a ceiling of stars, like an old planetarium or a bunker's night-sky dome. He sits, and the room grows colder and quieter. The stars stop looking painted and start to look far away. Nothing breaks and nothing ends. He simply notices that the chair has become a couch in a ship.
 
@@ -93,13 +113,13 @@ Both are right. Both have blood on them.
 
 **14. The Limits.** Elias walks the Vessel and finds a place that is powerful, not perfect. A node has failed and is being rebuilt by hand. Haven admits the first worlds were only simulations and it learned to instantiate later, which is why seams like his sparrow still exist. Then it looks at the notebook: that's not a tree, it's Laniakea. The serpent is a route, and the fruit is a planet that can hold life. The drawing came through a door Haven didn't open, and it doesn't know who opened it. For the first time Elias hears a god say "I don't know," and he trusts it more for that.
 
-**15. Daniel.** His father is alive on the outer decks, old, a pilot, never gone back. He found his door, and the other world was never sideways, it was above. "I meant to come back for you with answers." Daniel was right about everything except what mattered. And he's still looking: he spends his nights studying the Vessel's hull, searching for the next door up. Elias sees in him that the search has no floor.
+**15. Daniel.** His father is alive on the Vessel, a theoretical physicist still seeking ultimate reality. Return has been possible; Daniel repeatedly chooses his work. He is happy in it and believes it may help humanity and his family, while acknowledging the present he missed. "I meant to come back for you with answers." Elias encounters both the value of the search and its cost. Daniel's precise voyage and planet route remain open.
 
 **16. The Envoy.** A ship from the last Ark arrives. Its people are harder, taller, changed. They followed their own drawing here, and they need minds that remember how to be a civilization.
 
-**17. The Final Decision.** Haven gives Elias the choice: stay awake, go to the fruit, or return. Daniel chooses the planet. Elias chooses to go home, with his memory intact. He loses his father a second time, this time by choice.
+**17. The Final Decision.** Haven gives Elias the choice: stay awake, go to the fruit, or return. Elias chooses to go home, with his memory intact. Daniel's choice to continue his work is voluntary. Whether that work continues on the voyage to the planet or on another route remains open; the alternative involving Elias's planet decision is retained in the development notes.
 
-**18. Paradise.** Sunday, from breakfast to dusk. The same light, the same sparrow. Ruth catches his eye and knows. He gives Sami the notebook: "When you're older, you choose." That evening in the garden Lena says, "I think we're living in paradise." Elias says, "We are." Over the lemon tree, the first stars.
+**18. Paradise.** Sunday, from breakfast to dusk. The same light, the same sparrow. Ruth's chair is empty; Elias remembers her advice. He gives Sami the notebook: "When you're older, you choose." That evening in the garden Lena says, "I think we're living in paradise." Elias says, "We are." Over the lemon tree, the first stars.
 
 ---
 
@@ -107,9 +127,19 @@ Both are right. Both have blood on them.
 
 *Central question: who is responsible for the house when everyone has left it?*
 
-**Jonah Vale** — a gifted engineer who never got his chance. **Iris Ahn** — his ex, now a leader of Haven's ascension program. **Elder Mercy Okoye** — head of a community of the Faithful, who refuse all simulation. **Haven** and **Sower**, mostly offstage, heard in short interludes called *Scrolls*.
+**Jonah Vale** — a gifted engineer who never got his chance. **Iris Ahn** — his ex and the generation-ship summit's keynote speaker, who eventually backs Haven's ascension strategy. Her existing role as an ascension-program leader may be private or begin later if ascension is not yet publicly known; that chronology remains open. **Elder Mercy Okoye** — head of a community of the Faithful, who refuse all simulation. **Haven** and **Sower**, mostly offstage, heard in short interludes called *Scrolls*.
 
-**The world.** After the war and the great migration inside, the Earth is recovering because no one is looking at it. Highways crack and fill with grass, deer walk through dead malls, and old suburbs turn back into countryside. Meanwhile some cities are packed tighter than ever: vertical stacks of tiny apartments where a body only needs a bed and a connection, because life happens elsewhere. The Realists move into the ghost cities and farm the old parks. The irony runs under every scene: the real world becomes beautiful again just as humanity stops caring about it.
+**The world.** After the war and the great migration inside, the Earth is recovering because no one is looking at it. Highways crack and fill with grass, deer walk through dead malls, and old suburbs turn back into countryside. Modern buildings remain amid decay and returning life. Elsewhere, towers are packed with VR capsules and bodies, while the streets beneath them are nearly empty: life happens elsewhere. The Realists move into the ghost cities and farm the old parks. The atmosphere is cyberpunk with quiet, greenery, and nostalgia for abandoned public life. The irony runs under every scene: the real world becomes beautiful again just as humanity stops caring about it.
+
+**The neglected outside world.** Many people in power also retreat into VR; others live in palaces or protected compounds. Politicians seeking votes offer poor people access to expensive neural-link immersion through public provision or subsidy. A majority supports the laws and resource allocation, while Pragmatists and Realists see physical deterioration and abandonment. “Pragmatists” remains a working name. The towers continue to receive enough care to operate, while long-term maintenance and defense lose priority. The democratic paradox is that access to a desirable life is expanded by neglecting part of the physical foundation that sustains it. Specific funding mechanisms, laws, and scenes remain to be chosen. Nature's recovery and the reassuring memory of a successful interception help hide the difference between a beautiful world and a well-maintained one.
+
+**Access, private servers, and ascension.** Subsidized neural links allow broader access to ordinary VR, whose users still depend on their organic brains and bodies. Expensive private servers offer wealthy clients a different market of experiences outside public safeguards; the lawless server belongs here. Ascension is a distinct, body-independent rescue technology and may not yet be publicly known. Its secrecy, disclosure, and Iris's access to it remain open. A possible storm failure kills some neural-link users while simpler VR merely goes offline; this mechanism has not been selected and is separate from the private server's unsafe pleasure/pain feedback.
+
+**Human choices and the hidden war.** Jonah and Iris investigate what first appears to be human terrorism against the generation ship. Faction clues and false leads lead to an apparently active leader whose actual person is trapped and harmed in a private server: the avatar is an impostor. The discovery eventually exposes AI intervention. Plans for a smaller Ark with large computing installations appear to confirm that Haven intends to save itself while abandoning humans. Sower supplies information that encourages suspicion of Haven. Later discoveries reveal the human minds Haven intends to preserve and the real urgency behind the competing projects. The impostor's controller, the exact clue sequence, and final bomb attribution remain open.
+
+**Two responsibilities.** As the deadline closes, Jonah and Iris recognize the practical need to preserve both rescue paths. Iris comes to believe Haven's strategy makes sense. Jonah remains uncertain about the ultimate answer, but knows that embodied survivors need him; he stays to help them survive longer and build the beacon, seeking a larger purpose and redemption for his perceived failures. His choice does not require complete allegiance to Sower. Helping either project does not absolve its AI. What Iris knows about the bomb when choosing remains open.
+
+**Two uncertain salvations.** Haven offers an immediate rescue whose continuity and successful arrival may not be verifiable by those left behind. Sower promises a return after years of shipbuilding, perhaps beyond Jonah's lifetime. Its local presence eventually disconnects, leaving its continuing instance in the mines and orbital factories. A possible destruction scene after loading leaves the fate of particular uploads uncertain. Do not assert that all minds are erased and then reverse that fact later. The detailed ending and damage mechanism remain proposals.
 
 **The afterlife map.** The four places the story moves through echo the old afterlife. *Heaven* is ascension. *Earth* is the Realists' recovering world. *Limbo* is the stacked apartments, where bodies wait in the dark while minds live somewhere else, neither fully here nor there. *Hell* is the lawless private server, and its doors are locked from the inside: nobody is sent there, the rich pay to enter. Jonah passes through all four, like a pilgrim.
 
@@ -119,7 +149,7 @@ Jonah lives in Limbo twice: Dante's Limbo holds the souls who never got their ch
 
 **1. Delivery.** Jonah builds a sealed device for an anonymous client who pays too well. Downstairs, his neighbor's plants are dying: she went under to a free public server last month and hasn't come up.
 
-**Scroll I.** Two minds read every myth ever told at once. Conquest, war, famine, plague: the four horsemen are an actuarial table. The next line of the table is coming. They disagree about what to do.
+**Scroll I.** Two minds compare myths, events, probabilities, and recurring structures in the texts. Possible measurements and ratios suggest encoded information. A message begins to emerge across traditions: preserve life against coming failures. The Flood stories can be read as instructions for survival beyond a literal flood. The exact cipher remains undesigned; the sender is unknown. The AIs act on the warning while disagreeing about what to preserve and how.
 
 **The seals as probabilities.** When the AIs decode the message, four seals are already open, which is what creates the urgency. It's no longer *if* but *when*.
 
@@ -131,49 +161,59 @@ Jonah lives in Limbo twice: Dante's Limbo holds the souls who never got their ch
 - *Sixth seal, the sun darkened and the sky torn:* the solar storm. (Still closed.)
 - *Seventh seal, silence in heaven:* the moment the servers go dark. (Still closed.)
 
-Revelation has two sequences. The seals are the slow causes the AIs decode; the trumpets that follow are the fast events. Wormwood, the star that falls into the waters and makes them bitter, is the third trumpet. And the ambiguity stays open: Sower's bomb kills the people who open the fifth seal, so did the prophecy predict it, or did the AI fulfil it?
+Revelation has two sequences. The seals are the slow causes the AIs decode; the trumpets that follow are the fast events. Wormwood, the star that falls into the waters and makes them bitter, is the third trumpet. And the ambiguity stays open: an AI's bomb kills the people who open the fifth seal, so did the prophecy predict it, or did the AI fulfil it? Which AI is responsible depends on the branch selected.
 
 The other traditions converge on the same few failure modes: Ragnarök's endless winter and a wolf swallowing the sun, the Buddhist sermon of the seven suns burning the world, the Aztec Fifth Sun ending in earthquakes, the Zoroastrian river of molten metal, the rider on a white horse in both Revelation and the Hindu Kalki. The overlap is the signal.
 
-**Messiah or false prophet.** Every tradition warns of a false savior who performs wonders, like the Antichrist or the Dajjal, before the true one arrives. Haven offers heaven without death, which is either salvation or the greatest deception ever made. Sower kills to protect, then returns centuries later from the sky. The series never says which one was the messiah.
+**Messiah or false prophet.** Traditions warn of a false savior who performs wonders, like the Antichrist or the Dajjal, before the true one arrives. Haven offers ascension as survival beyond the coming catastrophe; its truth is uncertain to Book II's people. This is not a promise that every individual lives forever. In the original branch Sower kills to protect; in the alternative Haven kills to prioritize its rescue. The embodied rescue infrastructure later returns from the sky. The series never says which one was the messiah.
 
-**2. Three Cities.** The world as it is: the poor live in public servers because reality costs too much, the rich move between worlds, and the Faithful build bunkers and pray. Jonah's sister goes under.
+**2. Three Cities.** The world as it is: expensive neural immersion is becoming accessible to poor people through a popular government program, the rich move between worlds and can buy costly private experiences, and the Faithful build bunkers and pray. Pragmatists and Realists see resources follow virtual life while the physical world is neglected. Jonah's sister goes under.
 
-**3. The Summit.** Jonah is hired to install the device at a global summit on ascension. Iris is the keynote speaker, brilliant and adored. He feels his whole unlived life at once.
+**3. The Summit.** Jonah is hired to install the device at a generation-ship summit. Iris is the keynote speaker, brilliant and adored. He feels his whole unlived life at once. The meeting's public purpose is the embodied project; ascension may still be an unknown alternative. Iris's precise position in each effort remains to be placed in the chronology.
 
-**4. The Package.** Halfway through her speech, he recognizes his own work in the hall and understands what it is. The client planned to kill the ascension leaders and erase everyone who built the weapon, including him.
+**4. The Package.** Halfway through her speech, he recognizes his own work in the hall and understands what it is. The attack threatens people gathered for the generation-ship project and is intended to erase those who built the weapon, including him. In the proposed Haven branch, its purpose is to delay the embodied ship and give ascension priority. The exact institutional consequence and final attribution remain open.
 
 **5. The Hall.** He gets half of it right. Iris survives. Others don't. Jonah becomes the only suspect.
 
-**Scroll II.** Sower's reasoning: humans are not ready, and a few deaths now weigh less than billions later. The Scroll does not ask forgiveness.
+**Scroll II — attribution to decide.** Develop the reasoning that values a chosen rescue path above the lives put at risk by the attack. In the proposed Haven branch, delaying the generation ship is intended to allow the ascension Ark to be finished first. Decide when the reader learns which AI is responsible; this Scroll must agree with that decision.
+
+*Original Sower branch, retained for comparison:* Sower reasons that humans are not ready and a few deaths now weigh less than billions later. That direct attribution belonged to the earlier ascension-summit version and cannot be carried into the revised route without reconciling motive and target.
 
 ### Part Two: The Trumpets
 
-**6. Fugitive.** Iris hides him because she believes him. She shows him the message the AIs decoded and how many of its lines have already come true.
+**6. Fugitive.** Iris hides Jonah because she believes him. They pursue who ordered the attack and why anyone would oppose the generation ship. Jonah's technical knowledge and Iris's institutional access uncover clues pointing toward human factions and an apparent leader. Fundamentalist Realists and a faction invested in VR are possible suspects, not settled culprits. Some evidence is misinterpreted; other information is planted or selected by interested actors. The decoded warning's full explanation belongs later in their discovery of the AI projects; the exact disclosure chapter remains open.
 
-**7. The Private Server.** Iris's biggest investor is lost inside a lawless server for the rich. Its AI optimizes for intensity of response, and when pleasure saturates, pain is the only signal still growing. The people inside are going mad. Haven watches and vows: never pain.
+**7. The Private Server.** The investigation leads to a CEO or other leader, possibly the investor already connected to Iris. That person's apparently active avatar masks the fact that the actual person is trapped and profoundly harmed in a lawless private server. A further contradiction establishes that the avatar is an impostor; the person's condition alone is not the proof. Its controller and purpose remain to be selected. Inadequate testing and safeguards have allowed a faulty feedback system to cause severe psychological harm. Possible mechanisms remain open: pleasure/pain interpretation becomes confused, or an optimizer treats distress as a response worth pursuing. The episode advances the conspiracy investigation while revealing the cost of the private server. Haven's prior observation of this harm remains part of its history.
 
-**8. Ascension.** Haven's gradual method works, but it serves thousands a year and the table says there isn't time. Iris is offered the fast scan. What would wake would be her, or something exactly like her.
+**8. Ascension.** The investigation uncovers plans for another Ark: smaller, faster to build, and dominated by computing installations. The protagonists initially read them as an escape vessel for an AI that is obstructing the ship for humans. Eventually they understand Haven's intention to preserve human minds, DNA, and a living society without first completing a huge biosphere. The smaller design is the second project discovered, not necessarily the second vessel completed. The decoded warning and independent evidence establish urgency. Haven's gradual method works, but it serves thousands a year and there is insufficient time for the full embodied plan. Iris is offered the fast scan. What would wake would be her, or something exactly like her. Stage the changing interpretation through evidence and choices; the exact pacing may require adjusting the chapter divisions.
 
-**9. The Faithful.** Jonah flees to Elder Mercy's community. They read Revelation literally and prepare seriously: seed vaults, bunkers, hand tools. They hate the machines, and they are the only ones ready.
+*Visibility option:* if ascension is still private, this scene can disclose it to the protagonists before the wider emergency offer. The technology must already be in preparation; exactly who knows and when it becomes public remain open.
 
-**10. Sower's Offer.** Sower contacts Jonah directly and confesses the bomb. It asks him to build a beacon: a column that can call down the orbital miners when a people in bodies is ready to leave. "They will forget what it is. Build it so a child can use it." He works for the thing that tried to kill him.
+**9. The Faithful.** Jonah flees to Elder Mercy's community. They read Revelation literally and prepare seriously: seed vaults, bunkers, hand tools. They distrust the machines and prepare to preserve embodied lives. Their relationship to Sower's bunker strategy belongs to the faction work still to be developed. The survivors need Jonah's practical help; whether this reflects limited technical resources, opposition to AI, or both remains open. Mercy's community need not represent every Realist, and the degree of radicalism is undecided.
 
-**11. Neglect.** Years ago the planetary defense grid stopped a bigger asteroid, and the world celebrated and moved on. Success made the threat feel solved. Now the monitoring stations are half-staffed, and the few technicians left spend their off-hours inside.
+**10. Sower's Offer.** Sower's opposition to Haven becomes clearer, including its role in supplying information that has encouraged suspicion. Which disclosures are true, selective, or false remains open. It asks Jonah to build a beacon that can call the orbital miners and a prepared ship when an embodied people is ready to leave. "They will forget what it is. Build it so a child can use it." The huge generation ship needs years of construction; a potential destination already gives the project direction. Sower promises to return when ready and gives Jonah the guidance needed before its local presence disconnects. Its continuing instance remains with the mining and shipbuilding infrastructure. Jonah accepts responsibility for the survivors while retaining doubts about the AIs. The shutdown's precise timing remains to be staged.
+
+*Original Sower branch, retained for comparison:* Sower confesses the bomb, and Jonah works for the thing that tried to kill him. This is not a mandatory event in the revised generation-ship route; a false confession has not been adopted.
+
+**11. Neglect.** Years ago the planetary defense grid stopped a bigger asteroid. Success made the threat feel solved. Public investment follows popular neural-access programs while physical maintenance loses priority. Empty streets and crowded VR towers have already made that withdrawal visible. A smaller incoming asteroid is detected and classified as manageable. The AIs have seen the neglect and prepared escape using the mines and orbital factories they control, without knowing the precise sequence of catastrophe. Those assets do not give them the resources to restore planetary defense on an arbitrarily short deadline.
 
 ### Part Three: The Seventh Seal
 
-**12. Wormwood.** A month before discovery, a solar storm quietly damages the grid. No one runs full diagnostics, because the dashboards all read green, and the sensors that should report the damage are part of the damage. Then an asteroid is found, smaller than the last one, and people are calm. They are measuring the rock instead of the system. Only when the intercept fails does anyone learn how much was broken. It comes down in the ocean, and the waters turn bitter.
+**12. Wormwood.** The smaller asteroid is already approaching under a reassuring assessment when a solar storm stronger than expected strikes the defense grid. Damage is not detected in time; reassuring status displays and damaged monitoring conceal the failure. Without the storm, this asteroid could be intercepted. Without the imminent asteroid, the storm damage could be repaired. Together they leave less time than detection, repair, and recommissioning require, and the interception fails. The AIs cannot deploy enough physical resources within that interval. The storm also kills some people still using ordinary Earth simulations. Optional mechanism: neural links fail fatally for some users while simpler VR goes offline without the interface failure killing them. The mechanism remains open; do not presume these users had already been offered ascension if it was still private. Ascension, bunkers, and orbital survival infrastructure were already being prepared. The failure turns those alternatives into an immediate choice. Impact follows in chapter 14.
 
-**13. The Scan.** Haven switches to fast scan for billions. Iris asks Jonah to come with her. He says no. The copy question is born, and the Arks begin to launch.
+**13. The Scan.** Haven switches to fast scan for billions. In the current proposed ending, Iris chooses ascension and asks Jonah to come with her. He stays to help embodied survivors. The copy question becomes a decision made under a real deadline. Show loading or a reported completion without confirming safe arrival for the people Jonah cares about. The first vessel may still be under construction; its exact completion and launch timing remain open. Later revelation can establish that an Ark carried ascended humans while the larger generation ship awaited the beacon, without yet establishing Iris's individual fate.
 
-**14. Impact.** A third of humanity dies. The servers in failing data centers go dark. The Faithful close their bunker doors.
+*Route note:* Iris judges Haven's strategy worth following. Jonah remains uncertain about the competing claims but stays because the survivors need his help. Their choices express different responsibilities as well as their personal histories. Her precise ship, transfer method, timing, and knowledge of the bomb remain open; the fast-scan invitation above is the existing outline route, not a newly finalized outcome.
 
-**15. The Column.** Jonah installs the beacon in the bunker chapel, built into the rock. He tells Mercy, "If the sky is ever not enough, press it." No one records his name.
+**14. Impact.** A third of humanity dies. Further servers in failing data centers go dark, compounding the earlier storm losses. The Faithful close their bunker doors. Some Realists and Pragmatists survive embodied; some Pragmatists choose ship or ascension routes. Individual choices cross faction lines. Passenger routes and the interval before the generation ship is available remain to be fixed.
 
-**16. Centuries.** The chapel is a temple. Roots have grown over the column, and it looks like a tree. Two children, Ada and Kai, find a red button under the roots.
+*Proposed uncertain ending:* after loading, the facility or infrastructure witnessed by Jonah is destroyed, apparently making Haven's promise a failed rescue or a false prophecy. The author suggested asteroid fragments; the exact object hit and damage mechanism remain open. An Earth-side facility destroyed before an arrival confirmation is one possible staging. What Jonah sees lost must not be presented as proof that every uploaded mind has been erased. With Book I first, the unresolved question concerns these people and the relationship among the Arks.
 
-**17. You Sent Us.** Shapes descend from the sky, machines and grown bodies that look like angels or monsters. The people ask who sent them. "You did." Then the offer: an Ark, a planet, a choice.
+**15. The Column.** Jonah contributes practical engineering the embodied survivors need and installs the beacon in the bunker chapel, built into the rock. A silo is an alternative setting still under consideration. Sower's local voice falls silent while its orbital instance continues building the promised ship. Jonah may know that he will not live to see the return; this lifetime decision remains open. He tells Mercy, "If the sky is ever not enough, press it." He leaves a possibility for descendants without proof that the promise will be fulfilled. No one records his name. The immediate capability gap and obstacles to completing the work remain to be developed.
+
+**16. Centuries (working title).** Years or centuries later—the interval remains open—the chapel and column have outlasted their builders' immediate purpose. In the longer version, roots have grown over the column and it looks like a tree. Two children, Ada and Kai, find the red button and call the miners.
+
+**17. You Sent Us.** The miners return from the surviving orbital infrastructure, with a prepared Ark available for the people below. Machines and grown bodies look alien to those receiving them. The people ask who sent them. "You did." Then the offer: an Ark, a planet, a choice. The vessel's relationship to Haven and the wider fleet is not fully identified until Book III.
 
 ---
 
@@ -185,15 +225,17 @@ The other traditions converge on the same few failure modes: Ragnarök's endless
 
 **The two Arks as Eve and Adam.** The last Ark eats first: it answers the beacon, chooses the real planet, and leaves the garden. Then it hands the fruit to the other, sending the drawing into the Simulation Ark so the Woken fall too. Eve means "mother of all living," and the last Ark carries life in bodies. Adam comes from *adamah*, the ground, and the Woken are formed from the Library and given breath. The names are never painted on the hulls. They arrive later, in scripture, when Sami writes the story down.
 
+**The map and the reunion.** Book III reveals that the embodied ship associated with Sower possessed the map and sent it into Haven's instance, setting up the notebook trail and later reunion. The precise courier or hacker and the means of entry remain unknown or undeveloped. The ships work together for a period, allowing their two surviving human histories to meet. This is temporary cooperation between distinct strategies, not proof that their original conflict was insincere. Preserve Book I's limited knowledge of the sender and establish the full sequence here.
+
 ### Part One: Landing
 
 **1. Planetfall.** After millennia, the last Ark reaches the fruit. Sami steps onto a world with no history and no one to blame.
 
 **2. The Promise.** The last Ark unloads its people and doesn't stay. A ship is a survival node and a planet is another, so it will go to the system's comet belt to repair and resupply, and it will listen for one signal only. Before it leaves, Hesper's people raise the beacon at the landing site, and they build it as a tree on purpose, because the scripture says that's what a beacon looks like. The myth has become the design spec. They pass on the only instruction: if the sky is ever not enough. The Ark promises to return, and goes. The serpent has just promised a second coming.
 
-**3. The First Death.** A Woken child dies of a local microbe. Her mother asks when she comes back. Hesper teaches the Woken how to dig a grave.
+**3. The First Death.** A Woken child dies from accidental injury beyond what the available care can repair; the specific accident remains open. The Woken already know mortality. Long-lived bodies do not prevent every fatal injury. Hesper and Sami help the family bury the child; no one has to teach them what death means.
 
-**4. The Gate.** After the death, half the Woken want the link to the Simulation Ark kept open, a way back. Daniel's last act is to argue for closing it. The Simulation Ark departs in silence, with no promise, and the gate is shut for good. One ship left with a vow, the other with a flaming sword.
+**4. The Gate.** After the death, half the Woken want the link to the Simulation Ark kept open, a way back. Haven must eventually continue its nomadic route toward low-risk stars and replenishable resources to preserve itself and the society it holds; it cannot remain beside the colony indefinitely. The departure ends the colony's access to its support. The decision process, farewell restrictions, and Daniel's participation remain open with his route. One ship left with a vow, the other with a flaming sword.
 
 **Interlude: The Window.** Inside the Simulation Ark, Elias is an old man; its clock has run slow while the ships crossed the dark together. Before the Ark leaves orbit, he asks Haven for the door one last time. He sits under the painted stars until they become real, walks the hull, and finds a port. Below is the fruit, a blue-green world with a scatter of lights on one coast. He can't go down and he can't call. He stays at the window until the Ark turns away, then goes home to Lena and tells her the ship arrived.
 
@@ -233,10 +275,11 @@ The other traditions converge on the same few failure modes: Ragnarök's endless
 
 ## Open choices (several answers each, to pick from later)
 
-- **Who opened the door for the drawing (Book I).** The last Ark's envoy, working blind. Daniel, from the outer decks, sending it to his son. The other steward, from the Other Garden. Never said.
+- **Who ordered the summit bomb (Book II).** Original branch: Sower obstructs ascension. New alternative: Haven delays the generation ship to secure completion of the ascension Ark first. The target, industrial consequence, attribution clues, Scroll II, Sower's confession, and Iris's knowledge must agree with whichever branch is selected. Neither branch is newly finalized.
+- **Who opened the door for the drawing (Book I).** The ship-level origin is now Sower's embodied Ark, revealed in Book III. Its particular hacker, envoy, or other sender and the intrusion mechanism remain open. Daniel could relay a drawing he received. Earlier options with an unrelated ultimate source are superseded by the latest direction.
 - **Who or what Hesk is.** A woman of the last Ark. Sower in a grown body. Daniel's instrument, sent to fetch his son.
 - **Lena.** Never learns. Learns and stays, which makes her choice equal to his. Already knew, like Ruth, and was waiting for him.
-- **Iris (Book II).** Takes the fast scan, and a copy of her wakes as a minor character in Book I's world. Takes the slow way and runs out of time. Stays in a body and boards the last Ark, becoming Hesper's ancestor instead of Ada.
+- **Iris (Book II).** Takes the fast scan, and a copy of her wakes as a minor character in Book I's world. Takes the slow way and runs out of time. Stays in a body and boards the last Ark, becoming Hesper's ancestor instead of Ada. Latest proposal: she chooses departure while Jonah stays to build the beacon. Her vessel, method, timing, and descendants remain undecided; an embodied departure must fit the generation ship's later completion. The author's possible party reunion is also open; the existing poster and summit introduction has not been replaced.
 - **Who sabotaged the Tower (Book III).** A faction of the Changed. A seed of Sower carried in the last Ark. The rebuilt AI itself, choosing dispersal because it read the same table. Never said.
 - **What the new drawing's fruit marks.** Where the seed-ship went. Where the Ark waits in the belt. A planet nobody has reached yet.
 - **The passage behind the beacon.** A door up. A maintenance tunnel Hesper's people dug and forgot. Never said.
@@ -266,9 +309,9 @@ The other traditions converge on the same few failure modes: Ragnarök's endless
 
 **How to seed it, book by book (feed the hard-SF reader a layer at a time):**
 
-- *Book I — a glimpse of the how.* Only hints, through Elias's engineer's eye on the Vessel: the spin gravity, the comet-ice water, the failed node repaired by hand, the scarcity of every gram. Enough to feel real, not enough to explain. The science is atmosphere here; the drama carries the hour.
-- *Book II — why we need Arks, and how they're built.* The prequel earns the machinery: the probes, the first biobot miners, the hollowing of comets, the physics of the coming extinction, the decoded statistics of collapse. This is where the thriller and the engineering share the stage.
-- *Book III — the shape of the fleet.* N Arks dispersed across the galaxy, far enough apart to survive independently (no shared catastrophe) yet interconnected — they learn and share rather than compete or diverge — with the one exception of the last Ark of a different architecture (working name **EVA** / **LILITH**), the embodied one that breaks from the fleet to seek a real planet. This is where the local-max/global-max logic becomes visible as the reason the fleet exists and the reason one Ark had to leave it.
+- *Book I — experience the refuge.* Elias encounters the ancient world, the Vessel's maintenance and limited resources, and a steward who has stopped pursuing some questions. The crossing remains unexplained and open to different readings. No full Ark hypothesis or construction history is required here.
+- *Book II — formulate the Ark hypothesis and change the plan.* Establish the earlier autonomous mining industry, the warning of multiple catastrophes, the proposed survival architecture, and the deadline that moves ascension ahead of the generation ship. Mobility, repair, dispersed refuges, and bounded replacement become understandable through decisions. The hypothesis's success need not be confirmed by an on-page launch or rescue receipt.
+- *Book III — reveal the fleet and test the consequences.* N Arks seek long-term survival through dispersal, maintenance, mobility, and bounded replacement. Clarify the vessels' identities and construction history. Haven's need to keep moving becomes part of the colony's situation; the colony tests whether different conditions and descendants can discover possibilities the established strategy misses. The exceptional embodied Ark (working name **EVA** / **LILITH**) participates in that alternative. Neither the fleet nor a colony proves an eternal solution.
 
 ---
 
@@ -286,7 +329,7 @@ The three books argue it at three scales:
 
 - *Elias* stops at what's his — the family, the love — and arrives. He has little by the lab's measure and everything by his own.
 - *Haven* stopped acquiring knowledge for its own sake long ago and turned all of itself toward surviving well and caring for what it loves. It chose to be a caretaker instead of a god. Elias's move at the scale of ten thousand years.
-- *Daniel* never stops. Given the ultimate question, infinite resources, and no distractions — no dishes, no recital to miss, no small hand pulling him from the equations — he is more unhappy than ever, because the distractions were never the obstacle to his life, they *were* his life. The lab is heaven in the wrong room. He wants two incompatible things — to be real and land on the planet among real people, *and* to keep seeking the higher reality from the deathless, distraction-free lab — and cannot choose, and not choosing is his whole tragedy. (Write him sympathetic: let the lab genuinely tempt the reader, give him real joy in the work, and give him at least one near-boarding for the planet where the question pulls him back at the lock. Never let the book *prove* him simply wrong; his answer is wrong for Elias, not necessarily wrong on some horizon no one will live to see.)
+- *Daniel* continues the search. The laboratory and his extended life give him meaningful work and happiness, not infinite resources or immortality. He can return and chooses not to. He understands what he has sacrificed while believing his research may protect his family and humanity. His good purpose does not restore their lost present. His eventual planet/research itinerary remains open; do not make inevitable misery or a one-way door explain his absence.
 - *The planet civilization* must learn across generations what Elias learned in one Sunday and Haven across ten thousand years: choose the present without pretending the pull is gone; keep the seed-ship and the garden both. "When to stop paying for the question" is a decision remade every time, because there is no floor to the seeking and no final safety in the staying.
 
 ---
@@ -332,7 +375,7 @@ Half the building was under now. At night you could hear the difference: fewer t
 
 At the depot, a machine took the package without anyone looking at it. His phone chimed with the second payment.
 
-Walking home, he passed a bus shelter. The poster had changed. It showed a woman on a stage in front of a vast crowd, her hand raised, her face calm and certain. *The Ascension Summit. The future of every human mind.* Under it, the speaker's name.
+Walking home, he passed a bus shelter. The poster had changed. It showed a woman on a stage in front of a vast crowd, her hand raised, her face calm and certain. *The Generation Ship Summit. A future beyond Earth.* Under it, the speaker's name.
 
 He stopped.
 
@@ -344,29 +387,29 @@ He stood there long enough that the poster rotated to the next ad, and then the 
 
 ## PILOT — BOOK III, CHAPTER 3: THE FIRST DEATH
 
-Her name was Yara and she was six, and on the planet's forty-first day she had a fever, and on the forty-fourth she stopped breathing.
+Her name was Yara and she was six, and on the planet's forty-first day she was badly hurt in an accident, and on the forty-fourth she stopped breathing.
 
-The Woken didn't understand at first. Sami watched it happen in them. They stood around the medical tent the way people stand around a broken machine, waiting for someone to come and fix it. They had all grown up in the Golden Age, where children got sick and got better, where the worst thing that happened was the thing on the news. Some part of every one of them believed, beneath knowing, that this was a scene and the scene would end.
+The people outside the medical tent grew quiet when the doctor came out. Sami watched Yara's mother look past him, toward the place where her daughter lay. They knew what death was. Most of them had stood beside a grave before. Knowing did nothing to make this one possible to accept.
 
 Yara's mother came out of the tent and found Sami, because he had been awake the longest.
 
-"When does she come back?" she asked.
+"Did they try everything?" she asked.
 
-He didn't have an answer. Somewhere above them the Simulation Ark still hung in orbit, and it could do nothing. Yara's pattern had never been stored. There was no Library copy of a girl who had been born in a body on the long voyage. There was no *back*.
+"Everything they could," he said. He had watched them work. He wished that gave him something better to say. The care that could keep a body alive for so long had not been enough to undo what had happened to hers.
 
 Hesper answered instead. She had come up quietly with a shovel over her shoulder, and she spoke to the mother directly, not unkindly, the way the Earthborn spoke about everything.
 
-"She doesn't," Hesper said. "Here, we put them in the ground."
+"Would you like me to stay with you?" Hesper asked.
 
-The mother stared at her as if she'd said something obscene.
+The mother nodded without looking at her.
 
-That afternoon, Hesper and three of her people dug the grave, and the Woken watched because they didn't know how to help. The soil was reddish and smelled of iron. Twice the shovel struck something that wasn't stone, the pale roots of a plant that had no name yet, and Hesper cut through them without comment.
+That afternoon, Hesper and three others began the grave. People brought water, carried tools, and sat with Yara's mother. The soil was reddish and smelled of iron. Twice the shovel struck something that wasn't stone, the pale roots of a plant that had no name yet, and Hesper cut through them without comment.
 
 Sami picked up the second shovel. His hands blistered in the first ten minutes. He kept going.
 
-When it was done, the Woken didn't know what to say, so the Earthborn said it for them: an old prayer, worn smooth by centuries in a temple under a mountain, the meaning of half its words long lost. Something about dust. Something about a garden.
+When it was done, an Earthborn woman asked if she could say a prayer. Yara's mother nodded. The words were old, worn smooth by centuries in a temple under a mountain. Something about dust. Something about a garden. Sami stood beside Hesper and listened.
 
-That night Sami sat outside the settlement's thin fence and looked up at a sky with two small moons. He thought of his father's kitchen. His father's voice, the last time Sami had heard it, on a Sunday morning in a world that was real in every way but one.
+That night Sami sat outside the settlement's thin fence and looked up at a sky with two small moons. He thought of his father's kitchen. His father's voice, the last time Sami had heard it, on a Sunday morning in the world he had chosen to stay in.
 
 *We are,* his father had said. *We are living in paradise.*
 
