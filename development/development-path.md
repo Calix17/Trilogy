@@ -606,6 +606,14 @@ The earlier handover and reunion establish the two sources; the closing image ca
 
 Use this in chapters 10, 14, and 17. A small earlier glimpse of Ruth's chain is optional, not a new required scene. Keep retrieval simple, leave mounting off-page, and let the final gesture lead back to the ordinary conversation. Nobody asks about the necklace; no final discussion of either parent is added. The physical key and same-chain continuity are recorded author direction. Container, exact language, and the possible smile remain open.
 
+## Forgiving both parents — author clarification, 24 September 2026
+
+Ruth hides knowledge to protect Elias; Daniel follows the search for answers and exploration despite its cost to family life. Both have reasons and both have faults. The author specifies that Elias's arc includes continuing to love both, understanding both more fully, and forgiving both. This develops the same preservation/exploration tension that runs through the Arks, while keeping the parents particular people.
+
+The balance is one of human complexity, not equal blame. Preserve Ruth's care and fear, Daniel's curiosity, purpose, and love, and the harm of their decisions. Elias's forgiveness does not mean he adopts their choices or ceases to feel loss. Ruth's brief admission can begin a process that the reunion deepens; do not force complete resolution at her bedside. Daniel can remain committed to his search.
+
+Carry this into the emotional movement of chapters 10, 14, 16, and 17. The same chain holding Daniel's stone becomes a quiet expression of Elias carrying both relationships forward. At home his attention to Lena and Sami supplies the action. No new speech, parent discussion at breakfast, or explicit comparison with Haven and Sower is needed. The intended forgiveness of both is now recorded direction; the narrative means of earning it remain to be written.
+
 ## Assessment before the v6 rewrite
 
 The [pre-v6 assessment](v6-readiness-assessment-2026-09-23.md) distinguishes the stronger planned architecture from changes not yet present in v5. The main causal work is Daniel's access and silence, the purpose of competing messages, and the final page's effect and delivery. The main scene work is experienced happiness with Daniel, Haven's complementary futures, and the quieter ending. These findings refine the existing nine tasks; they do not add crossing mechanics, select a diagnosis, or require public disclosure of the hidden sender.
