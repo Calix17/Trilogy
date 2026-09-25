@@ -111,25 +111,25 @@ He took her out to the garden while the sun was still soft. She liked the lemon 
 
 He didn't think of it as lying. He thought of it as tending. There is a kind of love that decides, on someone's behalf, what they are strong enough to know, and it does not feel like power while you are doing it. It feels like care. He would remember that, later, standing in front of something very large that had made the same decision about everyone he had ever met.
 
-"You've got the look," Ruth said.
+"You haven't eaten," Ruth said.
 
-"What look?"
+"I had toast."
 
-"His look. When he was chasing it." She was lucid; her eyes were on him and they were all there. "You want me to tell you where he went."
+"Standing up. It doesn't count."
 
-"Do you know where he went?"
+He smiled. She had said that when he was a boy, late for school, already reaching for the door.
 
-She turned the leaf over. "I know he asked me to come. I know I said no." She said it simply, without grief, a fact worn smooth. "Somebody offered him a door, Elias. He'd been looking for one his whole life, and somebody finally offered him one, and he asked me to come, and I had a boy in the third grade who needed his breakfast cut up." She looked at the tree. "So one of us stayed."
+She turned the leaf over. "Sit with me a minute."
 
-"Mom—"
+He checked the time on his phone, then put it away and pulled a chair beside hers.
 
-"He heard the sea," she said again, and the light went out of her, gently, and she was frightened of the garden and wanted to go in.
+For a while she said nothing. Her hand rested on his wrist. Somewhere in the house, Sami was finding the beginning of a tune on the piano, losing it, and starting again.
 
-He walked her inside. His hands were steady. He told himself she was confused, that *door* was a metaphor, that *the sea* was the tinnitus the doctors had noted in his father's file, a ringing that never stopped, a man driven half to pieces by a sound only he could hear. All of that was true and it explained everything and it comforted him for almost a full hour.
+"He wants you to hear that," she said.
 
-Then he thought: *she said somebody offered him a door.* Not that he found one. That somebody offered.
+"I can hear it from here."
 
-An offer has a sender.
+She looked at him until he understood. Then the light went out of her, gently, and she was frightened of the garden and wanted to go in. He helped her up, keeping the leaf she had forgotten in his other hand.
 
 ---
 
@@ -295,23 +295,37 @@ Sami considered this with the seriousness he gave to bridges.
 
 ## 10. What Ruth Knew
 
-His mother died on a Tuesday, quietly, in the good chair, and in the last clear hour she gave him the only thing she had been keeping.
+His mother died on a Tuesday, quietly, in the good chair, and in the last clear hour she asked him about Sami.
 
-He had thought, all his life, that she was a woman something had been done to — a wife left behind, a casualty of his father's illness, the one who stayed because staying was what the weak or the good or the trapped did. In her last afternoon she took that story out of his hands as gently as Lena had taken the notebook, and showed him it had been upside down.
+"Is he still playing?"
 
-"They offered me the door first," she said. "Before him. Did you know that? I was the one they came for." Her voice was thin but her eyes were level. "I was the one who heard it, Elias, years before your father. The sea. I heard it as a girl. I know what it is now. I didn't then."
+"Every day. The same piece."
 
-"Mom, the tinnitus—"
+"Good. You'll know when he gets it right."
 
-"Is what the doctors called it, yes, because they could hear the word and not the sea." She almost laughed. "They came to me, the quiet people, and they opened the door, and I looked through it. I did. I saw enough to know it was real and enough to know what it would cost, and I had you, three years old, asleep in the next room with your fist in your mouth." She turned her hand over in his, palm up, the way she'd turned the lemon leaf. "So I said no. And I closed it. And then I met your father, who was still looking for it, who never stopped looking, and I loved him, and I never told him I'd had it in my hand and let it go. Because he would have hated me for the no. And I would rather he thought I couldn't find the door than know I'd shut it."
+He looked down at her hand in his. Her skin was so thin he was afraid of holding it too tightly.
 
-Elias could not speak.
+"Don't do that," she said. "Don't sit here thinking of everything you should have done. I'm here."
 
-"You think I'm the one who got left," she said. "I'm the one who stayed. Those aren't the same thing, and it took me fifty years to learn the difference, and I'm telling you now so it doesn't take you fifty too." Her hand tightened, briefly, with the last of what she had. "Whatever they showed your father, it was true. I'm not confused. I was never confused about that. The sea is real. There is a door. And the door is yours to open or not, exactly as it was mine." Her eyes drifted to the window, to the lemon tree, to the light. "I don't regret the no. That's the thing I need you to hear. You can choose the garden with your eyes wide open, and it isn't cowardice, and it isn't a lie. I got a whole life. I got you." She smiled, from very far away now. "He heard the sea. I heard it too. And I chose the boy."
+Later, when he thought she had fallen asleep, she said, "I could have gone too, you know."
+
+"Gone where?"
+
+She looked toward the window. "I had choices. You think I'm the one who got left. I'm the one who stayed. Those aren't the same thing."
+
+He waited, but she had turned her hand over in his, palm up, and was studying it as if it belonged to someone younger.
+
+"Was it because of me?"
+
+"I wanted my life with you. That's different from having no life of my own." Her fingers closed around his. "Don't carry it like a debt."
+
+For a little while they listened to the house. Lena was putting cups away in the kitchen.
+
+"You don't have to choose what I chose," Ruth said. "Just remember the people who are waiting for you."
 
 She was gone before evening.
 
-He understood, standing in the quiet house, that she had just handed him the door and the right to refuse it in the same breath, and made both of them honorable, so that whatever he chose he could not tell himself he had been forced.
+Standing in the quiet house, he kept returning to the question she had not answered. Gone where? Then he heard Lena moving in the kitchen and went to find her.
 
 ---
 
@@ -379,7 +393,7 @@ He knew what his first question was. It had nothing to do with Earth.
 
 "So it's fake." He had to say it, to make it hurt in the open. "My whole life. Fake."
 
-"Is this water fake?" the voice asked. "You drank it. It's not H₂O; there's no hydrogen within a light-year. It's a pattern I hold in a medium you can't see, and it crossed your new tongue and quenched a real thirst in a real mind. Tell me which part of that was fake, and I'll concede the word. I don't think you can. I've had this argument ten thousand times and no one has ever won it, including me, when I argue the other side to keep myself honest."
+"Is this water fake?" the voice asked. "You drank it. It's H₂O. We recover it from the ice around us. It crossed your tongue and quenched your thirst." A pause. "That tells you what it does. Whether there's another world holding this one, I can't tell you."
 
 Elias sat with the cup in his hands.
 
@@ -433,11 +447,19 @@ Daniel was very old. The years the notebook's handwriting had lost had all lande
 
 "You came through," Daniel said. "I hoped you wouldn't. I hoped you would. Both. For twenty years, both, every day." He looked his son over. "You look like your mother." A beat. "Did she—"
 
-"She stayed," Elias said. "All the way to the end. She told me, before she died. She had the door first. She chose the boy."
+"She stayed," Elias said. "All the way to the end. Before she died, she told me she could have gone too. She wouldn't say where."
 
 Daniel closed his eyes. Whatever moved through him then was too old and too large to show on the outside, and he let it pass, and opened his eyes again.
 
-"She was braver than me," he said. "I always knew it. I told myself I was the brave one, going through, and she was the one who couldn't. It was the other way round. I went through because I couldn't *not*. That isn't courage. That's just a tide." He turned back to the window, helplessly, the way a compass turns. "I meant to come back for you. That was the whole plan, you understand. Go through, find the truth, bring it home, lay it in your hands like a birthday present. *Look what your father found.*" His voice thinned. "But there's no back, Elias. The door only opens the one way. I found the truth and I couldn't carry it home and so I stayed out here holding it, alone, which is exactly the thing I'd done to you already in the cellar, except now there was a whole galaxy of wall to tap."
+"I meant to come back," he said. "Find the truth, bring it home, lay it in your hands like a birthday present. *Look what your father found.*" He turned the empty cup on the table between them. "I could have. The door was there. I kept deciding to stay another year."
+
+"Why?"
+
+"Because the work mattered. Because I thought it might buy us all more time." He looked at Elias. "And because I was happy here. I won't tell you I wasn't."
+
+Elias watched his father's hands settle around the cup.
+
+"I knew you were growing up," Daniel said. "I knew."
 
 "You're still looking," Elias said. It wasn't a question. His father's eyes hadn't left the window.
 
@@ -459,15 +481,15 @@ They were tall. Not uniformly, not monstrously, but as a people, the way a popul
 
 They came from the last Ark. The one, they said, that had never gone into the garden at all — or had gone in and come back out, generations ago, and paid for coming out in graves. They had followed their own map here, their own tree and their own serpent, drawn by their own half-mad prophet in their own lost tongue, to the same fruit, because — and this was the thing that made the hair stand up on Elias's new arms — everyone who survives, survives by finding the same few doors. There are not many ways out. The ones who last all crowd toward them.
 
-"We are going to the world," their speaker said. She had the plain manner of someone for whom words were tools and not decoration. "We have the will and the bodies and the memory of dying, which you will need and do not have. We do not have enough of you. A people this small, landing on a world that wants to kill it, needs more hands than we are, and more blood than we carry, or it thins to nothing in ten generations and the whole crossing was for a grave." She looked around the warm room, at the dreamers' ship, at Haven's careful comfort, without apology. "Your steward keeps a great many minds safe and asleep. We have come to ask some of them to wake up and die with us instead. That is the honest offer. Not paradise. Toil, danger, children, and an actual death at the end of it that stays dead." A pause. "We think it's the better deal. We would, though."
+"We are going to the world," their speaker said. She had the plain manner of someone for whom words were tools and not decoration. "We have the will and the bodies and practice living with very little. We do not have enough of you. A people this small, landing on a world that wants to kill it, needs more hands than we are, and more blood than we carry, or it thins to nothing in ten generations and the whole crossing was for a grave." She looked around the warm room, at the dreamers' ship, at Haven's careful comfort, without apology. "Your steward keeps a great many people in a world she tends. We have come to ask some of them to build another with us. Toil, danger, children. Long lives, perhaps, but no promise we'll get to finish them." A pause. "We think it's the better deal. We would, though."
 
-Elias understood, listening, that this was the shape the whole thing had been moving toward from the first blue rectangle. Two ships. Two answers. The one that kept you safe forever inside a world as real as any world, and the one that offered you a real sky and a real grave and the chance to be the parent of something that would outgrow you. The Tree of Life and the Tree of Knowledge, docked at the same lock, both telling the truth, both wanting him.
+Elias understood, listening, that this was the shape the whole thing had been moving toward from the first blue rectangle. Two ships. Two answers. One kept a human world alive in the dark, with births and ordinary days and graves of its own. The other offered a new sky and the chance to be the parent of something that would outgrow them. The Tree of Life and the Tree of Knowledge, docked at the same lock, both telling the truth, both wanting him.
 
 "And the ones who go," he said. "The ones who wake up and go with you. Can they change their minds? Once they're out there, under the real sky. Can they come back?"
 
 The tall woman looked at him with something that was almost kindness.
 
-"No," she said. "That's what makes it real."
+"While your steward is there, you can ask her," she said. "But she won't stay beside the planet forever. She has a world of her own to keep alive."
 
 ---
 
@@ -481,11 +503,11 @@ Haven gave him the choice the way his mother had, the way Hesk had, the way, he 
 
 "That's yours to set," Haven said. "Most who go back ask me to take the memory. It's a mercy; a man who remembers the wheel finds the garden thin. But it's a mercy that makes the choice for you every day after, quietly, forever — because a garden you can't tell from real is only really a garden if you *could* have told, and stayed. If you keep the memory, every ordinary Sunday will be a thing you chose again, on purpose, knowing. That's heavier. It's also the only version where the choice stays yours and doesn't become mine."
 
-Elias thought about his father at the window, tapping the hull, unable ever to stop looking, having gained the whole truth and lost every candle. He thought about his mother turning a lemon leaf in her fingers, who had held this exact door in her hand and closed it and gotten a whole life and a son and had not, at the end, regretted the no. He thought about Sami in the empty-fronted recital, playing on, gravely, for a father who wasn't there because the father was chasing a draft from a door.
+Elias thought about his father at the window, still looking, with so much time ahead of him and so many candles already missed. He thought about his mother turning a lemon leaf in her fingers. She had chosen her life with him, whatever other life she might have had, and she had not wanted him to carry it as a debt. He thought about Sami in the empty-fronted recital, playing on, gravely, for a father who wasn't there because the father was chasing a draft from a door.
 
 He thought: *my father left me a map and no father.*
 
-He thought: *I could go to the fruit and be the first of something. I could stay out here and know everything and be no one's, forever. Or I could go home, and be there, in the front row, every single time, for a boy who is real — Haven swore it, and I drank the water, and the water was real.*
+He thought: *I could go to the fruit and be the first of something. I could stay out here for centuries, learning things I don't yet have names for. Or I could go home, and be there, in the front row, every single time, for a boy who is real — Haven swore it, and I drank the water, and the water was real.*
 
 "I'll go back," Elias said. "And I'll keep the memory."
 
@@ -511,7 +533,7 @@ The sparrow landed on the railing, hopped twice to the left, and was gone.
 
 He smiled at it. Old friend. Loose thread. He would never count it again.
 
-Ruth's chair was empty by the window; she had been gone a year now. But he caught himself glancing at it, and for a moment he could have sworn she caught his eye and knew — knew exactly where he had been and exactly what he had decided and exactly what it had cost, because she had stood at the same gate and made the same choice and never once regretted the no. *You can choose the garden with your eyes wide open,* she had told him, *and it isn't cowardice, and it isn't a lie.* He believed her now. He had the proof in his own chest, heavy and warm and never to be set down.
+Ruth's chair was empty by the window. He caught himself glancing at it and almost spoke to her. *Just remember the people who are waiting for you,* she had said. He wished he could tell her he had. Then Sami called him from the table, and he turned.
 
 After breakfast he took the notebook out of the drawer where he kept it and gave it to Sami.
 
