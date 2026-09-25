@@ -2,6 +2,8 @@
 
 23 September 2026. Working profiles drawn from the author's latest family descriptions, the accumulated v6 directions, and the current v5 character sheets. They guide the next revision; they do not claim that v6 prose has been written. Exact ages and history below come from the current draft. Proposed occupations, dialogue, clues, and scene treatments are labelled.
 
+Latest refinement, 24 September: the governing map motive is human choice, replacing the proposed need for a direct-access barrier. The outline adds observable concern through existing relationships and a published-research lead to Daniel’s colleague. Specific scene staging remains editorial guidance.
+
 ## Elias
 
 **Life and history.** Thirty-five, an engineer, Lena's husband and Sami's father. He helps care for Ruth. Daniel disappeared when Elias was fifteen. His childhood holds both warmth and exclusion: shared repairs and scientific wonder, the notebook he colored at six, and the stone his father scarcely looked at on his twelfth birthday.
@@ -15,6 +17,8 @@
 **Direction of change.** The Ark offers meaningful preservation work and Daniel's full attention. Elias must give up something worthwhile when he chooses home. The return preserves curiosity and professional purpose while changing what he lets them cost his family. His final attention is an action, not a claim that every relationship is instantly repaired. The author now specifies that he comes to understand and forgive both parents: Ruth for protective concealment and Daniel for absence in pursuit of answers. Forgiveness does not require agreement with either choice.
 
 **Scene guidance.** Let his skill appear through a problem with human consequences. Let him be interested in Sami's actual explanation, not only in improving the child's design. At the last breakfast he holds Ruth's chain, now carrying Daniel's stone, without discussing its history and joins the ordinary conversation. The brief gesture recalls both parents while he participates in the life in front of him.
+
+**Observable change.** Others can notice lost attention, fatigue, guardedness, and his reactions; they cannot know the dreams and messages he keeps private. Preserve competent habitat work and ordinary warmth early. His investigation has real grounds, while some interpretations become disproportionate. Repair begins through participating in family life before the crossing and continues afterward; no diagnosis or complete cure is announced.
 
 ## Sami
 
@@ -30,6 +34,8 @@
 
 **Scene guidance.** Give him something he is doing, an opinion about how to do it, and room to interrupt or correct an adult. In the latest chapter 7 proposal he invents a song for an ant carrying a breadcrumb. Elias hears a resemblance to the support advertisement and overreacts; the song does not come from a phone, computer, or hidden speaker. Use likeness to young Elias as family resemblance in behavior and affection; do not label it inherited obsession or illness. Keep both the ordinary boy and the possible future explorer alive.
 
+**Concern in action.** He can be unsettled by Elias questioning the ant song and disappointed by the empty recital seat. Use his explanations, reluctance, or limits rather than an adult speech diagnosing his father. Keep his own interests active.
+
 ## Lena
 
 **Life and relationships.** Elias's wife and Sami's mother. She is affectionate and attentive with Ruth. The current draft gives her printmaking, a class, and work she enjoys for its own sake; this is an established activity, not a selected profession.
@@ -43,6 +49,8 @@
 **Direction of change.** She remains loving while setting limits and expecting participation. Her care for Ruth and her wish to attend her class can coexist. At the ending she has ordinary things to share and Elias receives them. The moment can be happy without declaring that every concern has disappeared.
 
 **Scene guidance.** Let warmth show in humor, conversation, small preferences, and physical presence. Retain her decisions, including refusing to cover for Elias. Do not make her solely the beautiful, worried wife waiting for the protagonist's lesson. No knowing glance or final explanation establishes what she knows about the journey.
+
+**Concern in action.** Begin with familiar reminders to be present. Later show what she sees: another late night, an unfinished conversation, guarded handling of the notebook, or a missed commitment. Her response grows from love, loneliness, and her own practical needs. Let her name the behavior or set a boundary without making her the narrator’s verdict on Elias’s reality.
 
 ## Ruth
 
@@ -68,9 +76,13 @@
 
 **Contradiction.** He can sincerely intend to help people while postponing the immediate life he shares with particular people. He sends Ruth a short message ten years after disappearing, expressing love for her and Elias alongside his continued commitment. She conceals it from their son. His contact reveals continuing affection without replacing a relationship or erasing his choice not to return. It must not silently establish that he commissioned a recruitment campaign against his son.
 
-**Direction of change.** The reunion confronts him with the cost of his choices. His tenderness and the space-rock gift make the encounter meaningful; he still chooses his search. His later itinerary remains open. A proposed short remark says the earlier map material arrived in a letter at his university; receipt must precede the childhood coloring. He can already have deciphered part of it, with the absent final view preventing completion. This identifies an immediate delivery route, not the hidden sender. The latest proposed plot makes him the earlier intended carrier of the planet information. Recommended reconciliation: he never received the final segment and brought only what he understood, while the family notebook remained with Ruth. The sender's plan does not replace his own pursuit of reality or make his later personal letter a recruitment instruction.
+**Direction of change.** The reunion confronts him with the cost of his choices. His tenderness and the space-rock gift make the encounter meaningful; he still chooses his search. His later itinerary remains open. A proposed short remark says the earlier map material arrived in a letter at his university; receipt must precede the childhood coloring. He can already have deciphered part of it, with the absent final view preventing completion. This identifies an immediate delivery route, not the hidden sender. The latest proposed plot makes him the earlier intended carrier of the planet information. Recommended reconciliation: he never received the final segment and carried ordinary copies of the incomplete material, while the family notebook remained with Ruth. Reliance on memory alone remains an earlier alternative. The sender's plan does not replace his own pursuit of reality or make his later personal letter a recruitment instruction.
 
 **Scene guidance.** Preserve the gift as a compact meeting of the boy's old interest and the father's belated attention. The latest personal contact is a small written message; its exact form and discovery scene remain open. Preserve this rock for the reunion. Under the latest author direction it later hangs from Ruth's chain; Daniel remains alive, despite the gift becoming a keepsake. A gray stone with a silver-colored grain or seam is the proposed appearance, not a composition claim. The letter should read as contact from a living person, not a final farewell; saying he is well, asking after Elias, and possible later correspondence are proposed approaches. Financial arrangements and a promise of return remain unselected.
+
+**Research and concern.** The proposed online lead is an existing publication or conference abstract about time, measurement, and what observation establishes about reality. Keep the last unpublished draft distinct. His former colleague can respect the work and remember human kindness while admitting concern about missed appointments and narrowed attention. Mythology may remain a personal notebook interest; quantum foundations is an optional field label, not an explanation of the Ark.
+
+**Planetary initiative — recommended staging.** After Haven truthfully explains the completed map, Daniel asks to pursue the possibility. This gives a human purpose to the information without forcing Elias to choose settlement before returning home. It develops Daniel’s existing desire to stay with meaningful inquiry; his eventual itinerary remains open.
 
 ## Hesk
 
@@ -78,9 +90,9 @@
 
 **Personality in scenes.** Attentive, patient, measured, and capable of care without providing every answer. These traits should appear in how she listens, waits, remembers, and responds. The narrator does not identify a diagnosis or confirm that the Institute is a hospital.
 
-**What she wants in Book I.** To understand Elias's involvement and discourage a potentially harmful pursuit, while respecting that an encounter may eventually occur. Protective intent does not make every intervention wise or harmless. In the latest two-group proposal, Hesk's effort seeks to keep Elias in his existing life while anonymous intermediaries draw him toward carrying the page to Daniel and Haven. Her eventual facilitation is compatible with discouragement and respect for his choice; do not give her an absolute prohibition she later breaks without reason. A second group's possible advertisements must not be silently attributed to her.
+**What she wants in Book I.** To understand Elias's involvement and discourage a potentially harmful pursuit, while respecting that an encounter may eventually occur. Protective intent does not make every intervention wise or harmless. In the latest two-group proposal, Hesk's effort seeks to keep Elias in his existing life while anonymous intermediaries draw him toward carrying the page to Daniel and Haven. Her eventual facilitation is compatible with discouragement and respect for his choice; do not give her an absolute prohibition she later breaks without reason. The preferred contact strategy gives her group the general support ads and the other effort the page and one private call; rival ads remain a historical alternative.
 
-**Proposed contact sequence.** A system notices searches associated with Daniel and initiates general support contact. Human or institutional confirmation establishes that this is Elias looking for his father; Hesk's involvement then becomes more personal. This is an author proposal, not an implemented surveillance architecture or omniscient knowledge of his thoughts. The parked-car intermediary and possible rival ad belong to a separate proposed effort; their exact knowledge of Elias's future crossing is not established. They act on an opportunity rather than a guaranteed outcome.
+**Proposed contact sequence.** A system notices searches associated with Daniel and initiates general support contact. Human or institutional confirmation establishes that this is Elias looking for his father; Hesk's involvement then becomes more personal. This is an author proposal, not an implemented surveillance architecture or omniscient knowledge of his thoughts. The parked-car intermediary and recommended single private call belong to a separate proposed effort; their exact knowledge of Elias's future crossing is not established. They act on an opportunity rather than a guaranteed outcome.
 
 **Scene guidance.** Before confirmation, keep the campaign general. Later, make any personal reference credible within what she knows. A request for trust can belong to preparation for an encounter, but must not replace a motivated delay with a slogan. Distinguish her protective actions from clues that invite Elias farther into the search.
 
@@ -95,6 +107,14 @@
 **Presentation.** Calm, deep or resonant, unhurried, sophisticated, and parental. Warmth comes through attention, precise language, patience, and a willingness to admit what she cannot know or undo. A slightly warmer physical setting can support the change from Rana's care without suggesting a magical alteration of the room by the voice.
 
 **Scene guidance.** Preserve the sustained poetic revelation and the three worlds. She does not need to sound human in every way, use endearments, or become a substitute Ruth. Her reassurance is experienced by Elias; it does not erase her later-revealed moral compromises. Daniel's warmth then becomes more personal: recognition, shared history, humor, and the pleasure of working together. Haven can verify the father and son's map interpretation without taking their discovery away from them.
+
+**Human choice — author clarification.** A destination message alone does not ask her to change the future of those she preserves. The message reaches humans so they can ask, understand her honest account, and decide what they want. Her role is to enable the preserved possibilities within her stewardship. This supersedes the proposed need to make direct communication technically impossible. She does not conceal the answer until given a special command, and one person’s desire does not erase the choices of everyone else.
+
+## Existing colleagues and the progression of concern
+
+Mara already appears in v5 alongside Elias’s competent work and notices that he has been quiet. Use that beat for the outside-family perspective; a brief later follow-up is optional. No added friend or work emergency is required.
+
+Daniel’s former colleague remains a person with memories, professional limits, and regret. The online research lead makes the conversation necessary. Preserve the contrast between respecting a serious question and worrying about what its pursuit was costing Daniel. The colleague has no confirmed knowledge of the Institute or Ark and should not issue a cryptic warning about Elias’s fate.
 
 ## Connections to preserve quietly
 

@@ -1,5 +1,7 @@
 # The Final Decision — Development path toward Book I v6
 
+Current refinement — 24 September: the author establishes human choice as the reason the map must first involve people. Haven truthfully explains the code and responds to their chosen future; a direct message alone does not determine her course. This supersedes the earlier proposed access barrier. The current outline now connects Daniel’s published research to the colleague and distributes observable concern across Lena, Sami, and Mara. Narrative and PDF remain v5.
+
 Latest review — 24 September: [contact and missing-page strategy](v6-contact-strategy-2026-09-24.md). Recommended attribution: Institute support ads; serpent-associated page and one private call; optional woman encounter left uncertain. A private ten-year return rhythm, letter aligned with the first opening, and Daniel carrying copies are new proposals. Earlier warnings against inferring a periodic schedule describe the previous state, before the author proposed one explicitly. No narrative render is authorized by this note.
 
 23 September 2026. Review of the author's six responses to the v5 adversarial review.
@@ -302,7 +304,7 @@ Revise the earlier notebook descriptions that present the pages as repetitions o
 
 **Latest transmission proposal**
 
-The serpent-associated effort sends information into the Instance and uses local intermediaries to draw a person toward Haven. Daniel was the earlier intended carrier, receiving material possibly through university mail, but the useful completion did not reach Haven. Elias is the present opportunity. The proposed occupant of the car outside his house delivers the missing page, possibly through the mailbox. The delivery both unsettles him and suggests someone knows about his father's notebook. This supplies an information-delivery motive and supersedes the earlier editorial preference for recruitment alone as the primary purpose.
+The serpent-associated effort sends information into the Instance and uses local intermediaries to bring the possibility to humans. Daniel was the earlier target; Elias is the present opportunity. The proposed parked-car occupant delivers the final page. The latest author clarification gives this route a purpose beyond transporting data: Haven will explain the code honestly, and humans can decide to pursue what it identifies. The direct-access barrier previously proposed is no longer the required cause.
 
 The working reading of the author's alternating names is historical Daniel, present Elias. Haven's protective people seek to keep Elias in his ordinary life; they do not forbid every eventual voluntary encounter. The driver's identity stays unknown to the reader. Whether two groups also place contrasting advertisements remains an author option.
 
@@ -315,7 +317,7 @@ Book III identifies the Sower-associated ship as the map's source. The individua
 1. What did Daniel receive, and when? The drawing was already in his notebook when Elias colored it at six.
 2. Which final localization does Elias's page supply? Its function is selected; the exact target galaxy or region remains open.
 3. Why did the earlier attempt lack the last part? Recommended private answer: Daniel never received the final segment, rather than a new theft or unexplained loss. The delivered page completes a sequence; it need not be literally torn from the notebook.
-4. Why use Elias when the sender can reach the Instance? Recommended constraint: local access does not supply a reliable route to Haven's external attention. A prepared person's encounter is a workable channel. This is proposed, not yet a selected technical rule.
+4. Why involve Elias when the sender could contact Haven? Author clarification: the information must become a human possibility and wish. Haven is committed to preserving those choices, not to pursuing every anonymous destination. Her truthful interpretation enables an informed decision. No technical barrier is required; the earlier external-attention constraint is superseded.
 5. What did Haven already know? Recommended reconciliation: Daniel's earlier partial report is the source of her incomplete information. Do not show an independent complete message that makes Elias's delivery redundant.
 6. What changes after Elias brings it? Does it resolve a destination, establish a relationship, or allow a consequential comparison?
 
@@ -632,7 +634,7 @@ The latest reunion proposal has Daniel and Elias work through the pages together
 
 The [revised chapter outline](v6-chapter-and-clue-outline-2026-09-24.md) carries these changes. Its latest chapter sections take precedence over older staging proposals above. The manuscript remains v5 and the author has requested review before rendering.
 
-Subsequent message-route proposal: the car's occupant may be the local intermediary delivering the page to Elias's mailbox. Earlier Daniel and present Elias are successive attempts to bring incomplete, then completing, information to Haven. The revised outline separates that writer-level cause from the reader's uncertainty and records proposed answers for the incomplete first attempt and the lack of a reliable direct route to Haven. A competing advertising effort is an option; its motive and attribution must remain distinct from Hesk's protective campaign.
+Subsequent message-route proposal: the car's occupant may be the local intermediary delivering the page to Elias's mailbox. Earlier Daniel and present Elias are successive attempts to bring incomplete, then completing, information to Haven. The revised outline separates that writer-level cause from the reader's uncertainty and records proposed answers for the incomplete first attempt and the now-superseded proposed lack of a reliable direct route to Haven. A competing advertising effort is an option; its motive and attribution must remain distinct from Hesk's protective campaign.
 
 ## Assessment before the v6 rewrite
 
@@ -652,3 +654,18 @@ The new focused contact-strategy note records the author’s latest alternatives
 The Institute can invite a consultation while discouraging a crossing; the caller points to the same place for a different purpose. Hesk provides bounded truthful answers and ultimately respects informed choice. The intermediaries know of a possible opening and candidate, not a guaranteed future crossing.
 
 Recommended private chronology is departure at year 0, first return opportunity and Ruth’s letter at year 10, current second opportunity at year 20. This is a new proposal, not a prior established rule. Recommend Daniel carried copies of the incomplete sequence while the original stayed with Ruth; the final segment only recently reached the local intermediaries. Father and son decipher together before Haven verifies. The mechanism of delivery and crossing remains unstated. These proposals await review; v5 and the selected two-return count remain intact.
+
+
+## Human choice, growing concern, and reality — latest author refinement, 24 September 2026
+
+The map goes first to humans because Haven preserved their ability to choose among futures. Coordinates delivered to her alone would not express anyone’s wish to go. She explains the code honestly when they bring it to her. This is now the governing author direction; the earlier editorial theory of a required technical barrier is superseded. Her finite observation remains a separate world rule. A human request matters, but is not an unconditional command governing everyone aboard.
+
+Recommended action: Elias brings the completing page to his father, they understand its relation together, Haven confirms its meaning and uncertainty, Daniel asks to pursue the possible world, and Haven enables a practicable option. Elias can return without withdrawing a promise to settle there. The point is not to make humans credentials in an AI contest; the encounter must leave them able to choose after receiving the truth. The sender’s manipulation remains morally relevant.
+
+The online search should offer a compact piece of Daniel’s published research on time, measurement, and what can be known about reality, leading directly to the colleague already present in chapter 5. Preserve the current colleague’s warmth, bounded technical account, concern about missed appointments, and regret at not reading the last draft. The public record is not that unavailable draft. No new proof of a portal, academic fraud claim, or diagnosis is introduced. Mythic passages can remain private notebook interests; quantum foundations is an optional context, not a mechanism explaining the crossing.
+
+The concern arc uses different relationships. Lena notices lost attention and later exhaustion or secrecy; Sami responds to the ant-song overreaction and broken recital promise; Mara already notices quietness at work and does not need a new workplace subplot; Hesk asks about readiness. The colleague’s account makes Elias recognize a resemblance but does not settle what happened to either man. Observers react to what they can know. Keep the visible evidence, the letter, and Elias’s competent work so the novel does not dismiss every concern as delusion or every suspicion as accurate.
+
+Reality is woven through scenes: Daniel’s scientific question; the intensity and uncertainty of experience; the family’s actual shared life; the past preserved as a living present; the future offered by a planet. The writer can use the past/Instance, present/Vessel, future/planet relationship without the narrator naming it. A family life does not become unreal because of its substrate, and love does not prove the Ark imaginary. Elias chooses how to inhabit his present while retaining curiosity. Gratitude and repair emerge through action, with a beginning in chapter 10 and a quiet continuation in the ending.
+
+Use additions in place of redundant material: one academic lead, one purposeful colleague conversation, distinct small reactions from existing characters, one human request after truthful explanation. Keep the full dream spacing, poetic Haven account, ordinary-room transition, shared reunion, and short homecoming. These refinements prepare the prose pass; they do not render or rewrite the manuscript yet.

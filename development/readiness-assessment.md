@@ -4,6 +4,12 @@
 
 **Status:** assessment and revision guidance. No v6 manuscript or PDF has been produced. The working prose remains v5. Explicit author decisions are distinguished below from recommendations and unresolved choices.
 
+## Latest refinement: human choice and observable concern — 24 September 2026
+
+The author now supplies the reason for the human route: a destination must become a human possibility and desire before Haven changes her course in response to it. She honestly interprets the code and honors the choices she preserved. This supersedes the later editorial proposal of a required communications barrier; earlier findings below remain historical assessment. The final page still completes localization. Recommended staging places Daniel’s request after Haven’s explanation, leaving Elias free to return.
+
+The active outline also strengthens the existing research-to-colleague connection and stages concern through Lena, Sami, and Mara. Daniel’s published work establishes a serious question about time, measurement, and reality without proving the crossing or revealing Book II’s myths. Preserve the colleague’s respect and uncertainty. The multiple meanings of reality belong to scenes and choices rather than a philosophical summary in dialogue. Eleven author directions are recorded; nine drafting/integration tasks remain pending. V5 is still the narrative edition.
+
 ## Follow-up: author answers after this assessment
 
 The original findings below are retained as the review that prompted this response. The subsequent author directions refine their status; they do not represent prose already implemented.
