@@ -2,6 +2,8 @@
 
 23 September 2026. Review of the author's six responses to the v5 adversarial review.
 
+Follow-up added the same day: Daniel can decline a return during the crossing windows; dreams recur across chapters and grow toward his name emerging from the noise; the sound recurs as he wakes and during the Haven encounter without a confirmed source. The previous planning document is preserved in `99-archive/v6-planning-iterations/`.
+
 **Status: development direction, not a rewritten manuscript.** V5 remains the current reading edition. Its prose, PDF, bible, character sheets, and synopsis have not been changed by this planning update. Explicit author directions below supersede incompatible older suggestions when preparing v6. Options introduced with “maybe” remain options.
 
 The preceding review and the complete author response are preserved in [the discussion source](../99-archive/2026-09-session-notes/v6-planning-source-2026-09-23.md). This document distinguishes those sources from editorial recommendations.
@@ -45,6 +47,8 @@ If a later route makes Elias knowingly conceal decisive information from himself
 
 **Important interpretive consequence:** in the Ark reading Daniel has repeatedly chosen work over returning. A clinical reading in which he is unable to leave changes his responsibility. The emotional loss can persist across both readings; the narrator should not insist that both explanations establish exactly the same degree of choice or blame.
 
+**Follow-up proposal:** the author now offers a closer parallel: Daniel could leave at the available opening but refuses, as someone might decline an opportunity to leave a hospital. This supports voluntary staying under either reading without establishing that he is actually hospitalized. His state of mind and the ultimate explanation of the place remain uncertain.
+
 ## 2. Father and son: make staying desirable
 
 **Author direction**
@@ -70,12 +74,20 @@ Retain the notebook coloring at six, the later dismissed stone, and the adult gi
 
 Crossings may be costly and dangerous, require strict preparation, and occur only at limited intervals. Candidate constraints include energy, bodily strain, and risk to the stability of the instance. An opening may last only a few hours. A closing opportunity puts pressure on Elias and echoes the pressure Daniel once faced.
 
+**Follow-up proposal: Daniel can leave when the window opens**
+
+During an available crossing window, Daniel also has an opportunity to return home. He refuses because his search is unfinished. Elias's opportunity may therefore also be Daniel's: the father can accompany the son and chooses to remain. This can echo someone declining to leave a place of care, without narration confirming a hospital or a diagnosis.
+
+This is the proposed answer to enforced absence: openings offer real opportunities, and Daniel continues to defer homecoming. Preserve the pattern of his choosing a little longer; do not explain the twenty years as twenty years of physical entrapment. The author introduced this as a possibility, so it is recorded as the leading proposed route rather than a silently implemented rule.
+
+The emotional contrast can be carried by one offer and refusal in the reunion. It does not require a history of every missed window or an explanation of its machinery. The exact schedule, earlier opportunities, and whether Daniel ever returns later remain to be settled.
+
 **Not yet selected**
 
 - The principal constraint and whether its cause is mentioned at all.
 - The interval between opportunities, their duration, and whose clock measures that duration.
 - Whether v5's permanent prohibition on another outward journey survives or is replaced by limited opportunities.
-- Whether a person who stays can return at a later opening, and on what terms.
+- The final adoption and scope of Daniel's proposed ability to return at later openings, including its terms for other people.
 - Whether communication, family accompaniment, or separately prepared later crossings are possible.
 
 **Editorial assessment**
@@ -176,6 +188,41 @@ Gratitude does not require a final speech explaining the machinery or thanking e
 
 Gratitude for Daniel's contribution and grief about his absence can coexist. Appreciating the world does not require Elias to decide that its stewards always acted rightly.
 
+## 7. Dreams and the sound: recurrence, intensification, recognition
+
+**Author direction**
+
+- The dreams recur over time in separate chapters. Do not put three dreams together in one chapter or repeatedly interrupt every scene with them.
+- Their intensity increases. In the last major dream before the encounter, Elias hears his name emerge from the noise.
+- As he wakes in the unfamiliar room, a background sound begins to resemble what he heard in the dreams. It continues into the meeting with Haven.
+- Its recurrence can suggest the environment of that reality, Haven's surroundings, Daniel's room, or an experience connected with his uncertain mental state. None is confirmed by the narrator.
+- Possible environmental textures include a low hum or vibration through the hull and air moving through vents within the asteroid- or comet-based Vessel. The particular physical source remains unselected.
+- The dream motif anticipates the later room scene. Recognition supplies an association, not proof of transmission, prophecy, or a particular diagnosis.
+
+**Recommended progression using the current chapter structure**
+
+| Placement | Development | What remains uncertain |
+| --- | --- | --- |
+| Chapters 1–2 | Keep the family and advertising disturbance in the foreground. | No early dream sequence or named voice is required. |
+| Chapter 3 | A faint household rush, vibration, or settling sound can establish the sensory texture. | An ordinary domestic origin remains possible. |
+| Chapter 5 | First dream: a place, a distant sound, and a pause or rhythm he remembers on waking. | No intelligible name or explanation yet. |
+| Chapter 8 | A later dream becomes more spatially immediate; the sound seems closer or affects an object he holds. | Do not convert it into a decoded message. |
+| Chapter 11 | The last major dream strengthens into his name emerging from the noise: “Elias.” | He hears the name; who or what formed it remains unknown. |
+| Chapter 12 | As he wakes in the room, background air or vibration recalls the dream's sensory pattern. | The resemblance does not certify where the dream came from. |
+| Chapter 13 | The sound remains beneath or between Haven's words, giving the earlier dreams a possible setting. | Haven does not confirm that she was calling him in his sleep. |
+| Chapter 14, if useful | The same building-wide or vessel-wide sound may be audible near Daniel's room. | This is an optional continuation, not another revelation to underline. |
+| Chapter 16 | Keep a brief tick, tremor, or airflow recurrence if it deepens the farewell. | It is no longer the first recognition, and it must not explain all previous sounds. |
+
+These placements retain v5's spaced dream structure while strengthening the progression and bringing the later resemblance forward into waking and the Haven meeting. They are a drafting map, not a requirement for a new sound paragraph in every listed chapter. Several later appearances can be a single continuing background detail.
+
+**Economy and ambiguity**
+
+Choose one recognizable sensory pattern, such as a low hum with an interruption followed by moving air. Let distance, clarity, or perceived meaning change between appearances. Do not make the motif stronger only by making it louder, and do not introduce a catalog of unrelated noises.
+
+The final dream can contain a clearly experienced name without establishing an external speaker. Avoid identifying the voice as Haven or Daniel, inserting a diagnosis, describing a communications mechanism, or comparing recordings to prove an exact acoustic match. Equally, avoid listing possible explanations in the narration. The scenes supply those possibilities through their setting and sequence.
+
+Preserve the later intimate sound of the room rather than adding a theatrical announcement that Elias has heard it before. The air, a pause in it, or a vibration beneath his hand can carry recognition. A reader can connect the experiences without being told which direction the influence runs—or whether there is a connection beyond Elias's perception.
+
 ## Chapter integration map
 
 Use the current 17 chapters as a working map, not a promise that v6 must preserve every division. Changes below are planned, not implemented.
@@ -186,23 +233,25 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 | 2. The Algorithm | Keep intrusive targeting and Elias's competence. Let specific uncertainty deepen before access becomes available. | Hesk's reason for this form of contact still needs credible motivation. |
 | 3. Ruth | Preserve care, her preferences, and the quiet sound. Possible guarded history stays subtle. | No explanation of a diagnosis or obligatory secret clue in every conversation. |
 | 4. Daniel | Add one affectionate science memory that joins wonder to contact with his father. Retain coloring at six and the later dismissed mineral. | Do not make every scientific interest merely a symptom of unmet affection. |
-| 5. Seams | Rework the colleague's guardedness and Elias's uncertain interpretation. Remove the bird-comparison logic as evidence of defective reality. | Review title; do not make the colleague confirm a hidden hospitalization. |
+| 5. Seams | Rework the colleague's guardedness and Elias's uncertain interpretation. Remove the bird-comparison logic. Keep the first indistinct dream sound. | Review title; no confirmed hospitalization, intelligible name, or technical proof. |
 | 6. The Notebook | Keep the material childhood connection and secrecy. Track what information the old drawings actually contain. | Depends on the eventual missing-page chronology. |
 | 7. Two Trails | Make protective contact and the competing pull distinguishable in their consequences. | Avoid a faction briefing; preserve personal consequences already established. |
-| 8. The Institute | Hesk is measured and guarded; access is uncertain. The encounter exposes a feared possibility rather than an easy route to Daniel. | The delay must arise from character or an actual access limit, not an errand. |
+| 8. The Institute | Hesk is measured and guarded; access is uncertain. A later dream draws the recurring sound closer. | The delay must arise from character or an actual access limit, not an errand. Keep this dream separate in time from the earlier one. |
 | 9. The Recital | Preserve the deliberately missed opportunity. Give the anonymous page a specific later consequence. | Elias remains responsible for ignoring calls; do not let manipulation erase that choice. |
 | 10. What Ruth Knew | Retain brief last words, grief, and the recording. | Any knowledge she held stays selective; the title should not promise a full revelation she does not give. |
-| 11. The Door | Preserve the ambiguous, continuous journey and unlabelled thresholds. Establish relevant access conditions before the final choice if that route is selected. | No portal mechanics lecture, clinical diagnosis, or announced symbolism. |
-| 12. Cold | Ground the unfamiliar place through care, sensation, and activity. Make room for an encounter he wants to prolong. | Preserve same-traveller continuity; no replacement-body explanation. |
-| 13. The Steward | Keep Haven's sustained account. Remove the bird/glitch link. Clarify the limit of stewardship only as much as Elias's question requires. | Preserve moral uncertainty, not factual evasion disguised as a complete answer. |
-| 14. Daniel | Let father and son enjoy meaningful work together; retain the concise confrontation and gift. | The activity should earn its space. Daniel's usefulness does not erase the lost years. |
+| 11. The Door | Let the last major dream bring his name out of the noise. Preserve the ambiguous, continuous journey and unlabelled thresholds. Establish relevant access conditions if selected. | No identification of the dream's speaker, portal lecture, diagnosis, or announced symbolism. |
+| 12. Cold | Ground the unfamiliar place through care, sensation, and activity. Introduce the room's background noise as he wakes. | Preserve same-traveller continuity. Its resemblance to the dream is not proof of origin. |
+| 13. The Steward | Keep Haven's sustained account with the familiar background sound beneath it. Remove the bird/glitch link. Clarify stewardship only as needed. | Haven does not confirm she sent the dreams. Preserve moral uncertainty. |
+| 14. Daniel | Let father and son enjoy meaningful work; retain the concise confrontation and gift. Under the proposed window rule Daniel can return with Elias but refuses. | The activity should earn its space. His continued search motivates staying; a hospital interpretation remains possible. |
 | 15. The Message | Pay off what Elias's page contributes and make the future attractive. | Sender, hack, and other Ark remain deferred; reconcile with Haven's existing message. |
-| 16. The Final Decision | Choice follows experienced temptation. A closing opportunity can apply pressure if its rules have been selected. Retain the uncertain sound echo. | Voluntary choice, not a crisis that makes departure unavoidable. |
+| 16. The Final Decision | Choice follows experienced temptation. A closing opportunity can apply pressure if selected. The sound can recur briefly after its earlier recognition. | Voluntary choice, not a crisis that makes departure unavoidable. Do not repeat a full sound revelation. |
 | 17. Homecoming | Preserve the short domestic echo, delight, changed attention, and gratitude. Incorporate the necklace with coherent elapsed time. | No repeated apology, technical proof, or explanation of each recurring image. |
 
 ## Carry-forward decisions and open questions
 
 **Directions to implement in the next revision:** guarded Hesk; fear of losing trust in reality; childhood scientific warmth; experienced temptation to stay; society's independence as part of Haven's stewardship; a concise ending grounded in changed behavior and gratitude; the stone's development into a necklace; natural recurrence rather than a bird glitch.
+
+**Follow-up to carry forward:** dreams spaced across chapters grow toward Elias hearing his name, then an ambiguous resemblance to background sound on waking and during Haven's account. Daniel's repeated refusal of available return windows is the leading proposed access route; it remains a proposal until adopted with the rest of the crossing rules.
 
 **Choices to settle before drafting affected scenes:** access rule and return opportunities; physical travel versus communication; what the missing page adds and why Elias carries it; the extent of Ruth's and the colleague's knowledge; the concrete contribution father and son share; the necklace's recipient and chronology. These are development questions, not requests to stop this documentation task.
 
@@ -214,7 +263,7 @@ The previous unresolved routes remain open where not addressed: Daniel's eventua
 2. Update the bible and character sheets with selected rules and motivations, preserving the present v5 references.
 3. Draft the two linked experiences of father–son curiosity: childhood and the later encounter. Use those to judge how much additional space the final act needs.
 4. Rework the first Institute visit and the clue sequence so the delay and eventual decision follow from what Elias learns and fears.
-5. Revise Haven's limits, the map payoff, and the choice. Remove the rejected bird/glitch linkage throughout the manuscript.
+5. Revise Haven's limits, the map payoff, and the choice. Remove the rejected bird/glitch linkage. Carry the spaced dreams toward his name and the later room sound without naming its cause.
 6. Preserve the short ending, establish its timing, and check whether gratitude is visible without being explained.
 7. Read for continuity, distinct voices, and unnecessary explanation; then render v6 as a new edition.
 
@@ -225,6 +274,8 @@ Do not expand toward a word-count target. Add a scene when it changes desire, kn
 - Can the reader understand why Elias does not meet Daniel at the first visit?
 - Has Elias enjoyed enough of the alternative for leaving to hurt?
 - Does the access rule leave a real choice, and can it account for Daniel's twenty years?
+- Under the proposed window route, is Daniel visibly able to return and choosing to remain?
+- Are the dreams separated, intensifying, and recognizable in the later room without a confirmed speaker or source?
 - Does the page change something, without giving away its sender?
 - Are Haven's restraint and the Institute's actions compatible under the selected account?
 - Do readers see changed attention and gratitude without another apology or a moralizing conclusion?
