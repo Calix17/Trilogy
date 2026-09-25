@@ -6,6 +6,8 @@ Follow-up added the same day: Daniel can decline a return during the crossing wi
 
 Further follow-up: aerospace engineering is proposed as Elias's specialty, and Daniel gives Elias his full attention during their brief reunion. The five pending items from the subsequent assessment are tracked in [the v6 to-do list](v6-todo.md). Earlier planning snapshots remain in the same archive.
 
+Latest addition: Hesk is a scientist whose manner can suggest a therapist, psychiatrist, or doctor. A request to trust her team and the process is proposed dialogue. The ending's emotional direction now explicitly includes gratitude, forgiveness, closure, presence, moving forward, and a balance between meaningful work and family life. Exact wording and scene implementation remain pending.
+
 **Status: development direction, not a rewritten manuscript.** V5 remains the current reading edition. Its prose, PDF, bible, character sheets, and synopsis have not been changed by this planning update. Explicit author directions below supersede incompatible older suggestions when preparing v6. Options introduced with “maybe” remain options.
 
 The preceding review and the complete author response are preserved in [the discussion source](../99-archive/2026-09-session-notes/v6-planning-source-2026-09-23.md). This document distinguishes those sources from editorial recommendations.
@@ -25,6 +27,7 @@ The remaining work is causal: access to Daniel, the practical choice at the door
 **Author direction**
 
 - Hesk must disclose less, more gradually. Her manner should resemble a counselor or psychiatrist: attentive, measured, and sensitive to what an encounter might do to Elias.
+- At the story-design level, Hesk is a scientist. Her bearing and the Institute can suggest a therapist, psychiatrist, or doctor to Elias and the reader without the narrator resolving that impression. Her scientific specialty and any formal title remain open.
 - Access to Daniel should not seem immediately available on the first visit. Remove the v5 effect of an accessible father whom Elias postpones seeing for an ordinary errand.
 - Preserve the possibility of a mental institution and a painful encounter with an unwell father. This is an available interpretation, not a newly established diagnosis.
 - Develop the fear of losing one's sense of reality alongside Daniel's scientific search for reality.
@@ -50,6 +53,32 @@ If a later route makes Elias knowingly conceal decisive information from himself
 **Important interpretive consequence:** in the Ark reading Daniel has repeatedly chosen work over returning. A clinical reading in which he is unable to leave changes his responsibility. The emotional loss can persist across both readings; the narrator should not insist that both explanations establish exactly the same degree of choice or blame.
 
 **Follow-up proposal:** the author now offers a closer parallel: Daniel could leave at the available opening but refuses, as someone might decline an opportunity to leave a hospital. This supports voluntary staying under either reading without establishing that he is actually hospitalized. His state of mind and the ultimate explanation of the place remain uncertain.
+
+### Follow-up: Hesk asks for trust
+
+**Author's proposed wording**
+
+> if you want to see your father you will need to trust us, trust the process
+
+This is proposed dialogue and intent, not a final line. It fits Hesk's dual presentation: she might be preparing someone for a difficult family encounter, or guiding someone through an unfamiliar scientific procedure. Her request gives the delay a human dimension while leaving the institution's nature open.
+
+**Editorial assessment**
+
+The idea is useful. The precise phrase “trust the process” can sound generic, rehearsed, or coercive when the speaker also controls access to a missing parent. That impression can contribute unease, but should not accidentally make Hesk a stock sinister gatekeeper. Her attention to Elias and the practical care she provides should give him some reason to trust her, even while he remains uncertain about what she knows.
+
+An optional, unselected phrasing is:
+
+> If you're going to see him, we need to take this slowly. You'll have to trust us.
+
+Use a request appropriate to the moment rather than making trust a repeated institutional slogan. The scene can hold reassurance and discomfort together. No clinical diagnosis, treatment claim, or explanation of the crossing is supplied by the line.
+
+**Placement and continuity**
+
+Use this only when the story is ready to acknowledge the possibility of an encounter. A sentence about seeing Daniel must not accidentally undo the earlier revision that makes access guarded and uncertain. It can belong later in the first meeting or during preparation for the eventual encounter; the exact placement remains open. Hesk can ask for patience and cooperation without naming Daniel's location or promising immediate access.
+
+Keep her actual profession distinct from her presentation. The author identifies her as a scientist; this does not establish that she is secretly a psychiatrist, that Elias has been diagnosed, or that the Institute is conclusively a hospital. A formal title, if eventually used, should preserve the chosen ambiguity rather than settle it by accident.
+
+The trust request also fits the series' broader interest in acting without complete certainty. It should remain grounded in Elias's immediate situation; it needs no explicit reference to the later books' uncertain rescues.
 
 ## 2. Father and son: make staying desirable
 
@@ -218,6 +247,33 @@ Gratitude does not require a final speech explaining the machinery or thanking e
 
 Gratitude for Daniel's contribution and grief about his absence can coexist. Appreciating the world does not require Elias to decide that its stewards always acted rightly.
 
+### Follow-up: the ending's emotional direction
+
+**Author direction**
+
+The ending should allow the reader to feel gratitude, forgiveness, closure, presence, and the ability to move forward. Elias chooses to stop letting obsession consume his life and the relationships that matter to him. The balance between work and family belongs to this emotional arc.
+
+These are overlapping effects of the journey, not six messages that the last scene must state. Retain the brief kitchen scene and its ordinary pleasures. Do not add another apology, a list of lessons, or a narrator explaining how each gesture should be read.
+
+| Intended feeling | How it can be carried by the established story |
+| --- | --- |
+| Gratitude | Elias notices Lena, Sami, and the continuing ordinary world; his appreciation can include the unseen care that sustains it. |
+| Forgiveness | The reunion allows tenderness toward Daniel despite the years lost. Elias can stop making his own future depend on Daniel repairing the past. |
+| Closure | He can make a personal decision after the encounter even while the larger questions remain unanswered and Daniel stays. |
+| Presence | At the table he follows another person's words and activity with his attention. |
+| Moving forward | He participates in the life already waiting for him rather than indefinitely postponing it until the search is complete. |
+| Balance | Curiosity and worthwhile work retain their place; Elias changes what he allows them to cost his relationships. |
+
+**Editorial recommendation**
+
+The emotional direction is stronger when forgiveness emerges from the specific father–son encounter. Daniel need not be declared right, transformed into a different man, or made to return. Elias can leave with love and disappointment both intact. The reader can feel release without being told that the missing years no longer matter.
+
+Likewise, closure need not mean that ultimate reality has been identified or that a clinical interpretation has been confirmed and cured. What becomes clear is Elias's decision about how to live. His earlier apologies and the final changed attention already provide a route to expressing that decision.
+
+Use “work–life balance” as an author-level description, not dialogue for Haven or a final statement of the book's moral. The novel's concrete experience is a man finding the companionship and work he dreamed of, then choosing the family whose present he has been missing. Scientific curiosity and ambition still have value; Sami's later departure can remain a responsible choice in different circumstances.
+
+The ending can suggest these feelings through a few existing gestures. There is no requirement to invent a separate scene or object for each emotion, or to make Elias explain his forgiveness aloud.
+
 ## 7. Dreams and the sound: recurrence, intensification, recognition
 
 **Author direction**
@@ -266,16 +322,16 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 | 5. Seams | Rework the colleague's guardedness and Elias's uncertain interpretation. Remove the bird-comparison logic. Keep the first indistinct dream sound. | Review title; no confirmed hospitalization, intelligible name, or technical proof. |
 | 6. The Notebook | Keep the material childhood connection and secrecy. Track what information the old drawings actually contain. | Depends on the eventual missing-page chronology. |
 | 7. Two Trails | Make protective contact and the competing pull distinguishable in their consequences. | Avoid a faction briefing; preserve personal consequences already established. |
-| 8. The Institute | Hesk is measured and guarded; access is uncertain. A later dream draws the recurring sound closer. | The delay must arise from character or an actual access limit, not an errand. Keep this dream separate in time from the earlier one. |
+| 8. The Institute | Hesk's scientific role is compatible with a clinical manner. Keep access guarded; use the proposed request for trust only when an encounter can be acknowledged. A later dream draws the sound closer. | The request should feel personal to the situation, not automatically promise immediate access. Keep the dream separate in time. |
 | 9. The Recital | Preserve the deliberately missed opportunity. Give the anonymous page a specific later consequence. | Elias remains responsible for ignoring calls; do not let manipulation erase that choice. |
 | 10. What Ruth Knew | Retain brief last words, grief, and the recording. | Any knowledge she held stays selective; the title should not promise a full revelation she does not give. |
-| 11. The Door | Let the last major dream bring his name out of the noise. Preserve the ambiguous, continuous journey and unlabelled thresholds. Establish relevant access conditions if selected. | No identification of the dream's speaker, portal lecture, diagnosis, or announced symbolism. |
+| 11. The Door | Let the last major dream bring his name out of the noise. Preserve the ambiguous journey and unlabelled thresholds. Preparation is another possible placement for Hesk's trust request. | Choose the useful placement instead of repeating a slogan. No identified dream speaker, portal lecture, diagnosis, or announced symbolism. |
 | 12. Cold | Ground the unfamiliar place through care, sensation, and activity. Introduce the room's background noise as he wakes. Let a few details attract Elias's engineering attention. | Same-traveller continuity remains. Neither expertise nor the dream resemblance proves the voyage's origin. |
 | 13. The Steward | Keep Haven's sustained account with the familiar background sound beneath it. Remove the bird/glitch link. Clarify stewardship only as needed. | Haven does not confirm she sent the dreams. Preserve moral uncertainty. |
 | 14. Daniel | Give Elias Daniel's full attention through meaningful shared work, the concise confrontation, and the gift. Under the proposed window rule Daniel can return with him but refuses. | Revise the distracted display glance. Warmth is sincere; continued commitment to the search and clinical ambiguity remain. |
 | 15. The Message | Pay off what Elias's page contributes. The planet and Vessel offer a future connected with his proposed aerospace vocation. | Sender, hack, and other Ark remain deferred; reconcile with Haven's existing message. Avoid a technical tour. |
 | 16. The Final Decision | Elias gives up experienced closeness and a possible dream working life. A closing opportunity can apply pressure if selected. Keep any sound echo brief. | Voluntary choice, not a crisis that makes departure unavoidable. Daniel's warmth does not make the family at home less real or valuable. |
-| 17. Homecoming | Preserve the short domestic echo, delight, changed attention, and gratitude. Incorporate the necklace with coherent elapsed time. | No repeated apology, technical proof, or explanation of each recurring image. |
+| 17. Homecoming | Preserve the short domestic echo, delight, and changed attention. Let gratitude, forgiveness, closure, presence, and moving forward be felt. Incorporate the necklace with coherent elapsed time. | No repeated apology, lesson about work–life balance, technical proof, or explanation of each image. |
 
 ## Carry-forward decisions and open questions
 
@@ -284,6 +340,8 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 **Follow-up to carry forward:** dreams spaced across chapters grow toward Elias hearing his name, then an ambiguous resemblance to background sound on waking and during Haven's account. Daniel's repeated refusal of available return windows is the leading proposed access route; it remains a proposal until adopted with the rest of the crossing rules.
 
 **Latest addition:** Daniel's full attention during the reunion is author direction. Aerospace engineering is the proposed specialty for Elias; its exact field and any mining or habitat connection remain open. The five pending assessment items and these new integration tasks are tracked in [v6-todo.md](v6-todo.md).
+
+**Further direction:** Hesk is a scientist with a clinical-seeming manner; the trust request is a dialogue proposal with wording and placement still open. Gratitude, forgiveness, closure, presence, and moving forward guide the ending's emotional effect. Express the cost of obsession and the value of balance through the existing relationships rather than a concluding lesson.
 
 **Choices to settle before drafting affected scenes:** access rule and return opportunities; physical travel versus communication; what the missing page adds and why Elias carries it; the extent of Ruth's and the colleague's knowledge; the concrete contribution father and son share; the necklace's recipient and chronology. These are development questions, not requests to stop this documentation task.
 
@@ -304,6 +362,7 @@ Do not expand toward a word-count target. Add a scene when it changes desire, kn
 ## Checks for the next adversarial review
 
 - Can the reader understand why Elias does not meet Daniel at the first visit?
+- Does Hesk's request for trust belong to the scene and preserve the difference between her scientific role and her clinical-seeming presentation?
 - Has Elias enjoyed enough of the alternative for leaving to hurt?
 - Does Daniel actually give Elias his full attention, and can the reader feel why Elias would want more time with him?
 - If aerospace engineering is adopted, does it deepen his ordinary identity and the Vessel's appeal without becoming an exposition device?
@@ -313,6 +372,7 @@ Do not expand toward a word-count target. Add a scene when it changes desire, kn
 - Does the page change something, without giving away its sender?
 - Are Haven's restraint and the Institute's actions compatible under the selected account?
 - Do readers see changed attention and gratitude without another apology or a moralizing conclusion?
+- Can forgiveness and personal closure coexist with Daniel staying and the larger mystery remaining open?
 - Has the bird ceased to function as a technical error everywhere, including Haven's speech?
 - Can Sami later choose departure without the trilogy declaring that all curiosity or leaving is a failure?
 
