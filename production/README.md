@@ -1,5 +1,23 @@
 # Book I reading editions
 
+## V6 — current
+
+Source: `../02-book-one/book-one-paradise-v6.md`. Reading PDF: the adjacent `.pdf`. Seventeen chapters; 15,905 chapter-body words; 58 PDF pages including the original frontispiece. The first narrative page is printed page 1.
+
+From the project root:
+
+```bash
+python3 08-production/render-book-v6.py --compact-chapters 5,12,14 --qa /tmp/paradise-v6-render-qa.json
+```
+
+The six-by-nine-inch design uses embedded STIXGeneral at 11 pt. Normal leading is 14.8 pt; chapters 5, 12, and 14 use the existing compact style at 14.2 pt with reduced paragraph and heading spacing to remove sparse spillovers. No prose is discarded. The original frontispiece, chapter bookmarks, running headers, and numbered narrative pages are retained.
+
+All 58 pages were inspected in contact sheets, with enlarged checks of the cold room, Haven’s account, Daniel’s gift, the final decision, and the homecoming. Extracted chapter text matches the Markdown after punctuation and whitespace normalization. No blank body pages, sparse endings below the renderer’s threshold, off-page text, clipping, or overlap were found. `v6-validation.json` records source/PDF hashes, per-chapter comparisons, archive checks, and preservation of the two Book II reference sections.
+
+The earlier renderer instructions below remain valid for their own editions. A future text change requires a fresh render and check.
+
+---
+
 ## V5
 
 Source: `../02-book-one/book-one-paradise-v5.md`. Reading PDF: the adjacent `.pdf`.

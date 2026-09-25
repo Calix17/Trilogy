@@ -329,6 +329,8 @@ The other traditions converge on the same few failure modes: Ragnarök's endless
 
 ## Theme across the trilogy — seeking vs. presence
 
+**Philosophical refinement — 24 September 2026.** The author selects three continuing questions: when care becomes control; whether enough can be recognized without exhausting every possibility; and whether extended life restores time or enables postponement. Preserve the Tree of Life / Tree of Knowledge pairing without making either strategy universally right. Gilgamesh and Siduri are the preferred homecoming parallel; Homer's home-seeking Odysseus and Tennyson's outward-seeking Ulysses provide different resonances for Elias and Daniel. The [philosophy and mythology record](../06-development-notes/v7-philosophy-and-mythology-2026-09-24.md) retains the exact selected lines and source distinctions. Placement in the prose is pending; the v6 reading edition is unchanged.
+
 The Fall, in this series, is not a sin. It is the pull to seek more — more knowledge, more future, a higher cause, the ultimate question — and its shadow is that seeking can steal the present, which is where life actually is. Every parent knows the fault in their body: the better future you're building can eat the ordinary Tuesday you were supposed to be living in. Both halves stay true. The seeking is genuinely valuable; the present is genuinely where you live. The books never resolve that into a winner.
 
 The three books argue it at three scales:

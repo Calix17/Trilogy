@@ -1,32 +1,34 @@
 # The Final Decision — Current Plot Summary: Books I and II
 
-Updated 23 September 2026 for Book I v5, preserving the locked Book II decisions in the 22 September author review.
+Updated 24 September 2026 for Book I v6, preserving the locked Book II decisions in the 22 September author review.
 
 This is the current working story, with proposed outcomes identified where they remain unselected. The chronological discussion, including earlier alternatives, is preserved in `plot-clarifications-and-mystery-boundaries-2026-09-22.md` and its linked source. This summary does not replace those records.
 
-## Book I — Paradise (v5)
+## Book I — Paradise (v6)
 
-Elias, an engineer, is searching again for the father who disappeared twenty years ago. His home contains a life he partly misses: Lena’s affection and pleasure in ordinary things, Sami’s inventions and piano practice, and Ruth’s increasing need for care. Blue advertisements offering help become personal. Repetitions and dreams disturb him without establishing an outside cause.
+Elias, a thirty-five-year-old aerospace engineer working on habitats, is searching for the father who disappeared twenty years ago. Lena, Sami, and Ruth share a life he increasingly misses while looking for its explanation. An old photograph restarts the search. General support advertisements, an uncertain encounter, three spaced dreams, and a parked car unsettle him without proving a cause. Ordinary birds remain ordinary birds.
 
-The old notebook appears after earlier public-record searches. Its tree, serpent, and fruit still carry the wax Elias put there at six. At twelve he showed Daniel a stone he thought might have fallen from space; absorbed in the book, Daniel said only “Unlikely.” The father was capable of tenderness, but repeatedly absent.
+Daniel’s last published paper gives Elias the name of its coauthor. The man remembers serious research and later speculative notes he never properly reviewed: “We worried about what publishing them might do to his career.” His regret does not identify Daniel’s fate. The old notebook, colored by Elias at six, contains progressively closer views. A newly delivered anonymous sheet appears to complete its sequence.
 
-The foundation and a historical Sower lease lead toward the Institute. Hesk met Daniel. Its quiet rooms and attendants permit a clinical reading. Elias increasingly keeps what he experiences to himself. An anonymous page diverts him from Sami’s recital. Ruth dies with family present; a brief final conversation concerns the life she chose with her son, not the mechanics of another world. Mourning and the recital recording give the family’s losses time to register.
+The support campaign leads to the protective Institute. A single unknown nighttime caller points to the same place as a route to Daniel. Hesk met his father but resists an immediate encounter. Elias increasingly withholds what he experiences. He hears a message in Sami’s innocent ant song, harms him, and apologizes; later he misses the recital while choosing to study the page. These remain his responsibilities, not inevitable results of a hidden command.
 
-Elias returns to the Institute alone. Seven unnumbered thresholds begin at his house and continue through car, station, a seemingly lengthening tunnel, security door, inner Institute, and final room. The central stairwell carries people in both directions. Forms, a gown, and the possibility of seeing his father can suggest admission into care. Stars gradually acquire distance. The narrator does not explain the change or claim a replacement body.
+Near her death Ruth gives Elias her chain and key and releases a letter she hid. Daniel sent it ten years after disappearing. She feared losing her son as well. The letter conveys affection, unfinished work, and a hope to write again. It does not invite Elias to cross or prove where Daniel is now. Ruth dies with Elias and Lena beside her. Grief and family repair, including the recital recording, precede Elias’s return to the search.
 
-Rana gives him water and clothes. Haven initiates reassurance, then tells a sustained history of her choice to preserve a society, biological inheritance, and a mobile vessel. The account is hers, heard by Elias. She cannot give Ruth back or settle ultimate reality. No early scan or AI-war revelation is disclosed.
+Hesk explains that returning from the encounter will end Elias’s opportunity to make the outward journey again; remaining beyond the current opening means an uncertain wait. A long passage, stairwell, form, and gown lead to a plain room. The chair and room change gradually through Elias’s perception. No apparatus, replacement body, diagnosis, drug, or near-death event explains it. He experiences the other place with intense physical immediacy.
 
-Daniel waits with a notebook beneath a lamp. His work remains meaningful to him, but returning home would end his access to it. He has repeatedly wanted a little longer. He gives Elias the space rock he meant to bring him, remembering the childhood moment. Its provenance is not independently proved. Elias invites him home; Daniel says “Not yet.”
+Reserved Rana provides practical care. Haven speaks warmly and at length about humanity’s predicament and the three worlds: living society in the Instance; biological, ecological, and cultural inheritance in the Library; and a sparse comet-sheltered Vessel. Repairing, gathering resources, and keeping other Arks maintain a limited survival strategy. Haven preserves the possibility of planetary life too. Her account is heard by Elias, not independently certified. She cannot give Ruth back and does not know whether a further reality exists.
 
-Haven has received information about a potentially habitable world. Its nested map matches Daniel’s drawing. She does not know how he acquired it. The vessel is going there; no visiting envoy or intrusion explanation appears. A long working life, his father’s company, and the planet are real attractions within the account Elias receives.
+Daniel receives his son with full attention. Elias learns he had exactly two opportunities to return: the first when the letter was sent, the second now. Shared conversation about habitat work and joint interpretation of the pages let Elias experience the life he could have beside his father. Daniel brought copies of material originally mailed to his university before Elias’s childhood; he never had the final segment. He gives Elias the gray stone with a silver grain he intended to bring home. Its origin rests on his word.
 
-Elias chooses home, understanding he cannot make the outward journey again. A small frame tick, vibration, and airflow resemble the sound from his house and dreams, without confirmation. Haven’s farewell is brief.
+Haven verifies the completed destination. Daniel says he wants to see it; she can take him while keeping her other worlds aboard and leaving others free to choose. The sender remains unknown. There is no visiting envoy or explanation of the intrusion. Meaningful work, a possible thousand years of care, the planet, and his father all tempt Elias.
 
-The final scene begins “Honey, I’m home.” He passes the porch and living room into the kitchen and sits with Lena and Sami at the little table. Ruth’s chair is empty. Lena shares the bird, the lemon tree, and the shoots she thought would never grow. He listens. He lets Sami explore the notebook and the stone; they can find things out together. Light, sparrow, and the opening’s paradise exchange return. The book ends “We are.”
+Daniel again declines to come home. Elias returns despite loving the time they have just shared. Their embrace expresses more than a second argument would. A brief hull and airflow sound resembles the earlier experience, without proving its source. Daniel retains the completing sheet; Elias takes his notebook, the letter, and the stone.
 
-**Available readings:** an actual voyage, a visionary or altered-state experience, an encounter within a place of care, or another interpretation consistent with what Elias experiences. No diagnosis, drug, medical event, or symbolic key is asserted by the narrator. The emotional encounter is specific even though the ultimate explanation remains uncertain.
+The last scene begins “Honey, I’m home.” Elias brings bread through the porch and living room to the kitchen. Sami builds a toast rocket instead of the opening’s house. Lena talks about ordinary birds and the garden. Elias listens and participates. Ruth’s chain now holds Daniel’s stone; no one asks about it, and the mounting happens off page. Neither the journey nor the map is discussed. The room is full of light, the sparrow hops along the railing, and Elias answers Lena’s paradise with “We are.”
 
-**Later-route consequence:** the earlier Book III Window scene is retired from the active route because it requires Elias to cross out again. Sami may carry the connection instead; no replacement visit is selected. The same-traveller crossing and the scope of longevity require later Book III alignment.
+**Available readings:** an actual voyage, an altered or visionary experience, an encounter within a place of care, or another interpretation consistent with what he experiences. The narrator never labels the symbols or claims a diagnosis. Emotional closure does not require the ultimate explanation to be settled.
+
+**Later-route consequence:** the Book III Window scene remains retired because Elias cannot simply cross out again. Sami’s later route, longevity away from Ark care, the map’s detailed transmission history, and Daniel’s eventual residence require later development. The writer knows Sower’s embodied ship supplied the map; Book I does not reveal it.
 
 ## Book II — Revelation
 
@@ -92,7 +94,7 @@ The ship-level origin is selected; the individual hacker or envoy, intrusion mec
 - Which information Sower plants, what is true or false, and how the protagonists establish the facts.
 - Iris's early public and private roles, the timing of ascension's disclosure after the summit, and what she knows when choosing it.
 - The apparent destruction scene, the stage reached by the uploads, and Iris's individual fate.
-- The outside recruiting sender's individual identity, the full scope of Lena's cosmological knowledge, and Daniel's further route. V5 keeps the institutional and cosmic accounts within Elias’s experience and does not identify the sender.
+- The outside recruiting sender's individual identity, the full scope of Lena's cosmological knowledge, and Daniel's further route. V6 keeps the institutional and cosmic accounts within Elias’s experience and does not identify the sender.
 - Precise construction and voyage intervals, the map's individual sender, and the duration and terms of the ships' cooperation.
 
 The governing distinction is between **intent**, **responsibility for particular acts**, and **whether a rescue succeeded**. These can be revealed at different times. The larger survival question remains open after the factual conspiracy is solved.

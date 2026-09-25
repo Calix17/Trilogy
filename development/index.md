@@ -1,5 +1,14 @@
 # Development Notes
 
+## Latest: philosophical themes and v7 planning — 24 September 2026
+
+- [v7-philosophy-and-mythology-2026-09-24.md](v7-philosophy-and-mythology-2026-09-24.md) — selected questions, the Tree of Life and Tree of Knowledge, Gilgamesh and Siduri, Homer/Tennyson parallels for Elias and Daniel, sea imagery, wording provenance, sources, and restrained integration guidance.
+- [v7-revision-checklist-2026-09-24.md](v7-revision-checklist-2026-09-24.md) — checked status of the current v6 draft; pending clarity fixes, open wording/design choices, and substantive later-book work. Use this for the next revision rather than the historical planning checklists below.
+- [the-final-decision-cover-line-2026-09-24.md](the-final-decision-cover-line-2026-09-24.md) — preserved short and long versions of the seeking/caring question; final cover placement remains open.
+- [v6-external-review-assessment-2026-09-24.md](v6-external-review-assessment-2026-09-24.md) — earlier assessment of the external feedback, including confirmed cover spoilers and the distinction between recommendations and continuity errors.
+
+The manuscript and PDF remain v6. This update documents decisions and next work; it does not implement a v7 prose or art pass. Earlier references changed for these links are preserved in `99-archive/pre-v7-planning-reference/` at the project root.
+
 ## Current: v6 delivered — 24 September 2026
 
 The revised pilot is written and rendered: seventeen chapters, 15,905 chapter-body words, 58 PDF pages. Start with [the revision record](v6-revision-notes-2026-09-24.md) and [completion checklist](v6-todo.md). The [current Books I/II summary](current-plot-summary-books-one-and-two.md) and core references are synchronized. The Book II sections retain their existing selected decisions.
