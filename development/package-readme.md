@@ -18,9 +18,17 @@ to give up to keep what he already has.
                        chapter-by-chapter definitions for all three books,
                        the Ark taxonomy, tone-sample pilots for Books II & III.
 
-02-book-one/         Book I, the standalone novel.
-  book-one-paradise.md   The readable prose — 18 chapters, an afternoon's read.
-  book-one-paradise.pdf  The same, typeset as an A5 book, with the frontispiece.
+02-book-one/         Book I manuscript versions.
+  book-one-paradise-v4.md
+                        Active narrative draft: 17 expanded chapters.
+  book-one-paradise-v4.pdf
+                        Reading edition of v4, with the original frontispiece.
+  book-one-paradise-v3.md / .pdf
+                        Submitted v3, preserved unchanged.
+  book-one-paradise-v2.md / .pdf
+                        Earlier revision, preserved unchanged.
+  book-one-paradise.md / .pdf
+                        Earlier consolidated manuscript, preserved unchanged.
 
 03-screen/           TV adaptation materials.
   pilot-and-pitch.md     Producer-facing series pitch + the pilot teleplay ("The Good Days").
@@ -33,6 +41,11 @@ to give up to keep what he already has.
   laniakea-tree.png      Daniel's drawing: the tree / serpent / fruit = Laniakea / route / planet.
 
 06-development-notes/  Author direction, editorial review, and open design options.
+  v4-revision-notes-2026-09-23.md
+                        What v4 changes, chapter map, clue and sound continuity,
+                        and deliberate questions still left open.
+  book-one-paradise-v3-review-2026-09-23.md
+                        Review that informed this revision; not a review of v4.
   current-plot-summary-books-one-and-two.md
                         Current readable synopsis, Book III connection, and open decisions.
   plot-clarifications-and-mystery-boundaries-2026-09-22.md
@@ -47,7 +60,15 @@ to give up to keep what he already has.
                         Options for Ark bodies, the Library, Haven, Daniel's lab,
                         reality, time rates, and the physicist/engineer contrast.
 
+07-scene-workshop/   Earlier proposed scenes and motif work, retained with status notes.
+
+08-production/
+  render-book.py         Reproducible PDF renderer.
+  README.md              Rendering instructions and checks for this edition.
+  v4-validation.json     Final source/PDF and project preservation checks.
+
 99-archive/
+  pre-v4-reference/      Supporting documents as supplied before v4 alignment.
   master-working-doc.md  The original combined working document (superseded by the split
                          files above; kept for reference / history).
   2026-09-session-notes/ Raw discussion notes consolidated into 06-development-notes.
@@ -57,61 +78,56 @@ PROJECT-MERGE-MANIFEST.md
                        canonical status is preserved.
 ```
 
-For current development direction, read
-`06-development-notes/current-plot-summary-books-one-and-two.md` for the story as it
-now stands, then
-`06-development-notes/plot-clarifications-and-mystery-boundaries-2026-09-22.md`, then
-`06-development-notes/author-clarifications-2026-09-22.md`, followed by
-`01-bible/bible.md` and `02-book-one/book-one-paradise.pdf`.
-Targeted corrections have been applied to the bible, prose, and character sheets.
-Other inherited passages and open routes still await the full revision.
+Start with `02-book-one/book-one-paradise-v4.pdf` or its Markdown source for the
+current Book I narrative. Read `06-development-notes/v4-revision-notes-2026-09-23.md`
+for the revision's scope, then the aligned `01-bible/bible.md`, character sheets,
+and current plot synopsis. Dated notes and scene-workshop files retain the history
+of alternatives; their status notices identify superseded guidance. The screenplay
+materials remain earlier adaptations and have not been rewritten to match v4.
 
 ---
 
-## Earlier canon rules — retained for reconciliation
+## Notes after v4
 
-The following rule text is retained from the consolidation snapshot. The dated author
-clarifications govern the next revision where they conflict with earlier formulations.
-In particular, the balance of growth and stability and the Institute's protective role
-need reconciliation with rules 2 and 4. The door/death distinction remains intact.
+`06-development-notes/post-v4-author-notes-2026-09-23.md` records the next proposed
+revision. It includes Haven’s longer revelation, a distant message replacing the
+visitors, a shorter Daniel encounter, the stone alternatives, and a same-traveller
+crossing. A once-only homecoming remains under review because it affects Book III.
+The latest additions develop secrecy, a possible clinical reading of the Institute,
+seven thresholds beginning at home, and Jacob’s ladder as central architecture.
+These notes have not yet been applied to the v4 narrative or canonical reference files.
 
-1. **The door is NOT death.** The crossing is a threshold between instances of reality —
-   closer to teleportation / an out-of-body journey / waking into a realer world than to
-   an ending. Elias goes through and comes back; that proves it. Every crossing has no
-   falling and no flash — the character just notices they are elsewhere, then later
-   notices they are home. Real, final death stays on the page and is clearly different
-   (Ruth; Yara on the planet): grieved, permanent, buried. The difference between graves
-   and doors is shown, never collapsed. Elias returns to his same world, alive.
+## Current revision boundaries
 
-2. **The nested-metaphor design law.** One idea holds true at every scale — thermodynamics,
-   evolution, AI/civilization, one human life, myth — each layer valid on its own, so no
-   reader is required to see the others, but any reader can climb. The unifying sentence:
-   *a thing that perfects survival at the cost of change has chosen a slower death; the
-   only way forward is to descend, vary, and risk.* Keep every layer as pressure under the
-   story, surfaced only when a character needs it to choose. Never a lecture.
-
-3. **The ambiguity principle.** Hint both ways, let the reader resolve. Book I (standalone)
-   leaves genuinely open whether the crossing was real or a breakdown from which Elias
-   recovered; the later books confirm it was real. The crossing's mechanics stay deniable
-   (perception vs. real effect). It's science fiction — the reader explains the how.
-
-4. **Borrow phenomenology, never pharmacology.** The crossing may evoke visionary /
-   near-death "waking into a realer world" reports, but never any substance, dose, or
-   method. It is triggered by the Institute's door.
-
-5. **Both sides are right.** The series never crowns a winner between the garden (safety,
-   presence, stability) and the door (knowledge, growth, risk). Give the best case to the
-   side a given book doesn't choose. Characters commit; the world does not.
-
----
+1. **The door is not death.** Elias crosses alive and returns. Ruth's death remains a
+   real loss. The crossing's mechanism is withheld; its sensory experience can support
+   different readings without making suicide a doorway.
+2. **Protection and growth remain competing goods.** Haven preserves a living society;
+   Sower makes room for embodied change. Neither approach guarantees survival or
+   excuses everything done in its name. Elias's choice is his own, not a universal
+   instruction to stop asking questions.
+3. **Daniel's absence was chosen.** His work offers genuine meaning and pleasure, and
+   he grieves what he missed. A worthwhile purpose does not remove responsibility for
+   repeatedly postponing his return. His later route remains open.
+4. **Clues have distinct sources.** The foundation and Institute act protectively;
+   the copied page draws Elias onward. Historical Sower paperwork does not establish
+   the present Institute's allegiance. Book I leaves the outside sender unidentified.
+5. **Reveal through experience.** Dreams recur after intervals; the ship's faint sound
+   suggests a connection without explaining one. Early ascension, destructive scans,
+   the summit bomb, and the AI conflict belong to later books.
 
 ## Status
 
-The concept, mythology, structure, and character foundations are developed working
-drafts. The 22 September clarifications strengthen motivations and material constraints;
-the clue sequence, travel routes, mortality policy, and chronology still need alignment.
-The latest note distinguishes explicit author decisions from open options and editorial
-recommendations. Prose, scenes, and the supporting cast remain substantial work.
+Book I v4 is a complete 17-chapter working narrative, expanded from the submitted v3.
+It develops the family and investigation scenes, makes Daniel's research tangible,
+repairs evidence and object chronology, and gives the ending time for ongoing family
+repair. The bible, character sheets, and current synopsis now follow that revision.
+
+The series remains in development. The crossing, ultimate reality, and sound source
+are deliberate mysteries. The map's individual sender, Daniel's later itinerary,
+Lena's eventual cosmological knowledge, and several Book II operational details remain
+open choices. The revision record distinguishes those questions from continuity fixes.
+Earlier drafts and exact pre-v4 reference documents are retained for comparison.
 
 ## A note for a future collaborator
 
