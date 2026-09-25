@@ -1,5 +1,11 @@
 # The Final Decision — Development path toward Book I v6
 
+**Implementation update — 24 September 2026.** The author authorized the prose revision. V6 is now written and rendered: seventeen chapters, 15,905 chapter-body words, 58 PDF pages. The [revision record](v6-revision-notes-2026-09-24.md) identifies the treatments actually used and the questions still open. The current prose, bible, main character sheets, and synopsis are authoritative for this edition.
+
+**Historical planning record.** The material below is retained to preserve the reasoning and alternatives discussed before drafting. Its “proposed,” “pending,” or “not yet written” statements describe that earlier stage; they are not the current delivery status. Exact pre-implementation copies are also archived.
+
+---
+
 Latest author correction — 24 September: no mental-institution or psychiatric-record searches in Elias’s nighttime investigation, and no narrator explanation of the omission. Daniel’s last published paper identifies its coauthor, giving Elias a concrete reason to contact the colleague. Distinguish that published collaboration from later unfinished work on apparent quantum anomalies. Exact research scope remains proposed; the focused recommendation is quantum measurement and the nature of reality.
 
 Current refinement — 24 September: the author establishes human choice as the reason the map must first involve people. Haven truthfully explains the code and responds to their chosen future; a direct message alone does not determine her course. This supersedes the earlier proposed access barrier. The current outline now connects Daniel’s published research to the colleague and distributes observable concern across Lena, Sami, and Mara. Narrative and PDF remain v5.

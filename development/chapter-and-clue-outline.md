@@ -1,5 +1,11 @@
 # The Final Decision — Book I v6: chapter and clue outline
 
+**Implementation update — 24 September 2026.** The author authorized the prose revision. V6 is now written and rendered: seventeen chapters, 15,905 chapter-body words, 58 PDF pages. The [revision record](v6-revision-notes-2026-09-24.md) identifies the treatments actually used and the questions still open. The current prose, bible, main character sheets, and synopsis are authoritative for this edition.
+
+**Historical planning record.** The material below is retained to preserve the reasoning and alternatives discussed before drafting. Its “proposed,” “pending,” or “not yet written” statements describe that earlier stage; they are not the current delivery status. Exact pre-implementation copies are also archived.
+
+---
+
 24 September 2026. Proposed staging for author review before the narrative rewrite and render. V5 remains the current manuscript. Established author directions are retained; placements, new scene treatments, and the private causal recommendations below are editorial proposals, not newly approved canon.
 
 Latest author review: omit advance emphasis on Ruth's chain; replace the advertising-song origin with Sami's spontaneous play about an ant carrying breadcrumbs; develop an earlier car-paper encounter, perceived watching, and a brief identifying phrase; make Rana reserved and nurse-like, Haven warm and parental, and Daniel personally welcoming. Father and son work through the pages together. A letter received at Daniel's university is the proposed ordinary route for the earlier material. The exact envelope placement and division of decoding below are revised recommendations for review, not completed prose.

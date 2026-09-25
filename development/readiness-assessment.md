@@ -1,5 +1,11 @@
 # The Final Decision — Assessment before Book I v6
 
+**Implementation update — 24 September 2026.** The author authorized the prose revision. V6 is now written and rendered: seventeen chapters, 15,905 chapter-body words, 58 PDF pages. The [revision record](v6-revision-notes-2026-09-24.md) identifies the treatments actually used and the questions still open. The current prose, bible, main character sheets, and synopsis are authoritative for this edition.
+
+**Historical planning record.** The material below is retained to preserve the reasoning and alternatives discussed before drafting. Its “proposed,” “pending,” or “not yet written” statements describe that earlier stage; they are not the current delivery status. Exact pre-implementation copies are also archived.
+
+---
+
 23 September 2026. Editorial assessment of the current v5 reading draft against the accumulated v6 directions and the latest quiet-ending proposal.
 
 **Status:** assessment and revision guidance. No v6 manuscript or PDF has been produced. The working prose remains v5. Explicit author decisions are distinguished below from recommendations and unresolved choices.
