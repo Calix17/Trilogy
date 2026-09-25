@@ -18,11 +18,9 @@ to give up to keep what he already has.
                        chapter-by-chapter definitions for all three books,
                        the Ark taxonomy, tone-sample pilots for Books II & III.
 
-02-book-one/         Book I manuscript versions.
-  book-one-paradise-v3.pdf
-                        Latest submitted manuscript: 17 chapters, reviewed 23 September.
-  book-one-paradise.md   Earlier consolidated prose — 18 chapters, preserved for comparison.
-  book-one-paradise.pdf  Earlier reading PDF, with the frontispiece.
+02-book-one/         Book I, the standalone novel.
+  book-one-paradise.md   The readable prose — 18 chapters, an afternoon's read.
+  book-one-paradise.pdf  The same, typeset as an A5 book, with the frontispiece.
 
 03-screen/           TV adaptation materials.
   pilot-and-pitch.md     Producer-facing series pitch + the pilot teleplay ("The Good Days").
@@ -35,9 +33,6 @@ to give up to keep what he already has.
   laniakea-tree.png      Daniel's drawing: the tree / serpent / fruit = Laniakea / route / planet.
 
 06-development-notes/  Author direction, editorial review, and open design options.
-  book-one-paradise-v3-review-2026-09-23.md
-                        Full v3 review: strengths, priorities, continuity findings,
-                        and chapter-by-chapter recommendations.
   current-plot-summary-books-one-and-two.md
                         Current readable synopsis, Book III connection, and open decisions.
   plot-clarifications-and-mystery-boundaries-2026-09-22.md
@@ -67,11 +62,7 @@ For current development direction, read
 now stands, then
 `06-development-notes/plot-clarifications-and-mystery-boundaries-2026-09-22.md`, then
 `06-development-notes/author-clarifications-2026-09-22.md`, followed by
-`01-bible/bible.md`. The latest submitted manuscript is
-`02-book-one/book-one-paradise-v3.pdf`; read it with
-`06-development-notes/book-one-paradise-v3-review-2026-09-23.md`.
-V3 contains changes that diverge from earlier author direction; the review identifies
-them without silently adopting them in the bible, synopsis, or character sheets.
+`01-bible/bible.md` and `02-book-one/book-one-paradise.pdf`.
 Targeted corrections have been applied to the bible, prose, and character sheets.
 Other inherited passages and open routes still await the full revision.
 
@@ -121,9 +112,6 @@ drafts. The 22 September clarifications strengthen motivations and material cons
 the clue sequence, travel routes, mortality policy, and chronology still need alignment.
 The latest note distinguishes explicit author decisions from open options and editorial
 recommendations. Prose, scenes, and the supporting cast remain substantial work.
-The 23 September v3 review records stronger emotional detail alongside unresolved
-character direction, family consequences, clue logic, and continuity. The submitted
-PDF is preserved unchanged; the review is a separate editorial document.
 
 ## A note for a future collaborator
 
