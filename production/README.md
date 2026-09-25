@@ -1,52 +1,42 @@
-# V4 reading edition
+# Book I reading editions
 
-The active source is `../02-book-one/book-one-paradise-v4.md`. The adjacent PDF
-is the reading edition: 17 chapters, 21,296 chapter-body words, 80 PDF pages.
-The title/frontispiece is unnumbered; the narrative begins on printed page 1.
+## V5
 
-## Render
-
-Requires Python 3.10 or later with `reportlab`, `Pillow`, and `pypdf`. Install
-`matplotlib` for the bundled STIXGeneral fonts, or provide a complete DejaVu Serif
-font family in the usual system font directory. No network access is used by
-the renderer.
+Source: `../02-book-one/book-one-paradise-v5.md`. Reading PDF: the adjacent `.pdf`.
+Seventeen chapters; 13,592 chapter-body words; 50 PDF pages including the frontispiece.
+The first narrative page is printed page 1.
 
 From the project root:
 
 ```bash
-python3 08-production/render-book.py --tighten-chapters 13 --compact-chapters 5,15 --qa /tmp/paradise-v4-render-qa.json
+python3 08-production/render-book-v5.py --tighten-chapters 5,13 --compact-chapters 15,16 --qa /tmp/paradise-v5-render-qa.json
 ```
 
-The source and output default to the v4 files in `02-book-one/`. Use `--source`,
-`--output`, and `--frontispiece` to specify alternatives. The default artwork is the
-unchanged `05-art/laniakea-tree.png`. The renderer preserves emphasis and
-normalizes Unicode dash characters to spaced or ordinary ASCII hyphens for the
-PDF only. This does not change the Markdown source.
+Requires Python 3.10+, ReportLab, Pillow, and pypdf. STIXGeneral is discovered through
+matplotlib’s bundled fonts; DejaVu Serif is a fallback. No network is used. The source,
+output, and frontispiece have project-relative defaults. Use `--source`, `--output`, and
+`--frontispiece` for alternatives.
 
-## Edition settings
+The reading page is 6 × 9 inches. Body text is embedded STIXGeneral, 11 pt, normally
+14.8 pt leading. Chapters 5 and 13 use 14.4 pt leading. Chapters 15 and 16 use 14.2 pt
+leading with compact paragraph/heading spacing to prevent very short spillover pages.
+No prose is removed by the renderer. Dashes are normalized in the PDF only; emphasis
+is preserved. Chapter bookmarks, running headers, and continuous page numbers are included.
 
-- 6 × 9 inches; embedded STIXGeneral serif family.
-- Body type: 11 pt, normally 14.8 pt leading.
-- Chapter 13: 14.4 pt leading.
-- Chapters 5 and 15: compact paragraph and heading spacing, 14.2 pt leading.
-- Seventeen chapter bookmarks, running headers, and continuous page numbers.
-- Existing frontispiece and visible v4 edition label.
+All 50 pages were inspected in contact sheets, with full-size inspection of the final
+three pages. No clipping, overlapping type, blank body pages, or very sparse chapter
+endings were found. Each chapter’s extracted PDF text was compared to the Markdown
+with emphasis removed and the renderer’s punctuation normalization applied. Every
+non-whitespace character matched in order. `v5-validation.json` records these checks.
 
-The chapter-specific spacing prevents very short trailing pages without
-cutting prose. Future text changes require another pagination and visual check.
-The generated QA JSON includes extracted page text and is a working diagnostic;
-the compact `v4-validation.json` records the checks for this delivered edition.
+The previous manuscripts/PDFs are unchanged. Exact prior supporting documents are
+under `99-archive/pre-v5-reference/`. The Book II bible outline is unchanged. The Book
+III Window and universal new-body assumptions are explicitly marked for revision in
+the current bible; no new Sami visit has been invented.
 
-## Checks completed
+## Earlier editions
 
-All 80 pages were inspected in contact sheets, with full-size checks of the
-cover and representative body/adjusted pages. No visible clipping, overlaps,
-blank body pages, or very sparse chapter endings were found. An independent
-comparison verified all 17 chapter bodies against extracted PDF text, in order,
-using both word tokens and every non-whitespace character after the renderer's
-punctuation normalization and Markdown emphasis removal.
-
-Every manuscript and PDF supplied in the source project remains byte-for-byte
-unchanged. Modified reference documents have exact prior copies under
-`99-archive/pre-v4-reference/`. Screen materials and the original artwork have
-not been rewritten. The new v4 archive contains the whole project.
+`render-book.py` retains the v4 defaults. Its v4 settings and verification record are
+preserved in the pre-v5 production README and `v4-validation.json`. Use that version’s
+command when reproducing v4. Future prose changes require another pagination and
+visual check; the v5 page and word counts apply only to this delivered draft.

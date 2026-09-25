@@ -71,7 +71,7 @@ Daniel's later reunion gift becomes the pendant on Ruth's chain. At the closing 
 
 The author's proposed appearance is a gray stone with a silver-colored inclusion. A grain or narrow seam can supply the visual detail without identifying the metal as literal silver or proving the stone's cosmic origin. Align the reunion and closing descriptions in v6. Exact shade, wording, and whether Elias smiles at that moment remain optional.
 
-A brief recognition that this chain once held a key can orient readers. The narration should not then explain that it joins mother and father. An early, unobtrusive glimpse of Ruth's chain is an editorial option; the handover itself can establish it sufficiently. The mounting can happen off-page, without a craft scene or a required statement of elapsed time. Nobody asks about the necklace at the final table.
+A brief recognition that this chain once held a key can orient readers. The narration should not then explain that it joins mother and father. The author rejects an earlier chain detail in chapter 3. Introduce the chain and key only when Ruth gives them to Elias; that action establishes them sufficiently. The mounting can happen off-page, without a craft scene or a required statement of elapsed time. Nobody asks about the necklace at the final table.
 
 This addition settles the key as an ordinary physical object on Ruth's chain. It leaves the container, the final wording of the handover, and the letter's precise physical form open. The chain is a keepsake and the key accesses private family material; neither authenticates the crossing or supplies access to the Institute.
 
@@ -119,7 +119,7 @@ This is a tonal example only. The final version may be shorter. Its ordinary que
 
 Elias is an adult when the message is sent. Asking after him is natural; wording about care should not inadvertently treat him as a child still being raised. The coincidence with the approximate year of Sami's birth is not a selected plot connection; the letter should not assume Daniel knows about his grandson.
 
-Keep three papers distinct unless the author deliberately combines them: the old notebook with its childhood-colored map, Daniel's later personal message to Ruth, and the anonymous final map page sent to Elias. Receiving love from Daniel does not identify the serpent's later intervention. Preserve the rock as the reunion gift under the current recommendation.
+The latest proposed origin for the map material is an earlier letter received by Daniel at his university, before Elias colored the notebook at six. That inbound academic correspondence is separate from the personal message Daniel later sends Ruth; a brief origin remark in the reunion can be enough. Keep these three existing papers distinct unless the author deliberately combines them: the old notebook with its childhood-colored map, Daniel's later personal message to Ruth, and the anonymous final map page sent to Elias. Receiving love from Daniel does not identify the serpent's later intervention. Preserve the rock as the reunion gift under the current recommendation.
 
 ## Integration still needed
 

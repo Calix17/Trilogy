@@ -682,3 +682,10 @@ The selected lead is the last published paper’s coauthor. Elias finds the pape
 The author suggests brains, quantum mechanics, string theory, and apparent quantum anomalies as possible subject matter. Recommendation: give this conversation one coherent focus, quantum measurement and discrepancies Daniel believed might matter to the nature of reality. Retain the other fields as unselected possibilities. The last published collaborative paper establishes his professional history. The subsequent anomaly work was being prepared for publication and is not the same paper. The colleague can know that direction through conversations while regretting not properly reading the later draft. He cannot coherently disown knowledge of the published paper he coauthored.
 
 This clarification strengthens the investigation’s cause and effect and preserves psychological ambiguity without adding an explanation of the crossing. No exact paper title, verified anomaly, hidden scientific proof, or extra manuscript-recovery quest is required. V5 remains unchanged; these corrections are scheduled for the v6 prose pass.
+
+
+## Coauthor’s brief comment — author proposal, 24 September 2026
+
+The author proposes that the colleague acknowledge their published paper, admit he did not finish reviewing Daniel’s later work, characterize the later notes as speculative, recall concern about career consequences, and express sadness about how things ended. The outline preserves this as a compact wording study rather than selected finished prose.
+
+The author selects the plural “We worried about…” so the coauthor recalls concern shared with other colleagues. This supersedes the earlier recommendation to limit the phrase to his individual worry. Ground his account in the notes or conversations he encountered. Incomplete review limits his judgment. Publishing might have damaged the career; no actual sanction is established. The sad closing phrase remains open and does not specify a diagnosis, death, or institution. Use this in place of redundant concern dialogue, retaining warmth and the distinction between the published collaboration and the subsequent unfinished work.
