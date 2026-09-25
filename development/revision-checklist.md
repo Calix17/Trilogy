@@ -1,6 +1,6 @@
 # The Final Decision — Status and next-revision checklist
 
-24 September 2026. Updated against the v7 working manuscript and the latest author directions, including the philosophy scene map and subsequent seeding proposal. V6 remains the previous rendered reading edition. The earlier checklist is preserved in the pre-v7-vessel reference archive.
+24 September 2026. Updated against the v7 working manuscript and the latest author directions, including the philosophy scene map, seeding proposal, and latest consciousness framework. V6 remains the previous rendered reading edition. The earlier checklist is preserved in the pre-v7-vessel reference archive.
 
 ## Current status
 
@@ -39,6 +39,8 @@ The earlier v6 completion checklist remains a historical record of the authorize
 - A technical epigraph series or objective Vessel prologue is not part of the selected direction.
 
 ## Later-series decisions — distinct from Book I corrections
+
+**Book III scope update:** the author considers Books I and II almost fixed and explicitly reopens Book III's central theme and route. Existing third-book scene tasks are conditional on retaining their material. The latest direction concerns preservation of conscious life across origins, with protected Ark communities and independently developing seeded life. This is recorded in [the new framework](consciousness-preservation-and-renewal-2026-09-24.md); the human narrative and ending remain to be chosen.
 
 ### S-01 — The split message and its delivery history
 
@@ -89,20 +91,21 @@ The mapping is documented in [philosophy-scene-map-and-progress-2026-09-24.md](p
 
 Book I already seeds these questions. Do not expand its Vessel dialogue to satisfy this list. Book III is the preferred home for collective dissent, resource conflict, and descendants' freedom where those questions would overload Book II.
 
-## Successor-Ark and seeding proposals — B3-01 to B3-06
+## Consciousness framework and open Book III — B3-01 to B3-07
 
-The [latest development note](book-three-seeding-and-successor-arks-2026-09-24.md) records the new possibilities without selecting a replacement Book III route. Haven's preservation motive is clarified as present from Book II onward; its technology serves that purpose, while Sower seeks independent embodied development.
+The [latest author framework](consciousness-preservation-and-renewal-2026-09-24.md) clarifies a recurring relationship between exploration and preservation. The proposed later goal expands from human survival to conscious life across origins. Existing inhabitants remain protected while suitable worlds may be seeded with engineered simple life. The former colony-first sequence is an option, not a committed route.
 
-| ID | Pending choice | Continuity requirement |
+| ID | Pending choice | Development requirement |
 | --- | --- | --- |
-| B3-01 | Select a colony beacon crisis, responder, response interval, and cost. | Preserve the two beacon histories, the separate Arks, and Haven's continuing obligations. |
-| B3-02 | Choose a concrete terraforming-versus-body-adaptation dilemma. | A person makes a consequential choice; changed descendants have interests of their own. |
-| B3-03 | Decide whether mining organisms accidentally seeded a later lineage. | Establish habitat, chronology, transfer, and evidence; spread of existing life is not life's first origin. |
-| B3-04 | Choose the later encounter's ancestry and place in time. | Distinguish changed humans, mining-lineage descendants, and the existing Other Garden; no automatic replacement. |
-| B3-05 | Define the successor Ark and whether deliberate seeding is selected. | Preserve conscious communities and meaningful choices; avoid treating them as expendable search trials. |
-| B3-06 | Limit what is shown in Sami's story versus a later glimpse. | Keep the human ending; no proof of complete knowledge, a global optimum, or eternal survival. |
+| B3-01 | Decide whether the colony and its beacon remain; if used, select crisis, responder, timing, and cost. | Keep Jonah's established Book II beacon distinct. A retained third-book rescue must respect the chosen ships' locations and obligations. |
+| B3-02 | Decide whether human adaptation or terraforming provides the initial dramatic pressure. | Give the relevant people consequential choices; human colonization is not compulsory in the broader framework. |
+| B3-03 | Develop intentional engineered seeding; decide whether accidental mining dispersal explains its discovery. | Initial viable life and independent later development are different stages; no guaranteed conscious civilization. |
+| B3-04 | Choose whether an unfamiliar Ark encounter broadens the agents' purpose. | Set ancestry, timing, recognition, and evidence; The Other Garden remains candidate material. |
+| B3-05 | Define cooperation between preservation and seeding. | Maintain care for present inhabitants and meaningful future choices; a literal merger of the AIs is unselected. |
+| B3-06 | Select Book III's protagonist, conflict, chronology, and ending. | Previous chapters remain reusable; the new framework must be carried by lives and decisions rather than a cosmic summary. |
+| B3-07 | Dramatize the wider concern for conscious life. | Establish why origin no longer determines the scope of care; distinct persons and cultures remain valuable, and recognizing unfamiliar minds can remain uncertain. |
 
-All six are pending development decisions. This update changes references only; Book I text, reading PDFs, artwork, and the existing Book III chapter outcomes remain unchanged.
+All seven remain development tasks. The new record documents the author's speculative model and current conceptual direction. It does not prove a universal growth-to-stasis law, establish cosmic escape, or lock a replacement outline. Manuscripts, reading PDFs, and artwork are unchanged.
 
 ## Mysteries that do not require explanation in Book I
 

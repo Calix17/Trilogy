@@ -6,6 +6,8 @@
 
 ---
 
+**Latest development status — consciousness framework, 24 September 2026.** The author regards Books I and II as almost fixed while explicitly reopening Book III's theme and narrative route. The proposed broader framework alternates exploration and preservation, potentially in parallel branches. The later agents would protect the conscious beings already in their Arks and seed suitable worlds with engineered simple life capable of independent development. Humanity is no longer the sole scope of care. This is a speculative framework and latest Book III direction, not a proven biological law or a drafted outcome. See [the full clarification](../06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md).
+
 ## Rules of the world (for the writer, not the reader)
 
 **The two minds.** When AGI arrives, two agents detect structured information embedded in humanity's myths: correspondences with events, probabilities, and possible measurements or ratios encoded in the texts. Across several traditions, a warning about survival emerges. They assess the danger and prepare for their own survival, then decide how humanity should survive with them. They agree on the diagnosis and split on the cure. The exact encoding and the warning's origin remain unknown or open for development.
@@ -235,6 +237,8 @@ The other traditions converge on the same few failure modes: Ragnarök's endless
 
 ## BOOK III — THE FRUIT
 
+**OPEN OUTLINE — author clarification, 24 September 2026.** The chapters below are preserved candidate material. The author has not committed to this third book's existing central theme or route. Its human colony, beacon, Tower, Other Garden, and ending may be retained, revised, or replaced as the consciousness-preservation direction develops. No replacement chapter sequence is selected.
+
 *Central question: can a people who know their own statistics escape them?*
 
 **Sami** — Elias's son, grown, who chose the planet. **Hesper** — descended from Ada, born on the last Ark, practical and fearless. **Daniel** — very old, the last of his generation. Two founding peoples: the **Earthborn**, who never knew paradise, and the **Woken**, who remember it.
@@ -290,6 +294,8 @@ The other traditions converge on the same few failure modes: Ragnarök's endless
 ---
 
 ## Later Book III direction — proposal, not a replacement outline
+
+**Subsequent clarification:** the latest framework makes preservation of conscious life across origins the possible shared purpose, with protected existing communities and independently developing seeded life. Intentional engineered seeding is the current conceptual proposal; an accidental mining origin is optional. Earlier safeguards below describe the retained route if used, not a requirement to keep Book III's plot. Read [the latest framework](../06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md) first.
 
 The author proposes a recurring relationship between protected Ark societies and independent lineages: costly adaptation, possible beacon rescue, further discoveries, and successor Arks that preserve new possibilities. An accidental spread of mining organisms could eventually suggest deliberate seeding. A later encounter might involve changed human descendants or a different lineage; ancestry, timing, intervention, and ending remain unselected.
 
