@@ -1,6 +1,10 @@
 # Book I reading editions
 
-## V6 — current
+## V7 — working text
+
+Source: `../02-book-one/book-one-paradise-v7-working.md`. Seventeen chapters; 15,558 chapter-body words using the same counting method as v6. No v7 PDF or new artwork has been generated. `v6-to-v7-working.diff` records all manuscript edits; `v7-working-validation.json` records preservation and targeted continuity checks. The original frontispiece still needs its revealing labels revised before a new illustrated edition.
+
+## V6 — previous rendered edition
 
 Source: `../02-book-one/book-one-paradise-v6.md`. Reading PDF: the adjacent `.pdf`. Seventeen chapters; 15,905 chapter-body words; 58 PDF pages including the original frontispiece. The first narrative page is printed page 1.
 

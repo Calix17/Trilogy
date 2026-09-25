@@ -1,0 +1,7 @@
+# generated build outputs (regenerate from the .md source of truth)
+*.pdf
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*~
+.*.swp

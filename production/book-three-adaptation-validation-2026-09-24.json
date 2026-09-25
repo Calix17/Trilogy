@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-24",
+  "update": "Book III clarification: colony factions and hazards, Sower emergency sequence, pre-Daniel mining history, and external feedback",
+  "previous_file_count": 255,
+  "current_file_count": 270,
+  "previous_file_contents_preserved": 255,
+  "missing_previous_contents": [],
+  "changed_existing_paths": [
+    "01-bible/bible.md",
+    "04-characters/character-sheets.md",
+    "06-development-notes/README.md",
+    "06-development-notes/book-three-convergence-and-final-door-2026-09-24.md",
+    "06-development-notes/trilogy-progression-and-current-direction-2026-09-24.md",
+    "06-development-notes/v7-revision-checklist-2026-09-24.md",
+    "CONTENTS.md",
+    "README.md",
+    "START-HERE.md"
+  ],
+  "prior_versions_archive": "99-archive/pre-book-three-adaptation-reference/",
+  "protected_manuscript_art_and_document_paths_unchanged": 18,
+  "embedded_book_ii_and_iii_pilot_prose_unchanged": true,
+  "source_coverage_rows_verified": 668,
+  "source_coverage_rows_redirected_to_preserved_content": 0,
+  "new_relative_link_errors": [],
+  "zip_crc_check_passed": true,
+  "narrative_rewrite_performed": false,
+  "new_pdf_or_art_rendered": false,
+  "remaining_work": [
+    "Specific long-term hazard, adaptation factions, sudden crisis, and human decisions",
+    "Prepared Sower rescue: simulation-to-instance staging, capability, consent, capacity, timing, and cost",
+    "Mining lineage history, evidence, and encounter chronology",
+    "Communication or reunion establishing shared strategy",
+    "Daniel travel, continued care, discovery evidence, and final scene cut"
+  ]
+}
