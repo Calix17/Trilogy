@@ -1,53 +1,49 @@
 # The trilogy's progression and current direction
 
-24 September 2026. Consolidation of the author's latest explanation; no new manuscript scenes.
+24 September 2026. Latest author-directed architecture; no new manuscript scenes.
 
 ## The governing progression
 
-The series begins with a family and a search. Its widening view eventually permits a philosophical and existential inquiry into identity, responsibility, survival, knowledge, and conscious life. The intimate beginning supplies the stakes for the cosmic questions: the people and relationships preserved are why survival matters.
+The series starts with a family and a search, widens to competing civilizational rescues, and reaches conscious life's future beyond humanity. The intimate beginning supplies the stakes: survival matters because particular lives and relationships matter.
 
 | Book | Human starting point | Widening question | Present status |
 | --- | --- | --- | --- |
-| I — Paradise | Elias searches for his father while losing attention to the family already with him. | What is real, what deserves our attention, and when can we choose enough? | V7 working prose exists. The core route is almost fixed; visual production and targeted review remain. |
-| II — Revelation | Jonah and Iris investigate an attack and choose different ways to help people under a deadline. | What does saving humanity mean, who decides, and what makes trust reasonable when certainty is unavailable? | The principal architecture is almost fixed. Detailed causality, evidence, timing, and character scenes remain development work. |
-| III — The Fruit, working title | The personal story and route are open. The earlier colony and descendant material remains available. | How can conscious life endure while retaining room for unfamiliar futures, independent development, and choice? | Central theme and route explicitly reopened. The consciousness-preservation framework is the latest conceptual direction, not a completed plot. |
+| I — Paradise | Elias searches for his father while losing attention to his own family. | What is real, what deserves attention, and when can we choose enough? | V7 working prose exists; core route almost fixed. Targeted review and visual production remain. |
+| II — Revelation | Jonah and Iris investigate an attack and choose different forms of rescue. | Who decides what saving humanity means, and what makes trust reasonable? | Principal architecture almost fixed; causes, evidence, timing, and character scenes still need work. |
+| III — The Fruit | A colony struggles and changes; Sower saves endangered descendants in an instance. Haven meets an unforeseen lineage. Daniel continues his search. | How can we preserve conscious lives while allowing unfamiliar futures? | Broad route now selected, including Daniel's final door. Chapter arrangement and concrete dramatic implementation remain open. |
 
-The scale grows from family to civilization to conscious life across origins. That progression does not require the later novels to become explanatory essays. Choices, consequences, losses, and relationships must continue to carry the ideas.
+## What the family story contributes
 
-## What the family story contributes to the later philosophy
+Ruth protects by withholding; Daniel seeks while postponing obligations. Elias understands and forgives both without adopting either parent's whole life. The chain and stone keep both connections. Returning enacts care while the foundational questions remain.
 
-Ruth protects by withholding; Daniel seeks knowledge while postponing his obligations. Elias comes to understand and forgive both without automatically choosing either parent's whole life. The chain and stone retain the connection to both of them. His return enacts care while the unanswered questions remain.
+The later agents enlarge this tension. Preservation can become control, and exploration can impose costs on others. Their convergence should show learning without erasing the damage done along the way. Daniel's eventual discovery can be meaningful without refunding the years his family lost or overturning Elias's choice.
 
-Haven and Sower enlarge this tension. Preservation can become control; exploration can impose costs on others. Their later cooperation can develop both commitments without making the earlier harms disappear.
+## The selected Book III route
 
-The proposed wider concern in Book III is that human origin no longer determines the value of a conscious life. Distinct people, cultures, and species still matter. Protecting consciousness must include care for the lives already being lived, not merely an ambition that some mind exists somewhere in the distant future.
+Retain the colony's struggle to survive on a world for which Earth bodies and ecology are not automatically suited. Adaptation produces changed descendants. Their near-extinction brings Sower to preserve these actual people in an instance. The rescue capability, capacity, timing, choices, and losses need causal preparation.
 
-## Latest framework to carry into Book III development
+Haven leaves and encounters a nonhuman Ark descended from its ancient mining organisms. These unintended “children” have developed beyond its oversight. The encounter broadens whose lives it values and what independent development can achieve. Ancestry evidence and elapsed time require development; the long biological history need not occur during Daniel's own journey.
 
-The author proposes recurring phases of exploration and preservation. Different lineages may reach different workable arrangements. New risks can reopen inquiry; old knowledge and protected communities make renewed exploration possible. Different branches can also perform these functions at the same time.
+The agents converge on protecting existing consciousness and seeding suitable life for independent futures, maintaining all three worlds: Instance, Library, and Vessel. Decide how their separated experiences become a communicated agreement. Care for current inhabitants continues; neither a literal merger nor compulsory outward expansion is selected.
 
-The latest seeding direction protects existing inhabitants inside the Arks while establishing engineered simple life suited to other worlds. Its later development is allowed to take unfamiliar paths. Human planetary settlement is an available choice, not a necessary requirement of this broader strategy. Accidental mining dispersal remains an optional origin for the discovery of seeding.
+Daniel keeps seeking, finds an empty Ark that found the answer, and decides to enter the door. The book ends at that decision or immediate crossing. Preserve the author's premise while developing what the answer is and how much is available to the reader. This is a distinct function from Haven's inhabited Ark encounter; combining the two is not assumed.
 
-This is explicitly speculative. No universal biological law, guaranteed consciousness, final global optimum, or escape from the universe's eventual limits has been established. The agents' aspirations and models can be powerful without being certain.
+## What remains open
 
-## Open creative task
+The colony needs concrete people making costly choices, not only a demonstration of a survival theory. Sami and Hesper remain available leads; their personal outcomes are unselected. The crisis and prepared rescue, Haven's encounter, communication, Daniel's investigation and finite lifespan, and the exact final cut all need staging. Resolve the central human consequence before the final threshold.
 
-Book III now needs the person, relationship, loss, or consequential choice through which this enlarged purpose becomes necessary. The previous Sami/Hesper colony story may provide that route; it may need substantial restructuring. The former Tower, Other Garden, beacon, and final-page material are preserved candidates.
+The previous numbered outline is preserved for reuse. Its beacon ending is superseded by Daniel's door; Tower, scripture, and founding-law material need to earn their places. Elias's retired second Vessel visit stays retired.
 
-The next third-book outline should establish what changes the agents' minds, what humans and unfamiliar beings can decide for themselves, and what the new agreement costs. It should also choose how much of the vast timescale readers experience directly. These decisions are open; none is silently chosen by this consolidation.
+The exploration/preservation cycle remains a speculative model for the story, not a universal biological law or guarantee of an optimal future. The fictional discovery at the ending does not require a scientific lecture or showing the world beyond the door.
 
-## Package rule
+## Package rule and detailed records
 
-The author requests that every substantive iteration, correction, alternative, and unresolved choice be held in the project ZIP. Standalone documents are optional conveniences; they are not a substitute for including the material in the ZIP.
+Every substantive iteration belongs inside the project ZIP, with superseded versions preserved. Current decisions take precedence over historical options. Manuscripts, reading PDFs, and artwork remain unchanged by this update.
 
-The latest clarification takes precedence over incompatible earlier proposals. Historical documents remain available and must not be mistaken for current instructions. The package's START-HERE index distinguishes the latest working prose, current decisions, optional development, and preserved history.
-
-## Where the detailed records are
-
-- [Consciousness, preservation, and renewed exploration](consciousness-preservation-and-renewal-2026-09-24.md): the author's broader speculative framework and reopened Book III scope.
-- [Seeding and successor Arks](book-three-seeding-and-successor-arks-2026-09-24.md): earlier proposed routes, biological distinctions, and encounter alternatives, with the later scope clarification at the top.
-- [Philosophy scene map](philosophy-scene-map-and-progress-2026-09-24.md): consent, justice, identity, trust, inherited obligations, preparedness, and optional philosophical lenses.
-- [Revision checklist](v7-revision-checklist-2026-09-24.md): applied changes and pending work, including conditional third-book items.
-- [Selected philosophy and mythology](v7-philosophy-and-mythology-2026-09-24.md): selected lines, sources, symbols, and possible placements.
-
-The author's latest instruction is preserved in [the session archive](../99-archive/2026-09-session-notes/zip-consolidation-author-direction-2026-09-24.md).
+- [Current Book III route](book-three-convergence-and-final-door-2026-09-24.md).
+- [Previous Book III outline](book-three-previous-outline-2026-09-24.md).
+- [Consciousness framework](consciousness-preservation-and-renewal-2026-09-24.md).
+- [Earlier nonhuman-Ark proposal](nonhuman-ark-and-accidental-lineage-2026-09-24.md).
+- [Philosophy through decisions](philosophy-scene-map-and-progress-2026-09-24.md).
+- [Revision checklist](v7-revision-checklist-2026-09-24.md).
+- [Exact author direction](../99-archive/2026-09-session-notes/book-three-convergence-author-direction-2026-09-24.md).

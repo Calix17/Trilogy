@@ -1,21 +1,25 @@
 # Development Notes
 
-## Latest: consciousness, preservation, and renewal — 24 September 2026
+## Latest: Book III convergence and the final door — 24 September 2026
+
+The [new working route](book-three-convergence-and-final-door-2026-09-24.md) retains the colony struggle, selects Haven's mining-derived Ark encounter and Sower's instance rescue of changed descendants, and brings the agents to preservation plus seeding through all three worlds. Daniel's discovery of an empty Ark that found the answer and his decision to enter its door now end the book. Detailed scenes remain open. Current references are synchronized; previous outline and reference versions are preserved. Prose, PDFs, and art are unchanged.
+
+## Earlier update: consciousness, preservation, and renewal — 24 September 2026
 
 The [author framework](consciousness-preservation-and-renewal-2026-09-24.md) records recurring phases of exploration and preservation, possibly operating in parallel branches. The proposed later goal protects existing conscious communities and seeds suitable worlds for independent development, broadening care beyond humanity. Books I and II are almost fixed; Book III's theme and route are explicitly open. Previous chapter material remains available, and all manuscripts, PDFs, and artwork are preserved. The checklist now tracks B3-01 through B3-07.
 
 
-## Latest: seeding and successor Arks — 24 September 2026
+## Earlier update: seeding and successor Arks — 24 September 2026
 
 The [new development record](book-three-seeding-and-successor-arks-2026-09-24.md) preserves the proposal for costly adaptation, possible beacon intervention, biological seeding, unfamiliar descendants, and successive Ark strategies. It clarifies that Haven already pursues preservation in Book II and records six unresolved choices. The current Other Garden scene, chapter outcomes, manuscripts, PDFs, and art are preserved. Earlier reference versions are in `99-archive/pre-seeding-proposal-reference/` at the project root.
 
 
-## Latest: scenes, philosophical decisions, and progress — 24 September 2026
+## Earlier update: scenes, philosophical decisions, and progress — 24 September 2026
 
 [philosophy-scene-map-and-progress-2026-09-24.md](philosophy-scene-map-and-progress-2026-09-24.md) is the current development map for consent, justice, identity, trust, and inherited obligations. Ten scene proposals are anchored to the existing outlines, with Book III carrying collective questions where needed. It distinguishes the AIs' active survival strategies from Book II's neglected preparedness and records eight pending tasks, P-01 through P-08. No narrative text or art is changed by this update.
 
 
-## Latest: v7 working text and trilogy philosophy — 24 September 2026
+## Earlier update: v7 working text and trilogy philosophy — 24 September 2026
 
 - [v7-vessel-and-trilogy-philosophy-2026-09-24.md](v7-vessel-and-trilogy-philosophy-2026-09-24.md) — applied two-room Vessel revision, ten-year access window, Book II development-facility gala, philosophy by book/chapter, and questions needing further scenes.
 - [v7-philosophy-and-mythology-2026-09-24.md](v7-philosophy-and-mythology-2026-09-24.md) — all selected themes, mythic parallels, wording provenance, and the three fragments now used in the working manuscript.

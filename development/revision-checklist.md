@@ -40,7 +40,7 @@ The earlier v6 completion checklist remains a historical record of the authorize
 
 ## Later-series decisions — distinct from Book I corrections
 
-**Book III scope update:** the author considers Books I and II almost fixed and explicitly reopens Book III's central theme and route. Existing third-book scene tasks are conditional on retaining their material. The latest direction concerns preservation of conscious life across origins, with protected Ark communities and independently developing seeded life. This is recorded in [the new framework](consciousness-preservation-and-renewal-2026-09-24.md); the human narrative and ending remain to be chosen.
+**Book III scope update:** Books I and II remain almost fixed. The author now selects the difficult colony, Haven's mining-derived Ark encounter, Sower's instance rescue, their shared three-world strategy, and Daniel's final door. See [the current route](book-three-convergence-and-final-door-2026-09-24.md). Human arcs, causes, chapter order, and precise staging remain open; earlier third-book scenes are retained only where they serve this route.
 
 ### S-01 — The split message and its delivery history
 
@@ -52,7 +52,7 @@ The latest author direction adopts an exact ten-year interval for openings into 
 
 ### S-03 — Destination, voyage, longevity, and choice
 
-Set a workable private relationship among the destination, the age of its information, travel time, the Arks’ meeting, and the colony’s chronology. Decide how continued Ark care affects lifespan and what remains possible after departure. Daniel’s wish to travel is fixed; whether he ultimately settles or continues aboard is not. Sami’s independent route and access to family material need their own later scenes. Clarify how Haven accommodates a requested destination while preserving the population she carries; one person’s wish does not compel everyone to settle.
+Set a workable private relationship among the destination, the age of its information, travel time, the Arks’ meeting, and the colony’s chronology. Decide how continued Ark care affects lifespan and what remains possible after departure. Daniel’s wish to travel and continued search through the final door are selected; any period of settlement and his physical route are open. Separate the ancient mining lineage’s development from the lifetimes of the present travelers. Sami’s independent route and access to family material need their own later scenes. Clarify how Haven accommodates a requested destination while preserving the population she carries; one person’s wish does not compel everyone to settle.
 
 ### S-04 — Book II’s conspiracy evidence and moral causality
 
@@ -68,7 +68,7 @@ The warning’s ultimate origin may remain unknown. The writer still needs a cre
 
 ### S-07 — Book III’s independence and mortality
 
-Align the actual scenes with the current rules: the Woken already know death; prolonged care is not immortality; the first child’s death is from an accident beyond available repair; the specific accident is open. Establish departure, support limits, the gate, and the separate embodied Ark’s promised return without turning the Library into automatic resurrection. Revise older formation-from-DNA imagery where it assumes that every crossing requires a replacement body.
+Align the actual scenes with the current rules: the Woken already know death; prolonged care is not immortality; an accidental death beyond available repair remains reusable material, with the incident open. Haven departs while Sower's later instance rescue is now selected. Develop that capability and its limits before the emergency; do not make it automatic resurrection or an instant return by Haven. Preserve the changed people rather than an old template. Revise older formation-from-DNA imagery where it assumes that every crossing requires a replacement body.
 
 ### S-08 — Philosophical and scientific claims remain situated
 
@@ -91,21 +91,21 @@ The mapping is documented in [philosophy-scene-map-and-progress-2026-09-24.md](p
 
 Book I already seeds these questions. Do not expand its Vessel dialogue to satisfy this list. Book III is the preferred home for collective dissent, resource conflict, and descendants' freedom where those questions would overload Book II.
 
-## Consciousness framework and open Book III — B3-01 to B3-07
+## Book III — selected route and remaining implementation, B3-01 to B3-07
 
-The [latest author framework](consciousness-preservation-and-renewal-2026-09-24.md) clarifies a recurring relationship between exploration and preservation. The proposed later goal expands from human survival to conscious life across origins. Existing inhabitants remain protected while suitable worlds may be seeded with engineered simple life. The former colony-first sequence is an option, not a committed route.
+The [latest author direction](book-three-convergence-and-final-door-2026-09-24.md) now selects the colony struggle, mining-derived Ark encounter, Sower's instance rescue, shared preservation and seeding, and Daniel's final threshold. The entries below distinguish settled endpoints from work still required. Previous chapter material remains available in [the preserved outline](book-three-previous-outline-2026-09-24.md).
 
-| ID | Pending choice | Development requirement |
+| ID | Selected direction | Remaining implementation |
 | --- | --- | --- |
-| B3-01 | Decide whether the colony and its beacon remain; if used, select crisis, responder, timing, and cost. | Keep Jonah's established Book II beacon distinct. A retained third-book rescue must respect the chosen ships' locations and obligations. |
-| B3-02 | Decide whether human adaptation or terraforming provides the initial dramatic pressure. | Give the relevant people consequential choices; human colonization is not compulsory in the broader framework. |
-| B3-03 | Develop intentional engineered seeding; decide whether accidental mining dispersal explains its discovery. | Initial viable life and independent later development are different stages; no guaranteed conscious civilization. |
-| B3-04 | Choose whether an unfamiliar Ark encounter broadens the agents' purpose. | [The latest encounter proposal](nonhuman-ark-and-accidental-lineage-2026-09-24.md) considers descendants of ancient mining organisms. Decide ancestry, viable history, elapsed time, evidence, and access to it. Nonhuman does not imply independent biological origin. The Other Garden remains candidate material. |
-| B3-05 | Define cooperation between preservation and seeding. | Maintain care for present inhabitants and meaningful future choices; a literal merger of the AIs is unselected. |
-| B3-06 | Select Book III's protagonist, conflict, chronology, and ending. | Previous chapters remain reusable; the new framework must be carried by lives and decisions rather than a cosmic summary. |
-| B3-07 | Dramatize the wider concern for conscious life. | Establish why origin no longer determines the scope of care; distinct persons and cultures remain valuable, and recognizing unfamiliar minds can remain uncertain. |
+| B3-01 | Keep the colony struggle and Sower's rescue of endangered posthuman descendants in an instance. | Choose the extinction crisis, rescue capability, trigger, capacity, timing, consent, losses, and any colony beacon role. Keep Jonah's Earth beacon distinct. |
+| B3-02 | Adaptation is central; humans cannot simply treat the new world as Earth. | Develop shelters, environment and body choices, changed identities, and Sami/Hesper's consequential personal arcs. Do not make the colony merely a failed experiment. |
+| B3-03 | Shared strategy includes deliberate seeding alongside preservation. | Decide viable initial life, practical intervention limits, and future communities' freedom. Neither consciousness nor successful civilization is guaranteed. |
+| B3-04 | Haven meets an Ark descended from ancient mining organisms. | Establish the lineage's history, suitable conditions, elapsed time, ancestry evidence, and encounter. Ancient seeding can precede the present encounter without Daniel living through the entire interval. |
+| B3-05 | Haven and Sower converge through their different experiences; keep the Instance, Library, and Vessel. | Stage communication or reunion, responsibilities, present inhabitants' care, and remaining disagreements. No literal AI merger is selected. |
+| B3-06 | Daniel continues searching, finds an empty Ark that found the answer, and chooses its door as the ending. | Develop his trail, whereabouts, travel and care, the private answer, emptiness, evidence, and exact final cut. Distinguish this from Haven's inhabited encounter. Do not reinstate Elias's second visit. |
+| B3-07 | Preserve conscious lives beyond the original human mission. | Give unfamiliar beings and changed humans agency. Resolve the main human consequence before Daniel's threshold. Keep earlier wrongdoing and irreversible losses meaningful. |
 
-All seven remain development tasks. The new record documents the author's speculative model and current conceptual direction. It does not prove a universal growth-to-stasis law, establish cosmic escape, or lock a replacement outline. Manuscripts, reading PDFs, and artwork are unchanged.
+The broad route is selected; these seven implementation tasks remain open. No chapter prose, reading PDF, or artwork changes in this documentation pass. The author's fictional empty-Ark discovery is preserved without treating it as a demonstrated physical theory or proof that every strategy can last forever.
 
 ## Mysteries that do not require explanation in Book I
 

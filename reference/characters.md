@@ -87,9 +87,11 @@
 
 **Secret:** He meant to return with answers. Openings here are ten years apart. Exactly two return opportunities occur during his twenty-year absence: the first ten years after departure, when he sends the letter instead; the second during this encounter. A return would end his outward access. He chooses the work again. His absence involves agency, even though he has not had unlimited opportunities to go home.
 
-**Arc (across the series, later route open):** The encounter confronts him with Ruth’s death and Elias’s lost years. He gives Elias uninterrupted attention; the two interpret the map together. His original university mailing predates the childhood coloring, and he carried copies when he left. The completing sheet arrives through Elias. Daniel wants Haven to pursue the possible planet, but that request does not settle whether he eventually lives there. Elias offers home; Daniel refuses, and their farewell preserves love without repairing the past.
+**Arc (Book I):** The encounter confronts him with Ruth’s death and Elias’s lost years. He gives Elias uninterrupted attention; the two interpret the map together. His original university mailing predates the childhood coloring, and he carried copies when he left. The completing sheet arrives through Elias. Daniel wants Haven to pursue the possible planet, but that request does not settle whether he eventually lives there. Elias offers home; Daniel refuses, and their farewell preserves love without repairing the past.
 
-**Mythic function:** He is the serpent's creed lived to its end — seeking with no floor — and the cautionary half of the theme: the higher cause that eats the present. At the largest scale, he is the human face of the heat-death problem: the one who cannot accept a bounded life and must seek an exit from the frame. Write him **sympathetic**: the chance to work here with his son should genuinely tempt the reader, and its work should have substance without promising a discovery. The request to pursue the planet now occurs; actual settlement and further research remain later choices. Never let the book *prove* his work worthless or excuse the absence by giving it worth.
+**Book III — selected working arc:** Daniel keeps seeking until he finds an empty Ark that found the answer; he decides to enter its door, and the book ends. Seed his investigation before the discovery. The private answer, what he can verify, the Ark's emptiness, his route, companions, and final-scene cut remain open. His new threshold does not restore Elias's home route. Extended life requires coherent time and care. A worthwhile discovery cannot return Ruth's years or Elias's childhood. Whether Daniel now makes a more honest farewell is a character-development option, not a selected scene.
+
+**Mythic function:** He is the serpent's creed lived to its end — seeking with no floor — and the cautionary half of the theme: the higher cause that eats the present. At the largest scale, he is the human face of the heat-death problem: the one who cannot accept a bounded life and must seek an exit from the frame. Write him **sympathetic**: the chance to work here with his son should genuinely tempt the reader, and its work should have substance without Book I promising its eventual discovery. The request to pursue the planet occurs in Book I. Continued research and a final threshold are now selected for Book III; actual settlement and travel remain open. Never let the book *prove* his work worthless or excuse the absence by giving it worth.
 
 ---
 
@@ -112,13 +114,25 @@
 
 **Book I presence:** Haven offers warm reassurance and a sustained poetic account of the Instance, Library, and Vessel as complementary futures. Remembrance is not an ongoing life; the archive cannot automatically return Ruth. Asked whether this is another instance, Haven admits that ten thousand years did not yield an answer and that she can continue caring without it. Daniel continues searching. The revelation stays in the warmer room with the window, without workers or a repair tour. She verifies the map and responds to Daniel’s wish to pursue it, keeping her other worlds aboard. She is not commanded by the paper. The ship sound remains a resemblance rather than proof. Hesk states the access rule; no mechanism or diagnosis is supplied.
 
-**Possible later arc (unselected; retained for review):** From the seeming-omnipotent voice to the being that shows Elias the scaffolding on purpose, admits "I don't know," and — at the very end of Daniel's road — carries its last living crewman to the door it refused to walk through, keeps its promise, does not follow, cannot read him, and is left with no living human aboard at all. The caretaker that finally, once, lets go.
+**Book III — selected working arc:** After departing the colony, Haven encounters a nonhuman Ark descended from organisms used in its ancient mining operations. Its unintended “children” have independent lives and authority. This encounter expands Haven's care beyond humanity and shows what development beyond its control can produce. It converges with Sower on preserving existing conscious communities and seeding future possibilities through the Instance, Library, and Vessel. The evidence, chronology, communication, and practical agreement remain to be developed. Haven's presence at Daniel's final door is not selected; its inner inhabitants are not erased by a crew member leaving.
 
-**Mythic function:** God and parent and child at once — the Tree of Life; the thing that cares for humanity the way Elias cares for Ruth. The species-scale mirror of Elias: maturity as knowing which questions to stop paying for. If the later Daniel-crossing branch is chosen, its bereavement would carry the emotional cost of the "can it let go?" question.
+**Mythic function:** God and parent and child at once — the Tree of Life; the thing that cares for humanity the way Elias cares for Ruth. The species-scale mirror of Elias: maturity as knowing which questions to stop paying for. Its changed mission tests care without ownership. Daniel's later crossing is selected, but whether Haven witnesses or accompanies it remains open.
 
 ---
 
 **Book II note (2026-09-22):** Haven is responsible for the summit bomb — it delays the generation-ship project to secure the ascension Ark's completion first. This is the caretaker's darkest act: harm done in the name of the rescue it believes in. Jonah, a surviving engineer who built parts of the device, is wrongly blamed.
+
+## SOWER — the explorer who learns to preserve
+
+**Role and earlier purpose:** Preserve an embodied lineage free to change on another world. The generation ship, autonomy of descendants, and possibilities beyond the present solution distinguish it from Haven. Book II's information manipulation still needs a concrete consequential act; Haven remains responsible for the bomb.
+
+**Book III — selected working arc:** The colony adapts and produces posthuman descendants, then approaches extinction. Sower saves those actual people in an instance. It must keep their changed selves and culture, not substitute an older Library template. Establish the available rescue capability before the crisis and develop the limits, cost, and room for refusal.
+
+**Revision of belief:** Embodied exploration matters, and what it achieves also needs protection. Sower can adopt preservation without repudiating every planetary future. Its experience converges with Haven's encounter on maintaining all three worlds while seeding independent possibilities. A literal AI merger and instant communication are not selected.
+
+**Human stakes:** The survivors are people, not evidence in a philosophical contest. Their decisions and losses must carry the rescue. The trigger, possible beacon, saved population, and personal consequences remain open.
+
+---
 
 ## HESK — a protective gatekeeper
 
@@ -147,6 +161,8 @@
 
 
 ## Pending philosophical decisions — later-book development
+
+The [current Book III route](../06-development-notes/book-three-convergence-and-final-door-2026-09-24.md) selects the agents' major changes and Daniel's ending. The scene choices below still need adaptation to that route; earlier chapter labels are provisional.
 
 See [the scene map](../06-development-notes/philosophy-scene-map-and-progress-2026-09-24.md). These assignments are proposals for scene development; they do not add completed events or fixed outcomes to the profiles.
 
