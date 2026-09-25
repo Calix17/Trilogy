@@ -1,7 +1,7 @@
-# Trilogy — reconstructed snapshot
+# The Final Decision — history reconstruction in progress
 
-Original combined working document.
+Recovering the supplied drafts and supporting material into Git commits at stable paths. Each commit is pushed before the next begins. Snapshots are reconstructed from surviving sources, not exact historical project releases. Original package navigation is preserved as source evidence and may contain old paths.
 
-This is a reconstruction from surviving source records, not an original historical commit or an exact recovered full project snapshot. Core files carry the most recently available versions. Intermediate records may retain their original ZIP-era references.
+The target is the existing v7 working manuscript and only its live supporting files. No PDF rendering or editorial assessment is part of this migration. Those checks begin after the clean v7 baseline is complete and pushed.
 
-Later commits replace prior notes at stable paths. The final commit contains only live writing files.
+The original combined document is recoverable at tag `migration-start`. Manuscript checkpoints use `book-one-v1` through `book-one-v7-working`. See `migration/source-schedule.csv` during reconstruction for source hashes and paths.
