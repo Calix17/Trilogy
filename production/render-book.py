@@ -5,8 +5,8 @@ Requires Python 3.10+, reportlab, Pillow, and pypdf. Uses installed STIXGeneral
 TrueType fonts, with DejaVu Serif as a fallback. No network access is used.
 
 Run from any directory:
-    python3 08-production/render-book.py
-    python3 08-production/render-book.py --source path.md --output path.pdf
+    python3 08-production/render-book-v5.py
+    python3 08-production/render-book-v5.py --source path.md --output path.pdf
 
 Chapter headings must have the form ``## 1. The Good Days``. The first H1 is
 the book title; a pre-chapter H2 is the subtitle. Pre-chapter blockquotes form
@@ -228,8 +228,8 @@ def styles_for(leading: float, compact: bool = False) -> dict[str, ParagraphStyl
         "first": ParagraphStyle("First", **{**base, "firstLineIndent": 0}),
         "quote": ParagraphStyle("Quotation", **{**base, "alignment": TA_LEFT, "firstLineIndent": 0, "leftIndent": 16, "rightIndent": 12, "spaceBefore": 5, "spaceAfter": 6}),
         "display": ParagraphStyle("Display", **{**base, "alignment": TA_LEFT, "firstLineIndent": 0, "leftIndent": 16, "spaceBefore": 5, "spaceAfter": 6}),
-        "chapter": ParagraphStyle("Chapter", fontName="BookSerif", fontSize=20, leading=24, alignment=TA_CENTER, textColor=INK, spaceBefore=6 if compact else 8, spaceAfter=18 if compact else 24, keepWithNext=True),
-        "chapter_number": ParagraphStyle("ChapterNumber", fontName="BookSerif", fontSize=9, leading=11, alignment=TA_CENTER, textColor=QUIET, spaceBefore=6 if compact else 8, spaceAfter=7 if compact else 9, keepWithNext=True),
+        "chapter": ParagraphStyle("Chapter", fontName="BookSerif", fontSize=20, leading=24, alignment=TA_CENTER, textColor=INK, spaceBefore=4 if compact else 8, spaceAfter=10 if compact else 24, keepWithNext=True),
+        "chapter_number": ParagraphStyle("ChapterNumber", fontName="BookSerif", fontSize=9, leading=11, alignment=TA_CENTER, textColor=QUIET, spaceBefore=2 if compact else 8, spaceAfter=3 if compact else 9, keepWithNext=True),
     }
 
 
@@ -329,8 +329,8 @@ def write_qa(output: Path, source: Path, doc: BookDoc, manuscript: dict, fonts: 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--source", type=Path, default=ROOT / "02-book-one/book-one-paradise-v4.md")
-    parser.add_argument("--output", type=Path, default=ROOT / "02-book-one/book-one-paradise-v4.pdf")
+    parser.add_argument("--source", type=Path, default=ROOT / "02-book-one/book-one-paradise-v5.md")
+    parser.add_argument("--output", type=Path, default=ROOT / "02-book-one/book-one-paradise-v5.pdf")
     parser.add_argument("--qa", type=Path, default=None)
     parser.add_argument("--frontispiece", type=Path, default=ROOT / "05-art/laniakea-tree.png")
     parser.add_argument("--author", default="")
