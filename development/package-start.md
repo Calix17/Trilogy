@@ -14,10 +14,11 @@ Complete project package, consolidated 24 September 2026.
 
 ## Latest conceptual records — all included
 
-**Latest addition:** [Fermi, LUCA, and ancestral seeding](06-development-notes/fermi-luca-and-ancestral-seeding-review-2026-09-24.md) assesses the supplied feedback and checks its scientific references. An older Ark seeding Earth remains an optional, unconfirmed possibility. The review corrects the proposed biochemical clue and distinguishes quiet-Ark models from universal laws. Current colony, rescue, and Daniel-ending decisions are unchanged.
+**Latest addition:** [Consciousness diversity and Haven's purpose](06-development-notes/consciousness-diversity-and-havens-purpose-2026-09-24.md) records the author's agreement that Earth seeding remains unconfirmed and Daniel's door remains the ending. A possible mention of Earth's ancestry would help Haven value both existing conscious lives and independently developing future forms. Exact scene treatment stays open; no chapter prose is changed.
 
 | Record | What it contains |
 | --- | --- |
+| [Haven's wider purpose](06-development-notes/consciousness-diversity-and-havens-purpose-2026-09-24.md) | Latest author clarification, mystery boundaries, distinct conscious lives, and a possible reflection within the encounter. |
 | [Fermi/LUCA review](06-development-notes/fermi-luca-and-ancestral-seeding-review-2026-09-24.md) | Scientific references, the expected-resemblance issue, seeding and bounded growth, and optional restrained placement. |
 | [Latest adaptation clarification](06-development-notes/book-three-adaptation-emergency-and-feedback-2026-09-24.md) | Confirmed changes, faction and hazard proposals, Sower’s response, and assessment of supplied feedback. |
 | [Compact candidate outline](06-development-notes/book-three-adaptation-candidate-outline-2026-09-24.md) | Eight provisional beats; no new chapter prose or changed ending. |

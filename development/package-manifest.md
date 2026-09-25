@@ -1,5 +1,13 @@
 # Project Merge Manifest
 
+## V6 narrative revision and reading edition — 24 September 2026
+
+Implemented after “Ok lets go a head.” Added the seventeen-chapter v6 manuscript, 58-page PDF, revision record, renderer, and validation record. Synchronized the bible, main character sheets, current synopsis, checklist, indexes, and planning status. Preserved exact pre-v6 supporting files and every previous manuscript/PDF. The Book II bible outline and synopsis section are unchanged. The source discussion is append-only.
+
+The new `the-final-decision-v6.zip` retains the existing `the-final-decision/` folder structure. Earlier v5 and other bundles remain historical editions. The entries below document prior work and retain their original status language.
+
+---
+
 ## V6 wording correction: shared concern — 24 September 2026
 
 Applied the author-selected “We worried about…” to the colleague’s proposed comment and synchronized four planning documents. Preserved the request and superseded wording in the discussion history. Thirteen recorded directions and nine pending tasks retain their status; no manuscript or PDF changed.

@@ -1,6 +1,10 @@
 # The Final Decision
 
-## Latest: Fermi, LUCA, and ancestral seeding — 24 September 2026
+## Latest: consciousness diversity and Haven's purpose — 24 September 2026
+
+The [author clarification](06-development-notes/consciousness-diversity-and-havens-purpose-2026-09-24.md) retains Earth's seeding as an unconfirmed question and Daniel's door as the ending. A possible ancestral-seeding reflection would strengthen Haven's commitment to preserving diverse conscious lives and enabling new independent forms. Its exact scene treatment remains open. Earlier references are preserved; narrative manuscripts and artwork are unchanged.
+
+## Earlier update: Fermi, LUCA, and ancestral seeding — 24 September 2026
 
 The [new review](06-development-notes/fermi-luca-and-ancestral-seeding-review-2026-09-24.md) preserves the supplied feedback, checks the scientific references, and records Earth seeding as an optional question. It distinguishes familiar ancestry from evidence of an older seeder and quiet survival from a universal law against expansion. Earlier reference language is archived; the selected Book III route and Daniel ending are unchanged. No manuscript, PDF, or artwork is rewritten.
 

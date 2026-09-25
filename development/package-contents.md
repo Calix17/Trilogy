@@ -1,8 +1,8 @@
 # Complete package contents
 
-24 September 2026. 280 files. Start with [START-HERE.md](START-HERE.md).
+24 September 2026. 292 files. Start with [START-HERE.md](START-HERE.md).
 
-Latest update: optional Fermi, LUCA, and ancestral-seeding feedback with research and narrative checks. All prior files remain available, either current or archived.
+Latest update: author clarification on consciousness diversity, Haven’s wider purpose, unconfirmed Earth seeding, and Daniel’s final door. All prior files remain available, either current or archived.
 
 ## Root
 
@@ -57,6 +57,7 @@ Latest update: optional Fermi, LUCA, and ancestral-seeding feedback with researc
 - [06-development-notes/book-three-convergence-and-final-door-2026-09-24.md](06-development-notes/book-three-convergence-and-final-door-2026-09-24.md)
 - [06-development-notes/book-three-previous-outline-2026-09-24.md](06-development-notes/book-three-previous-outline-2026-09-24.md)
 - [06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md](06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md)
+- [06-development-notes/consciousness-diversity-and-havens-purpose-2026-09-24.md](06-development-notes/consciousness-diversity-and-havens-purpose-2026-09-24.md)
 - [06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md](06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md)
 - [06-development-notes/current-plot-summary-books-one-and-two.md](06-development-notes/current-plot-summary-books-one-and-two.md)
 - [06-development-notes/draft-1-editorial-review.md](06-development-notes/draft-1-editorial-review.md)
@@ -95,6 +96,7 @@ Latest update: optional Fermi, LUCA, and ancestral-seeding feedback with researc
 - [08-production/__pycache__/render-book-v5.cpython-312.pyc](08-production/__pycache__/render-book-v5.cpython-312.pyc)
 - [08-production/book-three-adaptation-validation-2026-09-24.json](08-production/book-three-adaptation-validation-2026-09-24.json)
 - [08-production/book-three-convergence-validation-2026-09-24.json](08-production/book-three-convergence-validation-2026-09-24.json)
+- [08-production/consciousness-diversity-validation-2026-09-24.json](08-production/consciousness-diversity-validation-2026-09-24.json)
 - [08-production/consciousness-framework-validation-2026-09-24.json](08-production/consciousness-framework-validation-2026-09-24.json)
 - [08-production/fermi-luca-validation-2026-09-24.json](08-production/fermi-luca-validation-2026-09-24.json)
 - [08-production/nonhuman-ark-proposal-validation-2026-09-24.json](08-production/nonhuman-ark-proposal-validation-2026-09-24.json)
@@ -119,6 +121,7 @@ Latest update: optional Fermi, LUCA, and ancestral-seeding feedback with researc
 - [99-archive/2026-09-session-notes/book-three-adaptation-author-and-feedback-2026-09-24.md](99-archive/2026-09-session-notes/book-three-adaptation-author-and-feedback-2026-09-24.md)
 - [99-archive/2026-09-session-notes/book-three-convergence-author-direction-2026-09-24.md](99-archive/2026-09-session-notes/book-three-convergence-author-direction-2026-09-24.md)
 - [99-archive/2026-09-session-notes/consciousness-cycle-author-clarification-2026-09-24.md](99-archive/2026-09-session-notes/consciousness-cycle-author-clarification-2026-09-24.md)
+- [99-archive/2026-09-session-notes/consciousness-diversity-author-direction-2026-09-24.md](99-archive/2026-09-session-notes/consciousness-diversity-author-direction-2026-09-24.md)
 - [99-archive/2026-09-session-notes/fermi-luca-feedback-2026-09-24.md](99-archive/2026-09-session-notes/fermi-luca-feedback-2026-09-24.md)
 - [99-archive/2026-09-session-notes/longevity-daniel-lab-professions.md](99-archive/2026-09-session-notes/longevity-daniel-lab-professions.md)
 - [99-archive/2026-09-session-notes/nonhuman-ark-author-proposal-2026-09-24.md](99-archive/2026-09-session-notes/nonhuman-ark-author-proposal-2026-09-24.md)
@@ -153,6 +156,15 @@ Latest update: optional Fermi, LUCA, and ancestral-seeding feedback with researc
 - [99-archive/pre-book-three-convergence-reference/CONTENTS.md](99-archive/pre-book-three-convergence-reference/CONTENTS.md)
 - [99-archive/pre-book-three-convergence-reference/README.md](99-archive/pre-book-three-convergence-reference/README.md)
 - [99-archive/pre-book-three-convergence-reference/START-HERE.md](99-archive/pre-book-three-convergence-reference/START-HERE.md)
+- [99-archive/pre-consciousness-diversity-reference/01-bible/bible.md](99-archive/pre-consciousness-diversity-reference/01-bible/bible.md)
+- [99-archive/pre-consciousness-diversity-reference/04-characters/character-sheets.md](99-archive/pre-consciousness-diversity-reference/04-characters/character-sheets.md)
+- [99-archive/pre-consciousness-diversity-reference/06-development-notes/README.md](99-archive/pre-consciousness-diversity-reference/06-development-notes/README.md)
+- [99-archive/pre-consciousness-diversity-reference/06-development-notes/fermi-luca-and-ancestral-seeding-review-2026-09-24.md](99-archive/pre-consciousness-diversity-reference/06-development-notes/fermi-luca-and-ancestral-seeding-review-2026-09-24.md)
+- [99-archive/pre-consciousness-diversity-reference/06-development-notes/v7-revision-checklist-2026-09-24.md](99-archive/pre-consciousness-diversity-reference/06-development-notes/v7-revision-checklist-2026-09-24.md)
+- [99-archive/pre-consciousness-diversity-reference/08-production/package-source-coverage-2026-09-24.csv](99-archive/pre-consciousness-diversity-reference/08-production/package-source-coverage-2026-09-24.csv)
+- [99-archive/pre-consciousness-diversity-reference/CONTENTS.md](99-archive/pre-consciousness-diversity-reference/CONTENTS.md)
+- [99-archive/pre-consciousness-diversity-reference/README.md](99-archive/pre-consciousness-diversity-reference/README.md)
+- [99-archive/pre-consciousness-diversity-reference/START-HERE.md](99-archive/pre-consciousness-diversity-reference/START-HERE.md)
 - [99-archive/pre-consciousness-framework-reference/01-bible/bible.md](99-archive/pre-consciousness-framework-reference/01-bible/bible.md)
 - [99-archive/pre-consciousness-framework-reference/06-development-notes/README.md](99-archive/pre-consciousness-framework-reference/06-development-notes/README.md)
 - [99-archive/pre-consciousness-framework-reference/06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md](99-archive/pre-consciousness-framework-reference/06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md)
