@@ -16,6 +16,8 @@ Haven clarification: the Ark preserves multiple human futures through its three 
 
 Habitat and meaning proposal: Elias could specialize in space habitats and human preservation. The Vessel then offers a professional ideal, meaningful protective work, and the attention of his father. Those same personal sources can support an alternative reading of his experience, although he experiences it with exceptional immediacy and conviction. Daniel's search for meaning is a possible emotional dimension of his research, not a selected replacement for it.
 
+Quiet-ending clarification: ordinary family conversation only, with no discussion of Daniel, the journey, or the Ark, and no confirmation of what Lena or Sami know. Elias holds the rock necklace without questions about it. A toast house or base at the opening and a spaceship or rocket at the end are proposed; the editorial recommendation is house then rocket. The [pre-v6 assessment](v6-readiness-assessment-2026-09-23.md) reviews the current prose against all these directions.
+
 **Status: development direction, not a rewritten manuscript.** V5 remains the current reading edition. Its prose, PDF, bible, character sheets, and synopsis have not been changed by this planning update. Explicit author directions below supersede incompatible older suggestions when preparing v6. Options introduced with “maybe” remain options.
 
 The preceding review and the complete author response are preserved in [the discussion source](../99-archive/2026-09-session-notes/v6-planning-source-2026-09-23.md). This document distinguishes those sources from editorial recommendations.
@@ -374,11 +376,23 @@ The author wants a pilot of appropriate length, not expansion toward a full-leng
 
 The earlier recommendation to add a hesitation or another repair signal at the homecoming is not a required v6 change. The author has chosen economy and visible change rather than another apology scene. Preserve the existing preparation through the recording, honest admissions, and Elias's changed attention.
 
-**Continuity decisions still needed**
+**Latest direction: quiet continuity at the family table**
 
-The necklace direction should be carried forward. Who receives or wears it, how it is introduced, and the precise amount of elapsed time have not been selected. A simple mounting need not authenticate the stone as extraterrestrial. Do not add a laboratory test to establish its provenance.
+The author now specifies that Elias holds the rock necklace in his hands. Nobody needs to ask about it. The scene should not establish what Lena or Sami know about Daniel, the journey, or the Ark. Any prior explanation remains off-page and unconfirmed. This supersedes the open recipient question for this scene and the earlier editorial insistence on an explicit elapsed-time cue.
 
-The opening “Honey, I'm home” may still work if this is a later ordinary homecoming. If so, give the reader one unobtrusive cue that days have passed since the larger journey. Alternatively, keep the immediate return and introduce the necklace elsewhere. Do not accidentally imply both immediate arrival and several days of work in one continuous scene. No new ending is selected in this note.
+The necklace may feel familiar in his hands without an asserted history. Do not introduce a new factual claim that he has owned it for years, require a mounting scene, or authenticate the stone. Retain a private, consistent object chronology; the narration can omit ordinary intervening actions. “Honey, I'm home” can remain, with no new explanatory dialogue about when or where he has returned from.
+
+**Proposed difference between the two breakfasts**
+
+Sami could build a house or base from toast at the opening and a spaceship or rocket at the end. The author offers these as options. The editorial recommendation is a house followed by a rocket: the shapes are readily distinct, and an ordinary child's interest in space does not establish that Elias has disclosed anything. Exact props and dialogue remain to be drafted. The change can suggest time, continuing life, and curiosity without being called a symbol, proof, prophecy, or reset mechanism.
+
+What matters most is Elias's changed participation. Let Sami's activity and Lena's ordinary observations keep their own interest. The necklace is a brief tactile detail, not the final scene's central mystery. No knowing glances or coded comments should indirectly supply the cosmological disclosure the author has asked to omit.
+
+**Direct consequences for v5**
+
+Remove the chapter 17 map discussion, questions about the stone, and Sami handling the loose stone. Review chapter 9's explicit promise that Elias will explain the map and examine it with Sami; adjust it so the quiet ending does not leave a conspicuous promised payoff missing. Preserve the recital recording and existing relational repair. If the opening bridge becomes a house, update the related span, support, butter-bus, and Ruth dialogue together. Other bridge references need not all change.
+
+Keep the ending short. Ordinary talk about the toast construction, birds, breakfast, or the garden is enough. Preserve the final paradise exchange without commentary explaining Elias's gratitude or claiming the family shares his knowledge.
 
 **Bird and speech consequences**
 
@@ -458,7 +472,7 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 
 | V5 chapter | V6 work | Restraint or dependency |
 | --- | --- | --- |
-| 1. The Good Days | Preserve breakfast, family activity, and unattended beauty. Treat the bird as living recurrence. | Do not signal a program replay or begin the dreams early. |
+| 1. The Good Days | Preserve breakfast, family activity, and unattended beauty. Consider the proposed toast house or base; revise connected bridge-specific lines together. Treat the bird as living recurrence. | House is the editorial recommendation, not a locked author choice. No replay signal or early dream. |
 | 2. The Algorithm | Keep intrusive targeting and Elias's competence. The latest specialty proposal is human space habitats and preservation; seed it through the practical work problem and its stakes for occupants. | Exact role and project remain open. Avoid a résumé, a miniature Ark blueprint, or implying mature space mining. |
 | 3. Ruth | Preserve care, her preferences, and the quiet sound. Possible guarded history stays subtle. | No explanation of a diagnosis or obligatory secret clue in every conversation. |
 | 4. Daniel | Add one affectionate science memory that joins wonder to contact with his father and can seed Elias's aerospace interest. Retain coloring at six and the later dismissed mineral. | Do not make every scientific interest merely a symptom of unmet affection. |
@@ -466,7 +480,7 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 | 6. The Notebook | Keep the childhood connection and secrecy. Describe successive map views at different scales rather than many corrections of the same picture. | Preserve the colored page. Exact transmission history remains unrevealed. |
 | 7. Two Trails | Make protective contact and the competing pull distinguishable in their consequences. | Avoid a faction briefing; preserve personal consequences already established. |
 | 8. The Institute | Hesk's scientific role is compatible with a clinical manner. Keep access guarded; use the proposed request for trust only when an encounter can be acknowledged. A later dream draws the sound closer. | The request should feel personal to the situation, not automatically promise immediate access. Keep the dream separate in time. |
-| 9. The Recital | Preserve the deliberately missed opportunity. Give the anonymous page a specific later consequence. | Elias remains responsible for ignoring calls; do not let manipulation erase that choice. |
+| 9. The Recital | Preserve the deliberately missed opportunity. Give the anonymous page a specific later consequence. Adjust the promise to explain and examine the map with Sami, given the new quiet ending. | Elias remains responsible for ignoring calls. Preserve relational repair without requiring a final cosmological discussion. |
 | 10. What Ruth Knew | Retain brief last words, grief, and the recording. | Any knowledge she held stays selective; the title should not promise a full revelation she does not give. |
 | 11. The Door | Let the last major dream bring his name out of the noise. Preserve the ordinary journey and thresholds. Begin the transition in a plain room with a chair; let changed perceptions accumulate while he waits. | Review the star dome. No visible advanced portal, activation sequence, declared blackout, identified dream speaker, or explanatory diagnosis. |
 | 12. Cold | Continue his reorientation through care, sensation, and activity. Introduce the familiar background noise without breaking the experienced transition. Let a few details attract his habitat-engineering attention and make the place intensely present to him. | “Waking” does not require an unseen interruption. Same-traveller continuity remains; neither expertise nor the dream resemblance proves the cause. |
@@ -474,7 +488,7 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 | 14. Daniel | Give Elias Daniel's full attention through meaningful shared work, the concise confrontation, and the gift. Let habitat work, protecting people, and companionship make staying attractive; Daniel's possible search for meaning stays beneath the conversation. This is Daniel's second return opportunity in twenty years; he again stays. | Revise the distracted display glance. Ruth's death and years lost deepen the decision; they do not make return impossible. |
 | 15. The Message | Let the final map view supply the missing localization. The planet makes one preserved possibility concrete and offers a future connected with Elias's proposed aerospace vocation. | Reconcile Haven's received information with what the final page adds. Do not frame planetary choice as something her Ark philosophy excludes. Sender and hack remain deferred. |
 | 16. The Final Decision | Elias gives up experienced closeness and a possible dream working life with a protective purpose he respects. Choosing home leaves a valuable larger task with others. A closing opportunity can apply pressure if selected. Keep any sound echo brief. | Voluntary choice, not a crisis that makes departure unavoidable. Daniel's warmth does not make the family at home less real or valuable. |
-| 17. Homecoming | Preserve the short domestic echo, delight, and changed attention. Let gratitude, forgiveness, closure, presence, and moving forward be felt. Incorporate the necklace with coherent elapsed time. | No repeated apology, lesson about work–life balance, technical proof, or explanation of each image. |
+| 17. Homecoming | Short domestic echo, ordinary family talk, changed attention. Consider the proposed toast spaceship or rocket; Elias holds his necklace without questions. Remove the map and loose-stone conversation. | Rocket is recommended. Do not discuss Daniel or the journey, confirm family knowledge, demand an explicit time cue, or explain the images. |
 
 ## Carry-forward decisions and open questions
 
@@ -492,7 +506,7 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 
 **Haven's clarified aim:** preserve complementary human futures through the Instance, Library, and Vessel, and leave the next choice to humans. The Library carries biological and ecological inheritance and remembered human life: histories, books, dreams, and other records. The mature Ark is not restricted to one intended human destination.
 
-**Continuity and implementation still to reconcile:** the remaining access and communication terms; why the sender uses Elias to carry the final page; how Haven's received information relates to that page; the exact destination region; the extent of Ruth's and the colleague's knowledge; the contribution father and son share; the necklace's recipient and chronology. Retain the established disclosure boundaries and develop only what the pilot needs. These details do not change the selected map function or the count of Daniel's opportunities.
+**Continuity and implementation still to reconcile:** the remaining access and communication terms; why the sender uses Elias to carry the final page; how Haven's received information relates to that page; the exact destination region; the extent of Ruth's and the colleague's knowledge; the contribution father and son share; the private chronology of the stone becoming the necklace held by Elias. Family knowledge need not be selected or disclosed in the closing scene. Retain the established disclosure boundaries and develop only what the pilot needs. These details do not change the selected map function or the count of Daniel's opportunities.
 
 The previous unresolved routes remain open where not addressed: Daniel's eventual departure or stay, Sami's later route, Hesk's deeper identity, and the durability of extended life away from Ark care. Do not restore Book III's retired repeat visit by Elias merely because crossing restrictions are being reconsidered.
 
@@ -503,7 +517,7 @@ The previous unresolved routes remain open where not addressed: Daniel's eventua
 3. Develop the proposed habitat and preservation focus within Elias's aerospace background, then draft the two linked experiences of father–son curiosity: childhood and the later encounter in which Daniel gives him full attention. Use those to judge how much additional space the final act needs.
 4. Rework the first Institute visit and the clue sequence so the delay and eventual decision follow from what Elias learns and fears.
 5. Preserve and develop Haven's sustained poetic account, then its few personal questions, the map payoff, and the choice. Remove the rejected bird/glitch linkage. Carry the spaced dreams toward his name and the later room sound without naming its cause.
-6. Preserve the short ending, establish its timing, and check whether gratitude is visible without being explained.
+6. Preserve the short ending and a consistent private object chronology. Draft ordinary conversation and the proposed changed toast construction; remove the map discussion and revise its earlier promised payoff. Check whether gratitude is visible without explanation or confirmation of family knowledge.
 7. Read for continuity, distinct voices, and unnecessary explanation; then render v6 as a new edition.
 
 Do not expand toward a word-count target. Add a scene when it changes desire, knowledge, a relationship, an available choice, or the reader's experience of the world. Rhythm, warmth, and atmosphere also have a purpose; not every ordinary object needs a later solution.
@@ -527,9 +541,15 @@ Do not expand toward a word-count target. Add a scene when it changes desire, kn
 - Does Haven's account give readers a substantial, memorable civilization and Ark concept before the questions begin?
 - Does the account show that Haven preserves multiple possible futures, while keeping living experience, biological potential, and remembered lives distinct?
 - Are Haven's restraint and the Institute's actions compatible under the selected account?
-- Do readers see changed attention and gratitude without another apology or a moralizing conclusion?
+- Do readers see changed attention and gratitude through ordinary family talk, without another apology, journey discussion, or a moralizing conclusion?
+- Does the different toast construction feel like Sami's ordinary activity, and does Elias hold the necklace without making family knowledge explicit?
+- Has the chapter 9 promise about the map been adjusted to fit the quiet ending?
 - Can forgiveness and personal closure coexist with Daniel staying and the larger mystery remaining open?
 - Has the bird ceased to function as a technical error everywhere, including Haven's speech?
 - Can Sami later choose departure without the trilogy declaring that all curiosity or leaving is a failure?
 
 The intended progress is a more costly choice and a richer appreciation of home. The cosmic explanation remains open where the novel needs it open.
+
+## Assessment before the v6 rewrite
+
+The [pre-v6 assessment](v6-readiness-assessment-2026-09-23.md) distinguishes the stronger planned architecture from changes not yet present in v5. The main causal work is Daniel's access and silence, the purpose of competing messages, and the final page's effect and delivery. The main scene work is experienced happiness with Daniel, Haven's complementary futures, and the quieter ending. These findings refine the existing nine tasks; they do not add crossing mechanics, select a diagnosis, or require public disclosure of the hidden sender.
