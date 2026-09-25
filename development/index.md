@@ -8,7 +8,6 @@ what was applied and what remains provisional. This is not yet a complete contin
 
 ## Contents
 
-- `book-one-paradise-v3-review-2026-09-23.md` — latest manuscript review, covering all 17 chapters of the supplied 57-page v3 PDF. Records strengths, high-priority revisions, exact continuity findings, faction questions, and layout observations. Recommendations remain separate from adopted author decisions; the PDF is preserved under `02-book-one/` alongside the earlier manuscript.
 - `current-plot-summary-books-one-and-two.md` — readable current synopsis of Books I and II, the connection to Book III, and the principal open decisions. Read this for the present story rather than the chronological history of revisions.
 - `plot-clarifications-and-mystery-boundaries-2026-09-22.md` — latest follow-up: protects the unexplained crossing, distinguishes technology periods, records finite repair, the revised solar-storm sequence, orbital rescue infrastructure, and the optional reset cycle; lists targeted corrections now applied. Read this before earlier notes on these topics.
   Its later sections also record autonomous mining history, emergency construction priorities, and the Ark hypothesis's placement across the three books. Sections 13–15 preserve the latest five review priorities, distinguish Haven's preservation strategy from Sower's evolutionary strategy, and document the layered Book II tragedies and proposed Jonah–Iris separation.

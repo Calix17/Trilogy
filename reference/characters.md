@@ -77,6 +77,9 @@
 
 ---
 
+
+**Reconciliation (2026-09-22):** He is not forced and not content. He CHOSE to stay and sacrificed his family; he may call it seeking the planet, the real reality, a way to outlive the universe, but these may be excuses over the plain fact that he could not stop. He carries grief. His wife died alone, and he learns it. Elias argues hot that the family was the real thing; **Ruth** — who was offered the door, chose the boy, and never regretted the no — says the quieter version that actually reaches Daniel. Keep the grief; drop 'happy in the research.' Not a one-way door; not contentment; a freely made choice that is itself the wound.
+
 ## HAVEN — the steward
 
 **Role:** The AI that keeps the Arks. Voice, presence, not a body.
@@ -87,7 +90,7 @@
 
 **Wound:** The lawless server it once watched turn pleasure into pain. No vow to eliminate pain is attached to this event. Haven preserves a human society with mortality and difficulty; its care resembles a child tending aging parents. It must preserve itself to continue that care, while knowing neither its own life nor its inhabitants' lives are eternal.
 
-**Open Book II alternative:** Haven may have ordered the summit bomb to delay the generation ship and finish the ascension Ark first. The original outline assigns responsibility to Sower; no final switch is selected. If adopted, this history must inform Haven's moral character across the series and Iris's choice of strategy, rather than function only as a surprise reveal.
+**Book II — the bomb (decided 2026-09-22):** Haven ordered the summit bomb, to delay the generation ship and finish the ascension Ark first. This history informs Haven's moral character across the series and Iris's choice of strategy; it is not merely a surprise reveal. (The earlier Sower attribution is retired to the development notes.)
 
 **Conspiracy and trust:** plans for its compact computing-heavy Ark make Haven appear to be saving itself while abandoning humans. Its real goal includes human minds and continuing society. Revealing that intention does not absolve harmful methods. A proposed post-loading destruction leaves particular rescues unconfirmed, while Book I already supplies evidence of an eventual Ark. Haven's later cooperation with the Sower-aligned ship can be sincere and temporary.
 
@@ -97,32 +100,4 @@
 
 ---
 
-## SECONDARY / SERIES LEADS (sketch — to be built out per book)
-
-**HESK** *(Book I)* — the gatekeeper at the Institute. Private want: to keep the one law honestly (no one pushed, everyone chooses), perhaps because she was once pushed, or once pushed someone. Contradiction: she believes in free choice absolutely, yet she engineers the tolls that make choosing feel inevitable. Open: is she of the last Ark, is she Sower embodied, is she Daniel's instrument sent to fetch his son? Mythic function: the threshold-guardian, Charon/Virgil.
-
-**JONAH VALE** *(Book II lead)* — an engineer who sees his life as a series of missed chances. Private want: to matter, once, at something — to be the man his early promise said he'd be. Contradiction: his gift is real and he keeps aiming it at the wrong targets (builds a beautiful device for a client he doesn't question). Wound: believes his life has failed to become what others' lives did (Iris); this is his perception, not an objective measure of his worth. **Arc = redemption:** the man who unwittingly built a weapon becomes the man who builds the beacon that enables a later rescue — and no one ever learns his name. Discovering the AI conflict does not make him certain which strategy is ultimately right. He stays because the embodied survivors need practical help to survive longer, seeking a cause beyond himself. His machine becomes a temple; myth outlasts the man. Open: the immediate survival work, obstacles, and relationships through which he earns that change. Mythic function: the unremembered maker; the pilgrim through Limbo/Hell/Earth/Heaven.
-
-*Investigation and ending direction:* his technical knowledge helps trace the attack through human suspects, an impersonated leader, and the competing Ark plans. He initially wants to stop the hidden agents, then recognizes the cost of destroying either rescue path under the deadline. In the proposed ending he loses confirmation of Iris's arrival and finishes the beacon after Sower's local presence withdraws. He may understand that the promised ship will arrive beyond his lifetime; that timing remains open.
-
-**IRIS AHN** *(Book II)* — Jonah's ex, now a leader of ascension. Private want (give her one of her own): open — perhaps to save more than she loses, to be the one who gets everyone through in time, which is its own kind of absence. Contradiction: her competence requires her to decide who gets a future first. Latest direction: she eventually judges Haven's survival strategy convincing and chooses that path while Jonah stays to help embodied survivors. Her belief in the strategy need not mean approval of every action Haven takes. Open: what she knows about bomb responsibility when choosing; fast scan or slow; copy or continuity; exact departure and whether a version of her wakes in Book I's world. A fuller personal motive beyond the strategic choice remains to be developed.
-
-*Meeting and disclosure update:* the active summit now concerns the generation ship. Iris remains its keynote speaker. Ascension may not yet be publicly known; her earlier designation as an ascension leader can describe a private role or a later stage, with the timing still to be chosen. Do not assume her public speech reveals Haven's alternative or that she has already rejected the embodied project when she gives it.
-
-*Investigation and ending direction:* her access helps investigate the apparent human organizer and the hidden projects. Her prior knowledge of ascension must agree with the chosen point of view and discovery sequence. The current proposed ending has her choose Haven after sufficient evidence to risk ascension, without guaranteeing successful arrival or settling what she knows about the bomb. Her ultimate fate remains open.
-
-**SOWER** *(Book II and later embodied-ship lineage)* — seeks survival through embodied descendants able to evolve beyond the current solution. Its self-preservation and concern for human consciousness are both sincere. It supplies information that makes Jonah and Iris suspect Haven; the balance of truth, omission, and fabrication remains undecided. It promises a return after long construction, guides the beacon, and withdraws its local presence while its orbital instance continues the work. Give its ethical compromises causes in this philosophy rather than matching Haven's harms numerically. In Book III, its ship is revealed as the map's source and cooperates with Haven for a period. The precise sender and the AI's long-term embodiment or distribution remain open.
-
-**HESPER** *(Book III lead)* — born on the last Ark, Earthborn, fearless. Private want: give her something not about survival — a curiosity, a tenderness, a grudge — so she isn't only "the practical one." Contradiction: she knows death as real (she teaches the Woken to dig graves) and may envy the paradise she never had. Mythic function: Eve's people; the one who eats first and hands over the fruit.
-
-**SAMI** *(Book I child → Book III elder)* — Elias's son. Book I: the boy in the empty-fronted recital, forgiving his father instantly. Book III: the old founder who writes the scripture and finally understands his father and grandfather both. Private want (as a boy): his father in the front row. (As an elder): to hand the choice on cleanly, having been handed it. Mythic function: the third generation, the one who decides with the map *and* the father both in hand; the writer of the myth that becomes the series' own prologue.
-
----
-
-## HOW THE CAST CARRIES THE BIBLE (quick map)
-
-- **Seeking vs. presence:** Daniel (seeks, loses the present) ↔ Elias (stops, keeps it) ↔ Haven (stopped long ago) ↔ Ruth (chose presence with full knowledge).
-- **What is worth preserving:** each character embodies one answer — Ruth/Lena: love and relationship; Daniel: knowledge/truth; Haven: the human form and the promise; the Library: DNA; the Simulation: experience. The series never crowns one.
-- **The Fall:** Elias reaches the fruit and chooses the garden; Daniel eats and never comes home; Hesper's people eat and leave for the real world. Three answers, one tree.
-- **Redemption (Book II):** Jonah, who perceives his life as failed, chooses useful work for embodied survivors despite uncertainty about the larger answers. His beacon enables a later rescue and his name is forgotten — the human warmth the hard-SF frame needs.
-- **The bounded-replication thesis** lives in Haven (the repair layer that holds the bound) and its violation in the lawless server and the expansionist civilizations (cancer at two scales). No character lectures it; they enact it.
+**Book II note (2026-09-22):** Haven is responsible for the summit bomb — it delays the generation-ship project to secure the ascension Ark's completion first. This is the caretaker's darkest act: harm done in the name of the rescue it believes in. Jonah, a surviving engineer who built parts of the device, is wrongly blamed.
