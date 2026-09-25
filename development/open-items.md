@@ -1,6 +1,6 @@
 # Current status and open work
 
-Book I is v7 working text: 17 chapters, 15,558 chapter-body words. The first post-migration [full assessment](verification.md) and internal review PDF check are complete; manuscript and art remain unchanged. The approved illustrated reading edition and independent reader response remain pending. The prior v6 edition is in Git history. Books II and III remain development work. No editorial or PDF checks were performed during migration; this review follows the pushed `v7-clean` boundary.
+Book I is v7 working text: 17 chapters, 15,558 chapter-body words. The first post-migration [full assessment](verification.md) and internal review PDF check are complete; the manuscript remains unchanged. The selected Institute/tree cover is now integrated into the verified reader-review PDF. Independent reader response remains pending. The prior v6 edition is in Git history. Books II and III remain development work. No editorial or PDF checks were performed during migration; this review follows the pushed `v7-clean` boundary.
 
 ## Book I implementation and remaining production work
 
@@ -13,10 +13,10 @@ Book I is v7 working text: 17 chapters, 15,558 chapter-body words. The first pos
 | V7-05 | Chapters 12–16 | Show only the arrival room and warmer window room, with Elias, Rana, Daniel, and Haven. Remove other workers, moving machinery, repair scene, and tour. Preserve the sustained poetic account, three worlds, comet shelter, resource gathering, human options, and return decision. | Applied. |
 | V7-06 | Haven’s orientation and later route | The basic orientation is shelter within a comet and survival without a permanent planet. Exact light-years, sector names, or galaxy coordinates are unnecessary until the private route is settled. | General wording implemented; exact coordinates are optional. |
 | V7-07 | Chapters 6, 9, and 14 | Use “Finite life. Boundless knowledge.”; “Does knowing have a shore?”; and “How far must I wake before the dreaming ends?” in separate notebook encounters. Other selected lines remain available. | Three fragments applied; cover and other placements open. |
-| V7-08 | Cover/frontispiece | Existing “HERE” and “IT IS NOT A TREE” reveal the drawing’s answer. Revise the image before a new illustrated edition. The seeking/caring line remains a cover candidate. Preserve original art. | Pending design/render task. |
+| V7-08 | Cover/frontispiece | The author selected the modern Institute chamber, wired-glass metal door and tree of light. It replaces the spoiler-bearing frontispiece; original art is preserved in Git history. | Complete for reader review. |
 | V7-09 | Optional chapter-opening art | One image per chapter remains proposed. Style, motifs, and size are not locked; images should not independently establish a ship, portal, diagnosis, or unseen event. | Optional; no new images generated. |
 | V7-10 | Whole pilot | The complete v7 manuscript has now been assessed for implementation, pacing, suspense, character arcs, symbols and reader risks. See the current assessment. Do not expand solely for novel length. | Internal full read complete; independent reader response pending. |
-| V7-11 | Manuscript, references, art, and PDF | Maintain one current source and history through commits. A 56-page internal proof passes text fidelity and layout review. Render the reading edition again after the art/cover pass. | Internal proof verified; approved illustrated edition/art pending. |
+| V7-11 | Manuscript, references, art, and PDF | Maintain one current source and history through commits. The 57-page reader-review PDF includes the selected cover and passes fidelity and layout checks. | Cover integration and reader-review render complete. |
 
 ## Post-v7 assessment follow-ups
 
@@ -30,7 +30,7 @@ These are unimplemented recommendations, not new canon. Evidence, confidence, ef
 | R-04 | Test chapters 2/5, 11 and 13 for repetition or drift, and chapter 15 for enough decision space. | Reader test / targeted revision option. |
 | R-05 | Test whether existing family repair earns the ending; consider a small accountable act before departure. | Reader test / optional scene adjustment. |
 | R-06 | Test whether repeated bird details imply an unintended reset. Preserve ordinary recurrence and selected final exchange. | Reader test; no change assumed. |
-| R-07 | Correct spoiler-bearing art before releasing an illustrated reading edition. | Existing V7-08 remains pending. |
+| R-07 | Replace spoiler-bearing art with the selected cover. | Complete under V7-08; no explanatory map labels remain. |
 | R-08 | Reconcile chapter 15's sheet-in-pocket wording with established notebook custody at copyedit. | Low-priority wording review. |
 | R-09 | Test the author's intended institutional/treatment misdirection: can readers plausibly infer voluntary admission to be near Daniel, or a visionary/treatment experience, while the cosmic reading remains available? Reassess R-01/R-03 disclosures and any added science-fiction hint against that purpose. | Direction confirmed; specific prose additions unselected. See [the clarification](decisions.md#author-clarification--institutional-and-treatment-misdirection). |
 
@@ -138,8 +138,8 @@ The exact crossing machinery; the confirmed source of the sound; a clinical or v
 ## Recommended next sequence
 
 1. Use the completed full assessment to settle the highest-priority practical decision and map-delivery questions before targeted prose revision.
-2. Revise the spoiler-bearing frontispiece; decide cover/tagline placement. Treat chapter art as a separate optional design choice.
-3. Render and inspect the v7 reading edition after those visual choices.
+2. Use the selected cover for reader review. Chapter art remains a separate optional design choice.
+3. The v7 reader-review PDF is rendered and verified; regenerate after further text or visual changes.
 4. Ask outside readers where attention drifted, what Elias gave up, whether the alternatives stayed believable, and whether homecoming felt earned.
 5. Develop the Book II facility-loss consequence and evidence chain, then the later map-delivery cause and Book III collective choices. These do not require adding explanations to Book I.
 

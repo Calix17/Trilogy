@@ -38,7 +38,6 @@ from reportlab.platypus import (
     BaseDocTemplate,
     Flowable,
     Frame,
-    Image,
     KeepTogether,
     PageBreak,
     PageTemplate,
@@ -174,7 +173,7 @@ class SceneBreak(Flowable):
 
 
 class BookDoc(BaseDocTemplate):
-    def __init__(self, output: Path, *, title: str, subtitle: str, author: str):
+    def __init__(self, output: Path, *, title: str, subtitle: str, author: str, cover: Path):
         super().__init__(
             str(output),
             pagesize=(6 * inch, 9 * inch),
@@ -190,6 +189,8 @@ class BookDoc(BaseDocTemplate):
             invariant=1,
         )
         self.book_title = normalize(title)
+        self.cover = cover
+        self.frontmatter_pages = 2
         self.chapter_starts = []
         self.current_chapter = None
         self.chapter_start_pages = set()
@@ -205,19 +206,22 @@ class BookDoc(BaseDocTemplate):
         anchor = f"chapter-{chapter['number']}"
         self.canv.bookmarkPage(anchor)
         self.canv.addOutlineEntry(normalize(f"{chapter['number']}. {chapter['title']}"), anchor, level=0)
-        self.chapter_starts.append({"number": chapter["number"], "title": chapter["title"], "pdf_start_page": self.page, "printed_start_page": self.page - 1, "source_words": chapter["source_words"]})
+        self.chapter_starts.append({"number": chapter["number"], "title": chapter["title"], "pdf_start_page": self.page, "printed_start_page": self.page - self.frontmatter_pages, "source_words": chapter["source_words"]})
 
     def page_end(self, canvas, doc):
         if self.page == 1:
+            canvas.drawImage(str(self.cover), 0, 0, width=self.pagesize[0], height=self.pagesize[1], preserveAspectRatio=True, anchor="c")
+            return
+        if self.page <= self.frontmatter_pages:
             return
         canvas.saveState()
         canvas.setFillColor(QUIET)
         canvas.setFont("BookSerif", 8.3)
         if self.page not in self.chapter_start_pages:
-            label = self.book_title if self.page % 2 == 0 else normalize(self.current_chapter["title"] if self.current_chapter else self.book_title)
+            label = self.book_title if (self.page - self.frontmatter_pages) % 2 == 1 else normalize(self.current_chapter["title"] if self.current_chapter else self.book_title)
             canvas.drawCentredString(self.pagesize[0] / 2, self.pagesize[1] - 30, label)
         canvas.setFont("BookSerif", 9)
-        canvas.drawCentredString(self.pagesize[0] / 2, 27, str(self.page - 1))
+        canvas.drawCentredString(self.pagesize[0] / 2, 27, str(self.page - self.frontmatter_pages))
         canvas.restoreState()
 
 
@@ -233,19 +237,17 @@ def styles_for(leading: float, compact: bool = False) -> dict[str, ParagraphStyl
     }
 
 
-def build_story(manuscript: dict, image_path: Path, leading: float, tight_chapters: set[int], compact_chapters: set[int]) -> list:
+def build_story(manuscript: dict, leading: float, tight_chapters: set[int], compact_chapters: set[int]) -> list:
     title_style = ParagraphStyle("Title", fontName="BookSerif", fontSize=29, leading=32, alignment=TA_CENTER, textColor=INK, spaceAfter=9)
     subtitle_style = ParagraphStyle("Subtitle", fontName="BookSerif", fontSize=15, leading=19, alignment=TA_CENTER, textColor=INK, spaceAfter=9 if manuscript["edition"] else 20)
     edition_style = ParagraphStyle("Edition", fontName="BookSerif", fontSize=9, leading=12, alignment=TA_CENTER, textColor=QUIET, spaceAfter=20)
     epigraph_style = ParagraphStyle("Epigraph", fontName="BookSerif-Italic", fontSize=10.4, leading=14, alignment=TA_CENTER, textColor=QUIET)
-    story = [Spacer(1, 3), Paragraph(inline(manuscript["title"]), title_style), Paragraph(inline(manuscript["subtitle"]), subtitle_style)]
+    # The first page is painted by BookDoc; the second retains searchable title
+    # text and the manuscript epigraph separately from the cover illustration.
+    story = [Spacer(1, 1), PageBreak(), Spacer(1, 36), Paragraph(inline(manuscript["title"]), title_style), Paragraph(inline(manuscript["subtitle"]), subtitle_style)]
     if manuscript["edition"]:
-        story.append(Paragraph(inline(manuscript["edition"]), edition_style))
-    if image_path.is_file():
-        with PILImage.open(image_path) as picture:
-            ratio = picture.height / picture.width
-        width = 3.5 * inch
-        story.extend([Image(str(image_path), width=width, height=width * ratio), Spacer(1, 16)])
+        review_label = manuscript["edition"].split(" - ")[0] + " - reader review copy"
+        story.append(Paragraph(inline(review_label), edition_style))
     if manuscript["epigraph"]:
         story.append(Paragraph("<br/>".join(inline(line) for line in manuscript["epigraph"]), epigraph_style))
     for chapter in manuscript["chapters"]:
@@ -290,7 +292,7 @@ def write_qa(output: Path, source: Path, doc: BookDoc, manuscript: dict, fonts: 
     starts = doc.chapter_starts
     for index, chapter in enumerate(starts):
         chapter["pdf_end_page"] = starts[index + 1]["pdf_start_page"] - 1 if index + 1 < len(starts) else len(reader.pages)
-        chapter["printed_end_page"] = chapter["pdf_end_page"] - 1
+        chapter["printed_end_page"] = chapter["pdf_end_page"] - doc.frontmatter_pages
     pages = []
     sparse = []
     blank = []
@@ -298,12 +300,12 @@ def write_qa(output: Path, source: Path, doc: BookDoc, manuscript: dict, fonts: 
         extracted = page.extract_text() or ""
         chapter = next((item for item in starts if item["pdf_start_page"] <= page_number <= item["pdf_end_page"]), None)
         lines = extracted.splitlines()
-        if page_number > 1:
-            lines = [line for line in lines if line.strip() not in {str(page_number - 1), normalize(manuscript["title"]), normalize(chapter["title"]) if chapter else ""}]
+        if chapter:
+            lines = [line for line in lines if line.strip() not in {str(page_number - doc.frontmatter_pages), normalize(manuscript["title"]), normalize(chapter["title"])}]
         content_words = len(re.findall(r"\b[\w'’]+\b", " ".join(lines)))
-        record = {"pdf_page": page_number, "printed_page": page_number - 1 if page_number > 1 else None, "chapter": chapter["number"] if chapter else None, "content_word_count": content_words, "text": extracted}
+        record = {"pdf_page": page_number, "printed_page": page_number - doc.frontmatter_pages if chapter else None, "chapter": chapter["number"] if chapter else None, "content_word_count": content_words, "text": extracted}
         pages.append(record)
-        if page_number > 1 and content_words == 0:
+        if chapter and content_words == 0:
             blank.append(page_number)
         if chapter and page_number == chapter["pdf_end_page"] and page_number > chapter["pdf_start_page"] and content_words < 80:
             sparse.append({"chapter": chapter["number"], "pdf_page": page_number, "content_words": content_words})
@@ -311,6 +313,8 @@ def write_qa(output: Path, source: Path, doc: BookDoc, manuscript: dict, fonts: 
         "source": str(source), "output": str(output),
         "source_sha256": hashlib.sha256(source.read_bytes()).hexdigest(),
         "pdf_sha256": hashlib.sha256(output.read_bytes()).hexdigest(),
+        "cover": str(doc.cover), "cover_sha256": hashlib.sha256(doc.cover.read_bytes()).hexdigest(),
+        "frontmatter_pages": doc.frontmatter_pages,
         "page_size_inches": [6, 9], "font_size": 11, "leading": leading,
         "tightened_chapters": sorted(tight_chapters), "fonts": fonts,
         "compact_chapters": sorted(compact_chapters), "edition": manuscript["edition"],
@@ -332,7 +336,7 @@ def main() -> None:
     parser.add_argument("--source", type=Path, default=ROOT / "book-one/paradise.md")
     parser.add_argument("--output", type=Path, default=ROOT / "build/paradise-v7-working.pdf")
     parser.add_argument("--qa", type=Path, default=None)
-    parser.add_argument("--frontispiece", type=Path, default=ROOT / "art/laniakea-tree.png")
+    parser.add_argument("--cover", type=Path, default=ROOT / "art/cover.png")
     parser.add_argument("--author", default="")
     parser.add_argument("--leading", type=float, default=14.8)
     parser.add_argument("--tighten-chapters", default="", help="Comma-separated chapter numbers; reduce their leading by 0.4pt after inspecting sparse endings.")
@@ -345,13 +349,19 @@ def main() -> None:
     qa_path = args.qa.resolve() if args.qa else output.with_suffix(".qa.json")
     if source == output:
         parser.error("Source and output paths must differ.")
+    cover = args.cover.resolve()
+    if not cover.is_file():
+        parser.error(f"Cover image does not exist: {cover}")
+    with PILImage.open(cover) as picture:
+        if abs(picture.width / picture.height - 2 / 3) > 0.005:
+            parser.error("Cover must have the 2:3 aspect ratio of the six-by-nine page.")
     tight_chapters = {int(value.strip()) for value in args.tighten_chapters.split(",") if value.strip()}
     compact_chapters = {int(value.strip()) for value in args.compact_chapters.split(",") if value.strip()}
     manuscript = read_manuscript(source)
     fonts = register_fonts()
     output.parent.mkdir(parents=True, exist_ok=True)
-    doc = BookDoc(output, title=manuscript["title"], subtitle=manuscript["subtitle"], author=args.author)
-    doc.build(build_story(manuscript, args.frontispiece.resolve(), args.leading, tight_chapters, compact_chapters))
+    doc = BookDoc(output, title=manuscript["title"], subtitle=manuscript["subtitle"], author=args.author, cover=cover)
+    doc.build(build_story(manuscript, args.leading, tight_chapters, compact_chapters))
     qa = write_qa(output, source, doc, manuscript, fonts, qa_path, args.leading, tight_chapters, compact_chapters)
     print(json.dumps({"pdf": str(output), "qa": str(qa_path), "pages": qa["page_count"], "chapters": qa["chapter_count"], "sparse_chapter_end_pages": qa["sparse_chapter_end_pages"], "blank_body_pages": qa["blank_body_pages"]}, ensure_ascii=False, indent=2))
 

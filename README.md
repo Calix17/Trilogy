@@ -2,7 +2,7 @@
 
 A science-fiction trilogy about a family, a search, and competing answers to survival.
 
-**Current baseline: Book I, Paradise — v7 working text.** The manuscript has 17 chapters and 15,558 chapter-body words. Books II and III have outlines and pilot passages, not complete manuscripts. A post-migration internal review PDF has been rendered and checked; an approved illustrated reading edition still awaits the recorded frontispiece correction.
+**Current baseline: Book I, Paradise — v7 working text.** The manuscript has 17 chapters and 15,558 chapter-body words. Books II and III have outlines and pilot passages, not complete manuscripts. The 57-page reader-review PDF includes the selected Institute/tree cover and has passed text and layout checks. Independent reader feedback remains pending.
 
 ## Writing files
 
@@ -13,7 +13,7 @@ A science-fiction trilogy about a family, a search, and competing answers to sur
 - [Open work and implementation status](development/open-items.md).
 - [Current full-manuscript assessment and verification evidence](development/verification.md).
 - [Philosophy, selected wording, and proposed scenes](development/philosophy.md).
-- [Original artwork](art/laniakea-tree.png) and [production instructions](production/README.md).
+- [Selected cover](art/cover.png) and [production instructions](production/README.md).
 
 The manuscript governs the present Book I text. Explicit latest author decisions govern future work; proposed scenes and private explanations remain labelled as proposals. Updating a reference does not silently rewrite the prose. Historical documents can contain superseded positions.
 
@@ -21,7 +21,7 @@ The manuscript governs the present Book I text. Explicit latest author decisions
 
 Keep one current file per purpose. Commit a small coherent change and push it before starting the next commit. Do not create dated backup files, version-numbered manuscripts, archive folders, or tracked ZIP/PDF exports. Generated work belongs in ignored `build/` output.
 
-The supplied ZIP has been reconstructed as forward commits on the existing history. All **288 distinct non-cache source contents**, covering **291 ZIP entries**, are preserved exactly; the single generated Python cache was excluded. The final working tree has 14 files. The v7 manuscript and original artwork remain byte-for-byte unchanged.
+The supplied ZIP has been reconstructed as forward commits on the existing history. All **288 distinct non-cache source contents**, covering **291 ZIP entries**, are preserved exactly; the single generated Python cache was excluded. The migration baseline had 14 files and preserved the v7 manuscript and original artwork byte-for-byte. Subsequent cover and review work is recorded in later commits; original art remains available at `v7-clean`.
 
 The [preservation ledger](https://github.com/Calix17/Trilogy/blob/94d7cd121a037537faf49cf011e35e2e2e5d84ce/migration/preservation-ledger.csv) maps every original ZIP path and hash to a commit and historical path. It lives in Git history, not in the current writing folder. Recover old PDFs, alternate exports, notes, reviews, and workshop material through that ledger.
 

@@ -1,6 +1,6 @@
 # Current manuscript assessment
 
-Assessment of the complete Book I v7 working manuscript after the `v7-clean` migration boundary. Source: `11db2c3090d2d309ed187913ced5b071dbfb49a2`, 17 chapters, 15,558 chapter-body words; SHA-256 `488c06b7caef56825e22ed88e3373158afe9b710cfb4bf44ec6d38d3e97662a3`. This is an editorial reading and internal production check, not an outside-reader study. No manuscript, artwork, or selected story outcome was changed.
+Assessment of the complete Book I v7 working manuscript after the `v7-clean` migration boundary. Source: `11db2c3090d2d309ed187913ced5b071dbfb49a2`, 17 chapters, 15,558 chapter-body words; SHA-256 `488c06b7caef56825e22ed88e3373158afe9b710cfb4bf44ec6d38d3e97662a3`. This is an editorial reading and internal production check, not an outside-reader study. The assessment did not change prose or outcomes. A subsequent author-approved cover integration is recorded in the production evidence below.
 
 The [manuscript](../book-one/paradise.md) was read in full against the current [implementation list](open-items.md), [decisions](decisions.md), Book I [bible](../reference/bible.md), [profiles](../reference/characters.md), [synopsis](../reference/synopsis.md), and selected [philosophy guidance](philosophy.md). Later-book proposals were checked for status and implications, not treated as completed novels whose pacing could be judged.
 
@@ -23,10 +23,10 @@ Interest generally deepens, but its source changes: suspicious patterns become f
 | V7-05 limit Vessel depiction | Ch. 12–16 | Implemented: arrival room and window room; Elias, Rana, Daniel, Haven. Institute staff before crossing do not violate this constraint. |
 | V7-06 basic cosmic orientation | Ch. 13, 1524–1534 | Implemented: comet shelter, mobile preservation and possible departures. Exact coordinates remain optional. |
 | V7-07 three notebook fragments | Ch. 6, 504; ch. 9, 934; ch. 14, 1722 | All three implemented, separated and attached to actual encounters with the notes. |
-| V7-08 frontispiece spoilers | Existing art and proof title page | Still pending. The labels disclose the drawing's nature before the prose earns that discovery. |
+| V7-08 frontispiece spoilers | Selected Institute/tree cover | Resolved by replacing the labelled frontispiece. Original art is preserved in Git history. |
 | V7-09 chapter artwork | No chapter art | Optional, not a missing narrative requirement. |
 | V7-10 complete pacing read | This assessment | Internal full read complete; independent reader response still pending. |
-| V7-11 production | Internal 56-page review proof | Render and fidelity check completed; approved illustrated reading edition still pending art correction. |
+| V7-11 production | 57-page reader-review PDF | Selected cover integrated; chapter fidelity, numbering and layout verified. |
 
 Other preserved decisions also reached the page: the photograph restarts the search; childhood coloring stays in childhood; the three full dreams are spaced across chapters 5, 8 and 11; Ruth hands over the letter before dying with family present; the recital recording permits gradual repair; Daniel has two ten-year return opportunities and chooses against returning; Haven admits uncertainty; the ending contains no cosmological debrief.
 
@@ -129,7 +129,7 @@ These are editorial risk assessments, not claims that every reader will object. 
 | R-04 / medium | Ch. 11 long approach; ch. 13 sustained orientation; ch. 15 late offers. | Pacing and agency risk; high confidence about allocation, medium about drift. | Test specific stretches with readers. Trim repetition before adding incident; retain the poetic centerpiece and collaborative reunion. |
 | R-05 / medium | Ch. 11 secrecy/collar; ch. 17 warmth after earlier harm. | Earned-repair risk. Existing chapter 10 repair helps substantially, so this is not a missing arc. | Preserve the existing repair beats; consider one practical act of accountability before leaving. Do not require immediate forgiveness, a marriage speech, or the excluded debrief. |
 | R-06 / medium | Ch. 1, 76 and ch. 17, 1940 repeat the bird's exact two hops; clinical motifs and final domestic echo. | Intentional recurrence with unintended glitch/reset reading possible. | Ask readers what they inferred without prompting. If several infer a literal reset, vary one incidental detail while retaining the chosen paradise exchange. No need to eliminate symmetry. |
-| R-07 / medium | Current frontispiece “HERE” and “IT IS NOT A TREE.” | Confirmed production spoiler, already V7-08. | Correct or omit it in an authorized reading-edition design pass. Preserve the original in history; no art change made here. |
+| R-07 / resolved | Earlier frontispiece “HERE” and “IT IS NOT A TREE.” | Replaced by the author-selected Institute/tree cover under V7-08. | Original preserved in Git history; no explanatory map labels in the reader-review PDF. |
 | R-08 / low | Ch. 15, 1798: sheet curled where carried “in his pocket”; earlier custody is envelope/notebook/bag. | Small unprepared object detail, high confidence. Not a broken core handoff; an unshown pocket transfer is possible. | At a later copyedit, use the established storage wording or establish the transfer if it matters. Do not add an inventory scene. |
 
 **Answered on the page:** the search trigger; notebook ownership; ads' institutional source; why Elias misses the recital; Daniel's voluntary absence at both opportunities; Ruth's concealment motive; map's destination function; Elias's choice.
@@ -185,8 +185,12 @@ The useful pass condition is comprehension of the chosen tradeoff without needin
 
 ## Production evidence and disposition
 
-The renderer initially lacked its declared matplotlib font dependency in this environment. It was installed into ignored `build/review-deps`; renderer code was unchanged. The default proof had 61 pages and sparse endings in chapters 5, 6, 12, 13 and 14. Using its existing `--compact-chapters 5,6,12,13,14` option produces a 56-page internal proof with no flagged sparse endings or blank body pages. This is layout spacing only, not a prose cut.
+The author selected the modern Institute/tree cover: a large curved chamber, partly open metal door with wired glass, and a luminous tree. The cover is symbolic and does not add a literal scene, confirm a drug or diagnosis, or authenticate the cosmic explanation. It offers institutional and speculative readings without the original map labels. Earlier artwork is retained at `v7-clean:art/laniakea-tree.png`; only the current cover is tracked.
 
-All 17 chapters passed ordered extracted-text comparison with the source, allowing only whitespace, Markdown emphasis and the renderer's declared dash normalization. Source and PDF hashes match the generated QA metadata; all 17 chapter bookmarks are present; text bounding boxes remain inside the pages. All 56 pages were rasterized with Poppler and visually reviewed in page contact sheets: headings, margins, running furniture and paragraph layout showed no visible clipping or collisions. Generated evidence, PDF and page images live in ignored `build/`, not Git. PDF SHA-256: `a0410ccae7a229bf4b2caa0156a9c1767e80e03be5a64302bbd28994c484d9b2`.
+The current reader-review PDF has 57 pages: full-page cover, searchable title/epigraph page, and 55 body pages. The renderer uses `--compact-chapters 5,6,12,13,14`, with no blank body pages or flagged sparse endings. Chapter 1 begins at printed page 1. All 17 chapter bookmarks and ordered chapter-text comparisons pass; only whitespace, Markdown emphasis and the renderer's declared dash normalization are permitted in that comparison. Source bytes remain unchanged from v7-clean.
 
-The proof is for internal review. The original spoiler-bearing frontispiece remains a known release blocker under V7-08. Source wording still labels v7 a working draft. Successful rendering does not establish narrative or publication readiness. This documentation-only assessment introduces no story continuity change; the existing editorial risks above are explicitly retained for author decisions and future targeted revision.
+The cover, title page and first body page were rasterized and visually inspected. Every body page has exactly the same extracted text, printed page number and glyph positions as the previously inspected 56-page proof, shifted one PDF page by the new cover. Page bounds checks pass. No prose or story-rule change was introduced. Existing editorial risks remain for author decisions and human review; cover acceptance does not certify publication readiness.
+
+The bundled runtime required matplotlib 3.11.2 installed into ignored `build/review-deps`. Generated PDFs, QA JSON, validation code and preview images remain ignored output. A print-production edition with printer-specific bleed and typography requirements is outside this reader-review export.
+
+Source SHA-256: `488c06b7caef56825e22ed88e3373158afe9b710cfb4bf44ec6d38d3e97662a3`. PDF SHA-256: `70165a64ef1cf8d8b9afd104b300c1fde2dfbe2ae25475e1ee4e1470ad0fa75f`. Cover SHA-256: `636780dd16beb29cead4601f8aa17a6330c1511657148b45ad7b9da4cf6a92f2`.
