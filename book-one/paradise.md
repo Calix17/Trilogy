@@ -137,6 +137,8 @@ She looked at him until he understood. Then the light went out of her, gently, a
 
 He was twelve, and it was his birthday, and his father was in the cellar again.
 
+His father was a theoretical physicist — had been, before the sea got loud. Elias would become an engineer, which he understood only much later as a choice and not a coincidence: the son who needed to build things that worked, because the father had spent his life chasing things that couldn’t be touched.
+
 This is the memory that comes back whole, the one that never wore down. The cake on the table with the candles unlit because you don't light them until everyone is there, and his mother saying *five more minutes* in a voice that already knew, and the sound of his father below the floor, tapping. Not fixing anything. Tapping the walls, one after another, listening, the way you'd knock to find the hollow place behind the plaster.
 
 Daniel was looking for a door.
@@ -323,6 +325,8 @@ For a little while they listened to the house. Lena was putting cups away in the
 
 "You don't have to choose what I chose," Ruth said. "Just remember the people who are waiting for you."
 
+"One more thing," she said, and her hand found his. "When you see him — and you will, I think, you’re too much his — tell him it was never out there. The thing he went looking for. It was the three of us, at the table, in the light. That was the real one. I had it in my hand and I knew it, and that’s why I could let the other go." Her eyes drifted to the window. "He never could tell the difference. Tell him I said there wasn’t one."
+
 She was gone before evening.
 
 Standing in the quiet house, he kept returning to the question she had not answered. Gone where? Then he heard Lena moving in the kitchen and went to find her.
@@ -447,19 +451,23 @@ Daniel was very old. The years the notebook's handwriting had lost had all lande
 
 "You came through," Daniel said. "I hoped you wouldn't. I hoped you would. Both. For twenty years, both, every day." He looked his son over. "You look like your mother." A beat. "Did she—"
 
-"She stayed," Elias said. "All the way to the end. Before she died, she told me she could have gone too. She wouldn't say where."
+"She stayed," Elias said. "All the way to the end. She had the door first — did you know that? Before you. She was offered it, she looked, and she chose me. She never told you because she thought you'd hate her for the no." He made himself say the rest. "She died at home, in her chair. I was there; she wasn't alone." A pause he hadn't planned. "You were. All these years. That's the part I can't get past — not that you left. That you've been out here alone the whole time, and she was alone at the end too, and neither of you had to be."
 
 Daniel closed his eyes. Whatever moved through him then was too old and too large to show on the outside, and he let it pass, and opened his eyes again.
 
-"I meant to come back," he said. "Find the truth, bring it home, lay it in your hands like a birthday present. *Look what your father found.*" He turned the empty cup on the table between them. "I could have. The door was there. I kept deciding to stay another year."
+"I meant to come back," he said. "Find the truth, bring it home, lay it in your hands like a birthday present. *Look what your father found.*" He turned the empty cup on the table between them. "I could have. The door was there the whole time — it still is. I kept deciding to stay another year, and then another, awake, choosing it, knowing exactly what I chose."
 
 "Why?"
 
-"Because the work mattered. Because I thought it might buy us all more time." He looked at Elias. "And because I was happy here. I won't tell you I wasn't."
+"Because out here I could still ask the question. Because I told myself the work might buy us all more time — might save you. Those might even be true." He flinched from his own words. "But they were also the thing I said so I wouldn't have to say the other thing: that I couldn't stop, and I chose the question over you. I wasn't happy, whatever people say. I was *taken up*. There's a difference, and I've had a long time to learn it — a man can be completely taken up and completely wrong about where his life was."
 
 Elias watched his father's hands settle around the cup.
 
-"I knew you were growing up," Daniel said. "I knew."
+"She said to tell you something," Elias said. "At the end. She said it was never out there — the thing you went looking for. It was the three of us at the table, in the light, and she knew it, and that's how she could let the rest go. She said to tell you there wasn't a difference between the real one and the one you wanted. You just couldn't see it."
+
+Daniel was quiet for a long time, and when he spoke the old lift was gone from his voice, the thing that had always been reaching past whoever he was talking to.
+
+"She was right," he said. "She was always the one who could tell." He did not wipe his eyes; he seemed to have forgotten they could. "I knew you were growing up. That's the part I need you to understand, and I know how it sounds. I knew, every year, and I stayed. Don't forgive me for it — it wasn't that I forgot you. It's that I remembered you and chose the question anyway. That's worse, and it's the truth, and you're owed the truth."
 
 "You're still looking," Elias said. It wasn't a question. His father's eyes hadn't left the window.
 
@@ -533,7 +541,7 @@ The sparrow landed on the railing, hopped twice to the left, and was gone.
 
 He smiled at it. Old friend. Loose thread. He would never count it again.
 
-Ruth's chair was empty by the window. He caught himself glancing at it and almost spoke to her. *Just remember the people who are waiting for you,* she had said. He wished he could tell her he had. Then Sami called him from the table, and he turned.
+Ruth's chair was empty by the window. He caught himself glancing at it and almost spoke to her. *Just remember the people who are waiting for you,* she had said. He wished he could tell her he had. People died here — of age, of illness, the ordinary way; it was a real life, with a real end, and that was the whole of what made it worth the keeping. Then Sami called him from the table, and he turned.
 
 After breakfast he took the notebook out of the drawer where he kept it and gave it to Sami.
 
