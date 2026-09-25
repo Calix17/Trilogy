@@ -3,7 +3,7 @@
 
 *Method: every character gets a PRIVATE WANT (what they'd chase even if the plot never happened), a CONTRADICTION (the thing in them that fights that want), a SECRET or WOUND (often unshared), an ARC, and a MYTHIC FUNCTION (the layer they carry — never spoken aloud). The rule from the design law: the human layer must be complete on its own, so a reader who sees no myth still gets a whole person. The myth is pressure underneath, never dialogue.*
 
-**V7 working-text alignment — 24 September 2026.** These profiles follow the v7 working manuscript and latest Book II gala direction. Earlier profiles are archived; v6 prose and PDF remain preserved. Book I shows only two Vessel rooms and the four presences Elias, Rana, Daniel, and Haven. The science-fiction architecture and reader-level uncertainty remain distinct. Later proposals retain their labelled status.
+**V7 working-text alignment — 24 September 2026.** These profiles follow the v7 working manuscript and latest Book II gala direction. Earlier profiles, prose, and PDFs are preserved in Git history. Book I shows only two Vessel rooms and the four presences Elias, Rana, Daniel, and Haven. The science-fiction architecture and reader-level uncertainty remain distinct. Later proposals retain their labelled status.
 
 ---
 
@@ -23,7 +23,6 @@
 
 **Mythic function:** He is the Fall reversed — the one who reaches the fruit and chooses the garden with his eyes open. He is also the human-scale mirror of Haven: the mind that learns which questions to stop paying for. In love with *using* knowledge for something (the engineer), against his father's love of knowing for its own sake.
 
-**Casting note (for screen):** the danger is playing him as merely distracted/likable. He needs a visible *engine* — the fear of becoming his father — so his absence reads as struggle, not flaw.
 
 ---
 
@@ -96,7 +95,7 @@
 ---
 
 
-**Characterization retained in v6:** Retain the earlier direction's genuine intellectual joy and the later direction's freely chosen absence and grief. Remove both a claim that he was never happy and a narrator's claim that his entire life was contented. Ruth was not alone when she died. Exact previous wording is preserved in the pre-v4 archive and the dated decision record.
+**Characterization retained in v6:** Retain the earlier direction's genuine intellectual joy and the later direction's freely chosen absence and grief. Remove both a claim that he was never happy and a narrator's claim that his entire life was contented. Ruth was not alone when she died. Exact previous wording is preserved in Git history.
 
 ## HAVEN — the steward
 
@@ -116,7 +115,7 @@
 
 **Book III — selected working arc:** After departing the colony, Haven encounters a nonhuman Ark descended from organisms used in its ancient mining operations. Its unintended “children” have independent lives and authority. This encounter expands Haven's care beyond humanity and shows what development beyond its control can produce. It converges with Sower on preserving existing conscious communities and seeding future possibilities through the Instance, Library, and Vessel. The evidence, chronology, communication, and practical agreement remain to be developed. Haven's presence at Daniel's final door is not selected; its inner inhabitants are not erased by a crew member leaving.
 
-**Wider purpose — author clarification:** Preserve consciousness in diverse existing forms and make room for independently developing ones. The proposed thought that Earth might itself have been seeded can strengthen this commitment without resolving Earth's history. Haven fears that protecting only familiar forms may leave future possibilities unrepresented; this is a judgment under uncertainty, not a guarantee of universal survival. Its care remains directed toward particular lives and cultures, rather than treating conscious beings as interchangeable instances of an abstract goal. Exact scene placement is open. See [the motivation record](../06-development-notes/consciousness-diversity-and-havens-purpose-2026-09-24.md).
+**Wider purpose — author clarification:** Preserve consciousness in diverse existing forms and make room for independently developing ones. The proposed thought that Earth might itself have been seeded can strengthen this commitment without resolving Earth's history. Haven fears that protecting only familiar forms may leave future possibilities unrepresented; this is a judgment under uncertainty, not a guarantee of universal survival. Its care remains directed toward particular lives and cultures, rather than treating conscious beings as interchangeable instances of an abstract goal. Exact scene placement is open. See [the motivation record](../development/decisions.md).
 
 **Mythic function:** God and parent and child at once — the Tree of Life; the thing that cares for humanity the way Elias cares for Ruth. The species-scale mirror of Elias: maturity as knowing which questions to stop paying for. Its changed mission tests care without ownership. Daniel's later crossing is selected, but whether Haven witnesses or accompanies it remains open.
 
@@ -166,13 +165,13 @@
 
 ## Colony adaptation conflict — proposed
 
-Planet-adapted and Earth-adapted residents offer two positions on bodily change, protected habitats, and inherited decisions. Both remain persons; names, leaders, and individual choices are open. This can cross Earthborn/Woken origins. Sami is the recommended main anchor, not a newly fixed sole viewpoint. Elias still holds the chain and stone; no automatic inheritance to Sami is added. See [the latest clarification](../06-development-notes/book-three-adaptation-emergency-and-feedback-2026-09-24.md).
+Planet-adapted and Earth-adapted residents offer two positions on bodily change, protected habitats, and inherited decisions. Both remain persons; names, leaders, and individual choices are open. This can cross Earthborn/Woken origins. Sami is the recommended main anchor, not a newly fixed sole viewpoint. Elias still holds the chain and stone; no automatic inheritance to Sami is added. See [the latest clarification](../development/decisions.md).
 
 ## Pending philosophical decisions — later-book development
 
-The [current Book III route](../06-development-notes/book-three-convergence-and-final-door-2026-09-24.md) selects the agents' major changes and Daniel's ending. The scene choices below still need adaptation to that route; earlier chapter labels are provisional.
+The [current Book III route](../development/decisions.md) selects the agents' major changes and Daniel's ending. The scene choices below still need adaptation to that route; earlier chapter labels are provisional.
 
-See [the scene map](../06-development-notes/philosophy-scene-map-and-progress-2026-09-24.md). These assignments are proposals for scene development; they do not add completed events or fixed outcomes to the profiles.
+See [the scene map](../development/philosophy.md). These assignments are proposals for scene development; they do not add completed events or fixed outcomes to the profiles.
 
 | Character | Decision to develop | Status |
 | --- | --- | --- |
@@ -185,3 +184,16 @@ See [the scene map](../06-development-notes/philosophy-scene-map-and-progress-20
 | Sami | Expose forecast uncertainty, respect dissent, negotiate shared costs, and surrender an expectation of a descendant. | P-01B, P-02B, P-03B, P-04B, P-05B pending. |
 | Hesper | Bear a concrete cost of respecting another person's preferred future rather than treating hard experience as automatic authority. | Later-book scene assignment and chronology pending. |
 | Sami's daughter / another descendant | Have a desire that can conflict with the founder's preferred future or historical account. | P-05B pending; choose through character development, not thematic convenience. |
+
+
+## Additional author characterization retained from the planning profiles
+
+These details supplement the current profiles without reinstating earlier scene alternatives.
+
+- Elias’s curiosity and practical skill include making systems work for people. His investigation leaves mental institutions and psychiatric records out without explaining the omission. Others observe fatigue and guardedness, not the dreams he keeps private.
+- Sami’s energy, expressiveness, love of space and making things are pleasures of his own, not merely bids for attention. His father can help without improving every design.
+- Lena is charismatic, expressive, curious about ordinary beauty, and affectionate with Ruth. Her warmth is not permanent cheerfulness; her own work and choices matter.
+- Ruth protects Daniel’s memory, did not speak badly of him, and forgave him without making the absence harmless. Her delight in her son and grandson and her particular preferences remain independent of the clue she holds.
+- Daniel’s published collaboration and subsequent unfinished anomaly work remain distinct. The coauthor’s “We worried about…” expresses limited knowledge and concern, not proof of dismissal, death, diagnosis, or present location.
+- Haven’s calm, resonant, unhurried and parental manner differs from Rana’s economical reserve and Daniel’s personal warmth. Her reassurance does not erase moral compromise. The destination reaches people so they can understand and choose; it does not activate a hidden command or establish a technical barrier to direct communication.
+- Forgiving both parents does not mean agreeing with either, equating their harms, or explaining the chain and stone’s symbolism in dialogue.
