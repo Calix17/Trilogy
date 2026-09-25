@@ -1,0 +1,243 @@
+{
+  "edition": "Book I: Paradise v4",
+  "date": "2026-09-23",
+  "source_archive": "the-final-decision.zip",
+  "source_archive_sha256": "01144e64b74edf3cfa5c5b1986fac66cfd7679905e229087aa0c825ecf4b4c77",
+  "manuscript": {
+    "path": "02-book-one/book-one-paradise-v4.md",
+    "sha256": "857450819083bc6424b1a0badb0550c18285082caf134d5b2539c59aff778721",
+    "chapters": 17,
+    "body_word_count": 21296,
+    "count_method": "Chapter bodies only; tokens matched by \\b[\\w'’]+\\b."
+  },
+  "pdf": {
+    "path": "02-book-one/book-one-paradise-v4.pdf",
+    "sha256": "045e203d7dc602979ccfb38c835705dcc8a19d67d2e94dadc172246eff282869",
+    "pages": 80,
+    "page_size_inches": [
+      6,
+      9
+    ],
+    "font": "STIXGeneral, embedded",
+    "body_size_pt": 11,
+    "normal_leading_pt": 14.8,
+    "tightened_chapters": [
+      13
+    ],
+    "compact_chapters": [
+      5,
+      15
+    ],
+    "blank_body_pages": [],
+    "sparse_chapter_end_pages": []
+  },
+  "checks": {
+    "all_17_chapter_bodies_word_for_word": true,
+    "all_17_chapter_bodies_non_whitespace_characters": true,
+    "chapter_order_correct": true,
+    "visual_contact_sheets_cover_all_pages": 80,
+    "full_size_representative_pages_reviewed": true,
+    "no_visible_clipping_or_overlap": true,
+    "continuity_review_completed": true
+  },
+  "preservation": {
+    "no_supplied_project_files_removed": true,
+    "all_supplied_manuscripts_unchanged": true,
+    "all_changed_existing_files_have_exact_pre_v4_copies": true,
+    "preserved_manuscripts": [
+      {
+        "path": "02-book-one/book-one-paradise-v2.md",
+        "sha256": "86495a159014369b715a8d6d79102f11144d14731b31aa0a14ec468166edadd2"
+      },
+      {
+        "path": "02-book-one/book-one-paradise-v2.pdf",
+        "sha256": "4a2b08d9cce4ba223fc5a1c03a7cf7bd93fac6891d1d7ca7032d63c6c2990129"
+      },
+      {
+        "path": "02-book-one/book-one-paradise-v3.md",
+        "sha256": "654f3ce6894a0ca79f83c79c46ec2fed99c33fc69b88f07d7e1a2e4c72903590"
+      },
+      {
+        "path": "02-book-one/book-one-paradise-v3.pdf",
+        "sha256": "84c9f2bfeb9bd866c446e534b7a51e7c8429ddc9f45f6fa04333dfeb3eabcbc6"
+      },
+      {
+        "path": "02-book-one/book-one-paradise.md",
+        "sha256": "ca6e0f154605c0c949d1d130eb8d93ce916182ba5e4e6411d8f51d09c23747b0"
+      },
+      {
+        "path": "02-book-one/book-one-paradise.pdf",
+        "sha256": "32c361ab265a3a6a8c3af2c609b6a9b5388dead511c891e9ce3db87bb7bfa976"
+      }
+    ],
+    "changed_existing_files": [
+      "01-bible/bible.md",
+      "04-characters/character-sheets.md",
+      "06-development-notes/README.md",
+      "06-development-notes/author-clarifications-2026-09-22.md",
+      "06-development-notes/current-plot-summary-books-one-and-two.md",
+      "06-development-notes/draft-1-editorial-review.md",
+      "06-development-notes/plot-clarifications-and-mystery-boundaries-2026-09-22.md",
+      "06-development-notes/provisional-design-notes-longevity-reality-ark.md",
+      "06-development-notes/review-and-open-items-2026-09-22.md",
+      "07-scene-workshop/book1-additions-per-chapter-2026-09-22.md",
+      "07-scene-workshop/paranoia-scenes-v1.md",
+      "07-scene-workshop/structure-and-motifs-2026-09-22.md",
+      "PROJECT-MERGE-MANIFEST.md",
+      "README.md"
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Good Days",
+      "body_word_count": 810,
+      "pdf_start_page": 2,
+      "pdf_end_page": 4
+    },
+    {
+      "number": 2,
+      "title": "The Algorithm",
+      "body_word_count": 793,
+      "pdf_start_page": 5,
+      "pdf_end_page": 7
+    },
+    {
+      "number": 3,
+      "title": "Ruth",
+      "body_word_count": 936,
+      "pdf_start_page": 8,
+      "pdf_end_page": 11
+    },
+    {
+      "number": 4,
+      "title": "Daniel",
+      "body_word_count": 1146,
+      "pdf_start_page": 12,
+      "pdf_end_page": 15
+    },
+    {
+      "number": 5,
+      "title": "Seams",
+      "body_word_count": 978,
+      "pdf_start_page": 16,
+      "pdf_end_page": 18
+    },
+    {
+      "number": 6,
+      "title": "The Notebook",
+      "body_word_count": 1293,
+      "pdf_start_page": 19,
+      "pdf_end_page": 23
+    },
+    {
+      "number": 7,
+      "title": "Two Trails",
+      "body_word_count": 1462,
+      "pdf_start_page": 24,
+      "pdf_end_page": 28
+    },
+    {
+      "number": 8,
+      "title": "The Institute",
+      "body_word_count": 1293,
+      "pdf_start_page": 29,
+      "pdf_end_page": 33
+    },
+    {
+      "number": 9,
+      "title": "The Recital",
+      "body_word_count": 1261,
+      "pdf_start_page": 34,
+      "pdf_end_page": 38
+    },
+    {
+      "number": 10,
+      "title": "What Ruth Knew",
+      "body_word_count": 1024,
+      "pdf_start_page": 39,
+      "pdf_end_page": 42
+    },
+    {
+      "number": 11,
+      "title": "The Door",
+      "body_word_count": 1810,
+      "pdf_start_page": 43,
+      "pdf_end_page": 48
+    },
+    {
+      "number": 12,
+      "title": "Cold",
+      "body_word_count": 1075,
+      "pdf_start_page": 49,
+      "pdf_end_page": 52
+    },
+    {
+      "number": 13,
+      "title": "The Steward",
+      "body_word_count": 1892,
+      "pdf_start_page": 53,
+      "pdf_end_page": 59
+    },
+    {
+      "number": 14,
+      "title": "Daniel",
+      "body_word_count": 2058,
+      "pdf_start_page": 60,
+      "pdf_end_page": 67
+    },
+    {
+      "number": 15,
+      "title": "The Envoy",
+      "body_word_count": 1247,
+      "pdf_start_page": 68,
+      "pdf_end_page": 71
+    },
+    {
+      "number": 16,
+      "title": "The Final Decision",
+      "body_word_count": 928,
+      "pdf_start_page": 72,
+      "pdf_end_page": 75
+    },
+    {
+      "number": 17,
+      "title": "Homecoming",
+      "body_word_count": 1290,
+      "pdf_start_page": 76,
+      "pdf_end_page": 80
+    }
+  ],
+  "deliberately_open": [
+    "Crossing mechanism and ultimate reality",
+    "Cause of dream/ship-sound resemblance",
+    "Map origin and individual courier",
+    "Daniel later itinerary",
+    "Lena eventual cosmological knowledge",
+    "Unselected Book II operational details"
+  ],
+  "new_files": [
+    "02-book-one/book-one-paradise-v4.md",
+    "02-book-one/book-one-paradise-v4.pdf",
+    "06-development-notes/book-one-paradise-v3-review-2026-09-23.md",
+    "06-development-notes/v4-revision-notes-2026-09-23.md",
+    "08-production/README.md",
+    "08-production/render-book.py",
+    "08-production/v4-validation.json",
+    "99-archive/pre-v4-reference/01-bible/bible.md",
+    "99-archive/pre-v4-reference/04-characters/character-sheets.md",
+    "99-archive/pre-v4-reference/06-development-notes/README.md",
+    "99-archive/pre-v4-reference/06-development-notes/author-clarifications-2026-09-22.md",
+    "99-archive/pre-v4-reference/06-development-notes/book-one-paradise-v3-review-2026-09-23.md",
+    "99-archive/pre-v4-reference/06-development-notes/current-plot-summary-books-one-and-two.md",
+    "99-archive/pre-v4-reference/06-development-notes/draft-1-editorial-review.md",
+    "99-archive/pre-v4-reference/06-development-notes/plot-clarifications-and-mystery-boundaries-2026-09-22.md",
+    "99-archive/pre-v4-reference/06-development-notes/provisional-design-notes-longevity-reality-ark.md",
+    "99-archive/pre-v4-reference/06-development-notes/review-and-open-items-2026-09-22.md",
+    "99-archive/pre-v4-reference/07-scene-workshop/book1-additions-per-chapter-2026-09-22.md",
+    "99-archive/pre-v4-reference/07-scene-workshop/paranoia-scenes-v1.md",
+    "99-archive/pre-v4-reference/07-scene-workshop/structure-and-motifs-2026-09-22.md",
+    "99-archive/pre-v4-reference/PROJECT-MERGE-MANIFEST.md",
+    "99-archive/pre-v4-reference/README.md"
+  ]
+}
