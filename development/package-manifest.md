@@ -1,5 +1,16 @@
 # Project Merge Manifest
 
+## V5 narrative revision — 23 September 2026
+
+Added a complete 17-chapter v5 Markdown manuscript and reading PDF, a dedicated renderer,
+revision record, and validation record. The new edition concentrates the prose, preserves
+multiple readings of the journey, gives Haven a sustained account, shortens Ruth and
+Daniel, replaces the visitors with a message, and closes at the family kitchen table.
+The bible, character sheets, and current synopsis are aligned. Direct Book III conflicts
+with the crossing and return direction are marked without inventing Sami’s replacement
+route. Exact prior supporting files are preserved in `99-archive/pre-v5-reference/`.
+All earlier manuscript and PDF versions are unchanged. Earlier sections below are history.
+
 ## Post-v4 notes — 23 September 2026
 
 Added the author’s next-revision notes under `06-development-notes/` and linked them
