@@ -1,6 +1,10 @@
 # Development Notes
 
-## Latest: Book III adaptation and emergency preservation — 24 September 2026
+## Latest: Fermi, LUCA, and ancestral seeding — 24 September 2026
+
+The [new review](fermi-luca-and-ancestral-seeding-review-2026-09-24.md) preserves the supplied feedback, checks the scientific references, and records Earth seeding as an optional question. It distinguishes familiar ancestry from evidence of an older seeder and quiet survival from a universal law against expansion. Earlier reference language is archived; the selected Book III route and Daniel ending are unchanged. No manuscript, PDF, or artwork is rewritten.
+
+## Earlier update: Book III adaptation and emergency preservation — 24 September 2026
 
 The [latest clarification](book-three-adaptation-emergency-and-feedback-2026-09-24.md) records Sower’s continuing obligation to the colony’s changed people, simulation followed by instantiation under a sudden deadline, and Haven’s mining history before Daniel’s birth. Proposed factions and hazards, a compact candidate outline, scientific distinctions, and the supplied feedback are included. Daniel’s final-door ending stays selected. Previous references and all manuscripts are preserved.
 

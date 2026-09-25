@@ -113,6 +113,15 @@ The broad route is selected; these seven implementation tasks remain open. No ch
 
 See [the detailed clarification](book-three-adaptation-emergency-and-feedback-2026-09-24.md), [compact candidate outline](book-three-adaptation-candidate-outline-2026-09-24.md), and [research checks](book-three-adaptation-science-notes-2026-09-24.md). The outside feedback does not move Daniel’s ending, give Sami the stone, require planetary survivors, or settle publication format. Simulation and instantiation are fictional capacities; their limits and continuity must be consistent.
 
+## Optional cosmology thread — F-01 to F-04
+
+The [Fermi/LUCA feedback review](fermi-luca-and-ancestral-seeding-review-2026-09-24.md) records checked references and a possible ancestral-seeding question. These items are optional development, not additions to the selected plot.
+
+- **F-01:** Decide whether the quiet-Ark interpretation needs any further on-page statement. Selection alone does not resolve every expansion or probe counterexample; one encounter need not explain the entire sky.
+- **F-02:** Decide whether Haven briefly considers a lineage ancestral to LUCA having arrived from elsewhere. Keep Earth seeding unconfirmed; familiar Earth-derived biochemistry is not independent evidence of it.
+- **F-03:** Define which system is bounded as independent seeded lineages may create new fleets. Relate seeding-site choices to existing life and future freedom.
+- **F-04:** Keep this as a small possible reflection within Haven's encounter. Do not add a time loop, solve the myth warning, alter Daniel's empty Ark, or append a new ending.
+
 ## Mysteries that do not require explanation in Book I
 
 The exact crossing machinery; the confirmed source of the sound; a clinical or visionary diagnosis; Hesk’s complete identity; the individual sender’s identity; the ultimate source of the myth warning; and whether the Vessel is itself within another reality can remain unavailable to the reader. Where later events depend on a rule, the writer needs consistency, not necessarily on-page exposition.

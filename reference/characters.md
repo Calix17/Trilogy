@@ -77,7 +77,7 @@
 
 ## DANIEL — the father who kept postponing his return
 
-**Role:** Elias's father, absent for twenty years of his son's life. A theoretical physicist, alive aboard the Vessel in a body maintained for long service. He can appear older without being portrayed as physically at the end of that body's capacity.
+**Role:** Born within an Instance already millions of years old; Haven’s ancient mining history predates his life. Elias's father, absent for twenty years of his son's life. A theoretical physicist, alive aboard the Vessel in a body maintained for long service. He can appear older without being portrayed as physically at the end of that body's capacity.
 
 **Private want (beneath the plot):** To *know* — the real reality, the floor under the floors, the ultimate question. Not fame, not power; the answer itself, for its own sake. He is in love with theory the way a person is in love, helplessly.
 
@@ -126,9 +126,11 @@
 
 **Role and earlier purpose:** Preserve an embodied lineage free to change on another world. The generation ship, autonomy of descendants, and possibilities beyond the present solution distinguish it from Haven. Book II's information manipulation still needs a concrete consequential act; Haven remains responsible for the bomb.
 
-**Book III — selected working arc:** The colony adapts and produces posthuman descendants, then approaches extinction. Sower saves those actual people in an instance. It must keep their changed selves and culture, not substitute an older Library template. Establish the available rescue capability before the crisis and develop the limits, cost, and room for refusal.
+**Book III — selected working arc:** Sower was made to preserve humans, and the colony’s changed descendants remain part of that obligation. A sudden emergency outruns further adaptation; Sower preserves those actual people first in simulation and later through instantiation. It must keep their changed selves and culture, not substitute an older Library template. Establish the available rescue capability before the crisis and develop the limits, cost, and room for refusal.
 
 **Revision of belief:** Embodied exploration matters, and what it achieves also needs protection. Sower can adopt preservation without repudiating every planetary future. Its experience converges with Haven's encounter on maintaining all three worlds while seeding independent possibilities. A literal AI merger and instant communication are not selected.
+
+**Observation and intervention:** Monitoring and respecting the colony’s independence must not silently become deliberate abandonment. Establish the practical limit that makes further adaptation too slow and the prepared refuge possible. The emergency hosting sequence needs an operational reason; Sower need not rediscover ancient technology during the crisis.
 
 **Human stakes:** The survivors are people, not evidence in a philosophical contest. Their decisions and losses must carry the rescue. The trigger, possible beacon, saved population, and personal consequences remain open.
 
@@ -159,6 +161,10 @@
 - **Haven:** reassurance, scale, and a coherent account before questions. Her certainty about her purpose is not omniscient narrative proof.
 - **Hesk:** plausible care and ambiguity, without answering every question or speaking only in riddles.
 
+
+## Colony adaptation conflict — proposed
+
+Planet-adapted and Earth-adapted residents offer two positions on bodily change, protected habitats, and inherited decisions. Both remain persons; names, leaders, and individual choices are open. This can cross Earthborn/Woken origins. Sami is the recommended main anchor, not a newly fixed sole viewpoint. Elias still holds the chain and stone; no automatic inheritance to Sami is added. See [the latest clarification](../06-development-notes/book-three-adaptation-emergency-and-feedback-2026-09-24.md).
 
 ## Pending philosophical decisions — later-book development
 

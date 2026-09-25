@@ -313,7 +313,7 @@ The colony's central emotional consequence should resolve before this final thre
 
 **Mechanics.** Arks are nested inside comets or asteroids, using mass as shielding and resource. Biobots and engineered organisms are possible mining tools; their precise design need not be established in Book I. The ships are nomads and must replenish resources, repair systems, and move when conditions require it. Restrained demand can reduce competition; it does not make resources endless or remove the possibility of conflict.
 
-**Fermi tie-in.** Expansionist civilizations diverge fast — the light-year constraint turns distant colonies into strangers and rivals — and pure expansionists die quickly (per the mythology). Their colonies sometimes choose the Ark path instead. So the universe is not empty; it is full of silent, "retired" civilizations living in bounded stability, invisible because invisibility is the strategy. The Arks are one species' retirement among many.
+**Fermi tie-in — speculative interpretation.** The proposed cosmology places many enduring civilizations in quiet, bounded refuges. Some fast-spreading societies may fragment or collapse, with surviving branches adopting Ark strategies. The sustainability and percolation literature offers relevant models, not a demonstration that all expanders die or all survivors stop spreading. Haven can interpret its encounters through this model without the narration establishing a census of the universe. Quiet operations do not guarantee invisibility, and the fate of independent colonies, artifacts, and probes remains part of the hypothesis. The earlier absolute wording is preserved in the archive. See [the source-grounded review](../06-development-notes/fermi-luca-and-ancestral-seeding-review-2026-09-24.md).
 
 **How to seed it, book by book (feed the hard-SF reader a layer at a time):**
 
@@ -349,9 +349,17 @@ The three books argue it at three scales:
 
 ---
 
+## Optional origin question — ancestral seeding
+
+Newly supplied feedback proposes that an older Ark might have seeded a lineage ancestral to LUCA. This is an optional question, not confirmed Earth history or a new plot requirement. LUCA is not synonymous with the first life. Haven's Earth-derived mining descendants resembling its Library cannot independently establish an older seeder; that resemblance is already expected from their known ancestry.
+
+If used, Haven's encounter can prompt an analogy: having helped begin another lineage, it wonders whether another traveler once did the same. No evidence of Earth's external origin is newly selected. Successive seeding is not automatically a causal time loop and does not explain the first origin of life. The myth-warning source and Daniel's ultimate-reality question stay separate. His final door remains last.
+
+The future seeding policy also needs a scope for its bounds. A fleet replacing lost vessels is not the same as a galaxy whose total number of independent fleets never grows. New lineages can choose differently from their seeders. Site selection, existing biospheres, and independent futures remain philosophical and practical development questions. See [the optional-thread review](../06-development-notes/fermi-luca-and-ancestral-seeding-review-2026-09-24.md).
+
 ## Other loops — the wider fleet and spinoff routes
 
-Humanity's Arks are one answer among many. If bounded, quiet survival is what lasts (the Fermi logic), then other minds reached other versions of the same few doors, and the sky holds other Arks that are not us. This is the universe the trilogy sits inside, and the source of any spinoff. Types, each a different answer to "what must be kept":
+Humanity's Arks are one answer among many. The wider-fleet concept lets different civilizations preserve different things. Quiet survival is a useful pattern for Haven to encounter and interpret, without establishing that every civilization follows it. These are candidate types for the trilogy's wider setting or spinoffs:
 
 - **Biological Arks** — life in bodies, like the last Ark. Keep the lineage. Mortal, fragile, fertile.
 - **Simulation / instance Arks** — minds in an instantiated reality, like Haven's. Keep the experience. The garden.
@@ -360,7 +368,7 @@ Humanity's Arks are one answer among many. If bounded, quiet survival is what la
 - **Dead Arks** — the ones the strategy didn't save. Silent hulls, failed nodes, a civilization's whole answer gone cold. Found, not met. Proof the odds are real.
 - **Seeder Arks** — the ones that stopped preserving themselves and spend their substance planting life on raw worlds, indifferent to whether the result remembers them. Keep *life itself*, not this life. The serpent's creed taken to its end.
 
-Each type is a road out of this universe: a novel or season that never has to touch the main family. The convergence rule holds them together — everyone who lasts crowds toward the same cold red dwarfs and the same comet-rich dark — so any two Arks can meet at a watering hole and trade myths, and each meeting asks Haven's question again at a new scale: what do we owe minds that aren't us?
+Each type can support another story beyond the main family. Resource-rich meeting places can bring different Arks into contact and test what each owes unfamiliar minds. The private geography and travel history must support a particular encounter; no universal convergence of every civilization is established by this list.
 
 ---
 

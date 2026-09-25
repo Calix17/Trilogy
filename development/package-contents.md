@@ -1,8 +1,8 @@
 # Complete package contents
 
-24 September 2026. 270 files. Start with [START-HERE.md](START-HERE.md).
+24 September 2026. 280 files. Start with [START-HERE.md](START-HERE.md).
 
-Latest update: Book III adaptation, emergency simulation and instantiation, ancient mining chronology, and supplied feedback. All prior files remain available, either current or archived.
+Latest update: optional Fermi, LUCA, and ancestral-seeding feedback with research and narrative checks. All prior files remain available, either current or archived.
 
 ## Root
 
@@ -60,6 +60,7 @@ Latest update: Book III adaptation, emergency simulation and instantiation, anci
 - [06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md](06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md)
 - [06-development-notes/current-plot-summary-books-one-and-two.md](06-development-notes/current-plot-summary-books-one-and-two.md)
 - [06-development-notes/draft-1-editorial-review.md](06-development-notes/draft-1-editorial-review.md)
+- [06-development-notes/fermi-luca-and-ancestral-seeding-review-2026-09-24.md](06-development-notes/fermi-luca-and-ancestral-seeding-review-2026-09-24.md)
 - [06-development-notes/nonhuman-ark-and-accidental-lineage-2026-09-24.md](06-development-notes/nonhuman-ark-and-accidental-lineage-2026-09-24.md)
 - [06-development-notes/philosophy-scene-map-and-progress-2026-09-24.md](06-development-notes/philosophy-scene-map-and-progress-2026-09-24.md)
 - [06-development-notes/plot-clarifications-and-mystery-boundaries-2026-09-22.md](06-development-notes/plot-clarifications-and-mystery-boundaries-2026-09-22.md)
@@ -95,6 +96,7 @@ Latest update: Book III adaptation, emergency simulation and instantiation, anci
 - [08-production/book-three-adaptation-validation-2026-09-24.json](08-production/book-three-adaptation-validation-2026-09-24.json)
 - [08-production/book-three-convergence-validation-2026-09-24.json](08-production/book-three-convergence-validation-2026-09-24.json)
 - [08-production/consciousness-framework-validation-2026-09-24.json](08-production/consciousness-framework-validation-2026-09-24.json)
+- [08-production/fermi-luca-validation-2026-09-24.json](08-production/fermi-luca-validation-2026-09-24.json)
 - [08-production/nonhuman-ark-proposal-validation-2026-09-24.json](08-production/nonhuman-ark-proposal-validation-2026-09-24.json)
 - [08-production/package-source-coverage-2026-09-24.csv](08-production/package-source-coverage-2026-09-24.csv)
 - [08-production/philosophy-scene-map-validation-2026-09-24.json](08-production/philosophy-scene-map-validation-2026-09-24.json)
@@ -117,6 +119,7 @@ Latest update: Book III adaptation, emergency simulation and instantiation, anci
 - [99-archive/2026-09-session-notes/book-three-adaptation-author-and-feedback-2026-09-24.md](99-archive/2026-09-session-notes/book-three-adaptation-author-and-feedback-2026-09-24.md)
 - [99-archive/2026-09-session-notes/book-three-convergence-author-direction-2026-09-24.md](99-archive/2026-09-session-notes/book-three-convergence-author-direction-2026-09-24.md)
 - [99-archive/2026-09-session-notes/consciousness-cycle-author-clarification-2026-09-24.md](99-archive/2026-09-session-notes/consciousness-cycle-author-clarification-2026-09-24.md)
+- [99-archive/2026-09-session-notes/fermi-luca-feedback-2026-09-24.md](99-archive/2026-09-session-notes/fermi-luca-feedback-2026-09-24.md)
 - [99-archive/2026-09-session-notes/longevity-daniel-lab-professions.md](99-archive/2026-09-session-notes/longevity-daniel-lab-professions.md)
 - [99-archive/2026-09-session-notes/nonhuman-ark-author-proposal-2026-09-24.md](99-archive/2026-09-session-notes/nonhuman-ark-author-proposal-2026-09-24.md)
 - [99-archive/2026-09-session-notes/philosophy-scene-map-author-request-2026-09-24.md](99-archive/2026-09-session-notes/philosophy-scene-map-author-request-2026-09-24.md)
@@ -155,6 +158,13 @@ Latest update: Book III adaptation, emergency simulation and instantiation, anci
 - [99-archive/pre-consciousness-framework-reference/06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md](99-archive/pre-consciousness-framework-reference/06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md)
 - [99-archive/pre-consciousness-framework-reference/06-development-notes/v7-revision-checklist-2026-09-24.md](99-archive/pre-consciousness-framework-reference/06-development-notes/v7-revision-checklist-2026-09-24.md)
 - [99-archive/pre-consciousness-framework-reference/README.md](99-archive/pre-consciousness-framework-reference/README.md)
+- [99-archive/pre-fermi-luca-reference/01-bible/bible.md](99-archive/pre-fermi-luca-reference/01-bible/bible.md)
+- [99-archive/pre-fermi-luca-reference/06-development-notes/README.md](99-archive/pre-fermi-luca-reference/06-development-notes/README.md)
+- [99-archive/pre-fermi-luca-reference/06-development-notes/v7-revision-checklist-2026-09-24.md](99-archive/pre-fermi-luca-reference/06-development-notes/v7-revision-checklist-2026-09-24.md)
+- [99-archive/pre-fermi-luca-reference/08-production/package-source-coverage-2026-09-24.csv](99-archive/pre-fermi-luca-reference/08-production/package-source-coverage-2026-09-24.csv)
+- [99-archive/pre-fermi-luca-reference/CONTENTS.md](99-archive/pre-fermi-luca-reference/CONTENTS.md)
+- [99-archive/pre-fermi-luca-reference/README.md](99-archive/pre-fermi-luca-reference/README.md)
+- [99-archive/pre-fermi-luca-reference/START-HERE.md](99-archive/pre-fermi-luca-reference/START-HERE.md)
 - [99-archive/pre-nonhuman-ark-proposal-reference/01-bible/bible.md](99-archive/pre-nonhuman-ark-proposal-reference/01-bible/bible.md)
 - [99-archive/pre-nonhuman-ark-proposal-reference/06-development-notes/v7-revision-checklist-2026-09-24.md](99-archive/pre-nonhuman-ark-proposal-reference/06-development-notes/v7-revision-checklist-2026-09-24.md)
 - [99-archive/pre-nonhuman-ark-proposal-reference/08-production/package-source-coverage-2026-09-24.csv](99-archive/pre-nonhuman-ark-proposal-reference/08-production/package-source-coverage-2026-09-24.csv)
