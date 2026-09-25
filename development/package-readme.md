@@ -1,5 +1,8 @@
 # The Final Decision
 
+**Complete package — 24 September 2026.** Open [START-HERE.md](START-HERE.md) for the current trilogy direction, latest documents, session coverage, and version status. [CONTENTS.md](CONTENTS.md) lists all included files. The latest seeding and consciousness notes are included, and distinct earlier material recovered in the consolidation audit is preserved in the archive.
+
+
 ## Latest: consciousness, preservation, and renewal — 24 September 2026
 
 The [author framework](06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md) records recurring phases of exploration and preservation, possibly operating in parallel branches. The proposed later goal protects existing conscious communities and seeds suitable worlds for independent development, broadening care beyond humanity. Books I and II are almost fixed; Book III's theme and route are explicitly open. Previous chapter material remains available, and all manuscripts, PDFs, and artwork are preserved. The checklist now tracks B3-01 through B3-07.

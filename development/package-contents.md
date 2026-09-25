@@ -1,8 +1,8 @@
 # Complete package contents
 
-24 September 2026. 232 files. Start with [START-HERE.md](START-HERE.md).
+24 September 2026. 240 files. Start with [START-HERE.md](START-HERE.md).
 
-Current files and historical material are listed separately by folder. Historical files may contain superseded proposals.
+Latest addition: the nonhuman-Ark encounter proposal. Earlier material and editions remain preserved.
 
 ## Root
 
@@ -45,6 +45,7 @@ Current files and historical material are listed separately by folder. Historica
 - [06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md](06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md)
 - [06-development-notes/current-plot-summary-books-one-and-two.md](06-development-notes/current-plot-summary-books-one-and-two.md)
 - [06-development-notes/draft-1-editorial-review.md](06-development-notes/draft-1-editorial-review.md)
+- [06-development-notes/nonhuman-ark-and-accidental-lineage-2026-09-24.md](06-development-notes/nonhuman-ark-and-accidental-lineage-2026-09-24.md)
 - [06-development-notes/philosophy-scene-map-and-progress-2026-09-24.md](06-development-notes/philosophy-scene-map-and-progress-2026-09-24.md)
 - [06-development-notes/plot-clarifications-and-mystery-boundaries-2026-09-22.md](06-development-notes/plot-clarifications-and-mystery-boundaries-2026-09-22.md)
 - [06-development-notes/post-v4-author-notes-2026-09-23.md](06-development-notes/post-v4-author-notes-2026-09-23.md)
@@ -75,6 +76,7 @@ Current files and historical material are listed separately by folder. Historica
 - [08-production/README.md](08-production/README.md)
 - [08-production/__pycache__/render-book-v5.cpython-312.pyc](08-production/__pycache__/render-book-v5.cpython-312.pyc)
 - [08-production/consciousness-framework-validation-2026-09-24.json](08-production/consciousness-framework-validation-2026-09-24.json)
+- [08-production/nonhuman-ark-proposal-validation-2026-09-24.json](08-production/nonhuman-ark-proposal-validation-2026-09-24.json)
 - [08-production/package-source-coverage-2026-09-24.csv](08-production/package-source-coverage-2026-09-24.csv)
 - [08-production/philosophy-scene-map-validation-2026-09-24.json](08-production/philosophy-scene-map-validation-2026-09-24.json)
 - [08-production/render-book-v5.py](08-production/render-book-v5.py)
@@ -94,6 +96,7 @@ Current files and historical material are listed separately by folder. Historica
 - [99-archive/2026-09-session-notes/author-clarifications-source-2026-09-22.md](99-archive/2026-09-session-notes/author-clarifications-source-2026-09-22.md)
 - [99-archive/2026-09-session-notes/consciousness-cycle-author-clarification-2026-09-24.md](99-archive/2026-09-session-notes/consciousness-cycle-author-clarification-2026-09-24.md)
 - [99-archive/2026-09-session-notes/longevity-daniel-lab-professions.md](99-archive/2026-09-session-notes/longevity-daniel-lab-professions.md)
+- [99-archive/2026-09-session-notes/nonhuman-ark-author-proposal-2026-09-24.md](99-archive/2026-09-session-notes/nonhuman-ark-author-proposal-2026-09-24.md)
 - [99-archive/2026-09-session-notes/philosophy-scene-map-author-request-2026-09-24.md](99-archive/2026-09-session-notes/philosophy-scene-map-author-request-2026-09-24.md)
 - [99-archive/2026-09-session-notes/plot-clarifications-source-2026-09-22.md](99-archive/2026-09-session-notes/plot-clarifications-source-2026-09-22.md)
 - [99-archive/2026-09-session-notes/reality-haven-ark-exploration.md](99-archive/2026-09-session-notes/reality-haven-ark-exploration.md)
@@ -109,6 +112,11 @@ Current files and historical material are listed separately by folder. Historica
 - [99-archive/pre-consciousness-framework-reference/06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md](99-archive/pre-consciousness-framework-reference/06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md)
 - [99-archive/pre-consciousness-framework-reference/06-development-notes/v7-revision-checklist-2026-09-24.md](99-archive/pre-consciousness-framework-reference/06-development-notes/v7-revision-checklist-2026-09-24.md)
 - [99-archive/pre-consciousness-framework-reference/README.md](99-archive/pre-consciousness-framework-reference/README.md)
+- [99-archive/pre-nonhuman-ark-proposal-reference/01-bible/bible.md](99-archive/pre-nonhuman-ark-proposal-reference/01-bible/bible.md)
+- [99-archive/pre-nonhuman-ark-proposal-reference/06-development-notes/v7-revision-checklist-2026-09-24.md](99-archive/pre-nonhuman-ark-proposal-reference/06-development-notes/v7-revision-checklist-2026-09-24.md)
+- [99-archive/pre-nonhuman-ark-proposal-reference/08-production/package-source-coverage-2026-09-24.csv](99-archive/pre-nonhuman-ark-proposal-reference/08-production/package-source-coverage-2026-09-24.csv)
+- [99-archive/pre-nonhuman-ark-proposal-reference/CONTENTS.md](99-archive/pre-nonhuman-ark-proposal-reference/CONTENTS.md)
+- [99-archive/pre-nonhuman-ark-proposal-reference/START-HERE.md](99-archive/pre-nonhuman-ark-proposal-reference/START-HERE.md)
 - [99-archive/pre-philosophy-scene-map-reference/01-bible/bible.md](99-archive/pre-philosophy-scene-map-reference/01-bible/bible.md)
 - [99-archive/pre-philosophy-scene-map-reference/04-characters/character-sheets.md](99-archive/pre-philosophy-scene-map-reference/04-characters/character-sheets.md)
 - [99-archive/pre-philosophy-scene-map-reference/06-development-notes/README.md](99-archive/pre-philosophy-scene-map-reference/06-development-notes/README.md)

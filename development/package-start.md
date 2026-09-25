@@ -14,6 +14,8 @@ Complete project package, consolidated 24 September 2026.
 
 ## Latest conceptual records — all included
 
+**Latest addition:** [The unfamiliar Ark and an accidental lineage](06-development-notes/nonhuman-ark-and-accidental-lineage-2026-09-24.md) develops a possible Book III encounter that changes Haven's purpose. Its ancestry, timescale, evidence, and placement remain open. The note and author message are inside this ZIP.
+
 | Record | What it contains |
 | --- | --- |
 | [Consciousness preservation and renewal](06-development-notes/consciousness-preservation-and-renewal-2026-09-24.md) | The author's speculative Sower/Haven cycle; protecting existing conscious communities; engineered seeding; scope beyond humanity; Book III explicitly open. |
