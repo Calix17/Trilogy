@@ -1,5 +1,11 @@
 # The Final Decision — Brief character profiles for v6
 
+**Implementation update — 24 September 2026.** The author authorized the prose revision. V6 is now written and rendered: seventeen chapters, 15,905 chapter-body words, 58 PDF pages. The [revision record](../06-development-notes/v6-revision-notes-2026-09-24.md) identifies the treatments actually used and the questions still open. The current prose, bible, main character sheets, and synopsis are authoritative for this edition.
+
+**Historical planning record.** The material below is retained to preserve the reasoning and alternatives discussed before drafting. Its “proposed,” “pending,” or “not yet written” statements describe that earlier stage; they are not the current delivery status. Exact pre-implementation copies are also archived.
+
+---
+
 23 September 2026. Working profiles drawn from the author's latest family descriptions, the accumulated v6 directions, and the current v5 character sheets. They guide the next revision; they do not claim that v6 prose has been written. Exact ages and history below come from the current draft. Proposed occupations, dialogue, clues, and scene treatments are labelled.
 
 Latest refinement, 24 September: the governing map motive is human choice, replacing the proposed need for a direct-access barrier. The outline adds observable concern through existing relationships and a published-research lead to Daniel’s colleague. Specific scene staging remains editorial guidance.

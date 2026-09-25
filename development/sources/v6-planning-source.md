@@ -561,3 +561,20 @@ We worried about...instead so maybe other colleagues also shared opinions.
 ## 47. Applied wording correction — 24 September 2026
 
 Changed the proposed line to “We worried about what publishing them might do to his career.” The plural suggests concern shared with other colleagues and supersedes the earlier editorial preference for individual worry. Synchronized the outline, profiles, roadmap, and checklist. No additional group scene, unanimous verdict, or formal sanction is established. The chapter remains a planning draft; no manuscript or PDF changed.
+
+
+## 48. Author authorization to render v6
+
+Ok lets go a head
+
+## 49. V6 implementation record — 24 September 2026
+
+Completed the authorized narrative revision and render: seventeen chapters, 15,905 chapter-body words, 58 PDF pages. Implemented the coauthor lead and plural concern, omitted psychiatric searches without explaining the omission, separated Institute support ads from the page and private call, and retained uncertainty in the street encounter. The ant song belongs to Sami. The bird is ordinary recurrence. Dreams are spaced across chapters 5, 8, and 11; the last gathers Elias’s name.
+
+Ruth releases the hidden ten-year letter using her chain and physical key. The letter’s affection, incomplete explanation, and hope to write again avoid a guaranteed return promise. The first of Daniel’s two return opportunities is aligned with that letter; the second is the present encounter. The exact ongoing schedule remains undescribed. Daniel can return but chooses to stay. The completing map sheet is new information; his earlier copies were incomplete.
+
+Elias works on human habitats. Daniel gives him full attention and they interpret the pages together. Haven’s sustained account preserves society, biological and ecological inheritance, culture and remembrance, the material Vessel, and future choice. Daniel asks to pursue the possible planet; Elias chooses home. The sender, entry method, and split-message timing remain later-book questions.
+
+The room begins plain and changes gradually without an explained mechanism or replacement body. Rana remains reserved. The final breakfast shows a toast rocket, Lena’s ordinary conversation, and Daniel’s gray stone on Ruth’s chain. No map or journey debrief is included. The necklace can be mounted in the off-page interval before this ordinary homecoming.
+
+Synchronized the core bible, main character sheets, synopsis, indexes, checklist, and status of historical planning notes. The Book II outline and synopsis sections remain byte-identical. Prior editions remain unchanged; fourteen pre-v6 reference files are archived. The production record documents the completed text and visual checks. See `06-development-notes/v6-revision-notes-2026-09-24.md` for the complete chapter record and private chronology.
