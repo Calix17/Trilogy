@@ -10,6 +10,8 @@ Latest addition: Hesk is a scientist whose manner can suggest a therapist, psych
 
 Transition refinement: begin with an ordinary, nearly empty room and a chair; let the surroundings change gradually within Elias's perception. No visible advanced portal or mechanism identifies what happens. A plainer opening replaces or reduces the existing star-dome cue; exact staging remains to be drafted.
 
+Latest author decisions: the notebook's map pages are a sequence of progressively closer views beginning with Laniakea, and the last page supplies the missing localization. Daniel has had exactly two opportunities to return in twenty years; the present encounter is the second, and he again chooses his search. Haven's sustained, poetic account of the Arks is a protected centerpiece of the compact pilot, followed by a few questions. These decisions are recorded below and in the to-do list; prose implementation remains pending.
+
 **Status: development direction, not a rewritten manuscript.** V5 remains the current reading edition. Its prose, PDF, bible, character sheets, and synopsis have not been changed by this planning update. Explicit author directions below supersede incompatible older suggestions when preparing v6. Options introduced with “maybe” remain options.
 
 The preceding review and the complete author response are preserved in [the discussion source](../99-archive/2026-09-session-notes/v6-planning-source-2026-09-23.md). This document distinguishes those sources from editorial recommendations.
@@ -135,20 +137,22 @@ Retain genuine warmth in the childhood memory, the concise confrontation about a
 
 Crossings may be costly and dangerous, require strict preparation, and occur only at limited intervals. Candidate constraints include energy, bodily strain, and risk to the stability of the instance. An opening may last only a few hours. A closing opportunity puts pressure on Elias and echoes the pressure Daniel once faced.
 
-**Follow-up proposal: Daniel can leave when the window opens**
+**Selected author direction: two opportunities in twenty years**
 
-During an available crossing window, Daniel also has an opportunity to return home. He refuses because his search is unfinished. Elias's opportunity may therefore also be Daniel's: the father can accompany the son and chooses to remain. This can echo someone declining to leave a place of care, without narration confirming a hospital or a diagnosis.
+Daniel has had exactly two opportunities to return during the twenty years of his absence. The current opening, during Elias's visit, is the second. He declined the first; now he can return with his son and again refuses because he remains committed to his search.
 
-This is the proposed answer to enforced absence: openings offer real opportunities, and Daniel continues to defer homecoming. Preserve the pattern of his choosing a little longer; do not explain the twenty years as twenty years of physical entrapment. The author introduced this as a possibility, so it is recorded as the leading proposed route rather than a silently implemented rule.
+By this second opportunity, he has missed much of Elias's life and Ruth has died. The loss changes what homecoming would mean to him. It does not remove his ability to return or turn his decision into physical entrapment. His full attention and warmth toward Elias during the reunion remain genuine; he can love this time with his son and still choose the work when they must part.
 
-The emotional contrast can be carried by one offer and refusal in the reunion. It does not require a history of every missed window or an explanation of its machinery. The exact schedule, earlier opportunities, and whether Daniel ever returns later remain to be settled.
+This supersedes the earlier unspecified number of missed windows. Do not imply that openings were frequent or that he had a third return opportunity. The date of the first opening and the mechanism remain unspecified; do not infer a regular ten-year cycle. The count belongs to the twenty years of absence in Elias's account, without requiring a new clock-rate explanation.
+
+The emotional contrast can be carried by a short acknowledgment of the earlier chance and the present offer and refusal. The narration need not list a history of procedures or explain the machinery. The scene can still resemble someone choosing to remain in a place of care without confirming hospitalization. Whether Daniel returns on a later occasion remains open for later development.
 
 **Not yet selected**
 
 - The principal constraint and whether its cause is mentioned at all.
 - The interval between opportunities, their duration, and whose clock measures that duration.
 - Whether v5's permanent prohibition on another outward journey survives or is replaced by limited opportunities.
-- The final adoption and scope of Daniel's proposed ability to return at later openings, including its terms for other people.
+- The scope of comparable return opportunities for other people. Daniel's two opportunities and present refusal are now selected.
 - Whether communication, family accompaniment, or separately prepared later crossings are possible.
 
 **Editorial assessment**
@@ -159,7 +163,7 @@ Prefer one main operational constraint. Stacking energy failure, bodily danger, 
 
 Introduce any deadline before it forces the climax. Let enough quiet time remain for a meaningful interval with Daniel. Avoid turning the closing door into an emergency that chooses for Elias: he should want home while the alternative is still available.
 
-Preserve Daniel's agency in the Ark account. If he literally had no possible return for twenty years, his absence becomes enforced separation. If the intended story remains repeated postponement, the private chronology must include real opportunities he chose not to take. Exact dates need not appear in the prose.
+Preserve Daniel's agency in the Ark account. His two opportunities are real choices, including the present one. His grief and sense of time already lost may help explain his commitment, but the text should not certify that returning would be meaningless or that further work can repay the missing years.
 
 A decision about communication is also necessary. Restricted physical crossing alone does not explain twenty years without any message. Likewise, if family members can join him within the same opportunity, his choice is different from the one v5 stages. Record the author's eventual answers without inventing a ban, a memory erasure, or a punishment to close the issue.
 
@@ -198,7 +202,21 @@ The sound motif should enter this continuity without a machine-startup cue or a 
 
 ## 4. The missing page: an action with a purpose
 
-**Author proposal**
+**Selected author direction: a sequence of closer views**
+
+The notebook's map pages progressively zoom inward from Laniakea through the relevant local region and into a galaxy and a location within it. The last page is needed to identify which galaxy and where within that galaxy, or the relevant location within our own galaxy. The exact destination galaxy is left open by the author's examples; the structural function is selected.
+
+The drawings are therefore successive scales of a map, not simply many failed versions of one drawing. The colored childhood page belongs to the larger sequence. The missing final view makes the difference between recognizing the broad structure and locating the destination precisely enough to act on it.
+
+**Editorial implementation**
+
+Let the reader initially see family history and an enigmatic recurring shape, then understand the changing scales when the pages are compared. No lecture on every page is needed. Use a small number of correspondences to make the progression legible. The broad cosmic view provides orientation; it does not by itself commit the story to travel across that entire extent.
+
+The last page can complete the localization when brought to Haven. Reconcile this with v5's incoming message: information about a world and sufficient information to locate that world are different things. Haven may already possess the former while the completed sequence supplies the latter. This is a recommended staging of the selected function, not a new decision about the sender or communication mechanism.
+
+Revise the earlier notebook descriptions that present the pages as repetitions or corrections of the same drawing. Preserve the child's coloring, the emotional history, and the missing-page discovery while making those observations compatible with a sequence of scales. The word “book” in the author's note is treated as Daniel's notebook, not a requirement that every page of the novel contain a map.
+
+**Transmission proposal still open**
 
 A concealed agent may have received information inside the instance and passed clues to Daniel and Elias. Daniel may have come close without obtaining the missing piece. Elias may be pressured into carrying that page to Haven.
 
@@ -206,18 +224,18 @@ A concealed agent may have received information inside the instance and passed c
 
 Book III identifies the Sower-associated ship as the map's source. The individual sender, intermediary, intrusion route, exact chronology, and what each recipient knows remain open. A new intermediary need not replace that origin.
 
-**Questions the author must settle before the page drives v6's ending**
+**Author-level continuity still to reconcile**
 
 1. What did Daniel receive, and when? The drawing was already in his notebook when Elias colored it at six.
-2. What new or corrected information does Elias's page contain?
+2. Which final localization does Elias's page supply? Its function is selected; the exact target galaxy or region remains open.
 3. Is it a copy of a genuinely missing old page, or a later transmission presented in an older form?
 4. Why does the sender need Elias's involvement if it can already reach the instance?
 5. Why has Haven not already received or used the information? Limited access, limited attention, or needing a person's participation are possible categories, not selected answers.
 6. What changes after Elias brings it? Does it resolve a destination, establish a relationship, or allow a consequential comparison?
 
-**Editorial recommendation, not a chosen mechanism**
+**Book I payoff**
 
-Give Book I a local payoff while withholding provenance. A possibility is that the old notebook provides a pattern and the new page supplies something necessary to interpret or connect it. In v5 Haven already has a destination message that matches the notebook; any new route must explain what Elias adds rather than quietly giving the page redundant importance.
+Give the completed sequence a clear consequence while withholding provenance. Elias brings the last necessary view; the destination can now be localized. In v5 Haven already has a destination message that matches the notebook, so the revision must preserve the distinction between received information and the localization Elias makes possible. Do not present his page as essential after showing Haven already possess everything it adds.
 
 Keep the distinction between Hesk's protective contact and the other pressure on Elias perceptible through their actions. Hesk can reduce contact or hesitate about an encounter while another intervention pulls him toward it. No hacker briefing or faction explanation is required in Book I.
 
@@ -238,6 +256,39 @@ That boundary must also account for the foundation, Hesk's contact, exceptional 
 For the Ruth scene, distinguish two questions: whether Haven can restore someone who has died, and whether she might have intervened earlier. Her inability to return Ruth does not alone answer the second question. The author's policy offers a reason for restraint; its human cost can remain emotionally unresolved.
 
 Keep any explanation brief and specific to Elias's concern. A policy lecture would weaken the revelation. Haven can acknowledge the limit of her role without claiming that every resulting death or deprivation was necessary or just.
+
+### Protected centerpiece: Haven's poetic account of the Arks
+
+**Author direction**
+
+Haven's explanation is the pilot's principal sustained science-fiction revelation. It should give readers a world they can imagine, care about, and want to explore in the following books. Preserve its depth, breadth, and poetic quality. The surrounding story is largely thriller and family drama; this passage supplies the larger civilization and mythology those experiences open into.
+
+Haven tells a coherent, profound account before Elias asks a few questions. Do not turn it into an interview, force him to extract every essential fact, or reduce it to a brief logistical briefing in the name of economy. The compact pilot should make room for this passage according to its narrative purpose.
+
+**Conceptual content to carry**
+
+- The civilization that produced the Arks: human hopes, fears, accumulated knowledge, and the problem of surviving the loss of a world while preserving what people value in being human.
+- The alternatives considered and what Haven found insufficient about them. Her perspective can be deeply reasoned and emotionally persuasive without narratorial claims that no other survival strategy could ever work.
+- The central Ark architecture: a continuing society in an instance of reality, the Library preserving biological inheritance and possibilities for life, and the material Vessel that carries and sustains them.
+- The distinction between preserving isolated individuals and preserving a people: relationships, culture, work, creativity, memory, ordinary days, and the freedom for lives to continue beyond the steward's attention.
+- The long passage from early simulation to the present capability, expressed at the level of idea and consequence. Preserve wonder around the crossing and avoid a mechanism lecture.
+- The mobile survival strategy: gathering resources, maintaining and renewing the refuge, seeking places where it can endure, and accepting that even its steward has limits. Explain what this way of living is for, without specifying propulsion or component design.
+- The scale of time and loss, including the disappearance of Earth and the continuing life carried within the Arks. The account should make the ordinary world feel more consequential.
+- The opening toward another future: a potentially habitable planet offers room for life and new possibilities alongside renewed uncertainty, responsibility, and danger. Its actual localization and offer can remain in the later message scene.
+
+The speech should make these ideas form a connected history and a lived possibility, not an inventory read aloud. Images can give abstraction a human scale: a society carried through darkness, biological inheritance held for a future forest, ordinary days continuing inside a refuge. The narrator may provide grounding description or clarification where needed, while preserving the established viewpoint and the fact that Elias hears Haven's account.
+
+**Depth, disclosure, and pacing**
+
+Explain the Ark concept generously. Preserve the Book II discoveries about destructive fast scans, copies, the bomb, and the AI conflict; a compelling account of civilization and preservation does not require revealing those events here. The other survival path should remain able to complicate Haven's convictions later.
+
+Give Haven sustained passages. A few bodily or environmental details can keep Elias present without repeatedly interrupting her with questions. His questions afterward should arise from what hurts or matters personally: his family, Ruth, the reality of the world he loves, or the limits of what Haven knows. Use those that the scene needs, rather than treating the exchange as a checklist.
+
+This clarification supersedes any implication that the main route to a compact pilot is to compress the mythology. Cut repetition and inert explanation elsewhere; preserve the revelation's imaginative and emotional work. The ending stays short, and the crossing stays mysterious, while this account gives the reader substantial science-fiction ideas to inhabit.
+
+**Pilot scale**
+
+The author wants a pilot of appropriate length, not expansion toward a full-length novel. V5's approximately 13,600 words is a reference rather than a quota. Add space where the shared encounter or Haven's account earns it; reduce repetition and procedural material where it does not. Description and dialogue can serve atmosphere, character, rhythm, the environment, or the journey. Their purpose need not always be a clue or a later plot solution.
 
 ## 6. Home, the stone, ordinary life, and gratitude
 
@@ -345,16 +396,16 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 | 3. Ruth | Preserve care, her preferences, and the quiet sound. Possible guarded history stays subtle. | No explanation of a diagnosis or obligatory secret clue in every conversation. |
 | 4. Daniel | Add one affectionate science memory that joins wonder to contact with his father and can seed Elias's aerospace interest. Retain coloring at six and the later dismissed mineral. | Do not make every scientific interest merely a symptom of unmet affection. |
 | 5. Seams | Rework the colleague's guardedness and Elias's uncertain interpretation. Remove the bird-comparison logic. Keep the first indistinct dream sound. | Review title; no confirmed hospitalization, intelligible name, or technical proof. |
-| 6. The Notebook | Keep the material childhood connection and secrecy. Track what information the old drawings actually contain. | Depends on the eventual missing-page chronology. |
+| 6. The Notebook | Keep the childhood connection and secrecy. Describe successive map views at different scales rather than many corrections of the same picture. | Preserve the colored page. Exact transmission history remains unrevealed. |
 | 7. Two Trails | Make protective contact and the competing pull distinguishable in their consequences. | Avoid a faction briefing; preserve personal consequences already established. |
 | 8. The Institute | Hesk's scientific role is compatible with a clinical manner. Keep access guarded; use the proposed request for trust only when an encounter can be acknowledged. A later dream draws the sound closer. | The request should feel personal to the situation, not automatically promise immediate access. Keep the dream separate in time. |
 | 9. The Recital | Preserve the deliberately missed opportunity. Give the anonymous page a specific later consequence. | Elias remains responsible for ignoring calls; do not let manipulation erase that choice. |
 | 10. What Ruth Knew | Retain brief last words, grief, and the recording. | Any knowledge she held stays selective; the title should not promise a full revelation she does not give. |
 | 11. The Door | Let the last major dream bring his name out of the noise. Preserve the ordinary journey and thresholds. Begin the transition in a plain room with a chair; let changed perceptions accumulate while he waits. | Review the star dome. No visible advanced portal, activation sequence, declared blackout, identified dream speaker, or explanatory diagnosis. |
 | 12. Cold | Continue his reorientation through care, sensation, and activity. Introduce the familiar background noise without breaking the experienced transition. Let a few details attract his engineering attention. | “Waking” does not require an unseen interruption. Same-traveller continuity remains; neither expertise nor the dream resemblance proves the cause. |
-| 13. The Steward | Keep Haven's sustained account with the familiar background sound beneath it. Remove the bird/glitch link. Clarify stewardship only as needed. | Haven does not confirm she sent the dreams. Preserve moral uncertainty. |
-| 14. Daniel | Give Elias Daniel's full attention through meaningful shared work, the concise confrontation, and the gift. Under the proposed window rule Daniel can return with him but refuses. | Revise the distracted display glance. Warmth is sincere; continued commitment to the search and clinical ambiguity remain. |
-| 15. The Message | Pay off what Elias's page contributes. The planet and Vessel offer a future connected with his proposed aerospace vocation. | Sender, hack, and other Ark remain deferred; reconcile with Haven's existing message. Avoid a technical tour. |
+| 13. The Steward | Protect the sustained, poetic account as the pilot's science-fiction centerpiece: civilization, survival choices, society, Library, Vessel, time, and possibility. A few personal questions follow. | No interview structure, propulsion lecture, or early Book II disclosure. Preserve wonder, the quiet background sound, and Haven's limits. |
+| 14. Daniel | Give Elias Daniel's full attention through meaningful shared work, the concise confrontation, and the gift. This is Daniel's second return opportunity in twenty years; he again stays. | Revise the distracted display glance. Ruth's death and years lost deepen the decision; they do not make return impossible. |
+| 15. The Message | Let the final map view supply the missing localization. The planet and Vessel offer a future connected with Elias's proposed aerospace vocation. | Reconcile Haven's received world information with what the final page adds. Sender, hack, and other Ark remain deferred. |
 | 16. The Final Decision | Elias gives up experienced closeness and a possible dream working life. A closing opportunity can apply pressure if selected. Keep any sound echo brief. | Voluntary choice, not a crisis that makes departure unavoidable. Daniel's warmth does not make the family at home less real or valuable. |
 | 17. Homecoming | Preserve the short domestic echo, delight, and changed attention. Let gratitude, forgiveness, closure, presence, and moving forward be felt. Incorporate the necklace with coherent elapsed time. | No repeated apology, lesson about work–life balance, technical proof, or explanation of each image. |
 
@@ -362,7 +413,7 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 
 **Directions to implement in the next revision:** guarded Hesk; fear of losing trust in reality; childhood scientific warmth; experienced temptation to stay; society's independence as part of Haven's stewardship; a concise ending grounded in changed behavior and gratitude; the stone's development into a necklace; natural recurrence rather than a bird glitch.
 
-**Follow-up to carry forward:** dreams spaced across chapters grow toward Elias hearing his name, then an ambiguous resemblance to background sound on waking and during Haven's account. Daniel's repeated refusal of available return windows is the leading proposed access route; it remains a proposal until adopted with the rest of the crossing rules.
+**Follow-up to carry forward:** dreams spaced across chapters grow toward Elias hearing his name, then an ambiguous resemblance to background sound on waking and during Haven's account. The later clarification selects exactly two return opportunities for Daniel in twenty years, with the present encounter the second and another refusal.
 
 **Latest addition:** Daniel's full attention during the reunion is author direction. Aerospace engineering is the proposed specialty for Elias; its exact field and any mining or habitat connection remain open. The five pending assessment items and these new integration tasks are tracked in [v6-todo.md](v6-todo.md).
 
@@ -370,17 +421,19 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 
 **Transition direction:** a plain room and a chair, a gradual change within Elias's experience, and mounting unease. No visible high-tech passage or mechanism. Keep concrete sensory continuity while leaving the cause unresolved; revise the initial star-dome cue as needed.
 
-**Choices to settle before drafting affected scenes:** access rule and return opportunities; physical travel versus communication; what the missing page adds and why Elias carries it; the extent of Ruth's and the colleague's knowledge; the concrete contribution father and son share; the necklace's recipient and chronology. These are development questions, not requests to stop this documentation task.
+**Now selected:** the notebook's progression through map scales and the final page's localization function; Daniel's two return opportunities and present refusal; the importance and sustained poetic form of Haven's explanation; compact pilot scope. These answer the two latest story questions and clarify the treatment of the revelation.
+
+**Continuity and implementation still to reconcile:** the remaining access and communication terms; why the sender uses Elias to carry the final page; how Haven's received information relates to that page; the exact destination region; the extent of Ruth's and the colleague's knowledge; the contribution father and son share; the necklace's recipient and chronology. Retain the established disclosure boundaries and develop only what the pilot needs. These details do not change the selected map function or the count of Daniel's opportunities.
 
 The previous unresolved routes remain open where not addressed: Daniel's eventual departure or stay, Sami's later route, Hesk's deeper identity, and the durability of extended life away from Ark care. Do not restore Book III's retired repeat visit by Elias merely because crossing restrictions are being reconsidered.
 
 ## Work order toward v6
 
-1. Settle the small private continuity record for access, messages, and the page. Keep the clinical alternative and the science-fiction chronology distinct enough to avoid unintended contradictions.
+1. Build the private continuity record around the selected two-window history and successive map views, reconciling messages and what the final page adds. Keep the clinical alternative and the science-fiction chronology distinct enough to avoid unintended contradictions.
 2. Update the bible and character sheets with selected rules and motivations, preserving the present v5 references.
 3. Select the extent of Elias's aerospace background, then draft the two linked experiences of father–son curiosity: childhood and the later encounter in which Daniel gives him full attention. Use those to judge how much additional space the final act needs.
 4. Rework the first Institute visit and the clue sequence so the delay and eventual decision follow from what Elias learns and fears.
-5. Revise Haven's limits, the map payoff, and the choice. Remove the rejected bird/glitch linkage. Carry the spaced dreams toward his name and the later room sound without naming its cause.
+5. Preserve and develop Haven's sustained poetic account, then its few personal questions, the map payoff, and the choice. Remove the rejected bird/glitch linkage. Carry the spaced dreams toward his name and the later room sound without naming its cause.
 6. Preserve the short ending, establish its timing, and check whether gratitude is visible without being explained.
 7. Read for continuity, distinct voices, and unnecessary explanation; then render v6 as a new edition.
 
@@ -394,10 +447,12 @@ Do not expand toward a word-count target. Add a scene when it changes desire, kn
 - Does Daniel actually give Elias his full attention, and can the reader feel why Elias would want more time with him?
 - If aerospace engineering is adopted, does it deepen his ordinary identity and the Vessel's appeal without becoming an exposition device?
 - Does the access rule leave a real choice, and can it account for Daniel's twenty years?
-- Under the proposed window route, is Daniel visibly able to return and choosing to remain?
+- Is the present opening clearly Daniel's second return opportunity in twenty years, and is he choosing to remain?
 - Are the dreams separated, intensifying, and recognizable in the later room without a confirmed speaker or source?
 - Does the transition remain continuous and specific to Elias's perception, beginning ordinarily and building unease without a visible mechanism or an explanatory cut?
 - Does the page change something, without giving away its sender?
+- Does the notebook read as progressively closer map views, with the final page supplying the missing localization?
+- Does Haven's account give readers a substantial, memorable civilization and Ark concept before the questions begin?
 - Are Haven's restraint and the Institute's actions compatible under the selected account?
 - Do readers see changed attention and gratitude without another apology or a moralizing conclusion?
 - Can forgiveness and personal closure coexist with Daniel staying and the larger mystery remaining open?
