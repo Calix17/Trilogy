@@ -5,8 +5,8 @@ Requires Python 3.10+, reportlab, Pillow, and pypdf. Uses installed STIXGeneral
 TrueType fonts, with DejaVu Serif as a fallback. No network access is used.
 
 Run from any directory:
-    python3 08-production/render-book-v6.py
-    python3 08-production/render-book-v6.py --source path.md --output path.pdf
+    python3 production/render-book.py
+    python3 production/render-book.py --source path.md --output path.pdf
 
 Chapter headings must have the form ``## 1. The Good Days``. The first H1 is
 the book title; a pre-chapter H2 is the subtitle. Pre-chapter blockquotes form
@@ -329,10 +329,10 @@ def write_qa(output: Path, source: Path, doc: BookDoc, manuscript: dict, fonts: 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--source", type=Path, default=ROOT / "02-book-one/book-one-paradise-v6.md")
-    parser.add_argument("--output", type=Path, default=ROOT / "02-book-one/book-one-paradise-v6.pdf")
+    parser.add_argument("--source", type=Path, default=ROOT / "book-one/paradise.md")
+    parser.add_argument("--output", type=Path, default=ROOT / "build/paradise-v7-working.pdf")
     parser.add_argument("--qa", type=Path, default=None)
-    parser.add_argument("--frontispiece", type=Path, default=ROOT / "05-art/laniakea-tree.png")
+    parser.add_argument("--frontispiece", type=Path, default=ROOT / "art/laniakea-tree.png")
     parser.add_argument("--author", default="")
     parser.add_argument("--leading", type=float, default=14.8)
     parser.add_argument("--tighten-chapters", default="", help="Comma-separated chapter numbers; reduce their leading by 0.4pt after inspecting sparse endings.")

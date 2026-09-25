@@ -1,6 +1,9 @@
 build/
 __pycache__/
 *.pyc
+*.pdf
 *.zip
 .DS_Store
 Thumbs.db
+*~
+.*.swp

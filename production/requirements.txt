@@ -1,0 +1,5 @@
+# Python 3.10+. Runtime installation and rendering deferred until post-migration work.
+reportlab
+Pillow
+pypdf
+matplotlib
