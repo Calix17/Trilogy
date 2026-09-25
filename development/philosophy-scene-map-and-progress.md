@@ -191,7 +191,7 @@ The disaster is not caused by failure to predict the precise conjunction of even
 | Later relationship to inquiry | Book I's ancient Haven still learns and maintains its worlds, but has stopped the unresolved search for ultimate reality and restricts dangerous experiments. | Its strategy preserves independent exploration and changed descendants. It need not demand that every person constantly take greater risks. |
 | Limit of the preferred answer | A protected system might miss a possibility needed beyond its current horizon. | Risk and change can destroy communities; they do not guarantee improvement or an escape from eventual extinction. |
 
-**The temporal distinction matters.** Book II's Haven is an innovator developing an emergency architecture. Book I's much older Haven has a functioning refuge and a bounded inquiry policy. These can be the same character. Its later stance has to be earned through discoveries, losses, and obligations; it cannot simply declare all future learning useless.
+**Author clarification: preservation is already Haven's purpose in Book II.** Haven develops the emergency architecture to preserve existing humanity as long as possible; Sower seeks continued embodied evolution elsewhere. Book I's older Haven has an established refuge and a more specific history of bounded inquiry. That history can develop without inventing a later conversion to preservation. Neither phase requires Haven to stop practical learning, and its existing human-choice commitments remain.
 
 **The practical distinction matters too.** Earth's neglect lets supporting capacity deteriorate while assuming yesterday's success will continue. Haven's stability requires continued maintenance, observation, resource gathering, and responses to threats. Both can be challenged, but they are not the same behavior.
 
@@ -233,3 +233,7 @@ Brief conceptual distinctions above were checked against these scholarly referen
 5. [The Problem of Dirty Hands — Stanford Encyclopedia of Philosophy, Spring 2016 archive](https://plato.stanford.edu/archives/spr2016/entries/dirty-hands/).
 
 Related project records: [current revision checklist](v7-revision-checklist-2026-09-24.md), [selected philosophy and mythology](v7-philosophy-and-mythology-2026-09-24.md), and [v7 Vessel decisions](v7-vessel-and-trilogy-philosophy-2026-09-24.md).
+
+## Follow-up: seeding and successor Arks — proposal
+
+The [seeding and successor-Ark record](book-three-seeding-and-successor-arks-2026-09-24.md) extends the discussion into possible Book III choices: costly adaptation, a beacon rescue, unfamiliar descendants, accidental biological dispersal, and later refuges incorporating discoveries. It develops P-01, P-02, P-03, P-05, and P-07 without selecting their outcomes. Six further choices, B3-01 through B3-06, remain pending. No existing Other Garden encounter, Book III ending, or manuscript scene is replaced.

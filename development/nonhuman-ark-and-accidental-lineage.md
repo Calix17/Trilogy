@@ -1,5 +1,7 @@
 # Book III possibility — the unfamiliar Ark and an accidental lineage
 
+**Later direction:** The [convergence and final-door record](book-three-convergence-and-final-door-2026-09-24.md) now selects the colony struggle, mining-derived Ark encounter, Sower instance rescue, shared three-world strategy, and Daniel ending. This document preserves the earlier iteration; its open alternatives are historical where the later direction chooses a route.
+
 24 September 2026. Latest development of B3-03, B3-04, and B3-07. Proposal only; Book III remains open.
 
 ## Author's proposal

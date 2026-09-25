@@ -42,6 +42,11 @@ Politicians win support by expanding access to expensive neural immersion. Poor 
 
 The planetary defense system previously stopped a larger asteroid. That success makes its reliability seem settled. The world keeps funding immediate experienced benefits while hidden technical and institutional weaknesses accumulate.
 
+**Latest author emphasis:** destruction follows humanity's failure to keep preparing and investigating, its overconfidence, withdrawal into VR, and rejection of necessary progress. The recommended scene treatment distinguishes continued innovation in immersive experience from neglected research, upkeep, and response capacity. Show an earlier decision that materially worsens the ability to withstand or recover from the combined events. The exact scene and decision-maker remain proposals in the philosophy scene map.
+
+Both AIs challenge this complacency. Haven innovates toward a refuge; Sower invests in continued embodied development. Haven's much later decision to limit ultimate-reality inquiry is compatible with this earlier innovation and its ongoing practical stewardship. Neither survival strategy automatically justifies the methods used to prioritize it.
+
+
 ### An investigation into the generation-ship attack
 
 Jonah Vale, an engineer who believes he has failed to fulfill his promise, accepts a lucrative anonymous commission and unknowingly builds a component used in a weapon. He attends a prestigious gala with Iris Ahn, his former partner, at the generation-ship development facility. Their renewed contact and invitation need staging after the pilot’s poster recognition. Jonah recognizes the concealed danger and intervenes. Iris survives; others die, and a vital development capability is lost. Jonah is implicated. An Earth-side integration or qualification facility is the recommended site, leaving orbital construction infrastructure intact; the exact bottleneck remains to be chosen.

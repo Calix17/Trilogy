@@ -2,6 +2,10 @@
 
 24 September 2026. Review of newly supplied feedback, with scientific references checked. This records a possibility, not an author decision that Earth was seeded. No manuscript, ending, or character outcome changes.
 
+## Later author clarification
+
+The author has explicitly agreed that Earth seeding stays unconfirmed and Daniel's door remains the ending, with neither question explaining the other. A possible brief mention now has an endorsed purpose: help Haven value preserving diverse conscious lives and enabling independent future forms. Exact wording and placement remain open. Read [the latest motivation record](consciousness-diversity-and-havens-purpose-2026-09-24.md) with this earlier research review; no new evidence for Earth's external origin is selected.
+
 ## Creative value and status
 
 The proposed connection links quiet Ark societies, accidental mining descendants, deliberate future seeding, and a question about Earth's own beginnings. It extends the existing theme of life preserving life while making further lives possible. It can enrich Haven's change of purpose without becoming another explanatory subplot.
@@ -75,6 +79,6 @@ Daniel's final door remains last. No new epilogue, revelation about Earth's actu
 
 ## Pending decisions
 
-Whether to use the ancestral-seeding suggestion at all; whose thought it is; where it belongs; the practical bounds on seeding and fleet growth; and how much of the Fermi interpretation is a character's model versus stipulated fictional history. The reference checks refine confidence and language; they do not choose these routes for the author.
+Whether and how to include the brief ancestral-seeding reflection in Haven's encounter, and its exact placement, remain open. Its proposed role in Haven's wider concern is now endorsed by the author. The practical bounds on seeding and fleet growth, and how much of the Fermi interpretation is a character's model versus stipulated fictional history, remain to be developed. Earth's seeding is explicitly unconfirmed; Daniel's separate final door is retained.
 
 Related: [current Book III route](book-three-convergence-and-final-door-2026-09-24.md), [adaptation clarification](book-three-adaptation-emergency-and-feedback-2026-09-24.md), [revision checklist](v7-revision-checklist-2026-09-24.md), and [supplied feedback](../99-archive/2026-09-session-notes/fermi-luca-feedback-2026-09-24.md).

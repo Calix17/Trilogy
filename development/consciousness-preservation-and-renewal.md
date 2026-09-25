@@ -1,5 +1,7 @@
 # Consciousness, preservation, and renewed exploration
 
+**Later direction:** The [convergence and final-door record](book-three-convergence-and-final-door-2026-09-24.md) now selects the colony struggle, mining-derived Ark encounter, Sower instance rescue, shared three-world strategy, and Daniel ending. This document preserves the earlier iteration; its open alternatives are historical where the later direction chooses a route.
+
 24 September 2026. Author framework and possible Book III direction.
 
 ## Status and authority
