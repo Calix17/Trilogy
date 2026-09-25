@@ -2,7 +2,7 @@
 
 Updated 24 September 2026 for Book I v7 working text and the generation-ship facility-gala direction. V6 remains the prior rendered edition. Later causal proposals are labelled below.
 
-This is the current working story, with proposed outcomes identified where they remain unselected. The chronological discussion, including earlier alternatives, is preserved in `plot-clarifications-and-mystery-boundaries-2026-09-22.md` and its linked source. This summary does not replace those records.
+This is the current working story, with proposed outcomes identified where they remain unselected. Current constraints and detailed options are in the current decisions document; original discussions and superseded alternatives are preserved in Git history.
 
 ## Book I — Paradise (v7 working text)
 
@@ -106,4 +106,4 @@ The governing distinction is between **intent**, **responsibility for particular
 
 ## Philosophical progression
 
-Book I asks what a search costs the life already being lived. Book II asks what refusing to investigate and prepare costs the people who depend on a shared world. Book III tests how care, exploration, and different chosen futures can coexist under shared limits. None supplies a universal instruction to stop or continue. Consent, distribution of risk, evidence, identity, inherited obligations, and the authority of scripture need dramatic consequences. See [the trilogy philosophy record](v7-vessel-and-trilogy-philosophy-2026-09-24.md).
+Book I asks what a search costs the life already being lived. Book II asks what refusing to investigate and prepare costs the people who depend on a shared world. Book III tests how care, exploration, and different chosen futures can coexist under shared limits. None supplies a universal instruction to stop or continue. Consent, distribution of risk, evidence, identity, inherited obligations, and the authority of scripture need dramatic consequences. See [the trilogy philosophy record](../development/decisions.md).
