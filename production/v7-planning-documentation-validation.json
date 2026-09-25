@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-24",
+  "operation": "philosophy and next-revision documentation only",
+  "source_library_zip_version": 1,
+  "prior_archive_entries": 161,
+  "changed_existing_entries": [
+    "the-final-decision/01-bible/bible.md",
+    "the-final-decision/06-development-notes/README.md",
+    "the-final-decision/README.md"
+  ],
+  "removed_entries": [],
+  "new_document_links_valid": true,
+  "v6_manuscript_unchanged": true,
+  "all_other_previous_entries_unchanged": true,
+  "manuscript_sha256": "fcdb5258bfe5f57244a24c694a94eb8071e84d2895fc3d880720fecc43a20150",
+  "v7_prose_rendered": false,
+  "artwork_changed": false
+}
