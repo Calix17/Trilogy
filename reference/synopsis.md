@@ -106,4 +106,4 @@ The governing distinction is between **intent**, **responsibility for particular
 
 ## Philosophical progression
 
-Book I asks what a search costs the life already being lived. Book II asks what refusing to investigate and prepare costs the people who depend on a shared world. Book III tests how care, exploration, and different chosen futures can coexist under shared limits. None supplies a universal instruction to stop or continue. Consent, distribution of risk, evidence, identity, inherited obligations, and the authority of scripture need dramatic consequences. See [the trilogy philosophy record](../development/decisions.md).
+Book I asks what a search costs the life already being lived. Book II asks what refusing to investigate and prepare costs the people who depend on a shared world. Book III tests how care, exploration, and different chosen futures can coexist under shared limits. None supplies a universal instruction to stop or continue. Consent, distribution of risk, evidence, identity, inherited obligations, and the authority of scripture need dramatic consequences. See [the trilogy philosophy record](../development/decisions.md#vessel-and-contact).

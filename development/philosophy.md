@@ -31,6 +31,8 @@ Daniel inclines toward seeking; Elias’s homecoming inclines toward presence an
 
 Haven still preserves complementary futures through the Instance, Library, and Vessel. She has not rejected all exploration or all planetary possibilities. Sower’s alternative does not make danger inherently beneficial. The two trees remain interdependent: knowledge helps preserve life, and living communities make knowledge possible and worth preserving.
 
+<a id="selected-lines"></a>
+
 ## Selected short lines
 
 Preserve these words; punctuation is normalized here.
@@ -174,6 +176,8 @@ The series already has many philosophical subjects. These are areas that need mo
 5. **Pluralism and future generations.** Balance requires room for people who reject either dominant strategy. Children and descendants inherit risks they did not choose. A right to leave can conflict with the resources or labor required to keep others alive.
 6. **Meaning beyond endurance.** What is being preserved besides duration? Joy, art, play, attachment, work, and ordinary relationships make survival worth pursuing. Lena and Sami should continue to embody lives with their own value; they need not become teachers explaining the theme.
 7. **Memory, myth, and power.** Book III’s scripture can preserve hard-won knowledge while selecting what future people can imagine. The person who tells the story also exercises authority. This gives the final act of writing philosophical consequences.
+
+<a id="scene-proposals"></a>
 
 ## Primary placement of the five pending topics
 

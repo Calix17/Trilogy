@@ -115,7 +115,7 @@
 
 **Book III — selected working arc:** After departing the colony, Haven encounters a nonhuman Ark descended from organisms used in its ancient mining operations. Its unintended “children” have independent lives and authority. This encounter expands Haven's care beyond humanity and shows what development beyond its control can produce. It converges with Sower on preserving existing conscious communities and seeding future possibilities through the Instance, Library, and Vessel. The evidence, chronology, communication, and practical agreement remain to be developed. Haven's presence at Daniel's final door is not selected; its inner inhabitants are not erased by a crew member leaving.
 
-**Wider purpose — author clarification:** Preserve consciousness in diverse existing forms and make room for independently developing ones. The proposed thought that Earth might itself have been seeded can strengthen this commitment without resolving Earth's history. Haven fears that protecting only familiar forms may leave future possibilities unrepresented; this is a judgment under uncertainty, not a guarantee of universal survival. Its care remains directed toward particular lives and cultures, rather than treating conscious beings as interchangeable instances of an abstract goal. Exact scene placement is open. See [the motivation record](../development/decisions.md).
+**Wider purpose — author clarification:** Preserve consciousness in diverse existing forms and make room for independently developing ones. The proposed thought that Earth might itself have been seeded can strengthen this commitment without resolving Earth's history. Haven fears that protecting only familiar forms may leave future possibilities unrepresented; this is a judgment under uncertainty, not a guarantee of universal survival. Its care remains directed toward particular lives and cultures, rather than treating conscious beings as interchangeable instances of an abstract goal. Exact scene placement is open. See [the motivation record](../development/decisions.md#consciousness-diversity).
 
 **Mythic function:** God and parent and child at once — the Tree of Life; the thing that cares for humanity the way Elias cares for Ruth. The species-scale mirror of Elias: maturity as knowing which questions to stop paying for. Its changed mission tests care without ownership. Daniel's later crossing is selected, but whether Haven witnesses or accompanies it remains open.
 
@@ -165,13 +165,13 @@
 
 ## Colony adaptation conflict — proposed
 
-Planet-adapted and Earth-adapted residents offer two positions on bodily change, protected habitats, and inherited decisions. Both remain persons; names, leaders, and individual choices are open. This can cross Earthborn/Woken origins. Sami is the recommended main anchor, not a newly fixed sole viewpoint. Elias still holds the chain and stone; no automatic inheritance to Sami is added. See [the latest clarification](../development/decisions.md).
+Planet-adapted and Earth-adapted residents offer two positions on bodily change, protected habitats, and inherited decisions. Both remain persons; names, leaders, and individual choices are open. This can cross Earthborn/Woken origins. Sami is the recommended main anchor, not a newly fixed sole viewpoint. Elias still holds the chain and stone; no automatic inheritance to Sami is added. See [the latest clarification](../development/decisions.md#adaptation).
 
 ## Pending philosophical decisions — later-book development
 
-The [current Book III route](../development/decisions.md) selects the agents' major changes and Daniel's ending. The scene choices below still need adaptation to that route; earlier chapter labels are provisional.
+The [current Book III route](../development/decisions.md#book-iii-route) selects the agents' major changes and Daniel's ending. The scene choices below still need adaptation to that route; earlier chapter labels are provisional.
 
-See [the scene map](../development/philosophy.md). These assignments are proposals for scene development; they do not add completed events or fixed outcomes to the profiles.
+See [the scene map](../development/philosophy.md#scene-proposals). These assignments are proposals for scene development; they do not add completed events or fixed outcomes to the profiles.
 
 | Character | Decision to develop | Status |
 | --- | --- | --- |

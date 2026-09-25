@@ -2,6 +2,8 @@
 
 Consolidated from the latest v7 package. This document preserves existing decisions and labelled proposals; it introduces no new story decisions. The [bible](../reference/bible.md), [characters](../reference/characters.md), and [synopsis](../reference/synopsis.md) contain current reference material. The [open-items list](open-items.md) owns task status. Earlier discussions and superseded alternatives are in Git history. Research citations below are carried forward from the supplied records, not rechecked during migration.
 
+<a id="trilogy"></a>
+
 ## The governing progression
 
 The series starts with a family and a search, widens to competing civilizational rescues, and reaches conscious life's future beyond humanity. The intimate beginning supplies the stakes: survival matters because particular lives and relationships matter.
@@ -18,6 +20,8 @@ Ruth protects by withholding; Daniel seeks while postponing obligations. Elias u
 
 The later agents enlarge this tension. Preservation can become control, and exploration can impose costs on others. Their convergence should show learning without erasing the damage done along the way. Daniel's eventual discovery can be meaningful without refunding the years his family lost or overturning Elias's choice.
 
+<a id="book-iii-route"></a>
+
 ## The selected Book III route
 
 Retain the colony's struggle to survive on a world for which Earth bodies and ecology are not automatically suited. Adaptation produces changed descendants. A sudden emergency outruns further adaptation; Sower preserves these same colonists first in simulation, then through instantiation. These changed people remain within its original human-preservation obligation. The rescue capability, capacity, timing, choices, and losses need causal preparation.
@@ -30,7 +34,7 @@ Daniel keeps seeking, finds an empty Ark that found the answer, and decides to e
 
 ## Latest colony development
 
-The proposed adaptation factions retain different relationships to their bodies and the planet, with neither denied personhood. Airborne fibers, plant-like toxins, and microbial dangers remain hazard options. Sower’s watching needs coherent limits and rescue preparation. The agents’ later preference for seeds and independent development does not withdraw care from current inhabitants or prohibit medicine. See [the detailed update](decisions.md).
+The proposed adaptation factions retain different relationships to their bodies and the planet, with neither denied personhood. Airborne fibers, plant-like toxins, and microbial dangers remain hazard options. Sower’s watching needs coherent limits and rescue preparation. The agents’ later preference for seeds and independent development does not withdraw care from current inhabitants or prohibit medicine. See [the detailed update](decisions.md#adaptation).
 
 ## What remains open
 
@@ -39,6 +43,8 @@ The colony needs concrete people making costly choices, not only a demonstration
 The previous numbered outline is preserved for reuse. Its beacon ending is superseded by Daniel's door; Tower, scripture, and founding-law material need to earn their places. Elias's retired second Vessel visit stays retired.
 
 The exploration/preservation cycle remains a speculative model for the story, not a universal biological law or guarantee of an optimal future. The fictional discovery at the ending does not require a scientific lecture or showing the world beyond the door.
+
+<a id="vessel-and-contact"></a>
 
 ## Author directions recorded
 
@@ -91,6 +97,8 @@ The following ledger carries forward the v6 implementation record, with the alre
 | Map payoff | Father and son understand the sequence; Haven verifies its destination; Daniel requests the voyage. His wish does not bind every inhabitant to a planetary life. |
 | Farewell objects | Daniel keeps the completing sheet with his copies. Elias takes the original notebook, Ruth’s letter, and the gray stone. |
 | Final breakfast | A later ordinary return with bread permits off-page time for mounting the stone on Ruth’s chain. No claim of instantaneous return-and-mounting is made. The key no longer hangs from it. Daniel is alive; this is not a memorial to two dead parents. |
+
+<a id="adaptation"></a>
 
 ## The colony's two factions — proposed development
 
@@ -180,6 +188,8 @@ Complete the colony's main emotional consequence and the meaning of the rescue b
 
 The former final page, The Light, is superseded as the ending. Its beacon imagery, scripture, and children can be reused earlier if they serve the chosen route.
 
+<a id="candidate-outline"></a>
+
 ## Book III — compact candidate outline
 
 24 September 2026. Arrangement proposal using the author's selected route. These are story beats, not committed chapter numbers. Sami as the main human anchor is recommended; Hesper's viewpoint and the wider cast remain open.
@@ -197,6 +207,8 @@ Haven's encounter and Daniel's investigation can be interleaved with the colony 
 
 The hazard, emergency, rescue limits, survivors, personal outcomes, and precise final image are unselected. This outline does not move the stone from Elias to Sami or restore Elias's retired second Vessel visit.
 
+
+<a id="consciousness-diversity"></a>
 
 ## Decisions and degree of commitment
 
@@ -238,6 +250,8 @@ The three worlds continue to work together: the Instance supports living conscio
 
 Daniel's search remains separate. His door carries the final unresolved question. There is no new Earth-origin revelation or domestic coda after it, and no decision that ancestral seeding also explains the myth warning.
 
+<a id="adaptation-research"></a>
+
 ## Existing research notes for the adaptation proposal
 
 24 September 2026. Research notes for the writer, not explanatory passages for the novel. Source record dated 24 September 2026; its references are retained without new verification. The colony organisms, future transfers, and bodily adaptations remain fictional.
@@ -274,6 +288,8 @@ Preservation through simulation and later instantiation is the author's fictiona
 
 These notes support believable choices. They do not require additional scientific exposition in Book I or turn the third book into a technical report.
 
+
+<a id="origin-research"></a>
 
 ## Existing research and boundaries for the optional origin thread
 

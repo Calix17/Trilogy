@@ -32,7 +32,7 @@ Book I is v7 working text: 17 chapters, 15,558 chapter-body words. V7 has no ren
 
 ## Later-series decisions — distinct from Book I corrections
 
-**Book III scope update:** Books I and II remain almost fixed. The author now selects the difficult colony, Haven's mining-derived Ark encounter, Sower's instance rescue, their shared three-world strategy, and Daniel's final door. See [the current route](decisions.md). Human arcs, causes, chapter order, and precise staging remain open; earlier third-book scenes are retained only where they serve this route.
+**Book III scope update:** Books I and II remain almost fixed. The author now selects the difficult colony, Haven's mining-derived Ark encounter, Sower's instance rescue, their shared three-world strategy, and Daniel's final door. See [the current route](decisions.md#book-iii-route). Human arcs, causes, chapter order, and precise staging remain open; earlier third-book scenes are retained only where they serve this route.
 
 ### S-01 — The split message and its delivery history
 
@@ -70,7 +70,7 @@ During later-book drafting, identify absolute claims in old notes and assign the
 
 ## Pending philosophy scene development — P-01 to P-08
 
-The mapping is documented in [philosophy-scene-map-and-progress-2026-09-24.md](philosophy.md). All scene treatments below remain proposals, with outcomes and specific staging to be selected during drafting. This follow-up changes documentation only.
+The mapping is documented in [philosophy-scene-map-and-progress-2026-09-24.md](philosophy.md#scene-proposals). All scene treatments below remain proposals, with outcomes and specific staging to be selected during drafting. This follow-up changes documentation only.
 
 | ID | Topic and primary placement | Pending character work |
 | --- | --- | --- |
@@ -87,7 +87,7 @@ Book I already seeds these questions. Do not expand its Vessel dialogue to satis
 
 ## Book III — selected route and remaining implementation, B3-01 to B3-07
 
-The [latest author direction](decisions.md) now selects the colony struggle, mining-derived Ark encounter, Sower's instance rescue, shared preservation and seeding, and Daniel's final threshold. The entries below distinguish settled endpoints from work still required. Previous chapter material remains available in [the preserved outline](https://github.com/Calix17/Trilogy/blob/c758fe87b94fc8c1ad56c432c2394d9178782e4b/development/book-three-previous-outline.md).
+The [latest author direction](decisions.md#book-iii-route) now selects the colony struggle, mining-derived Ark encounter, Sower's instance rescue, shared preservation and seeding, and Daniel's final threshold. The entries below distinguish settled endpoints from work still required. Previous chapter material remains available in [the preserved outline](https://github.com/Calix17/Trilogy/blob/c758fe87b94fc8c1ad56c432c2394d9178782e4b/development/book-three-previous-outline.md).
 
 | ID | Selected direction | Remaining implementation |
 | --- | --- | --- |
@@ -103,11 +103,11 @@ The broad route is selected; these seven implementation tasks remain open. No ch
 
 ## Latest adaptation review
 
-See [the detailed clarification](decisions.md), [compact candidate outline](decisions.md), and [research checks](decisions.md). The outside feedback does not move Daniel’s ending, give Sami the stone, require planetary survivors, or settle publication format. Simulation and instantiation are fictional capacities; their limits and continuity must be consistent.
+See [the detailed clarification](decisions.md#adaptation), [compact candidate outline](decisions.md#candidate-outline), and [research checks](decisions.md#adaptation-research). The outside feedback does not move Daniel’s ending, give Sami the stone, require planetary survivors, or settle publication format. Simulation and instantiation are fictional capacities; their limits and continuity must be consistent.
 
 ## Optional cosmology thread — F-01 to F-04
 
-The [Fermi/LUCA feedback review](decisions.md) records checked references. The [later author clarification](decisions.md) confirms that Earth's origin remains unproven and Daniel's door stays last. The possible reflection's function in Haven's wider concern is endorsed; its exact on-page use remains open.
+The [Fermi/LUCA feedback review](decisions.md#origin-research) records checked references. The [later author clarification](decisions.md#consciousness-diversity) confirms that Earth's origin remains unproven and Daniel's door stays last. The possible reflection's function in Haven's wider concern is endorsed; its exact on-page use remains open.
 
 - **F-01:** Decide whether the quiet-Ark interpretation needs any further on-page statement. Selection alone does not resolve every expansion or probe counterexample; one encounter need not explain the entire sky.
 - **F-02:** Develop the possible brief Earth-seeding reflection in Haven's encounter. Its purpose is now endorsed: deepen the value Haven places on preserving diverse conscious lives and enabling independent future forms. Exact inclusion, wording, and placement remain open. Earth seeding stays unconfirmed; familiar Earth-derived biochemistry is not independent evidence of it.
@@ -130,7 +130,7 @@ Assessment carried forward from the supplied v7 record: the architecture of this
 
 See [the selected philosophy and mythology record](philosophy.md) and [the earlier external-feedback assessment](https://github.com/Calix17/Trilogy/blob/c846feaac6353f1dbbbf6b74a7010d144d449970/development/external-review-assessment.md).
 
-See also [the applied Vessel revision and trilogy philosophy map](decisions.md).
+See also [the applied Vessel revision and trilogy philosophy map](decisions.md#vessel-and-contact).
 
 
 ## Completion evidence for P-01 through P-08
