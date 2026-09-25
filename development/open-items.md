@@ -32,6 +32,7 @@ These are unimplemented recommendations, not new canon. Evidence, confidence, ef
 | R-06 | Test whether repeated bird details imply an unintended reset. Preserve ordinary recurrence and selected final exchange. | Reader test; no change assumed. |
 | R-07 | Correct spoiler-bearing art before releasing an illustrated reading edition. | Existing V7-08 remains pending. |
 | R-08 | Reconcile chapter 15's sheet-in-pocket wording with established notebook custody at copyedit. | Low-priority wording review. |
+| R-09 | Test the author's intended institutional/treatment misdirection: can readers plausibly infer voluntary admission to be near Daniel, or a visionary/treatment experience, while the cosmic reading remains available? Reassess R-01/R-03 disclosures and any added science-fiction hint against that purpose. | Direction confirmed; specific prose additions unselected. See [the clarification](decisions.md#author-clarification--institutional-and-treatment-misdirection). |
 
 ## Preserve during that pass
 
@@ -40,6 +41,7 @@ These are unimplemented recommendations, not new canon. Evidence, confidence, ef
 - Ruth’s hidden letter, disclosure, chain/key handover, and death with family present remain. The necklace connects Elias to both parents; Daniel is still alive.
 - The general support ads belong to the protective Institute. The anonymous page and private call belong to the competing message effort at writer level. Hesk need not recruit for Sower.
 - The crossing remains an ordinary room changing through Elias’s experience. No new-body explanation, visible apparatus, compulsory diagnosis, or definitive vision explanation is added.
+- Institutional care, voluntary admission to stay with Daniel, and a visionary or experimental-treatment experience are deliberately encouraged reader hypotheses. They remain interpretations, not confirmed diagnoses or drug administration.
 - The three full dreams stay spaced; the sound’s eventual resemblance remains uncertain. The bird is ordinary recurrence, not a confirmed rendering glitch.
 - Haven’s speech remains the science-fiction centerpiece. The Instance is a continuing society, the Library includes ecological and cultural inheritance, and the Vessel preserves possible futures.
 - The final breakfast remains ordinary, short, and free of a journey debrief. Sami’s toast house becomes a rocket; the chain carries the stone; renewed attention is enacted.

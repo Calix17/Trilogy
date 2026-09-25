@@ -82,6 +82,8 @@ The last three chapters together are only 8%. This gives the ending decisiveness
 
 ## Science-fiction hints and thriller intensity
 
+**Author clarification after this assessment:** the institutional, voluntary-admission, visionary and experimental-treatment readings are intended misdirection, not merely incidental alternatives. The recommendations below must preserve that purpose. The next section records the revised assessment; no new clue or explanation has been added to the manuscript.
+
 There is already a staged progression. Preserve the distinctions among a thematic preparation, a suspicious event, and actual evidence.
 
 | Stage | Existing hint | Function and proportionate option |
@@ -96,6 +98,24 @@ There is already a staged progression. Preserve the distinctions among a themati
 The sound is a refrain, not independent corroboration. The ordinary sparrow should remain ordinary. A stopped clock, repeated bird animation, faulty sky or disappearing street would increase familiar simulation imagery and change the protected ambiguity; none is needed.
 
 Threat does not rise continuously. External menace peaks around the anonymous approach and crossing, then decreases as care becomes visible. Emotional pressure peaks at the recital, Ruth's death and the reunion/decision. This is a viable suspense shape. To strengthen it, use uncertain access, truthful disclosures, conflicting wants and time-limited choice. An assassin or evil-Haven twist in Book I would change its center and weaken its distinction from the comparison films.
+
+## Intended institutional misdirection — revised assessment
+
+The author wants readers to suspect that Elias may have entered a mental-health institution voluntarily to stay with Daniel, or that the encounter may be a vision or experimental-treatment experience. This strengthens the psychological suspense: the question includes whether his apparent discovery is also a further withdrawal from the family he is neglecting. It changes the weighting of the earlier recommendation to increase science-fiction evidence.
+
+The existing manuscript supports the institutional interpretation quite well. Chapter 4's visit beneath a high television provides an earlier institutional association without naming it. The support campaign, Hesk's consultation, folded garments, sleep question, locker, gown, slippers, water, couch and Rana's care accumulate into a plausible alternative context. The plain room's perceptual transformation and absence of an external viewpoint preserve uncertainty. The two-room restriction therefore has a suspense function as well as keeping exposition contained.
+
+Voluntarily entering to remain near Daniel adds the important emotional motive. A reader can understand why Elias might accept this setting: he wants access to his father and a relationship unavailable in ordinary life. Chapter 14 supplies the wished-for attention. That makes the choice to stay dangerous to his present commitments even when no villain threatens him. Hesk need not be malicious for this interpretation to work.
+
+The experimental-drug explanation is less specifically prepared than the institutional or visionary readings. Water, bodily disorientation and the changing room are compatible with it, but no drug is administered on the page. This is not automatically a defect: the possibilities need not receive equal evidence. If reader testing finds that this particular possibility matters but never arises, consider one restrained procedural detail that remains compatible with both care and passage. No specific medication, mechanism or new scene is selected here.
+
+The strongest misdirection uses facts that remain true on rereading while the reader changes their explanation. Keep the garments, care, uncertain sound and limited perspective; avoid explanatory labels that certify either cause. The stone's provenance is not independently tested, and Haven's account remains something Elias hears. Additional objective scientific confirmation could defeat this design. Earlier suggestions for extra anomalies or practical answers are therefore conditional rather than automatic improvements.
+
+Some clues resist a purely ordinary institutional explanation: the externally delivered sheet, the matching map, the ten-year openings and no-repeat rule. These preserve the competing cosmic possibility. The latter rules should not be defended as normal hospital policy; they can remain strange statements within an uncertain experience. The private chronology and logistics still need consistency for the later series. Ambiguity does not require every detail to fit every hypothesis equally well.
+
+The ending can then resolve an emotional question across interpretations: Elias returns to participation in family life. It need not certify a cure, diagnosis, dream or voyage. His harm to Sami and obligations to Lena remain consequential under each reading. No final medical debrief or explanatory twist is required.
+
+For unprompted reader testing, first ask what they thought the Institute was, why Elias entered, what they believed had happened at the crossing, and when their interpretation changed. Only afterwards ask whether they considered treatment, vision or a literal voyage. Success means more than one interpretation arises from actual details while Elias's emotional choice remains legible; it does not require equal votes or universal uncertainty.
 
 ## Questions, causality and priority risks
 
@@ -161,7 +181,7 @@ After reading, ask:
 7. Did the final breakfast suggest renewed attention, a literal reset, or something else? What detail caused that reading?
 8. Where did Haven's explanation become absorbing or lose you? Did Daniel remain attractive as well as culpable?
 
-The useful pass condition is comprehension of the chosen tradeoff without needing the planning documents, alongside continued interest for the intended audience. Agreement with Elias is not required. Neither equal chapter length nor a cliffhanger at every break is a test.
+The useful pass condition is comprehension of the chosen tradeoff without needing the planning documents, alongside continued interest for the intended audience. Also test the intended institutional misdirection using the unprompted questions above. Agreement with Elias is not required. Neither equal chapter length nor a cliffhanger at every break is a test.
 
 ## Production evidence and disposition
 

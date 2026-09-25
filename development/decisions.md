@@ -1,6 +1,18 @@
 # Current decisions and development boundaries
 
-Consolidated from the latest v7 package. This document preserves existing decisions and labelled proposals; it introduces no new story decisions. The [bible](../reference/bible.md), [characters](../reference/characters.md), and [synopsis](../reference/synopsis.md) contain current reference material. The [open-items list](open-items.md) owns task status. Earlier discussions and superseded alternatives are in Git history. Research citations below are carried forward from the supplied records, not rechecked during migration.
+Consolidated from the latest v7 package, with subsequent author clarifications explicitly recorded below. The [bible](../reference/bible.md), [characters](../reference/characters.md), and [synopsis](../reference/synopsis.md) contain current reference material. The [open-items list](open-items.md) owns task status. Earlier discussions and superseded alternatives are in Git history. Research citations below are carried forward from the supplied records, not rechecked during migration.
+
+## Author clarification — institutional and treatment misdirection
+
+After the full v7 assessment, the author confirms that the reader should actively consider a mental-health institution, Elias voluntarily admitting himself to remain with his father, a vision, or an experience associated with an experimental drug or treatment. These are intended alternative interpretations of the encounter, not confirmed events or a newly selected diagnosis. The underlying series architecture remains unchanged.
+
+The clinical reading should have a motive as well as visual cues: Elias may seem to be entering his father's institutional world to obtain the closeness he has wanted for years. His decision to return then carries emotional meaning under either interpretation. The reader can remain uncertain about the encounter while understanding his obligations to Lena and Sami.
+
+Existing preparation includes Daniel's earlier visit beneath a high-mounted television, the crisis-support advertisements, Hesk's manner, sleep questions, garments, locker, attendants, water and couch, Rana's practical care, and the limited rooms. Preserve their capacity to support more than one explanation. Voluntary entry does not require the narrator to certify that Elias understands everything happening to him.
+
+The experimental-treatment possibility is currently a possible inference, not an established administration of a substance. Specific additions, if needed, remain to be selected. Do not silently add a drug, diagnosis, injection or explanatory discharge scene. Keep observations honest within Elias's viewpoint; suspicions can mislead without the narrator falsely asserting a clinical or cosmic cause.
+
+This clarification qualifies the review's recommendations for stronger science-fiction signals and more practical answers. First test whether an addition would prematurely certify the Vessel or eliminate the intended institutional reading. Private causal consistency is still necessary, but not every private rule needs exposition. Conversely, ten-year openings and no-repeat passage should not be presented as ordinary real-world hospital policies: their strangeness can remain part of the experience being interpreted.
 
 <a id="trilogy"></a>
 
