@@ -4,6 +4,8 @@
 
 Follow-up added the same day: Daniel can decline a return during the crossing windows; dreams recur across chapters and grow toward his name emerging from the noise; the sound recurs as he wakes and during the Haven encounter without a confirmed source. The previous planning document is preserved in `99-archive/v6-planning-iterations/`.
 
+Further follow-up: aerospace engineering is proposed as Elias's specialty, and Daniel gives Elias his full attention during their brief reunion. The five pending items from the subsequent assessment are tracked in [the v6 to-do list](v6-todo.md). Earlier planning snapshots remain in the same archive.
+
 **Status: development direction, not a rewritten manuscript.** V5 remains the current reading edition. Its prose, PDF, bible, character sheets, and synopsis have not been changed by this planning update. Explicit author directions below supersede incompatible older suggestions when preparing v6. Options introduced with “maybe” remain options.
 
 The preceding review and the complete author response are preserved in [the discussion source](../99-archive/2026-09-session-notes/v6-planning-source-2026-09-23.md). This document distinguishes those sources from editorial recommendations.
@@ -67,6 +69,34 @@ At the destination, give Elias something he can contribute as an engineer. A sma
 The later temptation is to continue a valuable experience he has already begun. It can include companionship, useful work, wonder, a longer life, and the planet. It must not depend entirely on Haven listing these advantages.
 
 Retain the notebook coloring at six, the later dismissed stone, and the adult gift. The new affectionate memory complicates those wounds rather than canceling them. Daniel is neither an unloving caricature nor absolved because his work has value.
+
+### Follow-up: aerospace engineer and his father's full attention
+
+**Author proposal: Elias's specialty**
+
+Elias could be an aerospace engineer. His work, interests, and habits could connect with space exploration, mining, and the practical systems of living or working away from Earth. Aboard the Vessel with Daniel, he would be entering a life he has long wanted, as well as finding his father. The exact specialty, employer, projects, and depth of any mining connection remain open.
+
+**Editorial recommendation**
+
+Spacecraft systems engineering is a useful candidate because it connects his practical temperament to the Vessel's maintenance and operations. Other aerospace specialties remain available. Use a few purposeful details in his ordinary work and attention rather than a résumé paragraph or a catalog of technologies. The existing chapter 2 fault investigation could be given an aerospace context without replacing its function: Elias is capable, enjoys understanding a problem, and can work well with colleagues.
+
+Space mining, robotic operations, or habitat systems can be candidate interests, design work, or later opportunities. They do not require the home society to have a mature asteroid-mining industry. Decide what belongs to his everyday profession and what remains an aspiration fulfilled by the Vessel. These examples are options, not selected specialties.
+
+His expertise should let him recognize constraints, ask practical questions, and contribute to a bounded activity with Daniel. The Ark's unfamiliar technology can still exceed his understanding. Do not use the specialty to authenticate the voyage conclusively or require him to explain the crossing.
+
+**Author direction: Daniel is fully present with Elias**
+
+During their brief time together, Daniel gives Elias his full attention. They are more connected than ever before, sharing a passion that might also be read as a shared obsession or altered experience. The narrator does not choose a clinical explanation. Daniel's engagement is sincere; no manipulation or recruitment motive is added.
+
+Let the attention appear in behavior: Daniel listens to Elias's answer, follows his line of thought, takes his contribution seriously, and enjoys being with him. The chosen activity can unite professional wonder and personal closeness in the same scene. Do not expand their reunion into a long question-and-answer history of the family.
+
+The attraction now has two connected sources: Elias experiences a dream working life, and Daniel is present with him inside it. Returning home costs him that companionship as well as the possibilities of the Vessel. This moment does not erase the past or promise that Daniel has permanently changed. It is a real experience of closeness within the account Elias lives through.
+
+**Direct v5 revision consequence**
+
+V5 has Daniel glance toward a new result on the display during their conversation, then turn the display dark after Elias notices. That was previously praised as a sign of divided attention. The new author direction takes precedence: revise or reposition that beat so Daniel's attention remains with Elias during the meaningful shared encounter. His eventual refusal to return can express his continuing commitment to the search without repeatedly interrupting their connection.
+
+Retain genuine warmth in the childhood memory, the concise confrontation about absence, and the stone's emotional history. The fuller reunion should make his decision to remain more understandable and Elias's departure more costly, while leaving the later scientific and clinical interpretations open.
 
 ## 3. Time, access, and the decision at the door
 
@@ -230,9 +260,9 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 | V5 chapter | V6 work | Restraint or dependency |
 | --- | --- | --- |
 | 1. The Good Days | Preserve breakfast, family activity, and unattended beauty. Treat the bird as living recurrence. | Do not signal a program replay or begin the dreams early. |
-| 2. The Algorithm | Keep intrusive targeting and Elias's competence. Let specific uncertainty deepen before access becomes available. | Hesk's reason for this form of contact still needs credible motivation. |
+| 2. The Algorithm | Keep intrusive targeting and Elias's competence. If selected, establish aerospace work through the existing practical problem and a few occupational details. | Exact specialty remains open. Avoid a résumé or implying mature space mining without a world decision. |
 | 3. Ruth | Preserve care, her preferences, and the quiet sound. Possible guarded history stays subtle. | No explanation of a diagnosis or obligatory secret clue in every conversation. |
-| 4. Daniel | Add one affectionate science memory that joins wonder to contact with his father. Retain coloring at six and the later dismissed mineral. | Do not make every scientific interest merely a symptom of unmet affection. |
+| 4. Daniel | Add one affectionate science memory that joins wonder to contact with his father and can seed Elias's aerospace interest. Retain coloring at six and the later dismissed mineral. | Do not make every scientific interest merely a symptom of unmet affection. |
 | 5. Seams | Rework the colleague's guardedness and Elias's uncertain interpretation. Remove the bird-comparison logic. Keep the first indistinct dream sound. | Review title; no confirmed hospitalization, intelligible name, or technical proof. |
 | 6. The Notebook | Keep the material childhood connection and secrecy. Track what information the old drawings actually contain. | Depends on the eventual missing-page chronology. |
 | 7. Two Trails | Make protective contact and the competing pull distinguishable in their consequences. | Avoid a faction briefing; preserve personal consequences already established. |
@@ -240,11 +270,11 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 | 9. The Recital | Preserve the deliberately missed opportunity. Give the anonymous page a specific later consequence. | Elias remains responsible for ignoring calls; do not let manipulation erase that choice. |
 | 10. What Ruth Knew | Retain brief last words, grief, and the recording. | Any knowledge she held stays selective; the title should not promise a full revelation she does not give. |
 | 11. The Door | Let the last major dream bring his name out of the noise. Preserve the ambiguous, continuous journey and unlabelled thresholds. Establish relevant access conditions if selected. | No identification of the dream's speaker, portal lecture, diagnosis, or announced symbolism. |
-| 12. Cold | Ground the unfamiliar place through care, sensation, and activity. Introduce the room's background noise as he wakes. | Preserve same-traveller continuity. Its resemblance to the dream is not proof of origin. |
+| 12. Cold | Ground the unfamiliar place through care, sensation, and activity. Introduce the room's background noise as he wakes. Let a few details attract Elias's engineering attention. | Same-traveller continuity remains. Neither expertise nor the dream resemblance proves the voyage's origin. |
 | 13. The Steward | Keep Haven's sustained account with the familiar background sound beneath it. Remove the bird/glitch link. Clarify stewardship only as needed. | Haven does not confirm she sent the dreams. Preserve moral uncertainty. |
-| 14. Daniel | Let father and son enjoy meaningful work; retain the concise confrontation and gift. Under the proposed window rule Daniel can return with Elias but refuses. | The activity should earn its space. His continued search motivates staying; a hospital interpretation remains possible. |
-| 15. The Message | Pay off what Elias's page contributes and make the future attractive. | Sender, hack, and other Ark remain deferred; reconcile with Haven's existing message. |
-| 16. The Final Decision | Choice follows experienced temptation. A closing opportunity can apply pressure if selected. The sound can recur briefly after its earlier recognition. | Voluntary choice, not a crisis that makes departure unavoidable. Do not repeat a full sound revelation. |
+| 14. Daniel | Give Elias Daniel's full attention through meaningful shared work, the concise confrontation, and the gift. Under the proposed window rule Daniel can return with him but refuses. | Revise the distracted display glance. Warmth is sincere; continued commitment to the search and clinical ambiguity remain. |
+| 15. The Message | Pay off what Elias's page contributes. The planet and Vessel offer a future connected with his proposed aerospace vocation. | Sender, hack, and other Ark remain deferred; reconcile with Haven's existing message. Avoid a technical tour. |
+| 16. The Final Decision | Elias gives up experienced closeness and a possible dream working life. A closing opportunity can apply pressure if selected. Keep any sound echo brief. | Voluntary choice, not a crisis that makes departure unavoidable. Daniel's warmth does not make the family at home less real or valuable. |
 | 17. Homecoming | Preserve the short domestic echo, delight, changed attention, and gratitude. Incorporate the necklace with coherent elapsed time. | No repeated apology, technical proof, or explanation of each recurring image. |
 
 ## Carry-forward decisions and open questions
@@ -252,6 +282,8 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 **Directions to implement in the next revision:** guarded Hesk; fear of losing trust in reality; childhood scientific warmth; experienced temptation to stay; society's independence as part of Haven's stewardship; a concise ending grounded in changed behavior and gratitude; the stone's development into a necklace; natural recurrence rather than a bird glitch.
 
 **Follow-up to carry forward:** dreams spaced across chapters grow toward Elias hearing his name, then an ambiguous resemblance to background sound on waking and during Haven's account. Daniel's repeated refusal of available return windows is the leading proposed access route; it remains a proposal until adopted with the rest of the crossing rules.
+
+**Latest addition:** Daniel's full attention during the reunion is author direction. Aerospace engineering is the proposed specialty for Elias; its exact field and any mining or habitat connection remain open. The five pending assessment items and these new integration tasks are tracked in [v6-todo.md](v6-todo.md).
 
 **Choices to settle before drafting affected scenes:** access rule and return opportunities; physical travel versus communication; what the missing page adds and why Elias carries it; the extent of Ruth's and the colleague's knowledge; the concrete contribution father and son share; the necklace's recipient and chronology. These are development questions, not requests to stop this documentation task.
 
@@ -261,7 +293,7 @@ The previous unresolved routes remain open where not addressed: Daniel's eventua
 
 1. Settle the small private continuity record for access, messages, and the page. Keep the clinical alternative and the science-fiction chronology distinct enough to avoid unintended contradictions.
 2. Update the bible and character sheets with selected rules and motivations, preserving the present v5 references.
-3. Draft the two linked experiences of father–son curiosity: childhood and the later encounter. Use those to judge how much additional space the final act needs.
+3. Select the extent of Elias's aerospace background, then draft the two linked experiences of father–son curiosity: childhood and the later encounter in which Daniel gives him full attention. Use those to judge how much additional space the final act needs.
 4. Rework the first Institute visit and the clue sequence so the delay and eventual decision follow from what Elias learns and fears.
 5. Revise Haven's limits, the map payoff, and the choice. Remove the rejected bird/glitch linkage. Carry the spaced dreams toward his name and the later room sound without naming its cause.
 6. Preserve the short ending, establish its timing, and check whether gratitude is visible without being explained.
@@ -273,6 +305,8 @@ Do not expand toward a word-count target. Add a scene when it changes desire, kn
 
 - Can the reader understand why Elias does not meet Daniel at the first visit?
 - Has Elias enjoyed enough of the alternative for leaving to hurt?
+- Does Daniel actually give Elias his full attention, and can the reader feel why Elias would want more time with him?
+- If aerospace engineering is adopted, does it deepen his ordinary identity and the Vessel's appeal without becoming an exposition device?
 - Does the access rule leave a real choice, and can it account for Daniel's twenty years?
 - Under the proposed window route, is Daniel visibly able to return and choosing to remain?
 - Are the dreams separated, intensifying, and recognizable in the later room without a confirmed speaker or source?
