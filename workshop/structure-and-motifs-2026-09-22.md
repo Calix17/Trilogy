@@ -1,5 +1,7 @@
 # BOOK I — STRUCTURE & MOTIF DECISIONS (2026-09-22)
 
+**V4 status — 23 September 2026.** This is the preserved pre-v4 workshop, not a second active outline. V4 has 17 chapters; “Limits” is folded into “The Steward.” A faint ordinary sound precedes three spaced dreams in chapters 5, 8, and 11; the chapter 2 nightmare placement is superseded. Chapter 16's small frame/ventilation sound offers an uncertain resemblance. The notebook is colored at six and rediscovered as an adult. The stone stays ordinary and is carried home loose; the request to make a holder comes later. The crossing and return mechanism stay unshown, but Elias calls Lena from the Institute and begins an honest account. The bathtime harm has a specific apology and consequences. Follow the v4 manuscript and aligned bible where the candidate directions below conflict.
+
 *Consolidates recent development decisions before prose. Structure only — no expansion yet.
 Nothing here is committed to the manuscript until selected. Canon rule underneath all of it:
 the crossing is never death; Elias returns alive; Book I keeps the "real trip or breakdown?"

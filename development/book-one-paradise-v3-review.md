@@ -1,5 +1,7 @@
 # The Final Decision - Book I: Paradise, v3 review
 
+**V4 status — 23 September 2026.** This review describes v3 and its page numbers. The v4 revision addresses the notebook/discovery chronology, unsupported Ruth facts, phone/tablet trail, Daniel's joy-and-grief dilemma, protection versus recruitment, the bath incident's apology and consequences, disclosure to Lena, map scale, envoy motivation, and repeated explanations. It adds practical work, family scenes, three spaced dreams, and an uncertain ship-sound echo. The review is retained as evidence of the revision's purpose; it is not a claim that these passages remain unchanged in v4.
+
 Reviewed 23 September 2026.
 
 **Source:** `02-book-one/book-one-paradise-v3.pdf`, the attachment supplied as the current draft. All 57 pages were read. It contains 17 chapters and approximately 13,000 words; the extraction count of 13,254 includes headings and running text. Page references below are PDF page numbers. Rendered pages 3, 11, 45, and 57 were also inspected for layout.

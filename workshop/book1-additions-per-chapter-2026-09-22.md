@@ -1,5 +1,7 @@
 # BOOK I — ADDITIONS PER CHAPTER (for v3 review)
 
+**V4 status — 23 September 2026.** Historical v3 insertion plan. The active 17-chapter sequence is in the bible and v4 manuscript. Early repeated dreams move to chapters 5, 8, and 11; neither a stranger nor Ruth proves a supernatural calling. Haven does not diagnose a hereditary signal or declare insight and illness identical. Childhood coloring at six is distinct from the adult discovery in chapter 6. Daniel derives real joy from research while grieving his voluntary absence; Ruth was not alone at death. No permanent return ban, forced secrecy, or memory wipe is imposed. The old Sower lease is an address clue; foundation and Institute are protective, while the copied page comes from an unconfirmed outside sender. Original wording remains here as development history, not instructions to undo v4.
+
 *Every agreed insertion, in running order, mapped to the existing chapters. Structure only —
 no prose yet. Review, cut, or move; then we render v3. Legend: [NEW]=new beat, [TEXTURE]=woven
 into an existing scene, [REVISE]=change existing description, [PLANT]=one-line setup that pays

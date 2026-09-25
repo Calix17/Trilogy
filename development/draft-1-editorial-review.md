@@ -1,4 +1,6 @@
 # The Final Decision — Book One: *Paradise*
+
+**V4 status — 23 September 2026.** Historical draft-one review retained. Its chapter numbers and some alternatives predate the active 17-chapter v4 manuscript. The current bible, character sheets, and plot summary identify the implemented continuity and character fixes; this document does not override the later choices.
 ## Draft 1 — Compressed Revision Notes
 
 **Historical review:** Several requests below are superseded by the author's later

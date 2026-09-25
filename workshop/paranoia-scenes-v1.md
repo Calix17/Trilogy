@@ -1,5 +1,7 @@
 # PARANOIA SCENE KIT — Book I, Part One (drafts, not yet canon)
 
+**V4 status — 23 September 2026.** These remain candidate scenes and earlier wording. The active manuscript uses restraint and interval: ordinary sound in chapter 3, dreams in chapters 5, 8, and 11, and an uncertain ship-sound resemblance in chapter 16. No dream leaves a confirmed physical fingerprint and no stranger supplies an authoritative explanation. Sami identifies Elias's phone as the source of the lyric; Elias's harmful response is followed by specific responsibility and ongoing family consequences. Do not reinsert all six scenes or their earlier claims automatically.
+
 *Six candidate scenes to raise dread and danger earlier in Book I, each built on the
 book's core rule: dangerous AND deniable. Every scare must survive two readings —
 "something real and threatening is happening" and "a grieving man is coming apart." Nothing

@@ -1,5 +1,7 @@
 # The Final Decision — Author Clarifications and Development Review
 
+**V4 status — 23 September 2026.** This chronological record is preserved. The current Book I bible resolves the operational clue sequence: foundation/Institute protection, historical Sower lease, outside copied-page recruitment, permitted crossing. It also establishes spaced dreams and the nested scales of the map. Daniel's real pleasure in research coexists with grief; neither a completely contented nor a wholly wasted life is declared. Lena knows the Institute destination and begins a true family conversation after his return; full cosmological disclosure and Daniel's later route remain open. Earlier chapter references below belong to the former 18-chapter outline.
+
 Recorded 22 September 2026. Prepared from the author's latest explanation and checked against the consolidated project.
 
 **Later follow-up:** [Plot Clarifications and Mystery Boundaries](plot-clarifications-and-mystery-boundaries-2026-09-22.md) supersedes earlier demands to explain transfer mechanics and records corrections now applied to the bible, prose, and character sheets. Read that note for the current status of crossing, mortality, Ruth, water, the catastrophe sequence, and the proposed cycle.
