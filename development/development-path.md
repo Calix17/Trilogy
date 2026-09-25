@@ -8,6 +8,8 @@ Further follow-up: aerospace engineering is proposed as Elias's specialty, and D
 
 Latest addition: Hesk is a scientist whose manner can suggest a therapist, psychiatrist, or doctor. A request to trust her team and the process is proposed dialogue. The ending's emotional direction now explicitly includes gratitude, forgiveness, closure, presence, moving forward, and a balance between meaningful work and family life. Exact wording and scene implementation remain pending.
 
+Transition refinement: begin with an ordinary, nearly empty room and a chair; let the surroundings change gradually within Elias's perception. No visible advanced portal or mechanism identifies what happens. A plainer opening replaces or reduces the existing star-dome cue; exact staging remains to be drafted.
+
 **Status: development direction, not a rewritten manuscript.** V5 remains the current reading edition. Its prose, PDF, bible, character sheets, and synopsis have not been changed by this planning update. Explicit author directions below supersede incompatible older suggestions when preparing v6. Options introduced with “maybe” remain options.
 
 The preceding review and the complete author response are preserved in [the discussion source](../99-archive/2026-09-session-notes/v6-planning-source-2026-09-23.md). This document distinguishes those sources from editorial recommendations.
@@ -171,6 +173,29 @@ A decision about communication is also necessary. Restricted physical crossing a
 
 Elias chooses to live his present rather than Daniel's. This is an author-level pattern; the narrator need not label the three times. It does not establish literal travel into the past or require a reset mechanism.
 
+### Follow-up: an ordinary room and a slow transition
+
+**Author direction**
+
+The transition should begin in a plain, almost empty room with a chair and very little else. Elias waits. The room changes gradually as he experiences it, allowing extraordinary technology, a vision, an altered state, or another interpretation to remain possible. No visible high-tech device, elaborate portal, or advanced passage should identify the crossing as a technological operation. The intended feeling is mounting dread and uncertainty about what has happened.
+
+**Review against v5**
+
+V5 already has an ordinary worn passage, no visible portal activation, and a continuous sensory transition: the ceiling seems deeper, the chair presses differently, and the room becomes unfamiliar. Its star-covered dome, however, points toward the destination before the transition begins. For v6, make the initial room plainer and review whether any ceiling stars are needed. Keep the earlier pedestrian tunnel ordinary; this note does not remove the established journey or its unlabelled thresholds.
+
+**Recommended staging, not final prose**
+
+1. Establish a few stable things: the chair's support, an edge of light, the notebook in his hands. He can simply be waiting to see his father; he need not know he is waiting for a transformation.
+2. Let a small perception become difficult to reconcile. A sound has a different distance, or he cannot find the ceiling edge where he remembers it. He makes an ordinary adjustment or checks again.
+3. Let another sense complicate his explanation: pressure beneath his legs, cold air, or the support his hand finds. Keep the book or robe as a tactile anchor. The changes accumulate without a narrator identifying when he crossed.
+4. Allow recognition of an unfamiliar room to arrive gradually. A person, a voice, or the recurring background sound can continue the scene without explaining what caused the change.
+
+Choose only the details the scene needs. Slow pacing comes from a few changing perceptions and his attempts to orient himself; repeated blinking or a catalog of distortions would dilute it. Describe his experience specifically without announcing that it is objectively a room transforming, declaring a hallucination, or listing possible interpretations.
+
+Preserve experiential continuity. The earlier planning word “waking” may describe his reorientation; it does not require a blackout, a declared loss of consciousness, or a cut that skips the transformation. His body and possessions remain continuous as experienced. No replacement-body or transfer explanation is added.
+
+The sound motif should enter this continuity without a machine-startup cue or a confirmed message source. The absence of visible equipment keeps the means unknown; it does not establish that there is no technology. The later Vessel can still have tangible rooms, work, and material detail.
+
 ## 4. The missing page: an action with a purpose
 
 **Author proposal**
@@ -325,8 +350,8 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 | 8. The Institute | Hesk's scientific role is compatible with a clinical manner. Keep access guarded; use the proposed request for trust only when an encounter can be acknowledged. A later dream draws the sound closer. | The request should feel personal to the situation, not automatically promise immediate access. Keep the dream separate in time. |
 | 9. The Recital | Preserve the deliberately missed opportunity. Give the anonymous page a specific later consequence. | Elias remains responsible for ignoring calls; do not let manipulation erase that choice. |
 | 10. What Ruth Knew | Retain brief last words, grief, and the recording. | Any knowledge she held stays selective; the title should not promise a full revelation she does not give. |
-| 11. The Door | Let the last major dream bring his name out of the noise. Preserve the ambiguous journey and unlabelled thresholds. Preparation is another possible placement for Hesk's trust request. | Choose the useful placement instead of repeating a slogan. No identified dream speaker, portal lecture, diagnosis, or announced symbolism. |
-| 12. Cold | Ground the unfamiliar place through care, sensation, and activity. Introduce the room's background noise as he wakes. Let a few details attract Elias's engineering attention. | Same-traveller continuity remains. Neither expertise nor the dream resemblance proves the voyage's origin. |
+| 11. The Door | Let the last major dream bring his name out of the noise. Preserve the ordinary journey and thresholds. Begin the transition in a plain room with a chair; let changed perceptions accumulate while he waits. | Review the star dome. No visible advanced portal, activation sequence, declared blackout, identified dream speaker, or explanatory diagnosis. |
+| 12. Cold | Continue his reorientation through care, sensation, and activity. Introduce the familiar background noise without breaking the experienced transition. Let a few details attract his engineering attention. | “Waking” does not require an unseen interruption. Same-traveller continuity remains; neither expertise nor the dream resemblance proves the cause. |
 | 13. The Steward | Keep Haven's sustained account with the familiar background sound beneath it. Remove the bird/glitch link. Clarify stewardship only as needed. | Haven does not confirm she sent the dreams. Preserve moral uncertainty. |
 | 14. Daniel | Give Elias Daniel's full attention through meaningful shared work, the concise confrontation, and the gift. Under the proposed window rule Daniel can return with him but refuses. | Revise the distracted display glance. Warmth is sincere; continued commitment to the search and clinical ambiguity remain. |
 | 15. The Message | Pay off what Elias's page contributes. The planet and Vessel offer a future connected with his proposed aerospace vocation. | Sender, hack, and other Ark remain deferred; reconcile with Haven's existing message. Avoid a technical tour. |
@@ -342,6 +367,8 @@ Use the current 17 chapters as a working map, not a promise that v6 must preserv
 **Latest addition:** Daniel's full attention during the reunion is author direction. Aerospace engineering is the proposed specialty for Elias; its exact field and any mining or habitat connection remain open. The five pending assessment items and these new integration tasks are tracked in [v6-todo.md](v6-todo.md).
 
 **Further direction:** Hesk is a scientist with a clinical-seeming manner; the trust request is a dialogue proposal with wording and placement still open. Gratitude, forgiveness, closure, presence, and moving forward guide the ending's emotional effect. Express the cost of obsession and the value of balance through the existing relationships rather than a concluding lesson.
+
+**Transition direction:** a plain room and a chair, a gradual change within Elias's experience, and mounting unease. No visible high-tech passage or mechanism. Keep concrete sensory continuity while leaving the cause unresolved; revise the initial star-dome cue as needed.
 
 **Choices to settle before drafting affected scenes:** access rule and return opportunities; physical travel versus communication; what the missing page adds and why Elias carries it; the extent of Ruth's and the colleague's knowledge; the concrete contribution father and son share; the necklace's recipient and chronology. These are development questions, not requests to stop this documentation task.
 
@@ -369,6 +396,7 @@ Do not expand toward a word-count target. Add a scene when it changes desire, kn
 - Does the access rule leave a real choice, and can it account for Daniel's twenty years?
 - Under the proposed window route, is Daniel visibly able to return and choosing to remain?
 - Are the dreams separated, intensifying, and recognizable in the later room without a confirmed speaker or source?
+- Does the transition remain continuous and specific to Elias's perception, beginning ordinarily and building unease without a visible mechanism or an explanatory cut?
 - Does the page change something, without giving away its sender?
 - Are Haven's restraint and the Institute's actions compatible under the selected account?
 - Do readers see changed attention and gratitude without another apology or a moralizing conclusion?
