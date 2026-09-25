@@ -115,6 +115,18 @@ The author’s past/Instance, present/Vessel, future/planet alignment guides com
 
 **Publication continuity:** distinguish the last published joint paper from the later work Daniel was preparing to publish about apparent quantum anomalies. The coauthor knew the published work firsthand and could know the new direction through conversations or preliminary discussions. His regret at not properly reading the later draft remains possible; he must not claim never to have read the paper he coauthored. Published affiliation and the ordinary author list establish a professional history without proving every later interpretation correct. Avoid turning the unavailable draft into another required missing object or a new retrieval subplot.
 
+**Latest proposed colleague comment:** combine professional recognition, incomplete review of the later work, unease about its speculative direction, concern about career consequences, and sadness about how things ended. This is a short replacement or compression of the existing concern beat, not an additional speech after every earlier warning. The comment remains a proposal for wording and staging.
+
+**Wording study, not final prose:**
+
+“Yes, we published together. I never finished reviewing the work he sent afterward. Some of those notes were… speculative. We worried about what publishing them might do to his career.”
+
+He paused.
+
+“I’m sorry. It’s sad, how things ended.”
+
+His judgment concerns notes he saw or discussed, not a full review he now claims to have completed. The career damage is a feared possibility, not a newly established dismissal or disciplinary action. The author selects “We worried about…” to suggest that other colleagues shared the concern. The coauthor reports that remembered concern without establishing a unanimous judgment or formal finding. The final sadness does not confirm death, a diagnosis, institutionalization, or knowledge of Daniel’s current whereabouts. Let an ordinary pause or change of subject leave its meaning unsettled; avoid turning it into an overtly evasive riddle or following it with a narrator’s list of interpretations.
+
 **Conversation rhythm:** brief human recognition and acknowledgment of elapsed time; the published collaboration; Daniel’s later research direction; concrete concern; a bounded admission of what the colleague does not know. These are scene functions, not five mandatory speeches. Keep the existing warmth and regrets, with no sudden certainty about Daniel’s present location. The call supplies a reason to continue searching and a troubling resemblance Elias can recognize, not a solved account of his father’s fate.
 
 **Dream 1, in the middle portion rather than as the chapter's final reveal:** childhood stairs, a strip of light, a low sound with a pause. No clear figure or words. The place is familiar enough to arise from memory.

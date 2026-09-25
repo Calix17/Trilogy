@@ -1,42 +1,32 @@
 # The Final Decision — Current Plot Summary: Books I and II
 
-Updated 23 September 2026 for Book I v4, preserving the locked Book II decisions in the 22 September author review.
+Updated 23 September 2026 for Book I v5, preserving the locked Book II decisions in the 22 September author review.
 
 This is the current working story, with proposed outcomes identified where they remain unselected. The chronological discussion, including earlier alternatives, is preserved in `plot-clarifications-and-mystery-boundaries-2026-09-22.md` and its linked source. This summary does not replace those records.
 
-## Book I — Paradise
+## Book I — Paradise (v5)
 
-**Central question:** can a man who has everything learn to live in it?
+Elias, an engineer, is searching again for the father who disappeared twenty years ago. His home contains a life he partly misses: Lena’s affection and pleasure in ordinary things, Sami’s inventions and piano practice, and Ruth’s increasing need for care. Blue advertisements offering help become personal. Repetitions and dreams disturb him without establishing an outside cause.
 
-Elias is an engineer, thirty-five, with a wife, Lena, a ten-year-old son, Sami, and an aging mother, Ruth, who needs care. His father Daniel disappeared when Elias was fifteen. A photograph has restarted the search after twenty years. The opening breakfast shows affection and ordinary work alongside Elias's divided attention: a toast bridge, his mother's food, Lena's garden, and an advertisement offering help.
+The old notebook appears after earlier public-record searches. Its tree, serpent, and fruit still carry the wax Elias put there at six. At twelve he showed Daniel a stone he thought might have fallen from space; absorbed in the book, Daniel said only “Unlikely.” The father was capable of tenderness, but repeatedly absent.
 
-The blue ads become more pointed. Elias understands that his searches could explain their targeting, but the campaign's circular contact trail makes it hard to identify who is intervening. At work, he can test a problem carefully; at home he struggles to do the same with his fears. Lena has her own printmaking class and expects him to make room for it. Ruth retains wishes and agency as her memory fades. A faint sound in the house could be plumbing or a fan. The first dream comes later, in chapter 5; further dreams recur in chapters 8 and 11 instead of arriving together near the opening.
+The foundation and a historical Sower lease lead toward the Institute. Hesk met Daniel. Its quiet rooms and attendants permit a clinical reading. Elias increasingly keeps what he experiences to himself. An anonymous page diverts him from Sami’s recital. Ruth dies with family present; a brief final conversation concerns the life she chose with her son, not the mechanics of another world. Mourning and the recital recording give the family’s losses time to register.
 
-The childhood memories remain separate from the present investigation. At six Elias colored Daniel's notebook because he wanted to join his research. At twelve he waited through his birthday while Daniel worked in the cellar. There were also good afternoons: repairs, flowers, stones. Elias contacts an old colleague through public records before discovering the notebook in chapter 6. The aged wax identifies it as the book he remembers.
+Elias returns to the Institute alone. Seven unnumbered thresholds begin at his house and continue through car, station, a seemingly lengthening tunnel, security door, inner Institute, and final room. The central stairwell carries people in both directions. Forms, a gown, and the possibility of seeing his father can suggest admission into care. Stars gradually acquire distance. The narrator does not explain the change or claim a replacement body.
 
-The Institute and the wellness foundation share a protective purpose. An old Sower Research lease is a historical address clue, not proof of the present Institute's affiliation. Hesk can stop the blue campaign and discourages a crossing undertaken under pressure. She also leaves room for Elias to choose. A later anonymous copied page, outside the campaign she acknowledges, supplies the recruitment trail; its sender remains unknown.
+Rana gives him water and clothes. Haven initiates reassurance, then tells a sustained history of her choice to preserve a society, biological inheritance, and a mobile vessel. The account is hers, heard by Elias. She cannot give Ruth back or settle ultimate reality. No early scan or AI-war revelation is disclosed.
 
-Elias's conduct has consequences. When Sami repeats a phrase heard from an advertisement on Elias's phone, Elias hurts and frightens him while demanding an explanation. Lena intervenes. Elias must name that harm in his apology and accept Sami's response. Later he follows the anonymous page and misses the recital. The boy's performance and disappointment belong to Sami, as well as recalling Elias's childhood.
+Daniel waits with a notebook beneath a lamp. His work remains meaningful to him, but returning home would end his access to it. He has repeatedly wanted a little longer. He gives Elias the space rock he meant to bring him, remembering the childhood moment. Its provenance is not independently proved. Elias invites him home; Daniel says “Not yet.”
 
-Ruth's final clear conversation concerns the life she chose with Elias. A slight suggestion that she could have gone elsewhere remains unexplained; she does not establish a secret invitation before Daniel or predict his return. She dies with Elias and Lena present. The household has time to experience the loss. Before going back to the Institute, Elias tells Lena where he is going.
+Haven has received information about a potentially habitable world. Its nested map matches Daniel’s drawing. She does not know how he acquired it. The vessel is going there; no visiting envoy or intrusion explanation appears. A long working life, his father’s company, and the planet are real attractions within the account Elias receives.
 
-The crossing unfolds gradually beneath an unfamiliar ceiling of stars. It is never explained as a procedure. Elias finds himself in what appears to be another body aboard an ancient vessel. Rana, a working crew member, helps him with water, clothes, and walking. Haven tells him his ancestors' Earth is gone and his home is an instance of reality on another substrate. Lena and Sami are real people. Ruth's death remains a loss.
+Elias chooses home, understanding he cannot make the outward journey again. A small frame tick, vibration, and airflow resemble the sound from his house and dreams, without confirmation. Haven’s farewell is brief.
 
-The Ark is powerful and finite: a repair needs hands, its habitat is limited, and its resources must be replenished. The Library preserves biological records and the means to use them. Bodies maintained there can last centuries or longer, but can be damaged beyond repair. Haven has stopped assigning resources to a larger search for ultimate reality without proving that there is no answer. She permits bounded research rather than knowing everything.
+The final scene begins “Honey, I’m home.” He passes the porch and living room into the kitchen and sits with Lena and Sami at the little table. Ruth’s chair is empty. Lena shares the bird, the lemon tree, and the shoots she thought would never grow. He listens. He lets Sami explore the notebook and the stone; they can find things out together. Light, sparrow, and the opening’s paradise exchange return. The book ends “We are.”
 
-Haven recognizes the notebook's Laniakea-like shape as orientation at a large scale, with nested details describing a route to a star and a potentially habitable world. The vessel is not established as crossing the whole supercluster. Haven did not authorize the map's entry and cannot yet explain it. Information that Daniel possessed was real; this does not retrospectively prove every belief or experience he had.
+**Available readings:** an actual voyage, a visionary or altered-state experience, an encounter within a place of care, or another interpretation consistent with what Elias experiences. No diagnosis, drug, medical event, or symbolic key is asserted by the narrator. The emotional encounter is specific even though the ultimate explanation remains uncertain.
 
-Elias finds Daniel working in a shared laboratory. His father has colleagues, results, useful instruments, and genuine intellectual pleasure. He also grieves Ruth and has no technical excuse for remaining absent: he could have arranged a return. His hope of bringing home an answer kept postponing the day, partly from purpose and partly from avoidance. Elias asks him to return without an answer. Daniel eventually says “not now.” The book preserves both the value Daniel finds in the work and the family cost he has failed to repair. It does not judge his entire life fulfilled or wasted.
-
-Daniel says he did not send the copied page. He recognizes his own work in it but cannot identify the copier. His uncertain recollection of the earliest shape and his route through the Sower name leave the original transmission unresolved. He gives Elias a small stone kept from an asteroid, returning to an interest they once shared.
-
-An already arranged rendezvous brings visitors from an embodied ship. Teren offers a possible life on a planet and explains why volunteers matter: records and biological templates do not supply willing people, practical skills, or a broad living society. Her ship possesses versions of the same map. Its ultimate discovery and transmission are separate questions; Book I does not disclose Book III's answer. The ships may cooperate for a time.
-
-Elias can imagine meaningful work aboard the Ark, an extended life, his father's company, and a future on the planet. He chooses his family. Haven admits she has preferences and does not claim to have kept every influence neutral. Returning requires neither forgetting nor a ban on talking to Lena. A small tick and a rush of air by the ship's window recall the sound in Elias's house and dreams; no one explains or confirms the connection. Haven's farewell offers advice that was ancient before she was made.
-
-The homecoming begins several days before the closing Sunday. Elias has called Lena from the Institute and told her he found Daniel. He has not yet found words for every part of the journey; Lena does not accept that as permission for indefinite secrecy. Conversation and repair continue. He tells Sami the truth about Daniel's lack of a plan to visit, gives him the notebook, and offers knowledge without assigning him a destiny. The ordinary day contains Ruth's empty chair, a park, printmaking, music, and the first stars. Elias's new attention is visible in small actions; it is not a guarantee that nothing will be difficult again.
-
-**Book I's disclosure boundary:** the bomb, early destructive scans, private-server catastrophe, and AI war stay hidden. The crossing retains its mystery. The map's transmission from Sower's ship is reserved for Book III; its individual sender and ultimate discovery remain open. Daniel's later route and the full scope of Lena's cosmological knowledge are not selected by v4.
+**Later-route consequence:** the earlier Book III Window scene is retired from the active route because it requires Elias to cross out again. Sami may carry the connection instead; no replacement visit is selected. The same-traveller crossing and the scope of longevity require later Book III alignment.
 
 ## Book II — Revelation
 
@@ -102,7 +92,7 @@ The ship-level origin is selected; the individual hacker or envoy, intrusion mec
 - Which information Sower plants, what is true or false, and how the protagonists establish the facts.
 - Iris's early public and private roles, the timing of ascension's disclosure after the summit, and what she knows when choosing it.
 - The apparent destruction scene, the stage reached by the uploads, and Iris's individual fate.
-- The outside recruiting sender's individual identity, the full scope of Lena's cosmological knowledge, and Daniel's further route. V4 establishes the protective Institute and the on-page clue sequence without naming that sender.
+- The outside recruiting sender's individual identity, the full scope of Lena's cosmological knowledge, and Daniel's further route. V5 keeps the institutional and cosmic accounts within Elias’s experience and does not identify the sender.
 - Precise construction and voyage intervals, the map's individual sender, and the duration and terms of the ships' cooperation.
 
 The governing distinction is between **intent**, **responsibility for particular acts**, and **whether a rescue succeeded**. These can be revealed at different times. The larger survival question remains open after the factual conspiracy is solved.

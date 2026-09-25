@@ -120,6 +120,8 @@ Mara already appears in v5 alongside Elias’s competent work and notices that h
 
 Daniel’s former colleague is now specifically the coauthor of his last published paper. An author-list discovery gives Elias the contact route and the conversation its purpose. He has not seen Daniel for about twenty years, remembers particular kindnesses and habits, and qualifies uncertain dates or details. He can respect the work and worry about missed appointments or narrowing attention. Any regret about an unread paper concerns the subsequent draft, never their published collaboration. He has no confirmed knowledge of Daniel’s present location, the Institute, or the Ark. Avoid treating vague reports by other people as a clinical conclusion.
 
+**Latest dialogue direction.** The coauthor may call the later notes speculative, acknowledge that he did not finish reviewing the subsequent work, and recall that he and other colleagues feared publication could harm Daniel’s career. The selected wording is “We worried about…”; individual opinions within that group need not be identical. A brief expression of sadness about how things ended remains unresolved. This is his limited assessment and regret, not proof of dismissal, death, diagnosis, or present location. Use it to compress the existing concern beat while preserving respect for their published collaboration.
+
 ## Connections to preserve quietly
 
 - Sami's interest in Elias's work recalls young Elias seeking Daniel's company, while remaining Sami's own pleasure.

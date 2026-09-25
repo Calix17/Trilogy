@@ -1,6 +1,18 @@
 # The Final Decision — v6 contact and missing-page strategy
 
-24 September 2026. Editorial recommendation for author review, incorporating the latest proposals. This does not select new canon or authorize the narrative render. V5 remains the reading edition. The author’s message is preserved verbatim in the planning source archive.
+24 September 2026. Planning recommendations with a subsequent author clarification: human choice supplies the reason for involving a person before Haven acts. That motive is now an author direction; call wording, chronology, copying, and the optional woman remain proposed staging. V5 remains the reading edition. The full author discussion is preserved in the planning source archive.
+
+## Author clarification: information becomes a human choice
+
+The author supplies the primary reason for the indirect message: the destination must become something humans know about and can choose. Sending coordinates to Haven alone does not ask her to change her preservation strategy. She has preserved planetary life as a possibility and must take a human wish to pursue it seriously. When asked about the code, she explains its meaning honestly.
+
+This supersedes the earlier editorial proposal that unreliable access to Haven’s external attention was the necessary reason for using a person. No new communications barrier is required. The message route can remain obscure; the causal requirement is human involvement and a real decision, not a packet that can only be delivered by hand. Haven may receive or examine data without treating every new destination as an instruction to travel there.
+
+Recommended scene sequence: Elias brings the page to understand his father’s search; father and son recognize how it completes the sequence; Haven truthfully confirms what it identifies and what remains unknown; Daniel expresses a wish to pursue that possibility; Haven makes a practicable path available; Elias can still choose home. Daniel is the natural initial requester in this staging because he already wants to remain with the work. This allocation is an editorial recommendation, not a new requirement that Elias choose the planet and then reverse himself.
+
+Keep the choice informed: Haven’s explanation precedes commitment. Do not make her hide the answer until someone asks a special question. The serpent’s people can manipulate attention and exploit longing, but a person is not a password, a technical credential, or a binding command to the Ark. One person’s request does not settle every inhabitant’s future. Haven must reconcile enabling the chosen possibility with preserving those who choose to remain; the exact operational arrangement belongs to later development, not a voting or navigation lecture in this scene.
+
+The human route consequently does two things: completes the information and brings it into human deliberation. Preserve the final page’s established localization role rather than making it a ceremonial object after Haven already knows everything. The factions can seek to influence people without the narrator confirming the machinery of that influence in Book I.
 
 ## Recommended division of responsibility
 
@@ -68,7 +80,7 @@ The old material may have arrived at Daniel’s university before Elias colored 
 
 For the private chronology, the simplest proposed reason for the delay is that the final segment only recently reached the local intermediaries. Do not make them knowingly withhold a complete usable map for twenty years without a motive. The precise cause of the delayed information can remain for later development; it need not become Book I exposition.
 
-Retain the proposed limitation that intrusion into a small part of the Instance is not reliable direct access to Haven’s external attention. The route is through someone who will actually reach and speak with her. Do not establish that Hesk has already received and forwarded the final page. Haven’s earlier knowledge can derive from Daniel’s incomplete report; there must not also be a complete independent message making Elias unnecessary. These are proposed private constraints, not claims that a particular security mechanism has been selected.
+The author’s human-choice clarification above replaces the earlier proposed direct-access limitation. Haven’s earlier knowledge can still derive from Daniel’s incomplete report, and the completing page retains its selected function. Keeping the page private from Hesk is now recommended as Elias’s growing guardedness and his wish to show Daniel; it is not a necessary firewall protecting the plot. A photograph reaching the Institute would not itself constitute a human decision to pursue the planet. The current staging nevertheless retains the more private handling already requested.
 
 ## Effect on the mystery and review status
 
@@ -76,4 +88,4 @@ The reader can first group the ads, woman, car, page, and caller into one threat
 
 Book I need not name the competing group or explain its intrusion. It should nevertheless show enough distinct behavior that the later explanation clarifies the evidence rather than replaces it. The physical letter, encounter, and page do not independently prove an interstellar journey: each can also belong to an ordinary institutional setting. The narrative continues to report Elias’s experience closely.
 
-Review before rendering: attribution of the call; private ten-year chronology; copied-page possession history; delayed arrival of the completion; and whether the optional woman scene earns its space. Exact caller wording and transfer mechanics need not be settled to approve the overall direction. No v6 prose or PDF has been produced in this update.
+Review status: the purpose of human involvement is supplied by the author and no longer depends on selecting an access barrier. Attribution of the call, the private ten-year chronology, copied-page history, delayed arrival of the completion, and use of the optional woman remain implementation proposals. The latest outline adds the progression of concern, the research-to-colleague connection, and the several meanings of reality. No v6 prose or PDF has been produced in this update.
