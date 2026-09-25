@@ -1,24 +1,24 @@
 # The Final Decision — Current Plot Summary: Books I and II
 
-Updated 24 September 2026 for Book I v6, preserving the locked Book II decisions in the 22 September author review.
+Updated 24 September 2026 for Book I v7 working text and the generation-ship facility-gala direction. V6 remains the prior rendered edition. Later causal proposals are labelled below.
 
 This is the current working story, with proposed outcomes identified where they remain unselected. The chronological discussion, including earlier alternatives, is preserved in `plot-clarifications-and-mystery-boundaries-2026-09-22.md` and its linked source. This summary does not replace those records.
 
-## Book I — Paradise (v6)
+## Book I — Paradise (v7 working text)
 
 Elias, a thirty-five-year-old aerospace engineer working on habitats, is searching for the father who disappeared twenty years ago. Lena, Sami, and Ruth share a life he increasingly misses while looking for its explanation. An old photograph restarts the search. General support advertisements, an uncertain encounter, three spaced dreams, and a parked car unsettle him without proving a cause. Ordinary birds remain ordinary birds.
 
 Daniel’s last published paper gives Elias the name of its coauthor. The man remembers serious research and later speculative notes he never properly reviewed: “We worried about what publishing them might do to his career.” His regret does not identify Daniel’s fate. The old notebook, colored by Elias at six, contains progressively closer views. A newly delivered anonymous sheet appears to complete its sequence.
 
-The support campaign leads to the protective Institute. A single unknown nighttime caller points to the same place as a route to Daniel. Hesk met his father but resists an immediate encounter. Elias increasingly withholds what he experiences. He hears a message in Sami’s innocent ant song, harms him, and apologizes; later he misses the recital while choosing to study the page. These remain his responsibilities, not inevitable results of a hidden command.
+An unbranded property notice supplies the address trail; the Sower name is removed. The support campaign leads to the protective Institute. A single unknown nighttime caller points to the same place as a route to Daniel. Hesk met his father but resists an immediate encounter. Elias increasingly withholds what he experiences. He hears a message in Sami’s innocent ant song, harms him, and apologizes; later he misses the recital while choosing to study the page. These remain his responsibilities, not inevitable results of a hidden command.
 
 Near her death Ruth gives Elias her chain and key and releases a letter she hid. Daniel sent it ten years after disappearing. She feared losing her son as well. The letter conveys affection, unfinished work, and a hope to write again. It does not invite Elias to cross or prove where Daniel is now. Ruth dies with Elias and Lena beside her. Grief and family repair, including the recital recording, precede Elias’s return to the search.
 
-Hesk explains that returning from the encounter will end Elias’s opportunity to make the outward journey again; remaining beyond the current opening means an uncertain wait. A long passage, stairwell, form, and gown lead to a plain room. The chair and room change gradually through Elias’s perception. No apparatus, replacement body, diagnosis, drug, or near-death event explains it. He experiences the other place with intense physical immediacy.
+Hesk explains that returning from the encounter will end Elias’s opportunity to make the outward journey again; remaining beyond the current opening means waiting ten years for the next, with no guarantee of passage then. A long passage, stairwell, form, and gown lead to a plain room. The chair and room change gradually through Elias’s perception. No apparatus, replacement body, diagnosis, drug, or near-death event explains it. He experiences the other place with intense physical immediacy.
 
-Reserved Rana provides practical care. Haven speaks warmly and at length about humanity’s predicament and the three worlds: living society in the Instance; biological, ecological, and cultural inheritance in the Library; and a sparse comet-sheltered Vessel. Repairing, gathering resources, and keeping other Arks maintain a limited survival strategy. Haven preserves the possibility of planetary life too. Her account is heard by Elias, not independently certified. She cannot give Ruth back and does not know whether a further reality exists.
+Reserved Rana provides practical care in a windowless arrival room, then takes him to the warmer adjacent room with a table and window. Stars and a rough white surface are all he sees outside. Haven speaks warmly and at length about humanity’s predicament and the three worlds: living society in the Instance; biological, ecological, and cultural inheritance in the Library; and the Vessel sheltered within a comet. Gathering resources and moving on let humanity survive without a permanent planet. No additional workers, repair scenes, or technical tour appear. Haven preserves the possibility of planetary life too. Her account is heard by Elias, not independently certified. She cannot give Ruth back. Asked whether this could be another instance, she says she searched for ten thousand years without an answer and turned to the lives she could preserve.
 
-Daniel receives his son with full attention. Elias learns he had exactly two opportunities to return: the first when the letter was sent, the second now. Shared conversation about habitat work and joint interpretation of the pages let Elias experience the life he could have beside his father. Daniel brought copies of material originally mailed to his university before Elias’s childhood; he never had the final segment. He gives Elias the gray stone with a silver grain he intended to bring home. Its origin rests on his word.
+Daniel comes to the same window room and receives his son with full attention. He continues seeking the reality beyond this one, while acknowledging that Haven has a world to care for. Elias learns he had exactly two opportunities to return: ten years apart, the first when the letter was sent, the second now. Shared conversation about habitat work and joint interpretation of the pages let Elias experience the life he could have beside his father. Daniel brought copies of material originally mailed to his university before Elias’s childhood; he never had the final segment. He gives Elias the gray stone with a silver grain he intended to bring home. Its origin rests on his word.
 
 Haven verifies the completed destination. Daniel says he wants to see it; she can take him while keeping her other worlds aboard and leaving others free to choose. The sender remains unknown. There is no visiting envoy or explanation of the intrusion. Meaningful work, a possible thousand years of care, the planet, and his father all tempt Elias.
 
@@ -28,7 +28,7 @@ The last scene begins “Honey, I’m home.” Elias brings bread through the po
 
 **Available readings:** an actual voyage, an altered or visionary experience, an encounter within a place of care, or another interpretation consistent with what he experiences. The narrator never labels the symbols or claims a diagnosis. Emotional closure does not require the ultimate explanation to be settled.
 
-**Later-route consequence:** the Book III Window scene remains retired because Elias cannot simply cross out again. Sami’s later route, longevity away from Ark care, the map’s detailed transmission history, and Daniel’s eventual residence require later development. The writer knows Sower’s embodied ship supplied the map; Book I does not reveal it.
+**Later-route consequence:** the Book III Window scene remains retired because Elias cannot simply cross out again. Sami’s later route, longevity away from Ark care, the map’s detailed transmission history, and Daniel’s eventual residence require later development. The writer knows Sower’s embodied ship supplied the map through a ten-year opening; Book I does not reveal the source. The interval explains opportunity, while the final segment’s delayed availability still needs a private cause.
 
 ## Book II — Revelation
 
@@ -44,7 +44,7 @@ The planetary defense system previously stopped a larger asteroid. That success 
 
 ### An investigation into the generation-ship attack
 
-Jonah Vale, an engineer who believes he has failed to fulfill his promise, accepts a lucrative anonymous commission and unknowingly builds part of a weapon. At a meeting about the generation ship, he recognizes the danger and intervenes. Iris Ahn, his former partner and the event's keynote speaker, survives; others do not. Jonah is implicated.
+Jonah Vale, an engineer who believes he has failed to fulfill his promise, accepts a lucrative anonymous commission and unknowingly builds a component used in a weapon. He attends a prestigious gala with Iris Ahn, his former partner, at the generation-ship development facility. Their renewed contact and invitation need staging after the pilot’s poster recognition. Jonah recognizes the concealed danger and intervenes. Iris survives; others die, and a vital development capability is lost. Jonah is implicated. An Earth-side integration or qualification facility is the recommended site, leaving orbital construction infrastructure intact; the exact bottleneck remains to be chosen.
 
 Jonah and Iris investigate what initially appears to be human terrorism. Why would anyone oppose a ship intended to preserve human life? Faction clues, false leads, and possible false flags suggest different answers. Jonah's technical knowledge and Iris's access give them ways to act on the mystery rather than simply receive explanations.
 
@@ -58,7 +58,7 @@ Eventually the protagonists understand the competing designs. Haven intends its 
 
 Ascension is not public at the generation-ship summit. Its disclosure to the protagonists and eventual emergency offer need a clear sequence.
 
-Both agents seek their own survival and the continuation of human consciousness. Both may override or manipulate people in pursuit of that purpose. Their ethical costs need not be equal. Understanding their goals does not excuse their conduct. Haven ordered the bomb to delay the embodied project and secure completion of the compact ascension Ark first. That attribution is fixed. The attack's precise institutional effect on construction, and when the characters and reader establish responsibility, still need development.
+Both agents seek their own survival and the continuation of human consciousness. Both may override or manipulate people in pursuit of that purpose. Their ethical costs need not be equal. Understanding their goals does not excuse their conduct. Haven ordered the bomb to delay the embodied project and secure completion of the compact ascension Ark first. That attribution is fixed. The facility damage now supplies a concrete form of setback. Which capability is lost, why it cannot be replaced before the deadline, how that changes priorities, and when the characters and reader establish responsibility still need development.
 
 Encoded warnings in myths helped the AIs recognize coming risks. They did not predict the exact combination of events. They control mines and orbital factories and have used them to prepare escape, but do not possess unlimited authority or enough deployable machinery to repair planetary defense under any deadline.
 
@@ -86,7 +86,7 @@ Years or centuries later, Ada and Kai find the button beneath the roots of what 
 
 Book III reveals that Sower's ship possessed the map and sent it into Haven's instance. That intervention connects Daniel's notebook and Elias's mystery to the later reunion of the two surviving human paths. The ships cooperate for a period, making possible the meeting of the Earthborn and the Woken. Their different views of preservation and change remain unresolved.
 
-The ship-level origin is selected; the individual hacker or envoy, intrusion mechanism, exact map chronology, and scope of the later cooperation remain open. The map's later explanation need not supply a technical explanation of Elias's crossing.
+The ship-level origin and use of a ten-year access opening are selected; the individual messenger, intrusion mechanism, final segment’s delayed availability, exact map chronology, and scope of the later cooperation remain open. The map's later explanation need not supply a technical explanation of Elias's crossing.
 
 ## Principal decisions still open
 
@@ -94,7 +94,11 @@ The ship-level origin is selected; the individual hacker or envoy, intrusion mec
 - Which information Sower plants, what is true or false, and how the protagonists establish the facts.
 - Iris's early public and private roles, the timing of ascension's disclosure after the summit, and what she knows when choosing it.
 - The apparent destruction scene, the stage reached by the uploads, and Iris's individual fate.
-- The outside recruiting sender's individual identity, the full scope of Lena's cosmological knowledge, and Daniel's further route. V6 keeps the institutional and cosmic accounts within Elias’s experience and does not identify the sender.
+- The outside recruiting sender's individual identity, the full scope of Lena's cosmological knowledge, and Daniel's further route. The current Book I text keeps the institutional and cosmic accounts within Elias’s experience and does not identify the sender.
 - Precise construction and voyage intervals, the map's individual sender, and the duration and terms of the ships' cooperation.
 
 The governing distinction is between **intent**, **responsibility for particular acts**, and **whether a rescue succeeded**. These can be revealed at different times. The larger survival question remains open after the factual conspiracy is solved.
+
+## Philosophical progression
+
+Book I asks what a search costs the life already being lived. Book II asks what refusing to investigate and prepare costs the people who depend on a shared world. Book III tests how care, exploration, and different chosen futures can coexist under shared limits. None supplies a universal instruction to stop or continue. Consent, distribution of risk, evidence, identity, inherited obligations, and the authority of scripture need dramatic consequences. See [the trilogy philosophy record](v7-vessel-and-trilogy-philosophy-2026-09-24.md).

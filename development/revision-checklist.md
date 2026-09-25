@@ -1,35 +1,35 @@
 # The Final Decision — Status and next-revision checklist
 
-24 September 2026. Checked against the current saved v6 Markdown, the current project bundle, its bible, completion checklist, revision record, and external-review assessment. The separately saved manuscript matches the copy in the current bundle byte for byte.
+24 September 2026. Updated against the v7 working manuscript and the latest author directions. V6 remains the previous rendered reading edition. The earlier checklist is preserved in the pre-v7-vessel reference archive.
 
 ## Current status
 
-Book I has a complete v6 narrative pilot: seventeen chapters, 15,905 chapter-body words, and a 58-page reading PDF. Its main causal and emotional route is established. V7 has not been written or rendered. The work documented today adds author-selected philosophical themes, mythic parallels, and candidate wording; it does not implement manuscript or artwork changes.
+Book I now has a revised v7 working text in seventeen chapters. The main causal and emotional route remains intact. The earlier v6 pilot is preserved at 15,905 chapter-body words and 58 PDF pages. V7 has not been rendered or illustrated; its current changes are listed below.
 
-The next Book I pass can be focused. There is no present need to rebuild the family arc or explain the crossing mechanism. The broader trilogy has a defined architecture but still needs concrete causal decisions in Books II and III. A complete pilot and a complete trilogy are different milestones.
+The current text pass implements the requested narrow Vessel view and selected continuity corrections. There is no need to explain the crossing mechanism or expand the pilot merely for length. The broader trilogy has a defined architecture but still needs concrete causal decisions in Books II and III. A complete pilot and a complete trilogy are different milestones.
 
 The earlier v6 completion checklist remains a historical record of the authorized v6 work. New findings below do not turn its completed implementation into an unfinished render; they identify what a subsequent revision should address.
 
-## Book I fixes and decisions before a v7 render
+## Book I implementation and remaining production work
 
 | ID | Where | Present evidence and required treatment | Status |
 | --- | --- | --- | --- |
-| V7-01 | Chapters 6 and 9 | The physical anonymous sheet arrives in chapter 6. Chapter 9 studies that existing sheet; it does not deliver another page. Chapter 9 still mentions a photocopy, enlarging a photograph, pixels, and a later “copy.” Keep this comparison physical and use consistent sheet/page wording. Chapter 6’s photographed property notice is a separate object and need not be erased. | Confirmed clarity fix; pending prose. |
-| V7-02 | Chapter 16 | Replace “I love you.” / “I know.” The sustained embrace already exists. The simplest treatment is to let it carry the farewell; a reciprocal declaration remains the author’s alternative. | Unwanted exchange identified; exact replacement open. |
-| V7-03 | Chapter 16 departure | Daniel keeps the completing sheet with his copies. Elias closes the original notebook with Ruth’s letter inside and feels its weight. Add one unobtrusive carrying action when he leaves to make the intended handoff unmistakable. Preserve his stone. No object inventory or map inheritance scene is needed at breakfast. | Small clarity improvement; pending prose. |
-| V7-04 | Chapters 6–8 and supporting references | The old lease’s “Sower” is not proof of Hesk’s allegiance; the bible currently treats it as historical tenancy. The author favors possible removal. Recommended treatment: preserve the address/station lead and use an unbranded property notice. Check any dependent name searches and Hesk’s reference to the circled name. | Preferred simplification, not yet applied or finally named. |
-| V7-05 | Chapters 12–13 | Keep the long, reassuring, poetic account of the Arks and their three worlds. Reduce the worker/repair-room inventory and review the pipe-repair scene against the author’s preference for a light ship description. Retain the basic comet shelter, resources, movement, sparse habitation, finite care, and preserved choices. No preset one-third cut. | Direction clear; exact line edits pending. |
-| V7-06 | Haven’s orientation and later route | A brief “where are we?” orientation is optional. Do not insert arbitrary light-years, sector names, or a new galaxy before the private route is coherent. Resource gathering supports the preservation mission; avoid making “we are miners” replace the Ark’s purpose. | Exact location and wording remain open; not a blocker if kept general. |
-| V7-07 | Daniel’s notebook and existing encounters with it | Integrate a small selection from the new philosophy note, preserving the map sequence and Daniel’s scientific character. The approved lines are retained; their number, order, and placement have not been selected. Avoid a page of aphorisms or a narrated interpretation. | Material documented; placement pending. |
-| V7-08 | Cover/frontispiece | The earlier visual review confirmed “HERE” and “IT IS NOT A TREE” reveal the drawing’s answer prematurely. Revise the image and assess its cosmic background. The seeking/caring line is a cover candidate, not a finalized placement. Preserve the original artwork. | Spoiler correction identified; design pending. |
-| V7-09 | Optional chapter-opening art | The author proposed one image per chapter. Small, consistent vignettes are the editorial recommendation; style, motifs, and full-page versus small-image treatment are not locked. Images should not independently prove a ship, portal, diagnosis, or unseen event. | Optional production scope; no images generated. |
-| V7-10 | Whole pilot | Review pacing, the temptation to stay, the interval for grief, and the ending’s emotional force after the targeted edits. Do not expand just to reach novel length. Lena and Sami can gain depth through their existing lives and decisions without requiring new viewpoints. | Focused read-through and outside-reader feedback pending. |
-| V7-11 | Manuscript, references, art, and PDF | After the prose/design choices are made, create v7 without overwriting earlier editions; synchronize the bible, profiles, synopsis, object ledger, and production notes; then render and inspect the PDF and any new art. | Pending next production pass. |
+| V7-01 | Chapters 6 and 9 | The anonymous physical sheet arrives in chapter 6. Chapter 9 compares it directly with the notebook; the photograph/photocopy/pixel leftovers are removed. The separate photographed property notice remains a different object. | Applied in v7 working text. |
+| V7-02 | Chapter 16 | The “I love you.” / “I know.” exchange is removed. The sustained embrace carries the farewell. | Applied. |
+| V7-03 | Chapters 14 and 16 | Elias takes Ruth’s letter from the notebook. Daniel retains the completing sheet with his copies; Elias visibly picks up the original notebook after replacing the letter, carrying the stone home. No breakfast inventory or map inheritance scene is added. | Applied. |
+| V7-04 | Chapters 6–8 and references | Remove Sower from the property notice, the matching lease search, and Hesk’s reading of the lead. Preserve the circled address and station. The second AI remains part of the series. | Applied; active references synchronized. |
+| V7-05 | Chapters 12–16 | Show only the arrival room and warmer window room, with Elias, Rana, Daniel, and Haven. Remove other workers, moving machinery, repair scene, and tour. Preserve the sustained poetic account, three worlds, comet shelter, resource gathering, human options, and return decision. | Applied. |
+| V7-06 | Haven’s orientation and later route | The basic orientation is shelter within a comet and survival without a permanent planet. Exact light-years, sector names, or galaxy coordinates are unnecessary until the private route is settled. | General wording implemented; exact coordinates are optional. |
+| V7-07 | Chapters 6, 9, and 14 | Use “Finite life. Boundless knowledge.”; “Does knowing have a shore?”; and “How far must I wake before the dreaming ends?” in separate notebook encounters. Other selected lines remain available. | Three fragments applied; cover and other placements open. |
+| V7-08 | Cover/frontispiece | Existing “HERE” and “IT IS NOT A TREE” reveal the drawing’s answer. Revise the image before a new illustrated edition. The seeking/caring line remains a cover candidate. Preserve original art. | Pending design/render task. |
+| V7-09 | Optional chapter-opening art | One image per chapter remains proposed. Style, motifs, and size are not locked; images should not independently establish a ship, portal, diagnosis, or unseen event. | Optional; no new images generated. |
+| V7-10 | Whole pilot | The changed Vessel sequence has been read for room, character, object, and dialogue continuity. A fresh full-pilot pacing read and outside-reader response remain useful before a reading edition. Do not expand solely for novel length. | Targeted continuity review complete; full pacing/outside read pending. |
+| V7-11 | Manuscript, references, art, and PDF | Create a separate v7 working source; synchronize bible, profiles, synopsis, philosophy notes, and checklist; archive previous references and preserve all editions. Render and inspect a new PDF after the art/cover pass. | Text and reference update complete; PDF/art pending. |
 
 ## Preserve during that pass
 
 - Childhood coloring remains a childhood event, not present-day behavior.
-- Daniel’s two return opportunities, voluntary refusal, genuine joy, affection, and present attention remain. He is not physically barred from returning with Elias.
+- Daniel’s two return opportunities, ten years apart, voluntary refusal, genuine joy, affection, and present attention remain. He is not physically barred from returning with Elias.
 - Ruth’s hidden letter, disclosure, chain/key handover, and death with family present remain. The necklace connects Elias to both parents; Daniel is still alive.
 - The general support ads belong to the protective Institute. The anonymous page and private call belong to the competing message effort at writer level. Hesk need not recruit for Sower.
 - The crossing remains an ordinary room changing through Elias’s experience. No new-body explanation, visible apparatus, compulsory diagnosis, or definitive vision explanation is added.
@@ -42,11 +42,11 @@ The earlier v6 completion checklist remains a historical record of the authorize
 
 ### S-01 — The split message and its delivery history
 
-Established: Sower’s embodied Ark is the writer-level source, revealed in Book III; Daniel receives incomplete material at his university; Elias eventually receives the completing sheet. Still needed: one coherent private chronology explaining why the last segment becomes available later, who handles it, and what motivates the human route. Do not imply intermediaries withheld a complete usable map for decades without a reason. Book I may continue to withhold these identities and mechanisms.
+Established: Sower’s embodied Ark is the writer-level source, revealed in Book III; the message passes through a ten-year opening into this Instance. Daniel receives incomplete material at his university before Elias’s childhood coloring; Elias eventually receives the completing sheet. Still needed: one private cause for the last segment’s delayed availability, the intermediary sequence, and the exact chronology. Do not imply a usable complete map was deliberately withheld for decades without a reason. Book I can keep these identities and mechanisms hidden.
 
 ### S-02 — Access, communication, and embodied continuity
 
-The present encounter’s return restriction is established, as are Daniel’s two opportunities over twenty years. Do not silently turn that into a universal exact ten-year schedule. Define later cases before writing Sami’s departure, other workers’ returns, or a new exception. Elias’s retired second visit remains retired. The crossing mechanism itself may remain unexplained.
+The latest author direction adopts an exact ten-year interval for openings into this particular Instance. Daniel declines the first return and sends the letter; he declines the second during Elias’s encounter. Hesk gives the interval without guaranteeing future passage. After returning, Elias cannot make the outward journey again. This does not establish a universal Ark calendar. Define Sami’s later departure and other later cases consistently; Elias’s retired second visit remains retired. The crossing mechanism may remain unexplained.
 
 ### S-03 — Destination, voyage, longevity, and choice
 
@@ -54,7 +54,7 @@ Set a workable private relationship among the destination, the age of its inform
 
 ### S-04 — Book II’s conspiracy evidence and moral causality
 
-Haven’s responsibility for the generation-ship summit attack is already selected. Still develop the actual resource or institutional consequence that lets the attack accelerate ascension, the evidence Jonah and Iris follow, the CEO/avatar imposture and its proof, Sower’s truthful and misleading disclosures, and Iris’s knowledge at each decision. A real deadline explains urgency without automatically justifying the attack. Do not reopen the bomber’s identity as if it were undecided.
+Haven’s responsibility for the attack is selected. The event is now a gala at the generation-ship development facility, attended by Jonah with Iris. Damage to a critical capability accompanies the deaths. An Earth-side integration or qualification site is recommended, preserving orbital factories. Select the precise bottleneck, its effect on the deadline and allocation, and the protagonists’ evidence. Stage Iris’s reconnection/invitation after the pilot’s poster scene. Develop the CEO/avatar imposture and its proof, Sower’s disclosures, and Iris’s knowledge. A real deadline does not automatically justify the attack.
 
 ### S-05 — Book II’s catastrophe and rescue sequence
 
@@ -78,12 +78,14 @@ The exact crossing machinery; the confirmed source of the sound; a clinical or v
 
 ## Recommended next sequence
 
-1. Use this record to finalize the small prose choices: farewell wording, lease treatment, Haven’s physical detail, and notebook-fragment placement.
-2. Make the v7 text pass while protecting the family arc and unresolved perception.
-3. Revise the spoiler-bearing frontispiece. Treat the full chapter-art set as its own design choice.
-4. Synchronize references and render v7; check text, objects, chronology, and layout once against the actual changes.
-5. Ask outside readers where attention drifted, what Elias gave up, whether the alternatives stayed believable, and whether homecoming felt earned.
+1. Read the complete v7 working pilot for pacing and emotional effect, using the targeted continuity review as a baseline.
+2. Revise the spoiler-bearing frontispiece; decide cover/tagline placement. Treat chapter art as a separate optional design choice.
+3. Render and inspect the v7 reading edition after those visual choices.
+4. Ask outside readers where attention drifted, what Elias gave up, whether the alternatives stayed believable, and whether homecoming felt earned.
+5. Develop the Book II facility-loss consequence and evidence chain, then the later map-delivery cause and Book III collective choices. These do not require adding explanations to Book I.
 
 Editorial assessment: the architecture of this Book I pilot is established enough for a targeted revision. The remaining trilogy items are substantive development work. A further render will not, by itself, settle them or establish publication readiness.
 
 See [the selected philosophy and mythology record](v7-philosophy-and-mythology-2026-09-24.md) and [the earlier external-feedback assessment](v6-external-review-assessment-2026-09-24.md).
+
+See also [the applied Vessel revision and trilogy philosophy map](v7-vessel-and-trilogy-philosophy-2026-09-24.md).

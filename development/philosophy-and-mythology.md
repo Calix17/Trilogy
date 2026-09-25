@@ -2,7 +2,7 @@
 
 Recorded: 24 September 2026
 
-Status: Author-requested preservation of themes, preferred mythic parallels, and wording for the next revision. The ideas and lines below are selected for retention in the project. Their exact placement in the manuscript or on the cover remains open. This document does not change the v6 prose or constitute a v7 render.
+Status: Author-selected themes, mythic parallels, and wording are retained below. A subsequent v7 working-text pass now places three fragments in chapters 6, 9, and 14. Remaining quotations and cover use stay open. The v6 edition is unchanged; the new working text has not been rendered as a PDF. See [the vessel and trilogy philosophy record](v7-vessel-and-trilogy-philosophy-2026-09-24.md) for the latest three-book progression and scene map.
 
 ## Three philosophical questions — preserve verbatim
 
@@ -97,10 +97,10 @@ The pairing gives each man a substantial position. Daniel’s joy and affection 
 - **Orpheus and Eurydice:** a secondary resonance concerning loss, thresholds, love, and the wish for reassurance. No literal “do not look back” rule is adopted.
 - **Daedalus and Icarus:** an optional research reference on necessary flight and dangerous extremes; no new scene or wing motif is selected.
 
-## Integration guidance — recommendations, not drafted passages
+## Integration guidance — implemented selectively in v7 working text
 
 1. Retain the map’s sequence of progressively closer views. Philosophical fragments can occur in its margins or among Daniel’s working notes; they should not replace the clues that make the destination intelligible.
-2. Try only two or three brief encounters with the new wording in the pilot. The full collection remains available for future books and cover review.
+2. Three fragments are now used: “Finite life. Boundless knowledge.” in chapter 6; “Does knowing have a shore?” in chapter 9; “How far must I wake before the dreaming ends?” in chapter 14. The full collection remains available for future books and cover review.
 3. Mix plain investigative notes with occasional lyrical questions so Daniel remains a physicist whose private writing can become poetic.
 4. Let scenes carry the answers provisionally: Ruth releases the letter, Daniel attends to Elias then stays, Elias returns to his family, and Haven preserves possible futures.
 5. Preserve the extended poetic Ark account, the ambiguous transition, and the quiet ending. Do not add a lecture interpreting these references or a final exchange identifying the sea’s meaning.
@@ -118,6 +118,18 @@ The pairing gives each man a substantial position. Daniel’s joy and affection 
 - [Sirach 3 — USCCB](https://bible.usccb.org/bible/sirach/3)
 - [Ovid, Metamorphoses Book 10 — Orpheus and Eurydice](https://www.theoi.com/Text/OvidMetamorphoses10.html)
 - [Ovid, Metamorphoses Book 8 — Daedalus and Icarus](https://www.theoi.com/Text/OvidMetamorphoses8.html)
+
+## Latest trilogy direction
+
+The books can sustain one philosophical conversation at different scales:
+
+- **Book I:** enough, presence, forgiveness, and the limits of knowing. Elias can care without settling the foundations of reality; Daniel still sees value in the search.
+- **Book II:** mortality, foresight, preparation, and responsibility under uncertainty. Inquiry and maintenance can be necessary for survival. Awareness of death may motivate preparation, but the novel need not claim it is the only cause of survival.
+- **Book III:** an evolving balance among care, freedom, exploration, identity, and shared resources. Equilibrium requires decisions and revision, not a final rule that eliminates conflict.
+
+Preserve the author's new working questions: “Is the knowledge of death what leads to survival?” and “How can we prepare for the winter if we can't predict it?” The unfinished innocence idea is retained as a topic, with **“When does innocence become a refusal to see?”** offered as a wording proposal. Distinguish lack of access to knowledge from deliberately ignoring it.
+
+Further areas to test in scenes are consent and legitimate authority; who bears a rescue's risks; personal versus cultural continuity; warranted trust; obligations to children and dissenters; joy beyond mere duration; and the power of the person who turns history into scripture. These do not require new exposition or a catalogue of named philosophers.
 
 ## Related records
 
