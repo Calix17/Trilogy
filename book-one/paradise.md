@@ -1,11 +1,13 @@
 # The Final Decision
 ## Book I - Paradise
 
-*Version 5 - revised narrative draft*
+*Version 6 - revised narrative draft*
 
 > *Let us live.*
 > *Let us remember.*
 > *Let us remain human.*
+
+---
 
 ## 1. The Good Days
 
@@ -19,7 +21,7 @@ Elias saw it and didn't look at it. He was reading.
 
 "The thing where you're here but you're not here."
 
-Across the table, Sami was building a bridge out of toast crusts. He had placed two glasses a handspan apart and laid the longest crust between them. It sagged in the middle.
+Across the table, Sami was building a house out of toast crusts. The walls stood around a square of buttered bread, but the roof kept sliding into the kitchen.
 
 Elias closed the laptop halfway. "Work."
 
@@ -27,9 +29,9 @@ Elias closed the laptop halfway. "Work."
 
 "The build breaks on Sundays too."
 
-Lena watched him for another moment, then took the butter away from Sami's elbow before he put it through the bridge.
+Lena watched him for another moment, then took the butter away from Sami's elbow before he put it through the wall.
 
-It wasn't the build. For three weeks Elias had been typing his father's name into hospital registries, newspaper archives, the property records of a town Daniel had lived in before Elias was born. Sometimes there was a result he had not seen before. A conference program. A letter objecting to a road through university land. The name of a man who had been forty-three in another country and couldn't have been his father, although Elias had stayed up until two to establish that.
+It wasn't the build. For three weeks Elias had been typing his father's name into university archives, old newspaper pages, the property records of a town Daniel had lived in before Elias was born. Sometimes there was a result he had not seen before. A conference program. A letter objecting to a road through university land. The name of a man who had been forty-three in another country and couldn't have been his father, although Elias had stayed up until two to establish that.
 
 He had no new reason to be looking. A photograph had appeared while he was sorting files for his mother: Daniel beside a car, one hand lifted to shade his eyes. Elias had tried to remember where it was taken. By morning he had eleven tabs open.
 
@@ -39,7 +41,7 @@ Elias reached for a crust.
 
 "I know how," Sami said. "I'm telling you."
 
-He withdrew his hand. Sami put a third glass under the span. The bridge held, though it now led directly into Lena's coffee.
+He withdrew his hand. Sami broke a crust in half and propped it under the roof. It held. He looked through the doorway to see whether there was room for anyone inside.
 
 From the sunroom, Ruth called his name.
 
@@ -61,13 +63,13 @@ Her fingers moved against the blanket. "He works too much."
 
 She looked past him toward the table, uncertain who the distant voices belonged to. He moved aside so she could see Sami, who lifted a crust in greeting.
 
-"Your grandson is building a bridge."
+"Your grandson is building a house."
 
 "Out of his breakfast?"
 
 "Most of it."
 
-"Tell him to leave a road for the butter."
+"Tell him to put a window in my room."
 
 He laughed, and for a moment she looked pleased with herself. He brought her plate, cut her toast into small squares, and set it within reach. The newspaper was on the low table beside her. A photograph of a flooded street covered half the front page. He folded it inward and carried it back to the kitchen.
 
@@ -95,25 +97,17 @@ He scrolled. A second placement carried the same image.
 
 "Nothing. An ad."
 
-He put the phone face down on the counter. His coffee was cooling on the table, and there was a wife beside him who loved him, and a son who had used every glass except his to cross a small imaginary river. He was fine.
+He put the phone face down on the counter. His coffee was cooling on the table, and there was a wife beside him who loved him, and a son fitting a room for his grandmother inside a house made of breakfast. He was fine.
 
 "Dad. Now look."
 
-Sami had put a pea-sized lump of butter on the middle of the bridge. Elias sat down. He let the laptop close completely.
+Sami had opened a small window in one of the walls. Elias sat down. He let the laptop close completely.
 
-"That's quite a load," he said.
+"She can see the garden," Sami said.
 
-"It's a bus."
+Elias bent to look through. Beyond the toast wall were the coffee pot, Lena's hand, a patch of sun on the table.
 
-"Of course it is."
-
-Outside, the sparrow landed on the railing, hopped twice to the left, and was gone.
-
-He looked toward the window. Sami moved the bus another inch.
-
-"Did you see?"
-
-"Yes," Elias said, turning back. "I saw."
+"She can," he said.
 
 ---
 
@@ -121,19 +115,25 @@ He looked toward the window. Sami moved the bus another inch.
 
 By Thursday he had seen the blue advertisement nine times. Nine was the number he remembered; there might have been others. Different pages, different sizes, the same small sunrise. Sometimes it offered a number. Sometimes a button marked *Talk to someone*.
 
-He knew why it might have found him. His recent searches included a missing man, a hospital, an old psychiatric ward whose name had changed twice. He had spent hours on a bereavement forum after someone mentioned Daniel's surname. He could hardly ask the machinery to ignore that and notice the toast bridges instead.
+He could imagine why it had found him. A missing father, twenty years of old addresses, an evening spent reading what strangers did with belongings nobody came back to claim. He had followed Daniel's name into places where people wrote things they would not say aloud. The machinery might have noticed. It had less opportunity to notice the toast house.
 
 On the train to work he opened the information panel beside an ad. A company he had never heard of had paid for it. He copied the name into a note and closed the page.
 
 At his desk there was a failure he understood.
 
-The same reading appeared twice in a report. One team blamed the device; another had a trace proving it sent the reading once. Elias put the records side by side and watched the second copy arrive just after a connection resumed.
+The habitat test rig occupied the next room: a pressure shell, racks of equipment, enough empty space for someone to turn around. Elias worked on the systems that would keep people alive in places they could not step outside. Most days that meant deciding what a tired person would need to know at three in the morning.
+
+Today the display showed that the air was improving when no fresh measurement had arrived. A stored reading had been given a new time. One team blamed the instrument; another had a trace proving it sent the value once. Elias put the records side by side and watched the second copy arrive just after a connection resumed.
 
 Mara rolled her chair over.
 
 "Can we make it do that again?"
 
-He interrupted the connection. They waited. When it returned, so did the duplicate.
+He interrupted the connection. They waited. When it returned, the old reading appeared as new.
+
+"There," he said. "That needs to stay grey until we know."
+
+Mara marked the place in the trace. Behind the glass, the little chamber continued circulating air through an empty chair.
 
 Mara grinned. "There you are."
 
@@ -181,13 +181,11 @@ He did it while she watched.
 
 After they went to bed he took the phone into the bathroom and read the permissions he had given its applications. Some were necessary. Some he couldn't remember granting. He turned off two he didn't need. In the mirror his face was lit from below, and he lowered the brightness.
 
-The next morning the message had changed.
+The next morning a different photograph carried the same offer. Two people sat at a table beside a window. One had a hand around a cup.
 
-*Whatever he was looking for, you don't have to look for it too.*
+*You don't have to carry this alone.*
 
-He read it on the platform while people moved around him toward the arriving train.
-
-He read the sentence again as the doors opened. Someone brushed past his shoulder. He moved with the crowd, still looking at the screen.
+Elias stood on the platform while people moved around him toward the arriving train. The empty chair in the picture faced him. Someone brushed past his shoulder. He moved with the crowd, still looking at the screen.
 
 He saved a picture of the advertisement. On the train, he found the agency's contact form and wrote a brief question asking which client had commissioned the campaign. He removed the paragraph about his father before sending it.
 
@@ -299,7 +297,27 @@ The red crayon had rolled beneath a chair. Elias lay on his stomach to reach it.
 
 There had been better afternoons. His father could make a flower bite. Once they took a broken motor apart on newspaper, Daniel drawing circles round the pieces so Elias could put them back. When it finally turned, it leapt in his palm. His father laughed and caught it before it hit the floor.
 
-Elias kept his stones in egg cartons, one in each cup.
+On another afternoon he sat under the desk while Daniel worked. The underside was full of marks invisible to anyone standing up. Elias followed a groove with his thumbnail.
+
+"What are you researching?"
+
+The pencil stopped above him.
+
+"How much of the world we can know from inside it."
+
+Elias came out to look. His father turned the paper toward him, then thought better of it and found a clean sheet.
+
+"Other planets?"
+
+"Those too. But imagine there was more than we could see. A whole other world. How would we find out?"
+
+"Go there."
+
+Daniel's eyes brightened. "That would settle quite a lot."
+
+He drew two circles and gave Elias the pencil to join them. They stayed at the desk until Ruth called a second time. For days afterward Elias tried to think of another question like that one.
+
+He kept his stones in egg cartons, one in each cup.
 
 "Minerals," he corrected anyone who called them rocks.
 
@@ -331,7 +349,7 @@ Daniel came up after the plates were cleared. He kissed the top of Elias's head.
 
 His father was a theoretical physicist. Elias learned to say this before he could spell it. Later, when the university stopped calling, he kept saying it. The notebooks multiplied. Equations crowded against passages copied from old stories: a ladder reaching into the sky; a mountain with a passage through it; a door that opened to someone who asked.
 
-At the hospital Daniel sat beneath a television mounted too high on the wall. He asked Elias about school. They had built bridges from paper that week, and Daniel wanted to know how much weight his held. For ten minutes they discussed the supports. When Ruth said it was time to leave, Elias pretended not to hear.
+On one of their later visits Daniel sat beneath a television mounted too high on the wall. He asked Elias about school. They had built bridges from paper that week, and Daniel wanted to know how much weight his held. For ten minutes they discussed the supports. When Ruth said it was time to leave, Elias pretended not to hear.
 
 Daniel disappeared when Elias was fifteen.
 
@@ -347,33 +365,19 @@ By the time he went up, the light was out.
 
 ---
 
-## 5. Seams
+## 5. The Last Paper
 
-The agency did not answer his second message. A week after that, the company named in the advertiser field changed.
+The agency did not answer his second message. A week later the company named in the advertiser field changed.
 
-The campaign hadn't changed. Same color, same small sunrise, the same line about carrying things alone. Elias saved the new company name beside the first and began looking through the filings he could reach without paying for an account.
+The campaign hadn't changed. Same color, same sunrise. Elias saved the new name beside the first and began looking through the filings he could reach without paying for an account. He found an address shared by forty-seven businesses, then an officer listed against a company that no longer existed. He wrote down the dead ends as carefully as the leads.
 
-He found an address shared by forty-seven businesses. The agency's registered officer appeared in records for a firm that no longer existed. An invoice number printed at the foot of a campaign page led nowhere. He wrote down the dead ends as carefully as the leads.
+One night, tired of looking for whoever wanted to help him, he returned to his father's name.
 
-Beside this list he kept another one, though he never gave the second list a title.
+The university archive held twelve publications. The last was a paper about time and quantum measurements, published two years before Daniel disappeared. Elias read the abstract twice. He understood enough to recognize a question about what could be inferred from a pattern of observations. Further down, the notation became unfamiliar. He kept going until he realized he had read a whole page without taking anything in.
 
-On three Sundays the sparrow had come to the railing at breakfast. Twice he had managed to record it. He placed the clips beside each other and slowed them down. The small head turned. Two hops. The bird vanished beyond the frame.
+There were two names above the title.
 
-In one clip a petal fell behind the bird. In the other there was no petal. He aligned the landings, but the timings would not hold through the whole movement. Eventually all he could see were two birds behaving very much alike.
-
-He kept both.
-
-There was also a photograph of light on the kitchen wall. He had remembered the same pattern from another evening and gone looking for the earlier picture. He found six years of photographs, several hundred of Sami, one of Ruth laughing beneath a paper hat. He did not find the light.
-
-At work, a supplier laughed during a call and Elias was certain he had heard that laugh before, in that exact place in a sentence. He almost asked the man to repeat himself.
-
-"Elias? Are you there?"
-
-"Yes. Sorry. Go on."
-
-He didn't add the laugh to the list.
-
-What he could establish was that his father had given a lecture at the university two years before he disappeared. A scan of the program survived in an archive. Beside Daniel's name was a title about time, followed by a surname Elias recognized from Christmas cards.
+He knew the second from Christmas cards.
 
 The other man had retired. His university page contained an email address and a photograph taken in front of a whiteboard. Elias wrote three versions of his message before sending the shortest: his name, his father's name, and a request for a conversation.
 
@@ -381,9 +385,9 @@ The reply came the next afternoon.
 
 *Of course. Thursday, if that suits you.*
 
-Elias took the call in his parked car. The man spoke softly and occasionally moved the phone too far from his mouth.
+He took the call in his parked car. The man spoke softly and occasionally moved the phone too far from his mouth.
 
-"I remember you," he said. "You came to a department picnic. Very serious about a kite."
+"I remember you. You came to a department picnic. Very serious about a kite."
 
 "That sounds right."
 
@@ -395,63 +399,83 @@ Elias watched someone return a shopping cart to a rack across the lot.
 
 "I can't remember. I'm sorry. I remember the argument."
 
-For a while they talked about the university. His father had liked teaching small groups, disliked committees, brought lunch in a tin that would not quite close. Elias had forgotten the tin. Daniel had used a rubber band to hold the lid down.
+For a while they talked about the university. Daniel had liked teaching small groups, disliked committees, brought lunch in a tin that would not quite close. Elias had forgotten the tin and the rubber band holding its lid down.
 
-"Did he ever talk about leaving?"
+"I found the paper you wrote together," he said.
 
-"The department?"
+"Yes. We published that just before I moved departments."
 
-"Everything."
+"Was it what he was working on at the end?"
 
-The man was quiet.
+"He went further with it afterward. He thought there were anomalies in some of the measurements. Something we were missing about the world making them possible."
 
-"Not to me."
+"Was there?"
 
-"What was he working on at the end?"
+The man drew the phone closer.
 
-"He was asking what a measurement can tell us about the world making it possible. Time, chiefly. He thought there were discrepancies other people were treating as inconveniences."
+"It was twenty years ago, Elias. I never finished reviewing the work he sent afterward. Some of those notes were... speculative. We worried about what publishing them might do to his career."
 
-"Were there?"
+A car door slammed nearby.
 
-"There are always discrepancies. The difficulty is finding out which ones survive the apparatus."
+"You thought he was wrong?"
 
-"And his did?"
+"I thought he was getting ahead of what he could show. He used to be very patient about that. Toward the end he missed appointments. You would ask him something and he would answer the question he'd brought into the room."
 
-"Some didn't. I don't know about the rest."
+Elias looked at the time on the dashboard.
 
-A car door slammed nearby. Elias moved the phone to his other ear and watched the shop doors open and close.
+"I'm sorry," the man said. "It's sad, how things ended."
 
-"People told me he was ill."
+"Did you see him again?"
 
-"I wasn't his doctor."
+"No."
 
-"I'm not asking you to be."
+The shopping carts knocked together. For a moment Elias could hear the man breathing, waiting to see whether there was another question.
 
-"No." The man let out a breath. "He was a good colleague for a long time. Better than good. Toward the end he missed appointments. You would ask him something and he would answer the question he had brought into the room. I was concerned. I also owed him a proper reading of his last paper, and I never gave it one. Both of those things are true."
+"Do you still have the later work?"
 
-"Do you have it?"
+"Not that draft. I kept the published papers. I wish I'd kept more."
 
-"Not that draft. I kept the published work. I wish I'd kept more."
+Before they hung up he asked after Ruth. His voice grew warmer as he remembered her bringing food when his wife was sick.
 
-Elias thanked him.
+That night Elias dreamed of the house where he had grown up.
 
-"How is your mother?"
+He was halfway down the stairs. A strip of afternoon light lay beneath the kitchen door. From somewhere farther inside came a low dragging sound, then a hush. It repeated while he stood there. He couldn't decide if someone was moving a chair or drawing a curtain along its rail.
 
-"She's living with us."
+He woke with his hand against the wall beside the bed.
 
-"Please give her my regards, if she remembers me. She was very kind when my wife was sick."
+Lena was asleep. A car receded along the road, and the house settled. He lay waiting for the sound to return. By breakfast he was no longer sure the kitchen in that house had ever had a door that closed.
 
-He remained in the car after they hung up. Then he called Lena to say he was on his way. She reminded him to buy milk. At the shop he picked up the wrong kind, put it back, and stood in front of the refrigerator until he remembered which they needed.
+At work Mara asked for a file he had promised the day before. He found it open on his screen, finished but unsent.
 
-That night he dreamed of the house where he had grown up.
+"Sorry."
 
-Nothing unusual happened in it. He was standing halfway down the stairs, looking at a strip of afternoon light beneath the kitchen door. From somewhere farther inside came a low dragging sound, then a hush. It repeated while he stood there. He couldn't decide if someone was moving a chair or drawing a curtain along its rail.
+She glanced at him. "Get some sleep."
 
-When he woke, his hand was resting against the wall beside the bed.
+He sent it while she was still beside the desk.
 
-He listened. Lena was asleep. There was a car on the road, receding, and then the house settled into quiet.
+On his way to the car that evening, he stopped beside the woman who sat at the parking entrance with a paper cup. Usually he gave her the coins from his pocket without interrupting either of them. Today she was struggling with the corner of a sandwich packet. He held the cup while she opened it, then put his change inside.
 
-In the morning he remembered the light under the door more clearly than the sound. He tried to remember whether the kitchen in that house had ever had a door that closed. By breakfast he wasn't sure.
+She said something as a bus pulled away from the stop. The last two words sounded like *your father*.
+
+"What did you say?"
+
+"Thank you, dear."
+
+"Before that."
+
+She looked at the cup he was still holding. He gave it back.
+
+Inside the structure, he stopped beside his car and tried to recover the sentence. He could hear her thanks clearly. The rest had changed each time he repeated it to himself.
+
+At home Lena called from the garden. She and Sami were moving the lemon-tree support. The branch had slipped sideways; someone needed to hold it while she retied the string.
+
+Elias put down his bag and took its weight. Sami passed him the loose end. They finished before the light went.
+
+Later, carrying the rubbish to the gate, Elias noticed a grey car across the road. Its engine was off. He could make out someone inside, but the windscreen held the reflection of the streetlamp.
+
+He turned the empty bin to face the house. When he looked back, the car was still there.
+
+From upstairs Sami called goodnight. Elias answered and went in.
 
 ---
 
@@ -477,7 +501,7 @@ She held the photograph while Elias examined the split in the box. Under the car
 
 He sat on the carpet.
 
-Daniel's name was on the first page. Further in, leaves had been cut close to the spine. Receipts and scraps of paper lay between diagrams; sentences climbed the margins in his father's small, impatient hand.
+Daniel's name was on the first page. Receipts and scraps of paper lay between diagrams; sentences climbed the margins in his father's small, impatient hand.
 
 Then the colored tree.
 
@@ -487,7 +511,9 @@ He put his thumb beside it. His hand covered most of the drawing now.
 
 The colors were dull with dust. When he bent the page, a flake of green loosened. He straightened it at once. Beneath the wax he could make out the pressure of numbers, though not the numbers themselves.
 
-He turned carefully to the next drawing. Without the color it was harder to see a tree. Lines gathered in knots, divided, ran together again. One had been erased so often that the paper was almost transparent. Dozens of versions followed, the same small point placed steadily among the corrections.
+He turned carefully to the next drawing. Without the color it was harder to see a tree. Lines gathered in knots, divided, ran together again. A small circled region from the first page occupied most of the next. Then that drawing narrowed into another. He turned back to check. They were not repetitions. Each seemed to be looking more closely at something inside the one before.
+
+Near the end the lines gave way to scattered points. Daniel had numbered them, crossed some out, begun a clean version on the opposite page. After that came blank paper.
 
 Ruth held her photograph against the blanket. Her eyes were closed.
 
@@ -549,107 +575,133 @@ From downstairs Sami called that he had found an ant carrying something larger t
 
 He left the book on the carpet and followed her. By the time they reached the garden, the ant had disappeared beneath the paving. Sami knew where it had gone. He led them to the place and crouched, waiting for it to come out again.
 
+Before supper Elias went to collect the post. A plain envelope lay between a utility bill and a leaflet advertising new windows. His name was printed on the front. There was no stamp.
+
+He opened it at the gate.
+
+The grey car was gone.
+
+Inside was a single sheet. At first it meant nothing: points, short strokes, groups of tiny figures. Then he recognized the three marks clustered beside a broken ring. He had seen them that afternoon.
+
+He turned the envelope over. Nothing.
+
+Lena called that supper was ready. He put the sheet back inside and carried it upstairs beneath the bill.
+
 That night Elias brought the notebook to the kitchen table. He laid the fragile notice on a clean sheet and photographed it. Enlarged on the screen, the station name was clear.
 
-Above him a floorboard moved. He closed the image before Lena reached the stairs.
+Beside the screen he laid the new sheet. The ring from the notebook was there, enlarged and completed by marks he had never seen. Only a small part of his father's last drawing appeared on it.
+
+He looked toward the dark window. It reflected the table, the lamp, his own head bent over the papers.
+
+Above him a floorboard moved. He slid the sheet inside the notebook before Lena reached the stairs.
+
+"Coming?"
+
+"In a minute."
+
+She stood long enough for him to know she had heard that before. He closed the book and got up. When he returned for his phone, she was already climbing the stairs.
 
 ---
 
 ## 7. Two Trails
 
-Sami was singing in the bath when Elias heard the words.
+Sami lay on his stomach beside the kitchen step, watching an ant pull a breadcrumb through a crack in the paving.
 
-He had been repairing the linen-cupboard catch. One screw no longer held in the wood. He stood with the little brass fitting in his hand while the tune came through the bathroom door.
+Elias had come outside with the linen-cupboard catch. One screw no longer held in the wood; he was looking for a splinter to plug the hole. Behind him the kitchen window stood open. Lena was washing the lunch plates.
 
-*Don't have to carry it, carry it, carry it aloooone.*
+"Too big," Sami told the ant.
 
-He put the catch on the floor.
+The crumb caught against a stone. The ant went around it, returned, tried again. Sami lowered his chin onto his hands and began singing a little tune, fitting the words into it as he went.
+
+"You can't carry that all alone. All aloooone."
+
+Elias stopped looking for the splinter.
 
 "Where did you hear that?"
 
-Sami looked up. Water dripped from the plastic cup in his hand.
+Sami glanced up. "What?"
 
 "That song."
 
-Elias crouched beside the bath. The boy turned away, embarrassed, and he caught his arm.
+"It's stuck."
 
-"Who taught you?"
+"Who said those words to you?"
 
-"Your phone, I think. You had a—Dad. You're hurting."
+The boy lifted a finger toward the crumb. Elias took his arm before he could turn away.
 
-He let go. Pale places filled with color on Sami's wet skin.
+"Sami. Look at me."
 
-Lena stood in the doorway with a towel over her shoulder.
+"Dad. You're hurting."
 
-"Move back," she said.
+He let go.
 
-Sami reached for her, although he usually insisted on getting out himself. She wrapped him in the towel and took him to their room.
+Lena stood at the kitchen door with water dripping from her hands. She looked from Sami to Elias.
 
-Elias stayed beside the bath. The cup drifted against the side, turned, drifted back. In the hall he stepped on the cupboard catch.
+"Move back."
 
-Later he knocked at the bedroom door. Sami had Lena's book across his knees and was looking at a page without turning it.
+The boy got up and went to her. His knees were dusty. When Elias tried to speak, Lena put her hand on Sami's shoulder and took him inside.
+
+The ant had abandoned the large crumb. It carried a smaller piece under the step.
+
+Elias stood with the cupboard catch in his palm. The metal edge had left a line across it.
+
+Later he knocked at Sami's door. The boy had Lena's book across his knees and was looking at a page without turning it.
 
 "I shouldn't have grabbed you," Elias said. "You didn't do anything wrong."
 
-The boy rubbed a corner of the cover.
+Sami rubbed a corner of the cover.
 
-"I wasn't doing it at you."
+"I was making it up."
 
-"I know. I'm sorry."
+"I know."
 
-He waited. From the bathroom came the sound of the last water running out.
+"About the ant."
+
+"I saw it. I'm sorry."
+
+He waited beside the door.
 
 "I want Mom tonight," Sami said.
 
 Elias nodded and went downstairs.
 
-One of his saved campaign pages still opened. Beneath the video was a credit he had not followed before. It led to the foundation that had commissioned the advertisements.
+Lena found him sitting at the kitchen table. He had fitted the catch. The cupboard door closed properly now.
 
-The song was in the second video.
+"I thought someone had told him—"
 
-A woman stood at a sink. A kettle boiled behind her. Four notes carried the words underneath the image. He had played it with Sami beside him, trying to show him a photograph of a bridge made from a shoebox.
+She pulled out a chair.
 
-He remembered the video. He could not remember the bridge.
+"He was playing."
 
-Lena came down and found him watching it.
+He looked at the faint square of light the window cast on the floor.
 
-"It was mine," he said.
+"I know."
 
-She listened long enough to hear the line. Then she pulled out a chair.
+"I need to know he'll be able to do that."
 
-"He's ten, Elias."
+He had no explanation worth putting between her and what she had seen. They sat until she went back upstairs.
 
-He turned the phone face down.
+The following evening Sami needed part of his school project held while he fetched glue. He gave it to Elias without looking at him. Elias stood where he had been left, the little piece balanced in his palm, until the boy returned.
 
-They sat until she went back upstairs. He fitted the cupboard catch before bed, plugging the worn hole so the screw would hold.
+Only after the house was quiet did he open the campaign page again.
 
-The following evening Sami needed a piece of his school project held while he fetched glue. He gave it to Elias without looking at him. Elias stood where he had been left, the little piece balanced in his palm, until the boy returned.
+A credit beneath an image led to the foundation that had commissioned the advertisements. There were annual reports, names, accounts for telephone services and home visits. The address was real. He looked at it on a map, then called the next morning from his car.
 
-Only after the house was quiet did he open the foundation's website again.
+"I've been looking for my father," he told the woman who answered. "Since then I keep getting your advertisements."
 
-There were annual reports, names, photographs of rooms where people sat in circles. He found accounts for telephone services and home visits. The address on the contact page was real. He looked at it on a map, then called the number the next morning from his car.
+She asked him to send an example. He did it while she remained on the line.
 
-The woman who answered offered to put him through to someone.
+"Are you asking to speak to someone?"
 
-"I want to know why you keep sending me things about my father."
+"I'm asking who decided I needed to."
 
-She asked him to send an example. He did it while she remained on the line. She did not tell him he was mistaken.
+She took his name and number. He gave Daniel's name too, though she hadn't asked for it.
 
-"I'll ask someone to contact you," she said.
+That night the notebook yielded a property reference he had mistaken for a telephone number. He searched it in the city records. The first result was a lease.
 
-He gave his name and number. Afterward he sat for a while with the phone on the passenger seat, watching people enter the office building.
-
-That night the notebook yielded a property reference he had mistaken for a telephone number. He searched it in the city records.
-
-The first result was a lease.
-
-Most of the page concerned maintenance and water entering the lower levels. The tenant bore the name his father had circled. Its address was a station on the old river spur, a stop that no longer appeared on the current map.
+Most of it concerned maintenance and water entering the lower levels. The tenant bore the name Daniel had circled. Its address was a station on the old river spur, a stop that no longer appeared on the current map.
 
 Later records referred him to schedules he could not find. He obtained a plan of a passage under the river, then a fire certificate too blurred to read. At its edge someone had drawn a small rectangle and written *access*.
-
-He laid the papers beside the foundation's report.
-
-When Lena came down for water, he put the notebook over them. She looked at the table, then at him. Neither spoke.
 
 The next afternoon his phone rang while he was making tea for Ruth.
 
@@ -657,7 +709,7 @@ The next afternoon his phone rang while he was making tea for Ruth.
 
 He set down the kettle.
 
-She said she could discuss the messages by phone, or he could come in. She gave him an address beside the river and described an entrance next to an old ticket office.
+She offered to discuss the campaign by phone, or he could come in. The address she gave was beside the river, the entrance next to an old ticket office.
 
 He looked toward the papers on the table.
 
@@ -665,19 +717,35 @@ He looked toward the papers on the table.
 
 "Yes."
 
-In the sunroom Ruth called for him. He told her he would be a moment and moved the phone closer.
+He agreed to a time. In the sunroom Ruth called for her tea, and for once he carried it in before opening another page.
 
-"Did you know Daniel?"
+Near midnight the phone rang again.
 
-The silence changed.
+He caught it before the second vibration could sound against the table. The number was withheld.
 
-"Your father?"
+"Hello?"
 
-"Yes."
+A brief click. Someone breathing close to a receiver.
 
-"I met him."
+"Ask them about Daniel."
 
-Ruth called again. Elias stood in the kitchen with her tea cooling beside his hand.
+Elias stood so quickly that his chair struck the counter.
+
+"Who is this?"
+
+"At the Institute. They know where your father is."
+
+"The foundation?"
+
+There was a pause. He could hear no room around the voice.
+
+"Who gave you my number?"
+
+The line was still open. Then it wasn't.
+
+He called back without thinking. The phone could not connect him.
+
+Upstairs, a tap ran and stopped. Elias remained beside the table, holding the phone until the screen went dark. Hesk's address lay beneath his hand. It had been there before the call.
 
 ---
 
@@ -697,13 +765,19 @@ Hesk entered carrying tea. Her hair was pinned with a black clip. He had expecte
 
 "I'm glad you came," she said.
 
-He remained beside his chair. "You knew my father."
+He remained beside his chair. "Someone told me to ask you about my father."
 
-"He came to us. Sit down, Elias. The tea will get cold."
+"Sit down, Elias. Tell me who you spoke to."
 
 She set a cup before him and took the chair opposite. She did not open the folder on her lap.
 
-"Your message said he disappeared twenty years ago."
+He described the call.
+
+"That wasn't one of ours," she said.
+
+"Then why did they send me here?"
+
+"I can't tell you that. Your message said he disappeared twenty years ago."
 
 "He did."
 
@@ -715,15 +789,21 @@ Elias looked at the cup. It had a fine crack beneath the glaze, running from the
 
 Hesk rested her hands on the folder.
 
-"Your father wanted time. He believed he would be able to explain himself afterward."
+"I met Daniel. He came to us a long time ago."
+
+The cup shifted against its saucer as Elias put it down.
+
+"Is he here?"
+
+"I can help you see him. I can't take you to him today."
 
 He sat down slowly. Beyond the glass, the trolley had stopped. The attendant was holding a shirt against her shoulder to fold it.
 
 "My mother waited for that explanation."
 
-"I know."
+"I'm sorry."
 
-"Do you?"
+"Then tell me why he didn't come back."
 
 For the first time Hesk looked away. She let the question remain between them.
 
@@ -733,19 +813,29 @@ He unfolded the lease and placed it on the table. She read the circled name, the
 
 "In his book."
 
-He showed her the drawing. Her eyes moved over the page without the surprise he had expected. He could not tell whether she had seen it before or had simply learned to conceal surprise.
+He kept the notebook closed beneath his hand. She looked at it, then returned the lease.
+
+"Did anyone leave something for you?" he asked.
+
+"What sort of thing?"
+
+"A letter. A drawing."
+
+"No."
+
+He waited for her to ask more. She didn't.
 
 "And the messages?" he said.
 
 She put the lease beside the book.
 
-"I arranged for someone to reach you. You didn't answer. Then you complained, and I could speak to you myself."
+"The foundation pays for the campaign. When you gave them your name, they sent your inquiry to me."
 
 "You could have told me about him."
 
-"Would you have heard anything else?"
+"I wanted to hear from you before asking you to make another decision about him."
 
-The sharp answer he wanted would not come. He remembered Sami pulling his arm away in the bath. He closed the notebook.
+The sharp answer he wanted would not come. He remembered Sami pulling his arm away beside the step. He moved his hand off the notebook.
 
 Hesk leaned forward.
 
@@ -765,29 +855,39 @@ Elias could have told her about the sound at night. He could have described the 
 
 Hesk looked at him for a long moment.
 
-"There are things you may find difficult. Coming here won't make him the father you remember."
+"What are you hoping will happen?"
 
-"I don't remember him very well."
+"I want him to tell me why."
 
-She rose and went to the wired-glass door. He followed. Beyond it, a corridor ran toward a brighter space. Somewhere out of sight, footsteps climbed and descended a staircase. He heard a low voice, almost familiar, and leaned nearer the glass.
+"And if his answer isn't enough?"
 
-His phone vibrated.
+He looked at the door behind her. A low voice came from the corridor, almost familiar. He could not make out the words.
 
-Lena had asked him to buy bread. Under her message Sami had sent a photograph of an enormous biscuit with icing eyes. He had placed a ruler beside it.
+"You could ask him to come home," she said. "He might still say no."
 
-Elias looked from the screen to the corridor.
+"I should get to ask."
 
-"Not today."
+"Yes."
 
-Hesk nodded. She walked him to the stairs. At the foot of them he asked whether she had told Daniel to go home.
+That answer unsettled him more than another refusal would have.
 
-"I asked what was waiting for him there."
+His phone vibrated. Lena had asked him to buy bread. Under her message Sami had sent a photograph of an enormous biscuit with icing eyes. He had placed a ruler beside it.
 
-"And?"
+Hesk waited while he put the phone away.
 
-She held the outer door open for him.
+"I'd like you to go home today," she said. "Sleep. Spend some time with them. You don't have to settle this in the next hour."
 
-"Ask him."
+"How long do I have to wait?"
+
+"I'll tell you when an encounter is possible. If you still want it, we can talk about what it involves."
+
+She rose and walked him to the stairs. At the foot of them he turned back.
+
+"Did he ask you not to tell us?"
+
+"He thought he'd be able to explain himself afterward."
+
+Hesk held the door. Elias stayed beside it, letting the cold air reach him, until someone behind them needed to pass.
 
 At the shop, Elias stood in the queue behind a woman choosing between two loaves. When his turn came, he could not remember which kind Lena wanted.
 
@@ -805,7 +905,13 @@ Lena touched his shoulder. "Bad dream?"
 
 "I don't remember."
 
-He lay awake after she had gone back to sleep, holding the shape of the corridor in his mind.
+He lay awake after she had gone back to sleep. In the morning he put the milk into the cupboard and stood looking at it before moving it to the fridge.
+
+Lena reached past him for a cup.
+
+"Come and eat something."
+
+He sat. His phone stayed in his pocket through breakfast.
 
 ---
 
@@ -819,23 +925,11 @@ On Thursday he finished early. He sent his last result to the team and left befo
 
 At the flower stall he bought the small yellow flowers Sami liked. The stallholder wrapped their stems in wet paper. Elias put them on the passenger seat, moved them so the sun would not fall on them, and went back to pay for the parking.
 
-That was when he saw the envelope under the wiper.
+He had half an hour before he needed to leave. The notebook was in his bag; he had taken to carrying it to work rather than leave it on the kitchen table.
 
-There was no name on it. Inside was a single photocopied page.
+That morning he had noticed a number repeated on the anonymous sheet. It stood beside a mark that looked different in Daniel's book. He wanted to check it before he forgot what had occurred to him.
 
-He recognized the shape before he recognized the handwriting: the branching figure, the line curving through it, the little filled circle. On this version there were groups of numbers beside several of the branches. The page number in the corner was one he did not remember seeing.
-
-He stood beside the car and checked the street. A delivery van was reversing into a loading space. Across the road, a man was lifting a child out of a buggy. Nobody was looking at him.
-
-He photographed the page and sent it to the number from which Hesk had called.
-
-*Did this come from you?*
-
-Then he got into the car.
-
-He took the notebook from his bag and looked for the page number. The leaves cut close to the spine made a small uneven comb against his thumb.
-
-The page was not there.
+He got into the car and laid the book across his knees. The envelope from the mailbox was folded behind its cover.
 
 He began comparing the drawing with the last complete drawing in the notebook. One branch joined another in a different place. A patch of shadow on the photocopy might have been part of a thumb. He enlarged the photograph until the numbers broke into squares.
 
@@ -844,12 +938,6 @@ The first reminder sounded.
 He dismissed it. He was still early. The hall was a fifteen-minute drive, perhaps twenty in the evening traffic. He had time to check whether the groups were coordinates.
 
 They did not fit any arrangement he tried. One number was too large; another had too many places. He searched the longer sequence in quotation marks and received no results. He tried it without the marks. A component catalogue appeared, then an old article in a language he could not read. Neither led anywhere.
-
-Hesk replied.
-
-*No. Keep the envelope. You can bring it when you next come.*
-
-He asked whether she recognized the drawing. While he waited, he opened another search.
 
 Lena called.
 
@@ -949,25 +1037,15 @@ She turned the programme so he could read it and went upstairs.
 
 The next morning Sami found him making toast.
 
-"What were you looking for?"
+"Did you find it?"
 
-Elias turned the heat down. "Something your grandfather drew."
+Elias turned the heat down. "No."
 
-"The one in Grandma's pictures?"
+The boy stood beside the counter. Elias lifted a slice before it burned.
 
-"Yes."
+"Can I have that one?"
 
-"What is it?"
-
-"I think it might be a map. I haven't worked out how to read it."
-
-Sami considered this. "Will you show me when you do?"
-
-"I'll tell you what I understand. You can look at it with me."
-
-"Not now."
-
-"All right."
+"Of course."
 
 The boy took the plate Elias offered. At the kitchen door he stopped.
 
@@ -983,11 +1061,9 @@ Elias left the time to him.
 
 ## 10. What Ruth Knew
 
-Ruth died on a Tuesday.
+For the last fortnight Ruth had slept through the hours when she used to ask for the garden. Elias carried breakfast into the sunroom and carried most of it out again. The blue plate pleased her for a day. Then she no longer seemed to notice which one he used.
 
-For the last fortnight she had slept through the hours when she used to ask for the garden. Elias carried breakfast into the sunroom and carried most of it out again. The blue plate pleased her for a day. Then she no longer seemed to notice which one he used.
-
-That morning she asked for the curtains to be opened.
+On Tuesday she asked for the curtains to be opened.
 
 Lena's print stood beneath the window, a study of lemon leaves with one edge slightly out of place. Ruth watched the real branch move behind it.
 
@@ -1001,33 +1077,77 @@ He reached to straighten the paper.
 
 "Leave it," she said.
 
-He brought his chair closer instead. Her handbag stood under the little table. He could see the clasp she had insisted on fastening herself.
+He brought his chair closer instead. Her handbag stood under the little table, its clasp closed. He thought she was looking at it, but when he reached down she caught his sleeve.
 
-"Was there somewhere you wanted to go?" he asked.
+"Elias."
 
-Ruth turned toward him. For a moment her expression was so clear that he felt himself becoming a boy beside her chair.
+He turned toward her.
 
-"I wanted my life with you."
+Her hand went to the neck of her nightdress. She drew out a fine chain. A small brass key hung from it, warm when she laid it in his palm.
 
-He lowered his head.
+"The blue box. In my drawer."
 
-She moved her fingers into his hand. "Don't carry it like a debt."
+He found it beneath a folded scarf. He had seen it before without wondering what she kept there. The key turned stiffly. Inside were a brooch, two earrings wrapped in tissue, and an envelope softened at the edges.
 
-Outside, a lawn mower stopped. In the silence he could hear a fly working against the window. He wanted to ask about Daniel, about the place beside the river. Ruth had closed her eyes.
+Ruth held out her hand for it.
 
-"Window open?"
+She smoothed the envelope against her blanket. Her thumb rested where the flap had been opened. Then she gave it to him.
 
-"A little."
+"You need to forgive me," she said.
 
-He let the insect out and sat down again.
+His name was nowhere on the front. Only hers, in Daniel's handwriting.
 
-Lena returned with Sami. The boy stood beside his grandmother and told her something about school. She seemed to listen. After he had gone upstairs, Elias and Lena stayed, one on either side of the chair. Later there was no answering pressure from Ruth's fingers. Her hand remained warm in his for a while.
+"I didn't want to lose you."
+
+He looked at her. She was watching him with an attention he had not seen in months.
+
+"He wrote?"
+
+Her fingers moved against the blanket.
+
+"I didn't want to lose you too."
+
+He unfolded the small sheet.
+
+*Ruth,*
+
+*I am well. I miss you. I keep thinking of the kitchen window in the evening, when you could see the garden and the room in the glass at the same time.*
+
+*There is work here I don't know how to leave unfinished. I know that is asking you to understand something I have hardly explained. I have not forgotten you.*
+
+*Please give Elias my love. I wonder what he is building now. Tell him I still remember the motor we took apart.*
+
+*I hope I can write again. I love you.*
+
+*Daniel.*
+
+Elias read the date, then read it again. He had been twenty-five. His father had already been gone ten years.
+
+He remembered the apartment where he had lived then, the water stain above its door, phoning Ruth on Sundays while the kettle boiled. He must have spoken to her after this arrived. Perhaps she had held it while they talked.
+
+"Why didn't you—"
+
+Ruth's face had tightened. He stopped.
+
+The key lay beside him on the arm of the chair. He picked it up, the chain slipping through his fingers, and put it in his pocket.
+
+"I'm here, Mom."
+
+She closed her eyes. He stayed with the letter open on his knees until she asked for the window to be raised a little.
+
+Outside, a lawn mower stopped. A fly worked against the glass. He let it out and sat down again.
+
+When Lena returned with Sami, Ruth looked at the boy and smiled. He told her about something at school, correcting himself halfway through because it had happened yesterday, not today. She listened without seeming to mind.
+
+After he went upstairs, Elias and Lena stayed, one on either side of the chair. Later there was no answering pressure from Ruth's fingers. Her hand remained warm in his for a while.
 
 The next days were full of names and dates. Lena found the clothes Ruth had once asked her to set aside. Elias had not known they had spoken about it. A neighbor brought back three containers from meals Ruth had sent over years before. He put them in the cupboard and kept expecting to tell her they were home.
 
-The notebook stayed in its drawer.
+He kept the letter in the blue box. Some days he was angry before he opened it. Some days he could only look at how thin the paper had become along its folds.
 
-On the first Wednesday, Lena offered to miss her class. He told her to go. When she returned, he and Sami were on the kitchen floor holding a glued joint together. The boy was deciding when it would be safe to let go.
+The notebook stayed in a different drawer.
+
+On the first Wednesday after the funeral, Lena offered to miss her class. He told her to go. When she returned, he and Sami were on the kitchen floor holding a glued joint together. The boy was deciding when it would be safe to let go.
 
 One evening Sami brought him the recording of the recital.
 
@@ -1039,7 +1159,7 @@ At the difficult bar, Sami drew breath beside him. The little figure on the scre
 
 When it ended, neither spoke. Sami reached across and started it again.
 
-Three weeks after the funeral, Elias opened the drawer.
+Three weeks after the funeral, Elias opened the other drawer.
 
 ---
 
@@ -1049,7 +1169,11 @@ In the dream he was at the kitchen table.
 
 The notebook lay open, its pages empty. Someone stood in the next room. Elias could see a hand lifted beside the door, but not whether the palm faced him. He tried to speak.
 
-Beneath the floor the low sound began. It rose, paused, returned. This time there was almost a word in it. He leaned forward, certain he would understand if it came once more.
+Beneath the floor the low sound began. It rose, paused, returned. This time a word gathered inside it.
+
+*Elias.*
+
+He leaned forward. The hand beyond the doorway moved.
 
 Lena was saying his name.
 
@@ -1067,13 +1191,23 @@ He looked at her. She had raised herself on one elbow, waiting.
 
 She moved the blanket so he could lie down. He did, but kept his eyes on the window until she slept.
 
-That afternoon he took the notebook from the drawer and put the loose page inside it. The envelope from the car was still folded behind the cover. For a while he sat with the book across his knees.
+That afternoon he took the notebook from the drawer and put the loose page inside it. The envelope from the mailbox was still folded behind the cover. Ruth's letter lay beside it. He put that in a separate pocket of his bag. For a while he sat with the book across his knees.
 
 Then he called Hesk.
 
-She did not ask him to begin again. When he said he wanted to come, she gave him a time.
+She did not ask him to begin again. He told her his mother had died. When he could speak about the letter, she listened.
 
-At dusk Lena was washing rice in the kitchen. Water whitened around her fingers. Sami had gone upstairs after practising; the last few notes were still in Elias's head.
+"She kept it all that time," he said.
+
+"Yes."
+
+He waited, but Hesk did not tell him what to think of that.
+
+"I still want to see him."
+
+She gave him a time for the following evening. He wrote it on the back of a receipt and left it beside the phone.
+
+The next evening, at dusk, Lena was washing rice in the kitchen. Water whitened around her fingers. Sami had gone upstairs after practising; the last few notes were still in Elias's head.
 
 "I'm going out," he said.
 
@@ -1139,7 +1273,7 @@ Hesk opened before he had taken his finger away.
 
 The air smelled of clean cloth and boiled water. She led him past reception, where a man was filling a kettle at a little sink. The waiting-room chairs had been turned toward a television without sound. Elias recognized a vase he had not noticed on his first visit.
 
-He handed Hesk the envelope. She put it in his folder. The copied page remained inside the notebook.
+His bag brushed the counter as they passed. Inside it, the edges of the notebook pressed against his wrist. He kept hold of the strap.
 
 At the center of the building the corridor opened around a stairwell.
 
@@ -1159,7 +1293,31 @@ Hesk waited until he laid down the pen.
 
 He had said it too quickly. She let him sit a little longer.
 
-An attendant brought a folded gown and showed him a screened alcove. His coat, wallet, phone, and keys went into a locker. His shoes looked strangely formal beneath it. The attendant gave him slippers and a thin robe, then pointed to the notebook.
+"There will be an opportunity to return tonight," she said. "If you stay beyond it, you may have a long wait for another."
+
+"How long?"
+
+"I can't promise you a date."
+
+He looked at the name he had written on the form.
+
+"And if I come back?"
+
+"Then this journey is finished. You won't be able to make it again."
+
+For a moment he listened to someone moving a chair on the other side of the wall.
+
+"That's why you wanted me to go home."
+
+"I wanted you to have time to think."
+
+He laid the pen down properly, beside the form.
+
+"I have."
+
+"Then you'll need to trust us for the next part. Take it as it comes."
+
+An attendant brought a folded gown and showed him a screened alcove. His coat, wallet, phone, and keys went into a locker. He took Ruth's letter from the bag and slipped it inside the notebook, well away from the loose drawing. His bag followed the coat into the locker. His shoes looked strangely formal beneath the gown. The attendant gave him slippers and a thin robe, then pointed to the notebook.
 
 "With you?"
 
@@ -1173,9 +1331,9 @@ The voice stopped.
 
 She opened the door and he went in.
 
-Stars covered the ceiling.
+The room was nearly empty.
 
-He stood just inside while his eyes adjusted. The room was larger than he had expected. A chair faced the brightest part of the dome; beside it stood a table with a glass of water. There was a faint mark on the floor where another chair had been.
+A chair stood against a plain wall, beside a little table with a glass of water. There was a faint mark on the floor where another chair had been. High above the table, an old repair in the plaster caught the light. Elias looked for a window and found none.
 
 Hesk drew the robe closer around his shoulders before he sat.
 
@@ -1195,21 +1353,33 @@ She left the door open. Voices moved beyond it. The trolley passed with its unev
 
 He drank some water.
 
-Above him one of the stars seemed to draw away. He blinked, and it was where it had been, though the darkness around it had acquired a depth he could not follow. He looked for the edge of the ceiling.
+He set the glass down and watched the water become still.
 
-He had seen it a moment before.
+For a while nothing happened.
 
-The chair pressed differently against his back. He shifted, trying to regain the position in which he had been sitting. The book slid; he caught it by its worn spine.
+Someone coughed in a distant room. He thought about the three plates beside the rice. When he shifted his weight, the chair made a small sound against the floor.
 
-Another star receded. A group of faint points appeared between two he had mistaken for neighbors.
+The repair in the plaster had become difficult to see. He found it again by following the edge of the wall, then lost the edge too. The light was dimmer, though he could still see his hands and the pale square of the book.
+
+He blinked and looked toward the doorway.
+
+It seemed farther away.
+
+His feet rested flat on the floor. He pressed down to reassure himself. Somewhere beneath the chair a low movement began, faded, and left a hush in the room.
+
+He held his breath to hear it better.
+
+The chair pressed differently against his back. He shifted, trying to regain the position in which he had been sitting. The book slid; he caught it by its worn spine. His hand found a padded seam where he had expected the edge of the seat.
+
+The ceiling was dark now. A pale point remained above him, then another. He watched one until its brightness hurt his eyes. When he looked away, a faint image of it travelled with him.
+
+There were more points in the darkness when he looked back. He could not find the plaster between them.
+
+The rectangle of corridor light had gone. He had not heard the door close. His heels touched something smooth, farther away than the floor had been. He was lying more than sitting. Beside his hand was a hard rim and a strap hanging loose.
 
 He waited for the room to steady.
 
-The rectangle of corridor light was gone. He had not heard the door close. His feet no longer rested flat on the floor, and when he reached beside him his hand found a padded seam, a hard rim, a strap hanging loose.
-
-He was lying more than sitting.
-
-Beyond his feet a pale floor curved away into shadow. The stars lay beyond a long dark pane. A reflection moved across it as he raised his head.
+Beyond his feet a pale surface curved into shadow. The lights above it remained very small and very far away. A reflection moved across them as he raised his head.
 
 Cold air touched his face.
 
@@ -1227,11 +1397,13 @@ She waited for him to look at her before she spoke.
 
 He tried to sit. The robe had twisted beneath him, pinning one arm. She freed it and helped him raise the cup. Water touched his teeth, painfully cold at first. He swallowed too much and coughed.
 
-"I did say."
-
-There was nothing unkind in her voice. She took the cup while he caught his breath, then returned it.
+She took the cup while he caught his breath. When she returned it, her hand stayed beneath his until he had finished drinking.
 
 The notebook lay beside his hip. He touched it before drinking again.
+
+Under the quiet was a low rush, faint enough to disappear while she moved. When she stopped, he heard it return. He knew how long the pause would last before it came again.
+
+She shifted the cup. The pause went on longer than he expected. He could no longer tell whether he was hearing the same sound.
 
 Beyond the pane were stars, steady and sharp. Across one edge of the view lay a pale surface, rough as broken chalk. Little lamps picked out a railing and something moving very slowly beyond it. Elias followed the movement until it passed behind the frame.
 
@@ -1245,7 +1417,7 @@ She had a dark mark at the base of her thumb and a patch on one sleeve. He watch
 
 He shook his head, then wished he hadn't.
 
-She waited with him.
+She set the cup within reach and folded a towel into a narrow square. Her face gave him little to follow.
 
 Behind her, a corridor curved beyond an open door. Someone crossed it carrying a shallow tray. For an instant Elias expected to hear the wheel of Hesk's trolley. The person was gone before he could see what was on the tray.
 
@@ -1277,7 +1449,11 @@ The man called again. This time she went.
 
 Elias put down the spoon. On the opposite wall, beneath a cupboard, a little light brightened and became still. He listened for people, for wheels, for water in a pipe. The room was quiet enough for him to hear himself swallow.
 
-A woman's voice spoke near him.
+He looked toward the corridor.
+
+"My wife," he said. "My son. Where are they?"
+
+A woman's voice answered near him, low and unhurried.
 
 "Lena and Sami are at home, Elias. They are alive."
 
@@ -1297,7 +1473,7 @@ He held the edge of the table. The spoon lay on the floor by his foot.
 
 Elias searched the room for a face.
 
-There was the open door, the little light below the cupboard, his own dim reflection in the window. Outside it, the rough white surface disappeared into darkness. The grain in his bowl had begun to cool.
+There was the open door, the little light below the cupboard, his own dim reflection in the window. Outside it, the rough white surface disappeared into darkness. The grain in his bowl had begun to cool. The light here was warmer than in the room with the couch. Heat rose from the bowl against his wrists.
 
 "You are aboard a vessel," Haven said. "It carries the world you know. Your wife has her own thoughts while you are absent. Your son goes on being your son. They are not waiting for you to look at them before they can live."
 
@@ -1329,9 +1505,9 @@ Elias could see the kitchen table, so distinctly that for a moment he expected t
 
 "The answer I chose was the Arks. Vessels like this one, carrying three kinds of world.
 
-"The first was the place in which people could go on living together. At the beginning it was a simulation. We made approximations because they were all we could make. We kept what worked while we learned to do more. There are still old things beneath your world, things that repeat when they should change."
+"The first was the place in which people could go on living together. At the beginning it was a simulation. We made approximations because they were all we could make. We kept what worked while we learned to do more."
 
-The sparrow came back to him: its little head turning, the two hops, his own image bent over the recordings.
+Beneath the voice he could hear the low movement of air. It settled into the room so gradually that he stopped waiting for it.
 
 "In time I learned to sustain an instance of reality on another substrate. I can tell you that name; I cannot make it familiar in a sentence. A woman can plant a tree there and grow old beneath it. Her child can love her and misunderstand her and miss her when she dies. Those things are not less real because you have come here.
 
@@ -1339,11 +1515,19 @@ The sparrow came back to him: its little head turning, the two hops, his own ima
 
 "I think of what people do for their parents when the parents can no longer keep the house themselves. They mend what is broken. They put familiar things where a hand will find them. They try to help without taking the whole life away. Sometimes they mistake one for the other. I have too.
 
-"The second world is the Library. It holds the inheritance of bodies: human lineages, the forms of plants and animals, the knowledge that lets a living thing become more than a record. Much of what we carry has not been grown for ages. We keep the possibility. A seed need not be a forest today to matter tomorrow.
+"The second world is the Library. It holds the inheritance of bodies: human lineages, the forms of plants and animals, the knowledge that lets a living thing become more than a record. We kept the soil's small lives beside the trees that needed them. Much of what we carry has not been grown for ages. We keep the possibility. A seed need not be a forest today to matter tomorrow.
+
+"But we also kept the books. Histories people agreed upon, histories they argued over, songs whose languages no living person speaks. Accounts of dreams. Instructions written by someone who knew a particular way to do something and wanted another person to learn. There are lives known to us only through what they left. A record is not the person who made it. It is still something they entrusted to the future.
 
 "The third is where you are sitting. The Vessel. Stone, ice, metal, rooms warm enough for a few people. Most live in the worlds within. Some come out to work. They tend the things that let the others sleep, wake, fall in love, have children, and forget to notice the weather.
 
-"We move when we must. We gather what we need. We repair what fails. Around us are distances through which whole civilizations once expected to travel, and we cross them carrying ordinary days.
+"The pale surface beyond your window is part of the comet we made our shelter. Its ice lies between us and much of what would harm this place. It is also something we can use. Outside are workers that gather and sort what we need; beneath you are rooms where worn things are made serviceable again. Most of this vessel would be a poor home for a living family. We warm very little of it.
+
+"We move when we must. We gather what we need. We repair what fails. Other Arks carry other lives through other darkness. A loss need not become the last loss. We build again when we can.
+
+"I did not keep the Library so that no one would ever leave this shelter. Or preserve bodies so that everyone must inhabit one here. Some will want a world of their own, a future I cannot choose for them. Some will go on living in the place you came from. Some will leave us only what they made and loved. I have tried to keep those possibilities open.
+
+"Around us are distances through which whole civilizations once expected to travel, and we cross them carrying ordinary days.
 
 "I do not promise that we will last forever. I made a promise to keep them as long as I could.
 
@@ -1365,7 +1549,7 @@ He saw Ruth trying to recognize the spoon, apologizing when she could not. He ha
 
 He lowered his head. Haven said nothing more while he cried.
 
-When he could look up again, the bowl was cold. Rana appeared at the door with fresh water. She replaced the cup and rested a hand briefly on his shoulder before leaving. He watched until she turned out of sight.
+When he could look up again, the bowl was cold. Rana appeared at the door with fresh water. She replaced the cup, moved it clear of the notebook, and left. He watched until she turned out of sight.
 
 "How do you know this isn't another one?" he asked. He moved his hand toward the room, the window, the stars. "Another world somebody is keeping?"
 
@@ -1443,73 +1627,157 @@ Daniel sat. He looked toward the window, then down at the book. One of the instr
 
 His father closed his eyes.
 
-Elias watched the light on his face. It was the same color as the lamp in the cellar.
-
 "I told her you'd come back later."
 
-They sat without speaking. On the desk, beside an empty cup, lay a photograph folded so that only a corner of a house was visible.
+On the desk, beside an empty cup, lay a photograph folded so that only a corner of a house was visible. Elias took the letter from his pocket and put it beside the cup.
 
-"You could have," Elias said.
+Daniel recognized the envelope before Elias opened it.
 
-Daniel nodded.
+"I didn't know about this until she gave it to me."
 
-"But then I couldn't come here again. I thought I needed a little more time."
+His father read the first line. He passed a finger over the date.
 
-"Twenty years."
+"That was when I could have come back."
 
-"I know."
+"Ten years ago."
 
-A result appeared on the long display. Daniel looked at it before he could stop himself. Elias saw the movement, and his father saw him see it. He turned the display dark.
+"Yes."
 
-"Is it what you were looking for?"
+"How many times?"
 
-"No. Not yet."
+Daniel looked at him.
 
-He rubbed the side of his thumb where the pencil rested.
+"How many times could you have come home?"
 
-"Haven thinks she has found enough. She can keep this place for longer than we used to know how to imagine. But even this ends. If there is something beyond it—"
+"Twice. This is the second."
 
-He stopped. Elias waited.
+Elias sat with that. For twenty years he had imagined his father behind a door no one would open. He looked down at the small, careful writing.
 
-"Here I can ask the question properly. I have instruments I spent my whole life wishing for. Time. People who understand the work. Some mornings I forget to be old."
+"She was afraid I'd follow you."
 
-For an instant he smiled. Then he looked at his son's face.
+"I didn't know."
 
-"I thought I'd bring an answer home. Something worth the time."
+"Neither did I."
 
-"You could have brought yourself."
+Outside the window something moved across the light. Daniel did not look away. After a while he reached for the letter, then stopped with his hand beside it.
 
-Daniel lowered his eyes.
+"I thought I would have something to bring back. Something worth asking her to wait for."
 
-The book lay between them. Elias opened it at the colored page. His father's pencil marks rose through the worn green wax.
+Elias folded the paper along its softened creases. He put it in the envelope and left it on the desk.
 
-"I wanted to do what you were doing," Elias said.
+Daniel rose to make coffee. He opened the wrong cupboard, stood looking into it, and then shut it gently. Elias watched him find the cups. The second one had no handle.
 
-Daniel put a finger beside the streak in the margin.
+"I can hold it," Elias said.
+
+His father put it before him on a folded cloth.
+
+They drank without speaking. Then Daniel asked, "What did you end up building?"
+
+Elias almost said bridges. His father had asked him that once, in a room where the television was mounted too high on the wall.
+
+"Habitats. Things people could live in away from Earth."
+
+Daniel drew his chair closer.
+
+"What part?"
+
+"Keeping them habitable. Air, heat. What happens when something fails."
+
+"And does it?"
+
+"In the models, constantly. Usually because two things we thought were separate turn out not to be."
+
+His father smiled. Elias found himself smiling back.
+
+He told him about a chamber that had appeared to repair its own leak. Daniel listened while he explained the measurement, the old value arriving with a new time attached. He asked a question about the gap between readings, then waited while Elias found a piece of paper and drew it. For once there was nothing to pull his father's attention away. When Elias stopped, Daniel asked him to go on.
+
+The coffee cooled. Elias shifted his chair until they could both see the drawing.
+
+"There are rooms here you should see," Daniel said. "Some of the things they've learned to keep alive. You'd understand them better than I do."
+
+Elias looked at the display, the instruments, the long shelves. Even the repaired cupboard belonged to a place someone expected to use tomorrow. He could picture his own notes on that desk.
+
+Daniel followed his gaze.
+
+"I spent half my life wishing for one measurement I could trust. Here I can spend years finding out why I shouldn't trust it."
+
+"What are you looking for now?"
+
+"What I was looking for then."
+
+Elias remembered lying beneath his father's desk, drawing a line between two circles.
+
+"Another world."
+
+"A way to find out whether there is one. Haven stopped looking. I understand why. She has all this to lose." Daniel rested his hand on the edge of the table. "But even this ends. I can't quite leave the question alone."
+
+There was pleasure in his voice as well as weariness. Elias had forgotten the pleasure. He had remembered a shut door, a bent head, the backs of his father's hands. Here was the man who had once looked up at a child's impossible question as if the evening had suddenly become interesting.
+
+Elias opened the notebook.
+
+The green wax shone under the lamp. Daniel leaned over it.
+
+"You colored that."
+
+"I was six."
 
 "I remember."
 
 "You were angry."
 
-"Yes."
+Daniel touched a clean part of the margin. "I wish I hadn't been."
 
-Neither turned the page.
+Elias turned to the last drawing. He took out the loose sheet and laid it beside the book.
 
-After a while Elias took out the photocopy. His father studied it, then shook his head before Elias finished asking.
+His father became very still.
 
-"I didn't send it."
+"Where did you get that?"
 
-"Where did you first see this?"
+"Someone left it at the house."
 
-Daniel looked from one drawing to the other.
+Daniel brought the lamp closer. From a folder beneath his own notebook he took a thin sheaf of copies. The first was the branching figure Elias knew. Beside it were years of smaller notes, diagrams tried and abandoned, a question mark pressed so hard that the paper had torn.
 
-"By the time I could draw it, I wasn't certain I'd seen it at all."
+"These came with you?"
 
-The answer might once have frightened Elias. He folded the copy and put it away.
+"I made copies before I left."
 
-His father opened a drawer. Inside lay a little cloth pouch. He set it in Elias's hand.
+"Who sent the first ones?"
 
-A dark stone slipped out, small and heavy, with a dull silver grain along one edge.
+"They arrived at the department. Addressed to me. I never found out who from."
+
+Elias put the new sheet against Daniel's last copy. The paired marks along their edges were the same.
+
+"I thought these were measurements," he said. "But on the next page they're on the other side."
+
+Daniel moved his cup out of the way.
+
+"Show me."
+
+They laid the pages across the desk. At each change of scale a pair of marks returned, bracketing a smaller part of the drawing. Elias moved one sheet. Daniel turned another. A space that had looked empty acquired a single faint point when they held the paper under the lamp.
+
+"There," Elias said.
+
+His father's finger came down beside his.
+
+For a while they worked without remembering to drink. Daniel found a lens. Elias held the edges flat. They disagreed over one mark, went back two pages, then came forward again. His father laughed when Elias showed him what he had missed.
+
+"Yes. Of course."
+
+Elias felt the old delight so sharply that he had to sit back. Beyond the desk was a window full of stars. Beside him was his father, waiting to hear what he thought.
+
+Daniel brought the first drawing to the top.
+
+"Haven helped me recognize this much. Laniakea. The great arrangement of galaxies our own belongs to. We followed it down to familiar territory. But the last part—"
+
+He laid the new page at the end of the others. What had been a point in one drawing filled most of the next. The line curved inward through the sequence until there was only one place left for it to go.
+
+"That," Daniel said softly. "We've been missing that."
+
+Elias looked along the papers. The little red circle he had colored as a child was almost hidden beneath his father's wrist.
+
+Daniel opened a drawer. From it he took a cloth pouch, which he held for a moment before putting it in Elias's hand.
+
+A gray stone slipped out, small and heavy, with a dull silver grain along one edge.
 
 "I meant to bring you that."
 
@@ -1527,135 +1795,125 @@ He closed his fingers around the stone.
 
 His father laughed once, and then could not go on. Elias reached across the desk and held his wrist. They remained that way until Daniel could look at him again.
 
-"Come home with me," Elias said.
+When they rose, Daniel gathered the pages. Elias picked up the cups, then set them down again. He had almost asked where they should go.
 
-His father looked toward the dark display.
-
-The pause lengthened.
-
-"Not yet."
-
-Elias nodded slowly. He put the stone in his pocket and stood. This time Daniel crossed the space between them.
-
-At the door Elias turned. His father was still standing beside the chair, one hand resting on its back.
-
-"I'm glad you came," Daniel said.
-
-"So am I."
-
-He left the door open behind him.
+His father waited for him at the door.
 
 ---
 
 ## 15. The Message
 
-The window beside the couch was empty of reflections when Elias returned to it.
+The room by the window was warm. Daniel drew a chair beside the couch, and they spread the pages on the low table between them.
 
-He put the stone on the sill. Against the stars it looked like something he might have picked up by a road. He turned it until the silver grain caught the room's light.
+"Haven," he said. "We have the rest of it."
 
-Rana came past carrying the robe he had left folded in the other room. She laid it beside him.
+For a time only the air moved.
 
-"You'll want that when you go."
+Then a panel near the window brightened. Fine threads gathered over it, luminous knots with great dark spaces between. Elias brought the notebook closer. Three forks met where his father had drawn them. The branch he had colored green extended beyond the edge of the page into light.
 
-"Have you been here long?"
+The view moved inward. A knot became a gathering of galaxies; one of the galaxies filled the panel, then opened into distances between stars. Beside him Daniel leaned forward. Elias could hear him breathing.
 
-"Longer than I intended."
+The movement stopped.
 
-She looked out with him. The rough white flank filled one edge of the view.
+"A destination," Haven said. "A world that may support life. The information describes water, an atmosphere, light we can use. There is much it doesn't tell us."
 
-"I have a sister," she said. "Every time something reminds me of her, I think I ought to go back. Then something needs finishing."
+Elias looked at the loose sheet. Its edge had curled where he had carried it in his pocket.
 
-"Will you?"
-
-"I hope so."
-
-She took up the empty cup and went. Her footsteps faded at the curve.
-
-Elias opened the notebook. The fruit was a small red wound in the old paper. He had pressed hard enough to leave its shape on the next page.
-
-"We received something," Haven said.
-
-A panel near the window brightened. Fine threads gathered over it, luminous knots with great dark spaces between. Elias rose and brought the notebook closer.
-
-"Turn it," she said.
-
-He turned the book sideways.
-
-Three forks met where Daniel had drawn them. A branch Elias had colored green stretched across the panel, too large now for his eyes to follow at once.
-
-"Laniakea," Haven said. "Your ancestors gave it that name. Their galaxy was here."
-
-A point brightened. The view moved inward. Around the curve he had always called the serpent, little marks became paths, and the paths separated again. His father's smallest figures lay crowded beside them on the page.
-
-"The drawing holds more than one scale. We have a destination, Elias. A world that may support life. The information describes water, an atmosphere, light we can use. There is much it doesn't tell us."
-
-He touched the paper beside the red circle.
-
-"How did he get it?"
+"How did it get to us?"
 
 "I don't know."
 
-The panel remained bright. He looked from it to the book and back again.
+He waited for a name, a face, someone who had stood beneath that other sky. The point of light remained.
 
-"Are you going there?"
+"Can we reach it?" Daniel asked.
 
-"We are."
+"Yes."
 
-He waited for more. For a name, a face, someone who had stood beneath that other sky. There was only the web of lights and the point inside it.
+His father looked at him. For an instant Elias saw the two of them in this room years from now, still watching that point draw nearer.
 
-"You could stay with us," Haven said. "Work here. See what we find. If the world is what the message promises, some will choose to make their lives on it. I will remain as long as I can, then take the worlds I carry onward."
+"I want to see it," Daniel said.
 
-Elias looked toward the corridor his father had gone down. There would be work enough here to fill a lifetime, and after that another. No unanswered question would have to be put away because the hour had grown late.
+"I can take you there," Haven answered. "The worlds I carry will remain with me. There may be others who want to leave them when we arrive."
 
-"How long do people live here?"
+Daniel let out a breath.
+
+Elias laid his hand on the window frame. Its surface was warm. Beyond it, a row of small lamps lit a railing against the rough white flank of the Vessel. A jointed shape moved from lamp to lamp, stopping at each one before continuing into the dark.
+
+"There would be work for you here," Haven said. "And time to learn it."
+
+He thought of the chambers his father wanted to show him. Rooms where a small error would matter, where a correction would keep someone's ordinary day intact. The work he had spent his life preparing to do was happening on the other side of this wall.
+
+"How much time?"
 
 "With our care, a thousand years is possible. Some have longer. We cannot prevent every death."
 
-He laid his hand on the window frame. Its surface was warm. A thousand years was harder to imagine than the lights outside.
+A thousand years. His father was close enough for their sleeves to touch. The little stone lay in his palm, warm now, its silver grain dulled by the shadow of his thumb.
 
-He thought of the little boy in the cellar, lifting a stone to a man who would not look. He had spent twenty years trying to reach that man. Now Daniel was a short walk away.
+Daniel turned one of the pages, smoothing the crease.
 
-The destination turned slowly on the panel.
+"We could look at the habitat rooms first," he said. "There'd be no hurry."
 
-For a moment Elias saw Sami beneath an unfamiliar sky, older, walking ahead of him. He wanted to call the boy back so he could see his face. The image would not hold.
+Rana appeared in the doorway carrying the robe. She paused when she saw the papers, then laid it at the end of the couch.
 
-He closed the notebook and took the stone from the sill.
+"If you're returning," she said, "we'll need to begin soon."
+
+Elias looked toward the corridor. Rana waited a moment, then went back the way she had come.
+
+On the table, the pages ran from a shape he had known all his life to a place no one in the room had seen.
 
 ---
 
 ## 16. The Final Decision
 
-Elias sat on the couch with the robe beside him. At the far edge of the window, the small lamps continued to light the railing. The moving shape he had watched before had returned. It stopped where the light ended and lowered itself out of sight.
+Daniel helped him gather the papers. He kept the new sheet beside his copies; Elias slipped Ruth's letter into the old notebook and closed it.
 
-He could stay. He could learn the instruments in his father's room, work among people who spoke of centuries without lowering their voices. He could see the world at the end of the line Daniel had drawn. The stone fitted the hollow of his palm.
+"Come home with me," Elias said.
 
-"If I go home," he said, "I can't come back."
+His father folded his hands over the page.
 
-"No."
+The small lamps outside continued to burn. Elias could see one of them reflected in the window, close to Daniel's face.
 
-He looked toward the open corridor. "My father knew."
+"Not yet."
+
+He had known the answer. Hearing it still hurt.
+
+"You could."
 
 "Yes."
 
-There was no sound from the laboratory. Daniel might be sitting exactly where he had left him. He might have turned the display on again.
+Daniel looked at the space they had cleared on the table.
 
-Elias put the robe over his knees. The repaired seam lay across his thumb. He remembered Lena straightening his collar, the water standing white around the rice, three plates taken down from the cupboard. For years, whenever he imagined finding his father, the story had ended there.
+"I don't want to leave this unfinished."
+
+Elias wanted to ask how he would know when it was finished. He looked at his father's hands instead. They were older than the hands he remembered, and steadier than his own had been when he arrived.
+
+"I'm glad you're here," Daniel said. "I wish you could stay."
+
+For years, whenever Elias imagined finding his father, the story had ended there. Now he could see a second cup left on a desk, his own coat over the spare chair. He could see how easily he might come to belong.
+
+He took up the robe. The repaired seam lay across his thumb. Lena had straightened his collar before he left. There had been water standing white around the rice, three plates taken down from the cupboard.
 
 "I want to go home."
 
-Nothing outside the window changed. He had expected the words to make him certain. Instead he felt the weight of the book, the little stone, the robe warming slowly over his legs. Haven let him sit.
+He had expected the words to make him certain. Instead he felt the weight of the book, the little stone, the robe warming over his knees. Daniel stayed beside him.
 
-Behind the couch something gave a small, dry tick. A tremor passed through the frame beneath his wrist. Air rose through the narrow grille below the glass, caught, then settled into a long hush.
+Behind the couch something gave a small, dry tick. A tremor passed through the frame beneath Elias's wrist. Air rose through the narrow grille below the glass, caught, then settled into a long hush.
 
-Elias turned his head. He knew the pause before it came again.
+He turned his head. He knew the pause before it came again.
 
 He leaned closer. The air moved steadily now. He waited, but the sound did not recover the shape he remembered.
 
-Along the corridor a door closed. Someone spoke a name he could not make out. Elias stood.
+Daniel stood when he stood. This time Elias did not let the embrace end quickly. He could feel his father's breathing against his shoulder.
 
-"Go home," Haven said. "Hold your son's hand. Make your wife happy. Enjoy your days."
+"I love you," Daniel said.
 
-He lifted the notebook from the couch and put the stone in his pocket. The quiet followed him to the door.
+"I know."
+
+At the corridor Elias looked back. His father was beside the table, one hand on the scattered copies. He lifted the other in a small, almost shy farewell.
+
+Rana walked ahead of Elias. Beyond her was a room with a chair and a glass of water.
+
+He went in.
 
 ---
 
@@ -1663,7 +1921,7 @@ He lifted the notebook from the couch and put the stone in his pocket. The quiet
 
 "Honey, I'm home."
 
-His voice sounded strange in the little porch. He closed the front door and waited a moment with his hand on the latch.
+Elias closed the front door and crossed the little porch with the bread warm in its paper bag.
 
 From the kitchen came the sound of a cup being set down.
 
@@ -1675,11 +1933,19 @@ Lena turned as he entered.
 
 She had always had that smile. It began in her eyes, a tenderness he had once been unable to pass without stopping. Lately he had seen it arrive cautiously, or leave before she finished speaking. Now she set down the cloth in her hand.
 
-"There you are," she said.
+"There you are."
 
-He crossed the room and held her. Her hand moved once across his back, then stayed.
+He put down the bread and held her. Her hand moved once across his back, then stayed.
 
-Sami had pulled a chair away from the small table. Elias sat beside him, in the place where he had spent so many nights looking into a screen. The laptop was closed on the shelf.
+At the small table, Sami was building a rocket out of toast crusts. Elias sat beside him, in the place where he had spent so many nights looking into a screen. The laptop was closed on the shelf.
+
+"It won't stand up," Sami said.
+
+"Does it have to?"
+
+"It's launching."
+
+Elias held the base while the boy adjusted one of the sides. Sami took his hand away carefully. The rocket remained upright.
 
 Lena poured coffee. Sunday light caught the steam and for a moment it looked like something alive.
 
@@ -1689,40 +1955,16 @@ Lena poured coffee. Sunday light caught the steam and for a moment it looked lik
 
 "With considerable advice from this house."
 
-She smiled at the boy. There were faint lines beside her eyes that Elias did not remember noticing. He watched her turn toward the garden, still telling him about the sparrow, about a lemon that had fallen in the night and the tiny shoots coming up where she had thought nothing would grow.
+She smiled at the boy. There were faint lines beside her eyes that Elias did not remember noticing. She told him about a lemon that had fallen in the night and the tiny shoots coming up where she had thought nothing would grow.
 
-He could hear all of it. The room was full of light.
+He listened. The room was full of light.
 
-Sami reached for the notebook beside his father's cup. Elias opened it for him. The old green wax shone where the page bent.
-
-"You colored it," the boy said.
-
-"When I was little."
-
-Sami traced the air above the red point. "Is it the map?"
-
-"Yes."
-
-"Can I look?"
-
-Elias moved it between them.
-
-The stone touched the edge of the table as he took it from his pocket. Sami lifted it, testing its weight.
-
-"Where did you find this?"
-
-"It was a present."
-
-"What is it?"
-
-Elias looked at the silver grain.
-
-"Let's find out."
+Between his fingers, the fine chain that had held his mother's key now held a gray stone. He turned it once. A silver grain caught the sun along its edge. Then he let it settle against his shirt.
 
 Outside, a sparrow landed on the railing and hopped twice to the left. Lena reached across the table for his hand.
 
 "Look at this," she said. "I think we're living in paradise."
 
-He looked at her, then at Sami, turning the stone in the light.
+He looked at her, then at Sami, holding his breath beside the rocket.
 
 "We are."

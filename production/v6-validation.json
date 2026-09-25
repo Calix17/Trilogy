@@ -1,0 +1,290 @@
+{
+  "edition": "Book I: Paradise v6",
+  "date": "2026-09-24",
+  "source": {
+    "path": "02-book-one/book-one-paradise-v6.md",
+    "sha256": "fcdb5258bfe5f57244a24c694a94eb8071e84d2895fc3d880720fecc43a20150",
+    "chapter_count": 17,
+    "body_word_count": 15905,
+    "count_method": "Chapter bodies only; tokens matched by \\b[\\w'’]+\\b."
+  },
+  "pdf": {
+    "path": "02-book-one/book-one-paradise-v6.pdf",
+    "sha256": "d17118f70bc054a94463fb9ae2dd65fefc7fc384715a96819fb6320c1ee151da",
+    "pages": 58,
+    "page_size_inches": [
+      6,
+      9
+    ],
+    "embedded_font": "STIXGeneral",
+    "body_font_size_pt": 11,
+    "normal_leading_pt": 14.8,
+    "compact_chapters": [
+      5,
+      12,
+      14
+    ],
+    "blank_body_pages": [],
+    "sparse_chapter_end_pages": []
+  },
+  "checks": {
+    "all_chapter_text_matches_after_punctuation_and_whitespace_normalization": true,
+    "visual_contact_sheet_pages_inspected": 58,
+    "full_size_pages_inspected": [
+      42,
+      43,
+      52,
+      55,
+      57,
+      58
+    ],
+    "no_visible_clipping_or_overlap": true,
+    "off_page_text_spans": 0,
+    "all_previous_manuscripts_and_pdfs_unchanged": true,
+    "no_previous_project_files_removed": true,
+    "all_changed_existing_references_have_exact_archive_copies": true,
+    "session_source_append_only": true,
+    "book_ii_bible_outline_unchanged": true,
+    "book_ii_synopsis_section_unchanged": true
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Good Days",
+      "words": 796,
+      "pdf_start_page": 2,
+      "pdf_end_page": 4,
+      "text_matches": true
+    },
+    {
+      "number": 2,
+      "title": "The Algorithm",
+      "words": 837,
+      "pdf_start_page": 5,
+      "pdf_end_page": 7,
+      "text_matches": true
+    },
+    {
+      "number": 3,
+      "title": "Ruth",
+      "words": 536,
+      "pdf_start_page": 8,
+      "pdf_end_page": 9,
+      "text_matches": true
+    },
+    {
+      "number": 4,
+      "title": "Daniel",
+      "words": 910,
+      "pdf_start_page": 10,
+      "pdf_end_page": 12,
+      "text_matches": true
+    },
+    {
+      "number": 5,
+      "title": "The Last Paper",
+      "words": 985,
+      "pdf_start_page": 13,
+      "pdf_end_page": 15,
+      "text_matches": true
+    },
+    {
+      "number": 6,
+      "title": "The Notebook",
+      "words": 984,
+      "pdf_start_page": 16,
+      "pdf_end_page": 19,
+      "text_matches": true
+    },
+    {
+      "number": 7,
+      "title": "Two Trails",
+      "words": 890,
+      "pdf_start_page": 20,
+      "pdf_end_page": 23,
+      "text_matches": true
+    },
+    {
+      "number": 8,
+      "title": "The Institute",
+      "words": 1107,
+      "pdf_start_page": 24,
+      "pdf_end_page": 27,
+      "text_matches": true
+    },
+    {
+      "number": 9,
+      "title": "The Recital",
+      "words": 993,
+      "pdf_start_page": 28,
+      "pdf_end_page": 31,
+      "text_matches": true
+    },
+    {
+      "number": 10,
+      "title": "What Ruth Knew",
+      "words": 846,
+      "pdf_start_page": 32,
+      "pdf_end_page": 34,
+      "text_matches": true
+    },
+    {
+      "number": 11,
+      "title": "The Door",
+      "words": 1902,
+      "pdf_start_page": 35,
+      "pdf_end_page": 40,
+      "text_matches": true
+    },
+    {
+      "number": 12,
+      "title": "Cold",
+      "words": 652,
+      "pdf_start_page": 41,
+      "pdf_end_page": 42,
+      "text_matches": true
+    },
+    {
+      "number": 13,
+      "title": "The Steward",
+      "words": 1667,
+      "pdf_start_page": 43,
+      "pdf_end_page": 47,
+      "text_matches": true
+    },
+    {
+      "number": 14,
+      "title": "Daniel",
+      "words": 1460,
+      "pdf_start_page": 48,
+      "pdf_end_page": 52,
+      "text_matches": true
+    },
+    {
+      "number": 15,
+      "title": "The Message",
+      "words": 529,
+      "pdf_start_page": 53,
+      "pdf_end_page": 54,
+      "text_matches": true
+    },
+    {
+      "number": 16,
+      "title": "The Final Decision",
+      "words": 398,
+      "pdf_start_page": 55,
+      "pdf_end_page": 56,
+      "text_matches": true
+    },
+    {
+      "number": 17,
+      "title": "Homecoming",
+      "words": 413,
+      "pdf_start_page": 57,
+      "pdf_end_page": 58,
+      "text_matches": true
+    }
+  ],
+  "changed_existing_files": [
+    "PROJECT-MERGE-MANIFEST.md",
+    "README.md",
+    "08-production/README.md",
+    "06-development-notes/v6-development-path-2026-09-23.md",
+    "06-development-notes/v6-contact-strategy-2026-09-24.md",
+    "06-development-notes/current-plot-summary-books-one-and-two.md",
+    "06-development-notes/v6-todo.md",
+    "06-development-notes/v6-chapter-and-clue-outline-2026-09-24.md",
+    "06-development-notes/README.md",
+    "06-development-notes/v6-readiness-assessment-2026-09-23.md",
+    "06-development-notes/v6-daniels-letter-2026-09-23.md",
+    "01-bible/bible.md",
+    "04-characters/v6-character-profiles-2026-09-23.md",
+    "04-characters/character-sheets.md",
+    "99-archive/2026-09-session-notes/v6-planning-source-2026-09-23.md"
+  ],
+  "new_files": [
+    "02-book-one/book-one-paradise-v6.md",
+    "02-book-one/book-one-paradise-v6.pdf",
+    "06-development-notes/v6-revision-notes-2026-09-24.md",
+    "08-production/render-book-v6.py",
+    "99-archive/pre-v6-reference/01-bible/bible.md",
+    "99-archive/pre-v6-reference/04-characters/character-sheets.md",
+    "99-archive/pre-v6-reference/04-characters/v6-character-profiles-2026-09-23.md",
+    "99-archive/pre-v6-reference/06-development-notes/README.md",
+    "99-archive/pre-v6-reference/06-development-notes/current-plot-summary-books-one-and-two.md",
+    "99-archive/pre-v6-reference/06-development-notes/v6-chapter-and-clue-outline-2026-09-24.md",
+    "99-archive/pre-v6-reference/06-development-notes/v6-contact-strategy-2026-09-24.md",
+    "99-archive/pre-v6-reference/06-development-notes/v6-daniels-letter-2026-09-23.md",
+    "99-archive/pre-v6-reference/06-development-notes/v6-development-path-2026-09-23.md",
+    "99-archive/pre-v6-reference/06-development-notes/v6-readiness-assessment-2026-09-23.md",
+    "99-archive/pre-v6-reference/06-development-notes/v6-todo.md",
+    "99-archive/pre-v6-reference/08-production/README.md",
+    "99-archive/pre-v6-reference/PROJECT-MERGE-MANIFEST.md",
+    "99-archive/pre-v6-reference/README.md",
+    "08-production/v6-validation.json"
+  ],
+  "earlier_manuscripts": [
+    {
+      "path": "02-book-one/book-one-paradise-v2.md",
+      "sha256": "86495a159014369b715a8d6d79102f11144d14731b31aa0a14ec468166edadd2"
+    },
+    {
+      "path": "02-book-one/book-one-paradise-v2.pdf",
+      "sha256": "4a2b08d9cce4ba223fc5a1c03a7cf7bd93fac6891d1d7ca7032d63c6c2990129"
+    },
+    {
+      "path": "02-book-one/book-one-paradise-v3.md",
+      "sha256": "654f3ce6894a0ca79f83c79c46ec2fed99c33fc69b88f07d7e1a2e4c72903590"
+    },
+    {
+      "path": "02-book-one/book-one-paradise-v3.pdf",
+      "sha256": "84c9f2bfeb9bd866c446e534b7a51e7c8429ddc9f45f6fa04333dfeb3eabcbc6"
+    },
+    {
+      "path": "02-book-one/book-one-paradise-v4.md",
+      "sha256": "857450819083bc6424b1a0badb0550c18285082caf134d5b2539c59aff778721"
+    },
+    {
+      "path": "02-book-one/book-one-paradise-v4.pdf",
+      "sha256": "045e203d7dc602979ccfb38c835705dcc8a19d67d2e94dadc172246eff282869"
+    },
+    {
+      "path": "02-book-one/book-one-paradise-v5.md",
+      "sha256": "a6bd4771632300de92cdd0864c355edc2075f8457e35eb6676f2476023bda7d2"
+    },
+    {
+      "path": "02-book-one/book-one-paradise-v5.pdf",
+      "sha256": "71488573ca566436ef1a4c48bb159a6b2d0d84dccbbc22806212e00036d78c41"
+    },
+    {
+      "path": "02-book-one/book-one-paradise.md",
+      "sha256": "ca6e0f154605c0c949d1d130eb8d93ce916182ba5e4e6411d8f51d09c23747b0"
+    },
+    {
+      "path": "02-book-one/book-one-paradise.pdf",
+      "sha256": "32c361ab265a3a6a8c3af2c609b6a9b5388dead511c891e9ce3db87bb7bfa976"
+    }
+  ],
+  "manual_continuity_review": [
+    "Childhood ages and present search chronology",
+    "Coauthor lead and distinction between published and unfinished work",
+    "Institute campaign versus competing page and private call",
+    "Three spaced dreams and unproved sound resemblance",
+    "Two return opportunities and one outward-stay rule",
+    "Letter versus map page; copies versus original notebook",
+    "Chain, key, letter, robe, bag, notebook, page, and stone handoffs",
+    "Human request before route choice; no compulsory colony for all",
+    "No Book II scan, bomb, war, or sender reveal",
+    "No clinical search or narrated diagnosis",
+    "Ordinary closing conversation and off-page pendant mounting"
+  ],
+  "remaining_development": [
+    "Detailed map transmission chronology and individual sender",
+    "Later access and communication cases",
+    "Longevity after departure from Ark care",
+    "Daniel’s eventual residence and Sami’s route",
+    "Book II concrete conspiracy sequence and emergency timing",
+    "Book III prose alignment",
+    "Ultimate interpretation of Book I remains intentionally open"
+  ]
+}
