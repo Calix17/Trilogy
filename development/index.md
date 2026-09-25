@@ -1,5 +1,10 @@
 # Development Notes
 
+## Latest: seeding and successor Arks — 24 September 2026
+
+The [new development record](book-three-seeding-and-successor-arks-2026-09-24.md) preserves the proposal for costly adaptation, possible beacon intervention, biological seeding, unfamiliar descendants, and successive Ark strategies. It clarifies that Haven already pursues preservation in Book II and records six unresolved choices. The current Other Garden scene, chapter outcomes, manuscripts, PDFs, and art are preserved. Earlier reference versions are in `99-archive/pre-seeding-proposal-reference/` at the project root.
+
+
 ## Latest: scenes, philosophical decisions, and progress — 24 September 2026
 
 [philosophy-scene-map-and-progress-2026-09-24.md](philosophy-scene-map-and-progress-2026-09-24.md) is the current development map for consent, justice, identity, trust, and inherited obligations. Ten scene proposals are anchored to the existing outlines, with Book III carrying collective questions where needed. It distinguishes the AIs' active survival strategies from Book II's neglected preparedness and records eight pending tasks, P-01 through P-08. No narrative text or art is changed by this update.

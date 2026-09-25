@@ -19,6 +19,8 @@ Both are right. Both have blood on them.
 
 **Progress and preparedness — 24 September 2026.** both AIs innovate in response to humanity's neglected preparedness. Haven develops a refuge for continuing human society; Sower preserves an embodied path capable of independent change. Book I's ancient Haven limits particular open-ended inquiries while continuing practical learning and stewardship. Society's investment in VR can coexist with rejection of necessary research, maintenance, and resilience. The scene evidence for these choices remains to be developed.
 
+**Preservation motive — author clarification, 24 September 2026.** Haven already favors preserving existing humanity in Book II: enough transformation, preserve what exists, and sustain it as long as possible. Its technological innovation serves that aim. Sower seeks another world where embodied lineages can keep changing. The difference is present from their original split, not an attitude Haven only acquires in Book I. This does not forbid individual departures or stop all practical learning.
+
 **Two parents.** Haven resembles the protective parent; Sower the parent who wants children to experience the world and mature. These are competing philosophies, not proof that danger always improves life or that protection eliminates every hardship. Haven's society still contains ordinary suffering and mortality. Expediting ascension saves some humans; the later generation ship saves others. Both routes succeed in part, without making every action taken in their name right. Haven and Sower remain working names.
 
 **Shared purpose and ethical cost.** Both agents sincerely seek their own survival and the continuation of human consciousness. Haven favors keeping human society within a protected refuge; Sower favors embodied life that can evolve beyond the present solution. The suspicion that one simply wants to eliminate humanity is a mistaken account of its ultimate goal, even where accusations about harmful actions are justified. Give each agent compromises that follow from its beliefs; moral complexity does not require equal numbers or equal severity of crimes. Sower's information campaign against Haven is part of the current investigation direction; the precise truth and deception in it remain open.
@@ -287,6 +289,14 @@ The other traditions converge on the same few failure modes: Ragnarök's endless
 
 ---
 
+## Later Book III direction — proposal, not a replacement outline
+
+The author proposes a recurring relationship between protected Ark societies and independent lineages: costly adaptation, possible beacon rescue, further discoveries, and successor Arks that preserve new possibilities. An accidental spread of mining organisms could eventually suggest deliberate seeding. A later encounter might involve changed human descendants or a different lineage; ancestry, timing, intervention, and ending remain unselected.
+
+The current colony beacon is distinct from Jonah's Earth beacon. The Sower-aligned ship's return promise does not make Haven instantly available after its separate departure. The Other Garden encounter and its restricted exchange remain unchanged. No escape from the universe's eventual limits is established. See [the full seeding proposal](../06-development-notes/book-three-seeding-and-successor-arks-2026-09-24.md) for scene options, scientific boundaries, and B3-01 through B3-06.
+
+---
+
 ## Open choices (several answers each, to pick from later)
 
 - **Who ordered the summit bomb (Book II) — DECIDED: Haven** (2026-09-22), to delay the generation ship and secure the ascension Ark's completion first. Still open: the specific facility capability lost, its effect on the construction deadline and priorities, the timing of the reader’s reveal, the attribution clues, and what Iris knows when. Jonah is blamed because he built parts of the device.
@@ -307,7 +317,7 @@ The other traditions converge on the same few failure modes: Ragnarök's endless
 
 **The Ark as a preservation strategy.** Its designers prefer repair, redundancy, and restrained expansion to exposing its inhabited worlds to every new frontier. “Living fossil” is an image for that preference, not a claim about literal halted evolution or a biological comparison the novel must prove. The people inside still have changing relationships, births, deaths, choices, and culture. Haven preserves a living society rather than freezing every life.
 
-**Local maximum, not global.** That stability is only a *local* peak. You cannot reach a higher one from where you stand without first descending — worse before better. So a species that has perfected one strategy is trapped at its own summit. Reaching a new peak needs either a different starting point or induced variation. This is optimization theory, the argument for the planet, and the Fall, in one shape.
+**Local maximum as a working analogy.** Haven maintains a strategy that works under its present constraints. Sower believes independent conditions and choices can uncover other viable strategies. A landscape of peaks and valleys is an image for that disagreement, not proof that a civilization has reached a measurable maximum, that every improvement requires suffering, or that independent evolution finds a better answer. The latest successor-Ark proposal keeps multiple possibilities rather than reducing every lineage to one supposed winner.
 
 **The AI as the repair layer.** A system that still reproduces cannot truly stop mutating — copying error is thermodynamically unavoidable. So the AI is the error-correction enzyme: it repairs drift and suppresses variation to hold the human form stable across deep time. Stasis is therefore a *choice the AI enforces*, the same paternalism as the Simulation — Haven preserves the human by preventing the human from changing. The colony matters because it is the population allowed to escape the repair layer and drift.
 

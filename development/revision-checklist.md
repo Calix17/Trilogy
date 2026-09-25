@@ -1,6 +1,6 @@
 # The Final Decision — Status and next-revision checklist
 
-24 September 2026. Updated against the v7 working manuscript and the latest author directions, including the subsequent philosophy scene map. V6 remains the previous rendered reading edition. The earlier checklist is preserved in the pre-v7-vessel reference archive.
+24 September 2026. Updated against the v7 working manuscript and the latest author directions, including the philosophy scene map and subsequent seeding proposal. V6 remains the previous rendered reading edition. The earlier checklist is preserved in the pre-v7-vessel reference archive.
 
 ## Current status
 
@@ -88,6 +88,21 @@ The mapping is documented in [philosophy-scene-map-and-progress-2026-09-24.md](p
 | P-08 | Additional philosophical lenses — optional across existing scenes | Choose useful existentialism/nihilism/absurdism/fallibilism/moral-luck/dirty-hands elements through actions and costs. |
 
 Book I already seeds these questions. Do not expand its Vessel dialogue to satisfy this list. Book III is the preferred home for collective dissent, resource conflict, and descendants' freedom where those questions would overload Book II.
+
+## Successor-Ark and seeding proposals — B3-01 to B3-06
+
+The [latest development note](book-three-seeding-and-successor-arks-2026-09-24.md) records the new possibilities without selecting a replacement Book III route. Haven's preservation motive is clarified as present from Book II onward; its technology serves that purpose, while Sower seeks independent embodied development.
+
+| ID | Pending choice | Continuity requirement |
+| --- | --- | --- |
+| B3-01 | Select a colony beacon crisis, responder, response interval, and cost. | Preserve the two beacon histories, the separate Arks, and Haven's continuing obligations. |
+| B3-02 | Choose a concrete terraforming-versus-body-adaptation dilemma. | A person makes a consequential choice; changed descendants have interests of their own. |
+| B3-03 | Decide whether mining organisms accidentally seeded a later lineage. | Establish habitat, chronology, transfer, and evidence; spread of existing life is not life's first origin. |
+| B3-04 | Choose the later encounter's ancestry and place in time. | Distinguish changed humans, mining-lineage descendants, and the existing Other Garden; no automatic replacement. |
+| B3-05 | Define the successor Ark and whether deliberate seeding is selected. | Preserve conscious communities and meaningful choices; avoid treating them as expendable search trials. |
+| B3-06 | Limit what is shown in Sami's story versus a later glimpse. | Keep the human ending; no proof of complete knowledge, a global optimum, or eternal survival. |
+
+All six are pending development decisions. This update changes references only; Book I text, reading PDFs, artwork, and the existing Book III chapter outcomes remain unchanged.
 
 ## Mysteries that do not require explanation in Book I
 

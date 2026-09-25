@@ -1,3 +1,3 @@
-# Before the seeding and successor-Ark proposal
+# Before the consciousness-preservation framework
 
-Exact reference snapshots before the 24 September 2026 follow-up. The new record distinguishes the author's clarification of Haven's early preservation motive from optional later-book events. No narrative edition is changed.
+Reference snapshots preceding the author's 24 September clarification: the recurring exploration/preservation model is speculative, the proposed later goal concerns conscious life beyond humans, and Book III's theme and route are open. Earlier manuscripts and chapter material remain preserved.
