@@ -11,6 +11,7 @@ A science-fiction trilogy about a family, a search, and competing answers to sur
 - [Characters](reference/characters.md) and [Books I/II synopsis](reference/synopsis.md).
 - [Current decisions and labelled proposals](development/decisions.md).
 - [Open work and implementation status](development/open-items.md).
+- [Suggested v8 roadmap and continuing reading notes](development/roadmap.md).
 - [Current full-manuscript assessment and verification evidence](development/verification.md).
 - [Philosophy, selected wording, and proposed scenes](development/philosophy.md).
 - [Selected cover](art/cover.png) and [production instructions](production/README.md).

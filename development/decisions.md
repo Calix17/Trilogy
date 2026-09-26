@@ -2,6 +2,8 @@
 
 Consolidated from the latest v7 package, with subsequent author clarifications explicitly recorded below. The [bible](../reference/bible.md), [characters](../reference/characters.md), and [synopsis](../reference/synopsis.md) contain current reference material. The [open-items list](open-items.md) owns task status. Earlier discussions and superseded alternatives are in Git history. Research citations below are carried forward from the supplied records, not rechecked during migration.
 
+The author is now collecting [suggested v8 revisions](roadmap.md): a more active search, mixed testimony, an uncertain warning about Institute affiliation, old office correspondence, and escalating self-doubt. These are proposals for a later revision, not changes to the present manuscript or confirmed conspiracy facts.
+
 ## Author clarification — institutional and treatment misdirection
 
 After the full v7 assessment, the author confirms that the reader should actively consider a mental-health institution, Elias voluntarily admitting himself to remain with his father, a vision, or an experience associated with an experimental drug or treatment. These are intended alternative interpretations of the encounter, not confirmed events or a newly selected diagnosis. The underlying series architecture remains unchanged.

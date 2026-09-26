@@ -18,6 +18,22 @@ Book I is v7 working text: 17 chapters, 15,558 chapter-body words. The first pos
 | V7-10 | Whole pilot | The complete v7 manuscript has now been assessed for implementation, pacing, suspense, character arcs, symbols and reader risks. See the current assessment. Do not expand solely for novel length. | Internal full read complete; independent reader response pending. |
 | V7-11 | Manuscript, references, art, and PDF | Maintain one current source and history through commits. The 57-page reader-review PDF includes the selected cover and passes fidelity and layout checks. | Cover integration and reader-review render complete. |
 
+<a id="version-8-roadmap"></a>
+
+## Version 8 roadmap
+
+The author is still reading v7 and collecting ideas. The [suggested v8 roadmap](roadmap.md) holds scene options and their rationale; no v8 manuscript changes have been made. All entries below are **proposed / not implemented**. Keep statuses here and add further reading notes to the same roadmap.
+
+| ID | Proposed work |
+| --- | --- |
+| V8-01 | Give Elias a purposeful investigation in Daniel's former town, potentially replacing repetitive online dead ends. |
+| V8-02 | Develop the colleague's mixed account of worthwhile research and concerning behavior; suppression/capture remain Elias's possible interpretation. |
+| V8-03 | Consider an overheard warning that the colleague or another speaker works for the Institute; decide the witness's knowledge and credibility. |
+| V8-04 | Establish access to preserved office papers and an old letter, postcard or note leading to the Institute. |
+| V8-05 | Echo the modern support campaign in Daniel's correspondence or annotations without proving every suspicion. |
+| V8-06 | Increase Elias's self-doubt, checking, secrecy and the concern expressed by those around him. |
+| V8-07 | Integrate these changes with existing dreams and family consequences while protecting the selected ambiguity and ending. |
+
 ## Post-v7 assessment follow-ups
 
 These are unimplemented recommendations, not new canon. Evidence, confidence, effects and options are in [the current review](verification.md#questions-causality-and-priority-risks). Existing S/V7 entries continue to own their underlying tasks.
