@@ -24,6 +24,8 @@ Book I is v7 working text: 17 chapters, 15,558 chapter-body words. The first pos
 
 The author is still reading v7 and collecting ideas. The [suggested v8 roadmap](roadmap.md) holds scene options and their rationale; no v8 manuscript changes have been made. Scene implementations below remain **proposed / not implemented**. V8-12/V8-13 record confirmed author directions whose staging is still open. Keep statuses here and add further reading notes to the same roadmap.
 
+The [chapter map and integration review](chapter-map.md) now covers all seventeen v7 chapters: main scenes, discoveries, revelations, character movement, ending hooks and possible v8 placement. This planning review is complete; prose revision and fresh-reader testing remain pending.
+
 | ID | Proposed work |
 | --- | --- |
 | V8-01 | Give Elias a purposeful investigation in Daniel's former town, potentially replacing repetitive online dead ends. |

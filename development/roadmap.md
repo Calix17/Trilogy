@@ -4,6 +4,8 @@ This is a living proposal record while the author continues reading v7. No v8 pr
 
 ## Purpose
 
+Use the [chapter map and integration review](chapter-map.md) to compare the existing scenes, discoveries, endings and arcs with these proposals. It preserves the distinction between the v7 baseline and an unimplemented v8 arrangement.
+
 Strengthen the early investigation and psychological suspense through discoveries that advance Elias's search while making him doubt his own interpretations. He may be uncovering what happened to Daniel, or repeating Daniel's apparent deterioration. The institutional, voluntary-admission, visionary and experimental-treatment readings are deliberately supported possibilities, not confirmed diagnoses or explanations. See [the author direction](decisions.md#author-clarification--institutional-and-treatment-misdirection).
 
 The author's revised structure runs the search for Daniel, understanding and defending his research, and paranoia/self-doubt in parallel. Discoveries move between these strands: a research insight opens a lead; the lead strengthens a suspicion; testing or concealing that suspicion changes a relationship. Improve movement by replacing repetitive dead ends where possible, rather than simply adding length. The family material gives these discoveries their cost. Do not require every chapter to service all three strands equally.
