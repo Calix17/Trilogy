@@ -32,7 +32,7 @@ The warning could refer to the colleague, but the referent, the woman's identity
 
 This warning is an allegation, not independent proof of conspiracy. If it introduces the Institute's name earlier, review the later private call: it must add something beyond repeating a name Elias already knows. Do not silently assign this woman to the anonymous map effort or establish a third faction.
 
-## V8-04 — Office papers, old mail and the Institute address
+## V8-04 — Office papers and old Institute outreach
 
 **Latest author proposal:** Elias looks through documentation from Daniel's old office and finds letters, postcards, notes or Post-its pointing toward the Institute. This gives the warning a tangible connection and a reason to investigate further.
 
@@ -41,6 +41,8 @@ Choose one principal artifact and establish how Elias gains legitimate access. D
 An old postal offer of help could echo the present campaign. Postal correspondence does not require a claim that the internet did not exist in Daniel's era. Date, sender, wording and address need enough consistency to support the chosen trail. A postcard or envelope might replace or simplify the property notice/lease route rather than duplicate it. If a handwritten note is used, distinguish Daniel's annotation from the institution's own words.
 
 The warning followed by a genuine letter strengthens Elias's suspicion, but a letter from the Institute does not prove that the colleague works there or that Daniel was captured. Preserve that gap between evidence and inference.
+
+**Updated direction under V8-11:** reserve the usable address for Daniel's letter held by Ruth. In that proposed route, office papers establish earlier outreach and the postcard/ad resemblance, rather than independently providing the destination. This supersedes the early-address option above if the revised route is adopted.
 
 ## V8-05 — Daniel's notes mirror the present campaign
 
@@ -88,6 +90,8 @@ These explanations can overlap: a person may discover something real and still m
 
 **Ruth's knowledge requires a separate decision.** The author proposes that she may have known where Daniel was and withheld it because disclosure could affect Elias or cause her to lose him. V7 establishes only the concealed letter, her fear of losing Elias and uncertain knowledge of the door; it does not establish that she knew an address or hospital. Keep the stronger knowledge as an explicit option. Before adopting it, distinguish whether she knew he was alive, knew an institution, or knew the actual destination; decide when she learned it and how it affects the searches, letter, concealment and disclosure. Her secrecy can support several reader theories without confirming the strongest one.
 
+The author's subsequent preference in V8-11 is to make Daniel's letter the address source and increase the pain of Ruth's concealment. The extent of “knew everything” remains to be selected; this is stronger proposed knowledge, not a claim about the v7 text.
+
 ## V8-10 — Time pressure limits the last encounter
 
 **New author proposal:** use the closing access opportunity to let Elias learn the most important things while leaving parts of Daniel's arrival, research and discoveries unexplained. He must choose whether to stay or return while he can.
@@ -100,11 +104,38 @@ Build on existing material: Hesk warns about returning in chapter 11; Rana says 
 
 The deadline should constrain the characters as well as the exposition. If it appears only when an inconvenient question arises, it will feel like an authorial escape. Preparation, a credible reminder and Elias's decision about how to spend the remaining time can turn omission into loss. Do not rush his choice so much that it reads as forced compliance or prevents the family from mattering. Preserve the sustained Haven account, two-room depiction, ambiguity and quiet ending; selective explanation is not permission to conceal every rule needed to understand the decision.
 
+## V8-11 — Ruth withheld a way to reach Daniel
+
+**Latest author preference:** the Institute address comes from Daniel's letter, and Ruth's knowledge makes her concealment more painful. Elias discovers that his mother held a practical lead while he kept searching. Record this as the preferred proposal for assembling v8, without changing the manuscript yet.
+
+**Recommended emotional scope:** she knew he was alive when he wrote, had a contact address, and knew he had chosen to remain away. Whether she verified that he was still there, knew that the address led to a hospital, or understood the world beyond the door remains open. “Knew everything” can mean knowing the human truth Elias most needed; full knowledge of Haven and the crossing would require a much larger revision. Do not silently reduce or expand her knowledge when drafting.
+
+V7 dates the letter to ten years after Daniel disappeared, when Elias was twenty-five; she then concealed it for ten years. Knowledge from this letter alone does not mean she knew his whereabouts throughout all twenty years. A still-usable contact route also needs a credible continuity check. Preserve the letter as affectionate correspondence, not an invitation commanding Elias to enter.
+
+**Placement proposal using current chapter numbers as landmarks:**
+
+| Current location | Proposed function |
+| --- | --- |
+| Chapters 2–5: investigation, colleague and warning | Establish Daniel's promising work, others' concern, and an uncertain Institute association. An optional brief Ruth reaction when Elias mentions the name can acquire meaning later; avoid several obvious evasions that give away the letter. |
+| Chapters 5–7: papers, postcard and self-doubt | Show the old campaign resemblance and the friend's ordinary explanation. Elias has evidence of contact, but no independently usable route to Daniel. Let an inconclusive check change his next action rather than repeat a dead end. |
+| Current chapter 8: first Institute interview | Move the in-person Hesk encounter until after the letter. Use this part of the investigation for the proposed active search and its relational cost, or consolidate it with nearby chapters. Do not add a replacement chapter merely to retain seventeen chapters. |
+| Chapter 9: recital | Keep the missed recital as the cost of Elias's own choices. New clues must not make his absence unavoidable or erase his responsibility. |
+| Chapter 10: Ruth's disclosure | The letter or its preserved envelope supplies the address. Ruth still chooses to give it to him. Elias recognizes that she withheld a possible way to reach Daniel, not just reassurance that he once survived. Allow anger and love together, without instant forgiveness or a confession explaining the entire mystery. |
+| Between disclosure and the chapter 11 crossing | Preserve family time and mourning. Place Hesk's first interview and a real interval for deliberation before entry; do not compress new information, grief, consent and departure into one rushed scene. |
+
+This route requires restructuring: v7 already supplies an address through the property notice, lease search and Hesk's phone directions before the chapter 8 visit. Review all those sources, the foundation's public address, and the anonymous call together. Earlier clues may suggest outreach without identifying the relevant place, but Elias must be allowed to make obvious searches. Do not depend on an inexplicably unsearchable named institution or information conveniently disappearing. Decide what the early documents actually identify and why Ruth's letter adds an actionable connection.
+
+**Possible small additions, not approved prose:** Elias recognizes the address before finishing the loving words; he asks whether she ever wrote back; or he says, “You let me keep looking.” Select one or two. A reply from Ruth should clarify what she chose and feared, without making fear absolve the choice. Whether she contacted Daniel herself is an open possibility, not an established second correspondence. Her memory difficulties must not serve only to prevent a needed answer.
+
+The painful parallel is that both parents made choices about Elias's life without allowing him to participate: Daniel deferred returning, Ruth withheld the lead. Preserve their differences, affection and agency. Let this discovery complicate Elias's later temptation to decide what is best for his own family; his return can answer that pattern through his actions. The contact address must still allow both the institutional and cosmic readings.
+
+**Lower-disruption alternative:** keep the chapter 8 visit and let the letter repeat its address in chapter 10. This proves Ruth possessed the lead but makes the letter confirmation rather than the source of Elias's first visit. It is available if restructuring harms the rhythm; it does not fully enact the latest preferred route.
+
 ## Assembly and verification before drafting
 
 1. Continue collecting the author's reading notes here without modifying v7. Additions remain proposals until assembled into a coherent pass.
 2. Choose one route through the town, colleague, warning and office papers. Resolve access, chronology, what each witness knows, and what each document actually proves. Check the existing car, woman and private call for redundant functions.
-3. Map proposed replacements against current chapters 2–7. Preserve the original notebook's custody and separate the support campaign from the completing map sheet.
+3. Map proposed replacements against current chapters 2–11, including the first Institute visit and Ruth's letter under V8-11. Preserve the original notebook's custody and separate the support campaign from the completing map sheet. Check every earlier address source, Ruth's ten-year knowledge timeline, the interval before entry, and the effect on her existing scenes.
 4. For each beat, write down the observed fact, Elias's interpretation, a plausible alternative and the consequence. A reader should have grounds for competing explanations; the narrator should not falsely certify either.
 5. Draft only after the author is ready to turn the collected roadmap into v8. Review the practical choice questions already tracked as R-01/R-03 without exposing mechanisms that defeat the intended ambiguity.
 6. On revision, render and verify source fidelity, chronology, clue/object custody and layout before each small commit and immediate push. Keep one current manuscript; preserve v7 through Git history rather than another live manuscript copy.

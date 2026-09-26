@@ -29,13 +29,14 @@ The author is still reading v7 and collecting ideas. The [suggested v8 roadmap](
 | V8-01 | Give Elias a purposeful investigation in Daniel's former town, potentially replacing repetitive online dead ends. |
 | V8-02 | Develop the colleague's mixed account of worthwhile research and concerning behavior; suppression/capture remain Elias's possible interpretation. |
 | V8-03 | Consider an overheard warning that the colleague or another speaker works for the Institute; decide the witness's knowledge and credibility. |
-| V8-04 | Establish access to preserved office papers and an old letter, postcard or note leading to the Institute. |
+| V8-04 | Establish access to preserved office papers and old outreach; under V8-11 these support the connection while Ruth's letter supplies the usable address. |
 | V8-05 | Echo the modern support campaign in Daniel's correspondence or annotations without proving every suspicion. |
 | V8-06 | Increase Elias's self-doubt, checking, secrecy and the concern expressed by those around him. |
 | V8-07 | Integrate these changes with existing dreams and family consequences while protecting the selected ambiguity and ending. |
 | V8-08 | Let Elias show the old postcard beside current ads and receive a plausible ordinary explanation plus concern about his sleep. |
 | V8-09 | Sustain suppression, psychological-crisis/institutional, and actual-discovery interpretations. Decide the institutional search blind spot and whether to expand Ruth's knowledge beyond v7's hidden letter. |
 | V8-10 | Prepare and use the return deadline to limit the encounter's explanations while preserving enough understanding and agency for Elias's choice. |
+| V8-11 | Prefer Daniel's letter held by Ruth as the Institute address source. Define her knowledge and its ten-year chronology; restructure the earlier address clues and first visit so concealment has a practical and emotional cost. |
 
 ## Post-v7 assessment follow-ups
 
