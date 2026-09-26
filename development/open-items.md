@@ -33,6 +33,9 @@ The author is still reading v7 and collecting ideas. The [suggested v8 roadmap](
 | V8-05 | Echo the modern support campaign in Daniel's correspondence or annotations without proving every suspicion. |
 | V8-06 | Increase Elias's self-doubt, checking, secrecy and the concern expressed by those around him. |
 | V8-07 | Integrate these changes with existing dreams and family consequences while protecting the selected ambiguity and ending. |
+| V8-08 | Let Elias show the old postcard beside current ads and receive a plausible ordinary explanation plus concern about his sleep. |
+| V8-09 | Sustain suppression, psychological-crisis/institutional, and actual-discovery interpretations. Decide the institutional search blind spot and whether to expand Ruth's knowledge beyond v7's hidden letter. |
+| V8-10 | Prepare and use the return deadline to limit the encounter's explanations while preserving enough understanding and agency for Elias's choice. |
 
 ## Post-v7 assessment follow-ups
 

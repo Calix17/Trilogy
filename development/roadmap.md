@@ -64,6 +64,42 @@ Use the new preparation to deepen the existing ant-song incident and missed reci
 
 The two-room Vessel sequence, Haven's situated account and the institutional alternative remain. The cover's tree is symbolic, not a new literal room event. More external clues must not turn all care into a confirmed hostile operation.
 
+## V8-08 — Someone challenges the postcard connection
+
+**New author proposal:** Elias shows someone the old postcard beside his current advertisements: the resemblance spans roughly twenty years, so he suspects a connection. The other person replies along the lines of “I don't know, man. It could be a common advertisement. Relax. Try to sleep.” Recipient, wording, precise date and placement remain open.
+
+This gives Elias a chance to test his idea socially before becoming more secretive. Let the other person look at the actual evidence and offer a plausible ordinary explanation, with concern grounded in observed exhaustion. They need not be dismissive about everything or secretly work for the Institute. If the correspondence is unmistakably distinctive, “common advertisement” becomes a weak objection; choose what matches and what differs so each interpretation has some support. A shared slogan or old campaign design may establish continuity of outreach without establishing surveillance or pursuit.
+
+The scene's consequence should be a choice by Elias: further checking, withholding a more alarming annotation, or a reluctance to share the next clue. Do not simply repeat earlier concern without moving his behavior. Sample dialogue remains a proposal, not finished prose.
+
+## V8-09 — Sustain three explanations of Daniel's disappearance
+
+The author proposes three lines of reader inference. They are competing interpretations, not three confirmed histories, and need not receive equal weight at every point.
+
+| Interpretation | Possible supporting material | What remains unproved |
+| --- | --- | --- |
+| Daniel was approaching an important discovery and others tried to stop him. Elias defends his father. | Promising measurements, damage to reputation or criticism, fearful notes, the warning about the colleague, old Institute contact. | Whether there was a coordinated effort, whether anyone chased or captured him, and whether criticism was malicious. No particular accusation is selected. |
+| Daniel was in a psychological crisis; people were concerned, and disappearance might involve hospitalization, withdrawal, or an unknown outcome. | Poor sleep, missed appointments, growing suspicion, institutional associations, outreach and Ruth's secrecy. | A diagnosis, admission, cause of disappearance, or death. Family concern and medical settings do not settle these questions. |
+| Daniel's hypothesis had substance and he found something beyond the world Elias knows. | The anomaly work, nested map, completing information and eventual encounter. | Independent proof of the encounter's ultimate nature or the correctness of all Daniel's beliefs. |
+
+These explanations can overlap: a person may discover something real and still misinterpret another event or experience a crisis. That overlap helps avoid a simplistic final verdict that either every suspicion was justified or nothing mattered. Elias's defense of Daniel should have an emotional stake: accepting that others were worried about his father may feel to him like betraying him, while his own growing resemblance is frightening. This is a development option, not a confirmed account of either character's health.
+
+**The institutional search blind spot:** the author wants Elias's omission of mental institutions to matter. Earlier character notes already retain that omission without explaining it. Consider a brief hesitation or a question he will not follow up, enough to make the gap feel motivated. Fear of what he might find or resistance to others' account are options; do not assert that a competent investigator simply forgot this possibility. Avoid unnecessary procedural detail or assuming private records are freely available.
+
+**Ruth's knowledge requires a separate decision.** The author proposes that she may have known where Daniel was and withheld it because disclosure could affect Elias or cause her to lose him. V7 establishes only the concealed letter, her fear of losing Elias and uncertain knowledge of the door; it does not establish that she knew an address or hospital. Keep the stronger knowledge as an explicit option. Before adopting it, distinguish whether she knew he was alive, knew an institution, or knew the actual destination; decide when she learned it and how it affects the searches, letter, concealment and disclosure. Her secrecy can support several reader theories without confirming the strongest one.
+
+## V8-10 — Time pressure limits the last encounter
+
+**New author proposal:** use the closing access opportunity to let Elias learn the most important things while leaving parts of Daniel's arrival, research and discoveries unexplained. He must choose whether to stay or return while he can.
+
+Build on existing material: Hesk warns about returning in chapter 11; Rana says they need to begin soon in chapter 15. Consider a modest reminder during the later encounter so the limit is present before it interrupts a wanted answer. No exact minute count, new countdown display or different ten-year rule is selected. The private opening duration still needs to fit the earlier weeks of events under S-01/S-02.
+
+**Keep the choice understandable:** Elias must know Daniel is alive, that his absence includes voluntary choices, what staying offers, and the immediate consequences of staying or returning for his present family. Preserve Daniel's two opportunities, real affection and renewed refusal. Do not let an interruption erase the emotional confrontation or the appeal of their shared work.
+
+**Details that can remain incomplete:** the full route Daniel took, the crossing mechanism, a complete account of his research, every encounter since departure, and the sender's identity. Choose one or two interrupted threads rather than having every ordinary question receive an evasive answer. Daniel can want to explain more; running out of shared time then reinforces the history of postponement.
+
+The deadline should constrain the characters as well as the exposition. If it appears only when an inconvenient question arises, it will feel like an authorial escape. Preparation, a credible reminder and Elias's decision about how to spend the remaining time can turn omission into loss. Do not rush his choice so much that it reads as forced compliance or prevents the family from mattering. Preserve the sustained Haven account, two-room depiction, ambiguity and quiet ending; selective explanation is not permission to conceal every rule needed to understand the decision.
+
 ## Assembly and verification before drafting
 
 1. Continue collecting the author's reading notes here without modifying v7. Additions remain proposals until assembled into a coherent pass.
