@@ -1,12 +1,12 @@
 # Version 8 — suggested revision roadmap
 
-This is a living proposal record while the author continues reading v7. No v8 prose is drafted or approved by this document. The current manuscript and reader PDF remain v7. Specific scenes, witnesses, wording and causal explanations below are options to assess together before revision. Implementation status is owned by [open items](open-items.md#version-8-roadmap).
+This is a living proposal record while the author continues reading v7. No v8 prose is drafted or approved by this document. The current manuscript and reader PDF remain v7. Specific scenes, witnesses, wording and causal explanations below are options to assess together before revision. Explicit author directions, including V8-12/V8-13, govern those options. Implementation status is owned by [open items](open-items.md#version-8-roadmap).
 
 ## Purpose
 
 Strengthen the early investigation and psychological suspense through discoveries that advance Elias's search while making him doubt his own interpretations. He may be uncovering what happened to Daniel, or repeating Daniel's apparent deterioration. The institutional, voluntary-admission, visionary and experimental-treatment readings are deliberately supported possibilities, not confirmed diagnoses or explanations. See [the author direction](decisions.md#author-clarification--institutional-and-treatment-misdirection).
 
-The proposed progression is: active search → credible discovery → disturbing correspondence → self-doubt → secrecy → family consequences → Institute. Improve movement by replacing repetitive dead ends where possible, rather than simply adding length. The family material gives these discoveries their cost.
+The author's revised structure runs the search for Daniel, understanding and defending his research, and paranoia/self-doubt in parallel. Discoveries move between these strands: a research insight opens a lead; the lead strengthens a suspicion; testing or concealing that suspicion changes a relationship. Improve movement by replacing repetitive dead ends where possible, rather than simply adding length. The family material gives these discoveries their cost. Do not require every chapter to service all three strands equally.
 
 ## V8-01 — A purposeful visit to Daniel's former town
 
@@ -116,7 +116,7 @@ V7 dates the letter to ten years after Daniel disappeared, when Elias was twenty
 
 | Current location | Proposed function |
 | --- | --- |
-| Chapters 2–5: investigation, colleague and warning | Establish Daniel's promising work, others' concern, and an uncertain Institute association. An optional brief Ruth reaction when Elias mentions the name can acquire meaning later; avoid several obvious evasions that give away the letter. |
+| Chapters 2–5: investigation, colleague and warning | Establish Daniel's promising work, others' concern, and an uncertain Institute association alongside Elias's effort to understand and defend the research. The author rejected an early Ruth reaction to the Institute's name; retain her ordinary family scenes without that added hint. |
 | Chapters 5–7: papers, postcard and self-doubt | Show the old campaign resemblance and the friend's ordinary explanation. Elias has evidence of contact, but no independently usable route to Daniel. Let an inconclusive check change his next action rather than repeat a dead end. |
 | Current chapter 8: first Institute interview | Move the in-person Hesk encounter until after the letter. Use this part of the investigation for the proposed active search and its relational cost, or consolidate it with nearby chapters. Do not add a replacement chapter merely to retain seventeen chapters. |
 | Chapter 9: recital | Keep the missed recital as the cost of Elias's own choices. New clues must not make his absence unavoidable or erase his responsibility. |
@@ -130,6 +130,33 @@ This route requires restructuring: v7 already supplies an address through the pr
 The painful parallel is that both parents made choices about Elias's life without allowing him to participate: Daniel deferred returning, Ruth withheld the lead. Preserve their differences, affection and agency. Let this discovery complicate Elias's later temptation to decide what is best for his own family; his return can answer that pattern through his actions. The contact address must still allow both the institutional and cosmic readings.
 
 **Lower-disruption alternative:** keep the chapter 8 visit and let the letter repeat its address in chapter 10. This proves Ruth possessed the lead but makes the letter confirmation rather than the source of Elias's first visit. It is available if restructuring harms the rhythm; it does not fully enact the latest preferred route.
+
+## V8-12 — Interweave search, research and paranoia
+
+**Author direction:** these strands run concurrently. Elias is not merely following addresses and then decoding a puzzle. He studies the work to locate Daniel and to defend his father, even as concern from others makes him fear a resemblance he does not want to admit. Remove the proposed early Ruth reaction; the letter's force should not depend on signalling her guilt in advance.
+
+**Suggested integration:** chapter 2's successful engineering check establishes his ability to test an apparent anomaly. Chapters 4–5 give that habit an emotional complication: with Daniel's work, he wants a particular answer. A colleague can explain one limited, concrete problem Elias can follow while disagreeing with Daniel's larger inference. An annotation or mailing detail in the work can then justify the town/office search. This finding and its witness should replace an existing dead end, not require a second itinerary.
+
+In chapters 6–9, let Elias test one notebook relationship successfully, fail to interpret another, and notice language shared by the old outreach and current ads. He can be right about a document and wrong about what it proves. The success draws him onward; the failure and other people's concern intensify his self-doubt. The recital remains a choice with a cost, not collateral damage he could not avoid. Reserve the full map solution for collaboration with Daniel in chapter 14.
+
+**Research clarity:** explain the question in ordinary language before adding notation. Do not turn a habitat engineer into an expert theoretical physicist overnight. His useful contribution can be comparing observations, scales or markings. A real discovery neither establishes a diagnosis nor proves that Daniel never experienced distress. Elias's wish to defend him should evolve toward being able to recognize both worthwhile work and damaging choices.
+
+**Rhythm:** alternate progress, resistance and consequence. Quiet Ruth/family scenes can develop what Elias risks losing without carrying secret clues. Avoid extra dreams, several similar stalkers, another aggression scene, or a forced cliffhanger at every ending. Let some chapters end on a changed relationship rather than a new threat.
+
+## V8-13 — The Serpent opens the inquiry; Haven tries to keep Elias inside
+
+**Author-confirmed motive, implementation pending:** the Serpent sets clues and the final note so Elias finds out; Haven wants to prevent his going out. See [the governing clarification](decisions.md#author-clarification--parallel-investigation-and-competing-interventions). Serpent/Sower is the existing competing agent. Book I's reader does not have to learn that identity.
+
+| Strand at writer level | What Elias may observe | What is still to decide |
+| --- | --- | --- |
+| Serpent's inquiry effort | The anonymous completing sheet and private call; proposed additional clues lead him onward. | The messenger chain, exact access, what is known when, and why completion becomes possible now. Do not assign the uncertain witness or car automatically. |
+| Haven's prevention | Existing care campaign and Hesk's emphasis on sleep, family and waiting can offer a way to stop searching. | Which actions deliberately discourage exit, how much Hesk knows, and why crossing is eventually allowed. Ordinary care and manipulation can coexist without making each kindness false. |
+| Elias's interpretation | He may group outreach, the old postcard, the warning and the new sheet into one operation. | Where he first notices that some contacts point toward discovery while others point away. A discrepancy can unsettle his theory without explaining the two agents. |
+| Ruth's letter | A withheld contact address supplies the preferred practical route after the earlier evidence. | Her precise knowledge and the first-visit chronology under V8-11. Her family motive is not automatically an agent's instruction. |
+
+**Compatibility review:** v7 Hesk already offers contact with Daniel, stops the ads on request and assists the crossing. Haven then verifies the map and offers a journey to the world it identifies. Define the scope of prevention and an intelligible change of response. One proposal is that Haven first discourages departure from the Instance, then respects a sustained choice and responds to new evidence; another would require a more substantial revision of those later actions. Do not declare either solution implemented. An absolute ban on all exit would conflict with the current route and ending.
+
+The home-delivered note and Ruth's letter have different jobs: one completes the cosmic map; the other can identify the local contact. The note is not proof that every fear was accurate. Keep the pursuit, clinical and cosmic readings available within Elias's experience while making the private causes coherent. Do not force a visible Serpent emblem or an explanatory agent scene merely to certify the hidden conflict.
 
 ## Assembly and verification before drafting
 

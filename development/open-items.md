@@ -22,7 +22,7 @@ Book I is v7 working text: 17 chapters, 15,558 chapter-body words. The first pos
 
 ## Version 8 roadmap
 
-The author is still reading v7 and collecting ideas. The [suggested v8 roadmap](roadmap.md) holds scene options and their rationale; no v8 manuscript changes have been made. All entries below are **proposed / not implemented**. Keep statuses here and add further reading notes to the same roadmap.
+The author is still reading v7 and collecting ideas. The [suggested v8 roadmap](roadmap.md) holds scene options and their rationale; no v8 manuscript changes have been made. Scene implementations below remain **proposed / not implemented**. V8-12/V8-13 record confirmed author directions whose staging is still open. Keep statuses here and add further reading notes to the same roadmap.
 
 | ID | Proposed work |
 | --- | --- |
@@ -37,6 +37,8 @@ The author is still reading v7 and collecting ideas. The [suggested v8 roadmap](
 | V8-09 | Sustain suppression, psychological-crisis/institutional, and actual-discovery interpretations. Decide the institutional search blind spot and whether to expand Ruth's knowledge beyond v7's hidden letter. |
 | V8-10 | Prepare and use the return deadline to limit the encounter's explanations while preserving enough understanding and agency for Elias's choice. |
 | V8-11 | Prefer Daniel's letter held by Ruth as the Institute address source. Define her knowledge and its ten-year chronology; restructure the earlier address clues and first visit so concealment has a practical and emotional cost. |
+| V8-12 | Confirmed direction: run the whereabouts search, understanding/defending Daniel's research, and paranoia/self-doubt in parallel. Reject the early Ruth reaction. Specific chapter additions remain proposed. |
+| V8-13 | Confirmed private motives: Serpent/Sower sets discovery clues and the completing note; Haven wants to prevent Elias going out. Resolve intervention methods, knowledge, and compatibility with Hesk's help and Haven's later voyage offer under S-01/S-02. |
 
 ## Post-v7 assessment follow-ups
 

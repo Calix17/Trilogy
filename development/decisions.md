@@ -2,7 +2,27 @@
 
 Consolidated from the latest v7 package, with subsequent author clarifications explicitly recorded below. The [bible](../reference/bible.md), [characters](../reference/characters.md), and [synopsis](../reference/synopsis.md) contain current reference material. The [open-items list](open-items.md) owns task status. Earlier discussions and superseded alternatives are in Git history. Research citations below are carried forward from the supplied records, not rechecked during migration.
 
-The author is now collecting [suggested v8 revisions](roadmap.md): a more active search, mixed testimony, an uncertain warning about Institute affiliation, old office correspondence, and escalating self-doubt. These are proposals for a later revision, not changes to the present manuscript or confirmed conspiracy facts.
+The author is now collecting [suggested v8 revisions](roadmap.md). Specific scenes remain proposals for a later revision. The latest author directions below govern that planning without silently changing the present manuscript.
+
+## Author clarification — parallel investigation and competing interventions
+
+The author rejects the proposed early Ruth reaction to hearing the Institute's name. Remove that foreshadowing beat; her ordinary scenes need not advertise the concealed letter. The preference for the address in Daniel's letter and the pain of Ruth's concealment remains. Its chronology and the restructuring of the first Institute visit still need resolution.
+
+Develop three concurrent strands rather than completing one before beginning the next:
+
+1. Elias searches for Daniel's whereabouts through people, records and correspondence.
+2. He tries to understand Daniel's research both to find him and to defend him against the belief that he was “mad.” That is Elias's emotional position, not a clinical verdict or proof that every conclusion Daniel reached was sound.
+3. He fears that he is being followed or manipulated while also fearing that he is losing himself. Real clues and his increasingly damaging interpretations can coexist.
+
+**Author-confirmed private direction:** the Serpent wants Elias to discover the truth and sets clues, including the completing note. In the existing series architecture the Serpent is Sower; this is not a new third actor. Haven wants to prevent him from going out. The working reading of “going out” is leaving the protected Instance, consistent with the existing preservation/exploration conflict. Any broader prohibition on departing the Vessel or joining the later planetary voyage needs a separate decision.
+
+Keep intention separate from method and success. Haven's wish to keep Elias inside does not yet select physical detention, fabricated illness, control over every witness, or the erasure of his final choice. Her exact interventions and the point at which she permits a crossing remain to be staged. Hesk helps him cross in v7; Haven recognizes the destination and offers the voyage. V8 must make those actions compatible with her earlier prevention, rather than simply call the contradiction mysterious. Protective discouragement followed by permission after an informed decision is one candidate, not an approved resolution.
+
+The current private attribution already separates Institute support outreach from the anonymous map and private call. Carry that distinction forward: the Serpent's clue effort is real at writer level, while Elias can conflate it with the protective campaign. The woman, colleague, grey car and dreams are not thereby assigned to either agent. Ruth's concealment remains her own choice unless the author deliberately changes it. Do not make all concerned people accomplices or all Elias's fears correct.
+
+The final note here means the physical completing sheet delivered to Elias's home, not Daniel's letter to Ruth. The note completes the larger map when father and son work together; Ruth's letter can separately supply the local contact route. The ten-year transmission opening, delayed availability of the final segment, intermediary access and agents' knowledge remain private causality tasks under S-01/S-02. This clarification settles motivation, not those missing mechanisms. Book I need not reveal the Serpent's identity; the existing Book III attribution remains available.
+
+Review the proposed integration through observable events in Elias's viewpoint. Understanding one part of the research should lead to a search action, a test or a consequential interpretation. Establish modest limits to his expertise and retain ordinary explanations where the evidence permits them. His family must retain independent lives and his harmful choices must remain his responsibility even when an external intervention is real.
 
 ## Author clarification — institutional and treatment misdirection
 
